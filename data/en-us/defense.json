@@ -1,0 +1,36 @@
+{
+    "lang": "en/us",
+    "createDate": "20250204",
+    "updateDate": "20250205",
+    "name": "defense",
+    "valence": 0,
+    "quote": "Oh no, you're not!",
+    "description": "Working to preserve the state of things relating to yourself or important social contact.",
+    "related": ["defensiveness","desire to protect","courage"],
+    "opposites": ["apathy","attack"],
+    "variations": [{
+        "name": "defending territory and assets",
+        "description": "To have enough resources to safely survive, many animals mark their terrory and are willing to fight to defend it. In modern times, social assets like money and job responsibilities may prompt protection.",
+        "links": ["desire for territory","desire for social status"]
+    },{
+        "name": "defending life and health",
+        "description": "Taking steps to protect yourself or someone else from perceived threats ranging from minor illness to mortal danger.",
+        "links": ["desire for safety","desire for comfort"]
+    },{
+        "name": "defending reputation",
+        "description": "There are reactive and proactive ways to protect social status from perceived threats. These actions may protect yourself or an important other.",
+        "links": ["desire for social status"]
+    }],
+    "models": [{
+        "version": "em1",
+        "type": "impulse",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            }, 
+            "3,2,1": {
+                "conditions": ["Self is acting on a goal to protect something of value, whether for the self or for another agent."]
+            }
+        }
+    }]
+}

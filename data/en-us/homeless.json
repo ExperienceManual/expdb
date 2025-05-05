@@ -1,0 +1,39 @@
+{
+    "lang": "en/us",
+    "createDate": "20250315",
+    "updateDate": "20250402",
+    "name": "homeless",
+    "valence": -1,
+    "quote": "I have nowhere to go.",
+    "description": "A sense that you are in an environment where things are uncomfortable, unpredictable, and you are not really welcome to be there by others.",
+    "related": ["disorientation","doubt"],
+    "opposites": ["home"],
+    "variations": [{
+        "name": "houseless",
+        "description": "Having no space that you can call your own, return to often, or keep your stuff."
+    },{
+        "name": "spiritually homeless",
+        "description": "Desiring a place that speaks to your deepest existential self, but sensing that you lack such a space."
+    },{
+        "name": "culturally homeless",
+        "description": "A sense that you don't fully belong in any particular place, being unaligned with others on language, food, manners, beliefs, or other social aspects.",
+        "examples": ["immigrants","children of immigrants"]
+    }],
+    "commentaries": [{
+        "quote": "Homelessness and houselessness are not the same. Unfortunate people who live on the street without a house may still find certain corners of their city more comfortable and welcoming than others."
+    },{
+        "quote": "Nomadic people have a broader view of 'home' than those of us that put roots down in one place for a long time. They feel welcome across a much bigger landscape"
+    }],
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            }, 
+            "3,2,1": {
+                "conditions": ["A sense that you are in an environment where things are not familiar and you aren't welcomed by other agents."]
+            }
+        }
+    }]
+}

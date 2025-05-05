@@ -1,0 +1,40 @@
+{
+    "lang": "en/us",
+    "createDate": "20250223",
+    "updateDate": "20250223",
+    "name": "surprise",
+    "valence": 0,
+    "quote": "I didn't expect you to be there!",
+    "description": "A sudden spike in energy in response to an unexpected positive or negative experience.",
+    "related": ["excitement","horror","confusion"],
+    "opposites": ["anticipation","boredom"],
+    "variations": [{
+        "name": "positive surprise",
+        "description": "A surge of energy about something unexpectedly fun and positive.",
+        "examples": ["I'd expected the trip to be good, but it was surprisingly good."]
+    },{
+        "name": "negative surprise",
+        "description": "A surge of energy about something unexpected and threatening.",
+        "examples": ["The kids knocked the vase off the shelf, surprising everyone with a loud noise."]
+    }],
+    "commentaries": [{
+        "quote": "When the unexpected happens, there's generally a moment of confusion while you try to figure out what happened. In a very short time, you can go from surprise to fear to relief to joy."
+    }],
+    "spectrum": {
+        "kick": 3,
+        "surprise": 5,
+        "shock": 8
+    },
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4,3,2": {
+                "experiences": ["many"]
+            }, 
+            "1": {
+                "conditions": ["Something unexpected has aroused your energy level."]
+            }
+        }
+    }]
+}

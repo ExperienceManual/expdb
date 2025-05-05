@@ -1,0 +1,48 @@
+{
+    "lang": "en/us",
+    "createDate": "20250302",
+    "updateDate": "20250303",
+    "name": "group hostility",
+    "valence": -1,
+    "quote": "He's nervous around people from other cultures.",
+    "description": "Strongly negative feelings about members of a particular social structure.",
+    "related": ["hate","contempt","aversion","vengefulness","aversion to strangers"],
+    "opposites": ["group bond"],
+    "examples": ["sports teams","nationalism"],
+    "variations": [{
+        "name": "group injustice",
+        "description": "Negative feelings about people associated with a group because you feel they have wronged you in some way.",
+        "links": ["injustice"],
+        "examples": ["Many groups feel anger towards another group that abused them in the past."]
+    },{
+        "name": "outsiders",
+        "description": "Being hostile with people perceived as possibly dangerous outsiders as a way to protect the self and important others.",
+        "links": ["stranger danger","desire for social status"],
+        "examples": ["Some people are not comfortable with the presence of 'weird' foreign immigrants in their midst."]
+    }],
+    "commentaries": [{
+        "quote": "Group hostility is a type of strong contempt, possibly ranging up to hatred, for perceived characteristics of the group rather than of a specific individual."
+    },{
+        "quote": "It's understandable to feel awkward around outsiders. What to talk about? What's that weird food they're eating? Why are they dressed differently? You may not want to invest the time into learning anything about them. You may prefer being an expert in your own culture and that learning something about another culture devalues your own culture or pulls you away from your social base."
+    }],
+    "spectrum": {
+        "contempt": 2,
+        "group hostility": 5,
+        "tribalism": 8
+    },
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            }, 
+            "3,2": {
+                "conditions": ["Negative feelings about others that share in a particular social structure."]
+            },
+            "1": {
+                "experiences": ["discomfort","anxiety"]
+            }
+        }
+    }]
+}

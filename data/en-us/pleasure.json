@@ -1,0 +1,50 @@
+{
+    "lang": "en/us",
+    "createDate": "20250215",
+    "updateDate": "20250215",
+    "name": "pleasure",
+    "valence": 1,
+    "quote": "Dinner was a delightful experience.",
+    "description": "A tangibly positive experience to the body or social self.",
+    "related": ["delight","desire for comfort"],
+    "opposites": ["pain"],
+    "variations": [{
+        "name": "social pleasure",
+        "description": "A positive experience with people who you respect in some way and perceive they return the respect in some measure.",
+        "links": ["desire for social contact"]
+    },{
+        "name": "physical pleasure",
+        "description": "Reward signals in the brain coming from the body."
+    },{
+        "name": "existential pleasure",
+        "description": "A sense that something's happened that brings you existential merit. This can range from a sense of meaning to religious ecstasy.",
+        "links": ["desire for meaning"]
+    }],
+    "commentaries": [{
+        "quote": "Hedonism is the outlook that seeking pleasure is the way to organize your life. Though the body clearly rewards certain behaviors, it's not clear we were meant to chase them to the extent we often do."
+    }],
+    "spectrum": {
+        "enjoyment": 2,
+        "pleasure": 5,
+        "bliss": 7,
+        "euphoria": 9,
+        "ecstasy": 9
+    },
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            },
+            "3,2": {
+                "variations": ["social pleasure","existential pleasure"],
+                "conditions": ["Self perceives that a social interaction of at least moderate importance went well."]
+            }, 
+            "1": {
+                "variations": ["physical pleasure"],
+                "conditions": ["The brain is releasing reward chemicals like dopamine."]
+            }
+        }
+    }]
+}

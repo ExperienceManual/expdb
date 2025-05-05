@@ -1,0 +1,53 @@
+{
+    "lang": "en/us",
+    "createDate": "20250301",
+    "updateDate": "20250315",
+    "name": "group bond",
+    "valence": 1,
+    "quote": "He's a big fan of the baseball team.",
+    "description": "Positive feelings about others that share in a particular social structure.",
+    "related": ["social contact","love"],
+    "opposites": ["group hate"],
+    "examples": ["sports teams","work place","nationalism"],
+    "variations": [{
+        "name": "team spirit",
+        "description": "Positive feelings towards your group in a friendly competition with other teams.",
+        "examples": ["I think we did well in the hackathon, but some of the other teams were pretty good too."]
+    },{
+        "name": "tribalism",
+        "description": "Positive feelings towards your group along with negative feelings towards competing groups.",
+        "examples": ["The sports fans started fighting after the match."]
+    },{
+        "name": "spiritual bond",
+        "description": "A sense that you are on a path of existential meaning with others.",
+        "links": ["spiritual friend"],
+        "examples": ["religious group"]
+    }],
+    "commentaries": [{
+        "quote": "A small group of friends has a very different feeling from a large online movement, but our brains revel in the interactions of the social environment. We enjoy big bombastic social sensations and the deliciously subtle."
+    },{
+        "quote": "We love belonging to social structures because they provide identity, community, and purpose. You may want to be cautious about joining groups that are bonded by a dislike for other groups."
+    },{
+        "quote": "The human ability to join into groups is one or our superpowers. Well-organized groups can do things that would be impossible alone, from building pyramids to spaceflight."
+    }],
+    "spectrum": {
+        "team spirit": 2,
+        "group bond": 5,
+        "tribalism": 8
+    },
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            }, 
+            "3,2": {
+                "conditions": ["Positive feelings about others that share in a particular social structure."]
+            },
+            "1": {
+                "experiences": ["comfort"]
+            }
+        }
+    }]
+}

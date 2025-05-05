@@ -1,0 +1,40 @@
+{
+    "lang": "en/us",
+    "createDate": "20250208",
+    "updateDate": "20250213",
+    "name": "relief",
+    "valence": 1,
+    "quote": "I feel a lot better.",
+    "description": "Delight from a lessening of physical or mental pain.",
+    "related": ["desire for comfort"],
+    "opposites": ["pain","anxiety"],
+    "variations": [{
+        "name": "physical relief",
+        "description": "If the pain was physical, we generally expect it to get better on its own but often still seek to speed the results with medicine. Either way, a lack of pain may come with gratitude until we get used to feeling good again."
+    },{
+        "name": "mental relief",
+        "description": "We seek psychological relief in chemical substances or various forms of escape. There are many forms of mental medicine even if we don't recognize them as such."
+    },{
+        "name": "relief attributed to something or someone",
+        "description": "If the relief is perceived as having come from a certain place or person, we may feel gratitude."
+    }],
+    "commentaries": [{
+        "quote": "We often don't understand our psychological pain and may not know how to deal it. It may help to have a basic mental 'first aid kit' that works for you, whether that's prayer, meditation, family time, or another healthy activity."
+    },{
+        "quote": "Time only helps heal if you take care of yourself consistently. That goes for mental pain as for physical."
+    }],
+    "spectrum": {
+    },
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            }, 
+            "3,2,1": {
+                "conditions": ["Self perceives that a source of pain has gotten less severe."]
+            }
+        }
+    }]
+}

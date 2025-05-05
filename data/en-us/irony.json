@@ -1,0 +1,36 @@
+{
+    "lang": "en/us",
+    "createDate": "20250423",
+    "updateDate": "20250424",
+    "name": "irony",
+    "valence": 0,
+    "quote": "I got the very thing I was trying to avoid.",
+    "description": "Linking the perception of a particular discrepancy in expectations to broader implications, with the goal of pointing out a possible pattern of reality, often negative.",
+    "examples": ["The Titanic was said to be unsinkable, but sank on its first trip."],
+    "related": ["surprise","generalization"],
+    "variations": [{
+        "name": "perceived irony",
+        "description": "Irony may be obvious or subtle - someone points out a difference that suggests a more general hypothesis, inviting you to consider whether there's a link between them. Sometimes there may be a relation. Other times, the event may just be coincidence."
+    }],
+    "comparisons": [{
+        "links": ["surprise"],
+        "description": "There may be an element of 'surprise' in an ironic statement, but the focus of irony is primarily on what this unexpected event might mean in a larger context."
+    }],
+    "commentaries": [{
+        "quote": "Irony aims to make a statement about reality from an event. On one hand, this is good - trying to find patterns in the world is what people do. On the other hand, a single event doesn't prove a more general pattern."
+    },{
+        "quote": "An ironic statement may be a spontaneous and honest observation. It may also seek to influence listeners, such as encouraging empathy or contempt."
+    }],
+    "models": [{
+        "version": "em1",
+        "type": "impulse",
+        "levels": {
+            "4,3": {
+                "conditions": ["Considering a particular discrepancy in expectations against broader implications.", "Having a goal of pointing out a possible pattern of reality, often negative."]
+            }, 
+            "2,1": {
+                "conditions": ["dissatisfaction"]
+            }
+        }
+    }]
+}

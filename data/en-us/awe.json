@@ -1,0 +1,50 @@
+{
+    "lang": "en/us",
+    "createDate": "20250223",
+    "updateDate": "20250223",
+    "name": "awe",
+    "valence": 1,
+    "quote": "The night sky makes me feel so small.",
+    "description": "A vivid sensation that challenges your inner model of the world in a humbling or even slighty frightening way.",
+    "related": ["wonder","fear","humility"],
+    "opposites": ["boredom","ennui"],
+    "variations": [{
+        "name": "existential awe",
+        "description": "The sense of majesty and terror that comes from perceiving a thread of the fabric of existence.",
+        "examples": ["God the Almighty", "The Pale Blue Dot"]
+    },{
+        "name": "awe of nature",
+        "description": "A humbling sense of wonder about nature's power, scale, beauty, and destructiveness.",
+         "examples": ["A hurricane", "The Grand Canyon"]
+    },{
+        "name": "social awe",
+        "description": "A humbling sense of amazement about someone expertly displaying a valued skill or social characteristic.",
+        "links": ["admiration"],
+        "examples": ["A young musical prodigy", "Incredible boldness"]
+    }],
+    "commentaries": [{
+        "quote": "Awe is underrated. Go find some."
+    },{
+        "quote": "A self-centered world has no awe."
+    }],
+    "spectrum": {
+        "wonder": 2,
+        "awe": 5,
+        "stupifying": 8
+    },
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            }, 
+            "3": {
+                "conditions": ["A perception that challenges your inner model of the world in a humbling or slightly frightening way."]
+            },
+            "2,1": {
+                "experiences": ["fear","delight"]
+            }
+        }
+    }]
+}

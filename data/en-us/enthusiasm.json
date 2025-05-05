@@ -1,0 +1,36 @@
+{
+    "lang": "en/us",
+    "createDate": "20250222",
+    "updateDate": "20250222",
+    "name": "enthusiasm",
+    "valence": 1,
+    "quote": "I heard the new album is great!",
+    "description": "A desire to experience something that is expected to bring a positive reward of some type.",
+    "related": ["excitement","desire for stimulation","playful"],
+    "opposites": ["boredom","ennui"],
+    "variations": [{
+        "name": "social enthusiasm",
+        "description": "A big part of your interest in experiencing something is due to social factors.",
+        "links": ["group bond"],
+        "examples": ["Yeah, it's a fad, but it's actually ok!","I'd like to go back to Yellowstone to show the kids."]
+    },{
+        "name": "repeat enthusiasm",
+        "description": "If the experience is an old favorite, there may be an element of nostalgia or even identity.",
+        "examples": ["This is my favorite song!"]
+    }],
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            }, 
+            "3,2": {
+                "conditions": ["You desire to experience something that is expected to bring a positive reward of some type."]
+            },
+            "1": {
+                "experiences": ["anticipation"]
+            }
+        }
+    }]
+}

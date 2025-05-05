@@ -1,0 +1,35 @@
+{
+    "lang": "en/us",
+    "createDate": "20250223",
+    "updateDate": "20250223",
+    "name": "sympathy",
+    "valence": -1,
+    "quote": "I hope your dog feels better.",
+    "description": "Recognizing the suffering of a person or animal accompanied by a desire to see them better off.",
+    "related": ["empathy","compassion","pity"],
+    "opposites": ["disconnection","contempt"],
+    "commentaries": [{
+        "quote": "With pity, there's a sense that the person sorta deserves the suffering. With sympathy, they're innocent victims but you can only help with moral support. With compassion, you're offering more tangible help."
+    }],
+    "spectrum": {
+        "pity": 2,
+        "sympathy": 4,
+        "commiseration": 6,
+        "compassion": 8
+    },
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            }, 
+            "3": {
+                "conditions": ["You recognize undeserved suffering in another, but cannot or will not help."]
+            },
+            "2,1": {
+                "experiences": ["sadness"]
+            }
+        }
+    }]
+}

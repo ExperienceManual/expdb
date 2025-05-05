@@ -1,0 +1,41 @@
+{
+    "lang": "en/us",
+    "createDate": "20250415",
+    "updateDate": "20250415",
+    "name": "cynicism",
+    "valence": -1,
+    "quote": "I don't think he's doing that just to be nice.",
+    "description": "A sense that someone is acting friendly or innocent, but hiding selfish intentions.",
+    "related": ["doubt","skepticism","contrarian","cheating"],
+    "opposites": ["faith","goodwill"],
+    "comparisons": [{
+        "links": ["cheating"],
+        "description": "Cynicism is the prediction that someone is cheating without being sure of it."
+    }],
+    "variations": [{
+        "name": "cynical mindset",
+        "description": "A pattern of belief that people generally act out of selfish intentions."
+    }],
+    "commentaries": [{
+        "quote": "Cynicism masquerades as wisdom, but it is the farthest thing from it. Because cynics don't learn anything. Because cynicism is a self-imposed blindness, a rejection of the world because we are afraid it will hurt us or disappoint us.",
+        "attribution": "Steven Colbert"
+    },{
+        "quote": "A cynical habit of thought and speech, a readiness to criticize work which the critic himself never tries to perform, an intellectual aloofness which will not accept contact with life’s realities — all these are marks, not as the possessor would fain to think, of superiority but of weakness.",
+        "attribution": "Theodore Roosevelt"
+    },{
+        "quote": "The power of accurate observation is commonly called cynicism by those who have not got it.",
+        "attribution": "George Bernard Shaw"
+    }],
+    "models": [{
+        "version": "em1",
+        "type": "impulse",
+        "levels": {
+            "4,3": {
+                "conditions": ["A sense that someone is acting friendly or innocent, but hiding selfish intentions."]
+            }, 
+            "2,1": {
+                "conditions": ["doubt","dissatisfaction"]
+            }
+        }
+    }]
+}

@@ -1,0 +1,45 @@
+{
+    "lang": "en/us",
+    "createDate": "20241130",
+    "updateDate": "20250211",
+    "name": "abstinence",
+    "valence": 0,
+    "quote": "Thanks, I don't drink.",
+    "description": "Avoiding something that may have brought pleasure or relief. Successful encounter with temptation.",
+    "related": ["temptation","sacrifice","self control"],
+    "opposites": ["indulgence"],
+    "variations": [{
+        "name": "social abstinence",
+        "description": "May be socially motivated to follow a group's conventions.",
+        "links": ["desire for social status"]
+    },{
+        "name": "hesitant abstinence",
+        "description":"May come with regret if there's still a part that misses the pleasure.",
+        "links": ["dissonance"]
+    },{
+        "name": "satisfied abstinence",
+        "description": "May come with satisfaction for living up to your own expectations."
+    }],
+    "commentaries": [{
+        "quote": "Abstinence may be a well-practiced habit of self-control with barely any awareness of the avoided pleasure, or it may be an act of terrific willpower."
+    },{
+        "quote": "I pass the test. I will diminish, and go into the West, and remain Galadriel.",
+        "attribution": "J.R.R. Tolkein"
+    }],
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4,3": {
+                "variations": ["*"],
+                "conditions": ["Self conforms to an ideal by avoiding an action with conflicting internal support."]
+            },
+            "2": {
+                "experiences": ["satisfaction"]
+            },
+            "1": {
+                "experiences": ["satisfaction"]
+            }
+        }
+    }]
+}

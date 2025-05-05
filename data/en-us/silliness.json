@@ -1,0 +1,48 @@
+{
+    "lang": "en/us",
+    "createDate": "20250408",
+    "updateDate": "20250408",
+    "name": "silliness",
+    "valence": 0,
+    "quote": "Are you suggesting that coconuts migrate?",
+    "description": "Perception that someone's behavior is harmless, but way outside the bounds of normal thought or behavior to the point of risking their status as a serious person.",
+    "related": ["playful","silly humor"],
+    "opposites": ["dignity"],
+    "variations": [{
+        "name": "wrong headed",
+        "description": "Judging that someone's out-of-bounds behavior lowers their dignity to the point of losing respect for them."
+   },{
+        "name": "desire to lift someone's mood",
+        "description": "If you are the person trying to make someone else laugh, you may be willing to trade some dignity to make it happen.",
+        "examples": ["making funny faces for a sick child"]
+    },{
+        "name": "admiration of silliness",
+        "description": "Judging that someone's potential loss of dignity from an attempt at lightening another's mood actually elevates your respect for them."
+    }],
+    "commentaries": [{
+        "quote": "Most of the time we carefully curate the dignity of important identities. Sometimes a dash of silliness can be a part of that equation."
+    },{
+        "quote": "Children have one kind of silliness, as you know, and grown-ups have another kind.",
+        "attribution": "C.S. Lewis"
+    }],
+    "spectrum": {
+        "silly": 5,
+        "childish": 6,
+        "absurd": 8
+    },
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            }, 
+            "3": {
+                "conditions": ["Perception that someone's behavior is harmless, but way outside the bounds of normal thought or behavior.","The person is perceived as risking their status as a serious person."]
+            },
+            "2,1": {
+                "experiences": ["surprise","delight","dismay"]
+            }
+        }
+    }]
+}

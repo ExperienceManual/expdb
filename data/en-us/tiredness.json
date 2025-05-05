@@ -1,0 +1,46 @@
+{
+    "lang": "en/us",
+    "createDate": "20250209",
+    "updateDate": "20250213",
+    "name": "tiredness",
+    "valence": -1,
+    "quote": "I slept until noon after a crazy week.",
+    "description": "State of physical weakness or mental wearniess resulting from excessive stress or over-stimulation.",
+    "related": ["discomfort","desire for sleep"],
+    "opposites": ["comfort","relief"],
+    "variations": [{
+        "name": "sleepiness",
+        "description": "Signal that the brain needs to rest."
+    },{ 
+        "name": "physical tiredness",
+        "description": "Muscular weakness or soreness from physical exertion beyond the body's normal capability."
+    },{
+        "name": "psychological weariness",
+        "description": "Reduced mental capacity from physical, mental, or emotional exertion beyond normal.",
+        "links": ["confusion"]
+    }],
+    "commentaries": [{
+        "quote": "In some languages there's a distinction between 'sleepy-tired' and 'physically-tired'."
+    }],
+    "spectrum": {
+        "tiredness": 5,
+        "exhaustion": 8
+    },
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            }, 
+            "3,2": {
+                "variations": ["psychological tiredness"],
+                "conditions": ["The mind has overexerted or the body can't support the mind at full capacity."]
+            }, 
+            "1": {
+                "variations": ["sleepiness","physical tiredness"],
+                "conditions": ["The body needs sleep or has overexerted, affecting its operation."]
+            }
+        }
+    }]
+}

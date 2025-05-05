@@ -1,0 +1,53 @@
+{
+    "lang": "en/us",
+    "createDate": "20250305",
+    "updateDate": "20250408",
+    "name": "generosity",
+    "valence": 1,
+    "quote": "She gave us her share of the chocolates.",
+    "description": "Giving to others something of more value than is socially expected.",
+    "related": ["compassion","social contact","gratitiude","sacrifice"],
+    "opposites": ["selfishness","greed"],
+    "examples": ["giving money", "giving attention", "giving help"],
+    "variations": [{
+        "name": "social generosity",
+        "description": "Giving something to others in part to gain favor or apologize.",
+        "links": ["desire for social status","friendly contact"],
+        "examples": ["He brought gifts home for the kids after being on a long business trip."]
+    },{
+        "name": "existential generosity",
+        "description": "Giving something to others because it makes you feel good about yourself.",
+        "links": ["desire for meaning","self-worth"],
+        "examples": ["Every year they give a lot to their favorite charity."]
+    },{
+        "name": "expected generosity",
+        "description": "Giving gifts can be expected in some situations, so although it may be described as 'generous', sometimes it's an obligation to meet expectations.",
+        "links": ["responsibility"],
+        "examples": ["We brought a gift to the housewarming party."]
+    }],
+    "commentaries": [{
+        "quote": "Money is not the only commodity that is fun to give. We can give time, we can give our expertise, we can give our love, or simply give a smile. What does that cost? The point is, none of us can ever run out of something worthwhile to give.",
+        "attribution": "Steve Goodier"
+    }],
+    "spectrum": {
+        "charitable": 3,
+        "generous": 5,
+        "lavish": 7,
+        "sacrifice": 9
+    },
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            }, 
+            "3": {
+                "conditions": ["Giving something to others that they desire.","Social judgement that you didn't need to give that much."]
+            },
+            "2,1": {
+                "experiences": ["satisfaction"]
+            }
+        }
+    }]
+}

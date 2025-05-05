@@ -1,0 +1,40 @@
+{
+    "lang": "en/us",
+    "createDate": "20250223",
+    "updateDate": "20250223",
+    "name": "self control",
+    "valence": 0,
+    "quote": "No thanks, I'm on a diet.",
+    "description": "The general ability to regulate one's emotions, thoughts, and behavior in the face of temptations and impulses.",
+    "related": ["abstinence"],
+    "opposites": ["indulgence"],
+    "examples": ["Avoiding dessert","Turning down a bribe"],
+    "commentaries": [{
+        "quote": "Much recent research suggests that willpower—the capacity to exert self-control—is a limited resource that is depleted after exertion. We propose that whether depletion takes place or not depends on a person’s belief about whether willpower is a limited resource.",
+        "attribution": "Veronika Job, et. al. Ego Depletion—Is It All in Your Head?: Implicit Theories About Willpower Affect Self-Regulation"
+    },{
+        "quote": "When I was starting out, I used to sit down and write a couple of times a week. And then, I was watching these construction workers go back to work, watched them trudging down the street. It was like a revelation to me: these guys don’t want to go back to work after lunch, but they’re goin’. That’s their job. If they can exhibit that level of dedication for that job, I should be able to do the same.",
+        "attribution": "Jerry Seinfeld"
+    },{
+        "quote": "A great practice to enhance willpower is the '10-minute rule.' If you feel an impulse to indulge in a bad habit, wait 10 minutes. This brief pause allows your rational mind to catch up with your impulses, often leading to better decisions.",
+        "attribution": "Peter Boolkah"
+    },{
+        "quote": "Create environments that allow you to do whatever needs doing with the least amount of friction. Willpower won’t get you out of bed on a cold morning to go for a run; knowing that your running gear has already been set aside the night before for you to get into, however, will.",
+        "attribution": "Dr. Rakish Rana"
+    },{
+        "quote": "You can exercise the specific place in your brain that impacts willpower. Pick something 'safe' that you don’t want to do, and do it. Maybe avoid looking at your phone during meetings. Practice until it’s easy. Keep challenging yourself in this way to strengthen your willpower. Willpower is also impacted by sleep, nutrition, physical exercise and your beliefs.",
+        "attribution": "Laurie Sudbrink"
+    }],
+    "models": [{
+        "version": "em1",
+        "type": "capacity",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            }, 
+            "3": {
+                "conditions": ["A desire to conform to an ideal is so important that it regularly overrides short-term pleasure."]
+            }
+        }
+    }]
+}

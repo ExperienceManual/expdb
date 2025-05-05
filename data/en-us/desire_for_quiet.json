@@ -1,0 +1,26 @@
+{
+    "lang": "en/us",
+    "createDate": "20250119",
+    "updateDate": "20250213",
+    "name": "desire for quiet",
+    "valence": 0,
+    "quote": "I need to get out of this crazy place.",
+    "description": "Physical or mental need for less activity.",
+    "related": ["overwhelmed", "tiredness", "tranquility"],
+    "opposites": ["boredom", "desire for stimulation"],
+    "commentaries": [{
+        "quote": "This is a generalized desire for a state of quietness. Being overwhelmed can mean you just want a different kind of activity."
+    }],
+    "models": [{
+        "version": "em1",
+        "type": "impulse",
+        "levels": {
+            "4,3,2": {
+                "experiences": ["narration"]
+            }, 
+            "1": {
+                "conditions": ["After a period of stimulation, a drive to become quiet."]
+            }
+        }
+    }]
+}

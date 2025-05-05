@@ -1,0 +1,44 @@
+{
+    "lang": "en/us",
+    "createDate": "20250215",
+    "updateDate": "20250215",
+    "name": "subservience",
+    "valence": -1,
+    "quote": "I have no choice.",
+    "description": "The feeling that your decisions are directed by others, and that compliance is due to fear of punishment.",
+    "related": ["subordination","fear"],
+    "opposites": ["agency"],
+    "variations": [{
+        "name": "group servitude",
+        "description": "It's your duty to perform tasks expected of you, even if you wouldn't choose to do them without the group's demand and threat of consequences. Groups like gangs and cults can aggressively push members into doing things they would prefer not to do. Some jobs can feel this way if there aren't other economic prospects available."
+    },{
+        "name": "slavery",
+        "description": "There is no escape -- you must obey the masters or face harsh consequences.",
+        "links": ["injustice","hopelessness"]
+    },{
+        "name": "labor as punishment",
+        "description": "Being required to work as part of the consequences of breaking a social rule. For example, community service or prison labor."
+    }],
+    "commentaries": [{
+        "quote": "Slavery and indentured servitude were unfortunately common in the distant past because civilization needed labor and didn't have the social or economic systems to encourage labor fairly. More humane social expections have changed the world, as have labor-enhancing technologies."
+    }],
+    "spectrum": {
+        "servitude": 6,
+        "slavery": 9
+    },
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            }, 
+            "3": {
+                "conditions": ["The feeling that your decisions are directed by others, and that compliance is due to fear of punishment."]
+            },
+            "2,1": {
+                "experiences": ["anxiety"]
+            }
+        }
+    }]
+}

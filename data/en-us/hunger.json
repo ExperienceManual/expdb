@@ -1,0 +1,31 @@
+{
+    "lang": "en/us",
+    "createDate": "20250208",
+    "updateDate": "20250213",
+    "name": "hunger",
+    "valence": -1,
+    "quote": "When's dinner?",
+    "description": "Need or desire to eat or drink.",
+    "related": ["desire for food"],
+    "variations": [{
+        "name": "strong desire",
+        "description": "Besides food, 'hunger' can be any kind of desire like a 'hunger for acceptance'."
+    }],
+    "spectrum": {
+        "hunger": 5,
+        "thirst": 5,
+        "starving": 9
+    },
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4,3,2": {
+                "experiences": ["narration"]
+            }, 
+            "1": {
+                "conditions": ["Biological need to eat or drink"]
+            }
+        }
+    }]
+}

@@ -1,0 +1,27 @@
+{
+    "lang": "en/us",
+    "createDate": "20250208",
+    "updateDate": "20250227",
+    "name": "desire",
+    "valence": 1,
+    "description": "Wanting to experience something.",
+    "links": [ "desire_for_agency", "desire_for_comfort", "desire_for_environment_knowledge", "desire_for_food", "desire_for_meaning", "desire_for_parenthood", "desire_for_privacy", "desire_for_quiet", "desire_for_safety", "desire_for_sex", "desire_for_sleep", "desire_for_social_contact", "desire_for_social_influence", "desire_for_social_status", "desire_for_stimulation", "desire_for_territory", "desire_to_improve", "desire_to_protect","aspiration"],
+    "related": ["love"],
+    "opposites": ["aversion"],
+    "commentaries": [{
+        "quote": "Besides desiring to have certain things and experiences, we can also desire to get rid of them or not experience them again."
+    },{
+        "quote": "You may love burritos, but not desire one right now. You may desire to try a new thing on the menu without knowing if you'll love it."
+    }],
+    "spectrum": {
+        "desire": 3,
+        "hunger": 5,
+        "wish": 6,
+        "craving": 7,
+        "lust": 9
+    },
+    "models": [{
+        "version": "em1",
+        "type": "node"
+    }]
+}

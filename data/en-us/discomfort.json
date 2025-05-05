@@ -1,0 +1,42 @@
+{
+    "lang": "en/us",
+    "createDate": "20250215",
+    "updateDate": "20250215",
+    "name": "discomfort",
+    "valence": -1,
+    "quote": "Public speaking is outside my comfort zone.",
+    "description": "Being outside the tolerable zone of physical, social, or mental discomfort.",
+    "related": ["desire for comfort","pain"],
+    "opposites": ["comfort"],
+    "variations": [{
+        "name": "temporary discomfort",
+        "description": "If you're aware that the current conditions are not going to last, you probably anticipate better feelings and may be able to repress the discomfort.",
+        "links": ["anticipation","repression"]
+    },{
+        "name": "social discomfort",
+        "description": "The feeling that you're amongst people who might not accept an important part of your identity."
+    },{
+        "name": "physical discomfort",
+        "description": "The recognition that your body is experiencing some minor pain."
+    }],
+    "commentaries": [{
+        "quote": "'Comfort' is relative. We're never truly without some kind of discomfort for long, but some people have higher tolerances physical or social discomfort."
+    }],
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            },
+            "3,2": {
+                "variations": ["social discomfort"],
+                "conditions": ["Self perceives that being amongst a certain social group is somewhat stressful."]
+            }, 
+            "1": {
+                "variations": ["physical discomfort"],
+                "conditions": ["Perception that the body is experiencing some minor pain."]
+            }
+        }
+    }]
+}

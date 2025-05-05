@@ -1,0 +1,49 @@
+{
+    "lang": "en/us",
+    "createDate": "20250119",
+    "updateDate": "20250213",
+    "name": "desire for food",
+    "valence": 0,
+    "quote": "When's lunch?",
+    "description": "Physical or mental desire to eat.",
+    "related": ["hunger", "desire for stimulation", "desire for comfort"],
+    "opposites": ["disgust"],
+    "variations": [{
+        "name": "actually hungry",
+        "description": "Hunger is an uncomfortably empty feeling in the belly driving you to seek nourishment."
+    },{
+        "name": "clock says hungry",
+        "description": "Often in the modern world, we're ready to eat mostly because the clock says it's time for a meal and you're ready for a break from work."
+    },{
+        "name": "grazing",
+        "description": "You can feel a desire for food by watching others eat. For example, watching an advertisement that shows happy people eating your favorite dish.",
+        "links": ["desire for social contact"]
+    },{
+        "name": "comfort snacking",
+        "description": "Snacking can be driven by a deep desire for comfort brought about by the sensations and brain chemicals of the actual eating, and of having the economic luxury to do so."
+    }],
+    "commentaries": [{
+        "quote": "It may be helpful to be aware of why you're heading to the refrigerator: boredom, anxiety, social bonding, or actual hunger."
+    }],
+    "models": [{
+        "version": "em1",
+        "type": "impulse",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            }, 
+            "3": {
+                "variations": ["grazing"],
+                "conditions": ["Perception that sharing a bite with others will be a bonding experience."]
+            },
+            "2": {
+                "variations": ["comfort snacking","clock says hungry"],
+                "conditions": ["Perception that eating may alleviate anxiety by providing comfort."]
+            },
+            "1": {
+                "variations": ["actually hungry"],
+                "conditions": ["Biological hunger."]
+            }
+        }
+    }]
+}

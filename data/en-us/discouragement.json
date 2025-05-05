@@ -1,0 +1,32 @@
+{
+    "lang": "en/us",
+    "createDate": "20241201",
+    "updateDate": "20250312",
+    "name": "discouragement",
+    "valence": -1,
+    "quote": "I tried to fix the clock but gave up.",
+    "description": "Disappointment and doubt about being unable to achieve a desired outcome and a growing readiness to give up.",
+    "related": ["frustration","doubt"],
+    "opposites": ["excitement","triumph","ephiphany"],
+    "variations": [{
+        "name": "fear of shame",
+        "description": "If you perceive that there may be a loss of social status with a failure, discouragement may come with fear of shame."
+    }],
+    "commentaries": [{
+        "quote": "Discouragement is the tail end of a process overcome by repeated frustration."
+    },{
+        "quote": "When you predict a failure, it can be difficult to attribute the appropriate of amount of self-blame."
+    }],
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4,3": {
+                "conditions": ["After several attempts, you doubt that a task can be accomplished, when previously it was thought to be possible."]
+            },
+            "2,1": {
+                "experiences": ["frustration","anxiety"]
+            }
+        }
+    }]
+}

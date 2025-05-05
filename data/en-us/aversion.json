@@ -1,0 +1,65 @@
+{
+    "lang": "en/us",
+    "createDate": "20241211",
+    "updateDate": "20250303",
+    "name": "aversion",
+    "valence": -1,
+    "quote": "That painting is ugly as sin.",
+    "description": "Wanting to avoid a certain experience",
+    "related": ["dismay","criticism","disgust","aversion to cheaters", "aversion to strangers","aversion to dangerous creatures"],
+    "opposites": ["appreciation","desire"],
+    "variations": [{
+        "name": "aesthetic aversion",
+        "description": "Something unattractive to the senses or sensibilities in purely subjective arena. For example colors you consider clashing or music from a genre you don't favor."
+    },{
+        "name": "mental aversion",
+        "description": "Something unattractive in the mental realm may invoke criticism and perhaps a desire to share it socially. For example, the recognition of a poorly-built instance of a favorite architectural style may create the desire to point out its flaws, and also support an identity as someone who's into that kind of thing.",
+        "links": ["criticism", "desire for social status"]
+    },{
+        "name": "physical aversion",
+        "description": "Something unattractive in the social realm may invoke contempt. For example, an off-key singing voice."
+    },{
+        "name": "aversion signaling",
+        "description": "Sometimes we might recognize that a social group expects us to find a certain thing unappealing, which may nudge us into paying closer attention.",
+        "links": ["desire for social status"]
+    },{
+        "name": "remembered aversion",
+        "description": "Music or smells can bring back early formative memories. e.g. e.g. Maybe the smell of ketchup reminds you of an awkward accident.",
+        "links": ["nostalgia"]
+    }],
+    "commentaries": [{
+        "quote": "Aesthetic aversion is always subjective. Someone else may appreciate the architecture, singing voice, graffiti, or clashing colors."
+    },{
+        "quote": "There are many reasons we may like or dislike something." 
+    }],
+    "spectrum": {
+        "dislike": 1,
+        "aversion": 3,
+        "scorn": 3,
+        "hate": 5,
+        "despise": 7,
+        "loathe": 8,
+        "disgust": 8
+    },
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4": {
+                "variations": ["mental aversion"],
+                "conditions": ["Something in the mental realm is perceived as being far from matching an ideal so that you don't want to experience it."]
+            },
+            "3": {
+                "variations": ["aesthetic aversion","physical aversion","aversion signaling"],
+                "conditions": ["Something in the social environment is perceived as being far from matching an ideal held by one of your identities, so you don't want to experience it."]
+            },
+            "2": {
+                "variations": ["remembered aversion"],
+                "conditions": ["Something in the sensory environment is nearly the opposite of an ideal represented by an instinct or foundational memory, so you don't want to experience it."]
+            },
+            "1": {
+                "experiences": ["dismay"]
+            }
+        }
+    }]
+}

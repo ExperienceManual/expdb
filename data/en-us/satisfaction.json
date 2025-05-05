@@ -1,0 +1,30 @@
+{
+    "lang": "en/us",
+    "createDate": "20250215",
+    "updateDate": "20250215",
+    "name": "satisfaction",
+    "valence": 1,
+    "quote": "We did it.",
+    "description": "The sense that an event or person meets expectations.",
+    "related": ["delight"],
+    "opposites": ["dissatisfaction","dismay"],
+    "variations": [{
+        "name": "relieved satisfaction",
+        "description": "If you were somewhat worried about the outcome, the satisfaction may be mixed with relief. If you were very worried, then the result is mostly relief."
+    },{
+        "name": "mental satisfaction",
+        "description": "The sense that mental patterns are properly aligned. For example, if you perceive that the answer to the math problem makes sense."
+    }],
+    "commentaries": [{
+        "quote": "We're always judging whether events and people meet our expectations. If they just reach that bar, we may feel satisfaction or relief. If they miss the mark, we may feel dissatifaction or dismay. On the rare occasion things are better than we'd hoped for, the result is delight."
+    }],
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4,3,2,1": {
+                "conditions": ["Self perceives that an event or person meets expectations."]
+            }
+        }
+    }]
+}

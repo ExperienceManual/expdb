@@ -1,0 +1,30 @@
+{
+    "lang": "en/us",
+    "createDate": "20250217",
+    "updateDate": "20250217",
+    "name": "ignorance",
+    "valence": 0,
+    "quote": "I honestly had no idea.",
+    "description": "Not knowing what you don't know.",
+    "related": ["learning"],
+    "opposites": ["expectation","certainty"],
+    "variations": [{
+        "name": "realized ignorance",
+        "description": "You can't experience ignorance directly, so only after being alerted to its existence do you react to it. This range from anything to surprise, delight, or humility to shame, defensiveness, or denial."
+    }],
+    "commentaries": [{
+        "quote": "There's an infinite amount that can be known, so we're all ignorant of a lot. What matters is how we handle the revelation of these blank spots."
+    },{
+        "quote": "Some of us are so terrified of ignorance that we become obsessive life-long learners who watch documentaries for fun. Others embrace ignorance warmly. People."
+    }],
+    "models": [{
+        "version": "em1",
+        "type": "label",
+        "levels": {
+            "4,3": {
+                "variations": ["realized ignorance"],
+                "conditions": ["Recognizing that your patterns do not cover a specific area."]
+            }
+        }
+    }]
+}

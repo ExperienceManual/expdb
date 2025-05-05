@@ -1,0 +1,55 @@
+{
+    "lang": "en/us",
+    "createDate": "20250217",
+    "updateDate": "20250217",
+    "name": "power",
+    "valence": 1,
+    "quote": "",
+    "description": "Having the ability or position to shape the shared environment more than others.",
+    "related": ["desire for social status","self-confidence"],
+    "opposites": ["subordination", "subservience"],
+    "variations": [{
+        "name": "social power",
+        "description": "Also known as 'politics', this is having the authority to decide who's right, who's wrong, and what the group should value.",
+        "links": ["desire for social influence"]
+    },{
+        "name": "physical power",
+        "description": "Being able to shape the physical environment for the benefit of you or your social group."
+    },{
+        "name": "mental power",
+        "description": "Having the ability to resolve problems in the abstract world of ideas."
+    }],
+    "commentaries": [{
+        "quote": "With great power comes great responsibility.",
+        "attribution": "Uncle Ben from Spiderman"
+    },{
+        "quote": "Politics is the set of values for how individuals relate to the patchworked social body as a whole: what rights and responsibilities different types of people have, how rules are made and enforced."
+    },{
+        "quote": "If you've never chopped down a tree or dug a big hole, it may be hard for you to understand why our ancestors valued physical strength so much. It's difficult work and we humans really like our wood and our holes."
+    },{
+        "quote": "If you've never balanced a spreadsheet, your new business is likely to fail. If you've never solved an equation, your bridge is probably going to collapse. Ideas are important in shaping a complex environment."
+    },{
+        "quote": "Civilization is a child of the farmer and the scribe managed by the lawyer. We need people to shape the physical environment. We need people who help them build the right things. And we need people to dampen the bickering."
+    }],
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4": {
+                "variations": ["mental power"],
+                "conditions": ["You have the sense that you're better positioned to shape the idea environment more than others."]
+            }, 
+            "3": {
+                "variations": ["social power"],
+                "conditions": ["You have the sense that you're better positioned to shape the social environment more than others."]
+            },
+            "2": {
+                "variations": ["physical power"],
+                "conditions": ["You have the sense that you're better positioned to shape the physical environment more than others."]
+            },
+            "1": {
+                "experiences": ["anticipation"]
+            }
+        }
+    }]
+}

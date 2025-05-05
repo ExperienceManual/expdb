@@ -1,0 +1,41 @@
+{
+    "lang": "en/us",
+    "createDate": "20250323",
+    "updateDate": "20250329",
+    "name": "effortless",
+    "valence": 1,
+    "quote": "No problem.",
+    "description": "A sense that you are confronted with a challenge where a preferred state will be easy to achieve.",
+    "related": ["gaining","delight"],
+    "opposites": ["challenge"],
+    "variations": [{
+        "name": "easy physical challenge",
+        "description": "A conflict with someone or something where physical strength, dexterity, tools, and/or skill will decide the outcome, but you're confident the results will be positive."
+    },{
+        "name": "easy social challenge",
+        "description": "A conflict with someone or something where social factors such as wit, appearance, or personality will decide the outcome, but you're confident the results will be positive.",
+        "links": ["desire for social status"]
+    },{
+        "name": "easy rule contest",
+        "description": "A conflict with someone or something where presenting propositions based on a specific rule context will be the base of the outcome, but you're confident the results will be positive."
+    },{
+        "name": "unfairly easy contest",
+        "description": "A conflict where the likely results seem so tilted in your favor that you feel some sympathy or even guilt towards other competitors."
+    },{
+        "name": "feels a lot better",
+        "description": "An injury or pain is much better so normal activities are much easier again.",
+        "links": ["gratitude"]
+    }],
+    "commentaries": [{
+        "quote": "Most of what we do every day is automatic and effortless. The only time we might actually think about our capabilities is when challenged by another or after healing from an injury."
+    }],
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4,3,2,1": {
+                "conditions": ["A sense that you are in an environment where you are challenged to encourage or avoid a particular future.","Anxiety is low because you're confident the outcome will be positive."]
+            }
+        }
+    }]
+}

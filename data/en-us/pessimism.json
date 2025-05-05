@@ -1,0 +1,39 @@
+{
+    "lang": "en/us",
+    "createDate": "20250412",
+    "updateDate": "20250412",
+    "name": "pessimism",
+    "valence": -1,
+    "quote": "There's no way we're going to win.",
+    "description": "A sense that a desired outcome is so unlikely as to be impossible.",
+    "related": ["hopelessness","anticipation"],
+    "opposites": ["optimism"],
+    "comparisons": [{
+        "links": ["hopelessness"],
+        "description": "'Pessimism' is more mental than 'hopelessness' - not as emotionally invested."
+    }],
+    "commentaries": [{
+        "quote": "A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.",
+        "attribution": "Winston Churchill"
+    },{
+        "quote": "The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.",
+        "attribution": "William Arthur Ward"
+    }],
+    "spectrum": {
+        "pessimism": 1,
+        "hopelessness": 5,
+        "depression": 7
+    },
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4,3": {
+                "conditions": ["A sense that a particular desired outcome is so unlikely as to be impossible."]
+            }, 
+            "2,1": {
+                "experiences": ["dissatisfaction"]
+            }
+        }
+    }]
+}

@@ -1,0 +1,47 @@
+{
+    "lang": "en/us",
+    "createDate": "20250222",
+    "updateDate": "20250222",
+    "name": "aversion to strangers",
+    "valence": -1,
+    "quote": "I don't usually hold with foreign food.",
+    "description": "Anxiety about people who are unfamiliar or have different customs or language.",
+    "related": ["distrust","criticism","aversion","contempt","anxiety"],
+    "opposites": ["admiration","desire for novelty"],
+    "variations": [{
+        "name": "stranger danger",
+        "description": "Being distrustful of unknown people in general, no matter what type.",
+        "links": ["group hostility"]
+    },{
+        "name": "cultural wariness",
+        "description": "Being uncomfortable with people who's looks, language, or customs are different than what you're familiar with."
+    },{
+        "name": "cultural chauvinism",
+        "description": "Discomfort and distain when interacting with people who's looks, language, or customs are different than what you're familiar with."
+    }],
+    "commentaries": [{
+        "quote": "Some people thrive in a multicultural environment, enjoying frequent new experiences. Some do not, preferring familiar things."
+    },{
+        "quote": "I was a picky eater as a teen. I wanted to control this one aspect of my life and liked being an expert on hamburgers. I didn't want to look ignorant by not knowing about weird foods like 'falafels' and 'paneer'. It does take a while to become attuned to all that stuff. But life is long, and I'm glad I did."
+    }],
+    "spectrum": {
+        "aversion to strangers": 3,
+        "chauvinism": 6,
+        "xenophobia": 8
+    },
+    "models": [{
+        "version": "em1",
+        "type": "impulse",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            },
+            "3,2": {
+                "conditions": ["You experience anxiety when confronted with an unfamiliar social experience."]
+            },
+            "2,1": {
+                "experiences": ["anxiety"]
+            }
+        }
+    }]
+}

@@ -1,0 +1,49 @@
+{
+    "lang": "en/us",
+    "createDate": "20250119",
+    "updateDate": "20250213",
+    "name": "desire for sex",
+    "valence": 0,
+    "quote": "I'm not talking about just ordinary temptation, people.",
+    "description": "Desire for sexual contact.",
+    "related": ["desire for stimulation", "desire for pleasure", "temptation", "validation"],
+    "opposites": ["desire for quiet"],
+    "variations": [{
+        "name": "biological sex",
+        "description": "The purely biological desire for sexual contact is a small part of the story for most of us."
+    },{
+        "name": "validation sex",
+        "description": "Being attractive enough to find a partner can fulfill a desire for social validation."
+    },{
+        "name": "peer pressure sex",
+        "description": "Some may feel the need to be sexually active to stay in the graces of a social group.",
+        "links": ["desire for social status"]
+    },{
+        "name": "escape sex",
+        "description": "The act may fill a need for stimulation or a desire to escape from a mundane reality."
+    }],
+    "commentaries": [{
+        "quote": "Conflicting social norms can make any kind of sex complicated. It may help to understand where your own desire is coming from: social pressures, habits, escape, or biology."
+    }],
+    "spectrum": {
+      "desire for sex": 3,
+      "lust": 9
+    },
+    "models": [{
+        "version": "em1",
+        "type": "impulse",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            }, 
+            "3": {
+                "variations": ["validation sex", "peer pressure sex", "escape sex"],
+                "conditions": ["Social desire for sexual contact."]
+            },
+            "2,1": {
+                "variations": ["biological sex"],
+                "conditions": ["Physical desire for sexual contact."]
+            }
+        }
+    }]
+}

@@ -1,0 +1,69 @@
+{
+    "lang": "en/us",
+    "createDate": "20250228",
+    "updateDate": "20250315",
+    "name": "companionship",
+    "valence": 1,
+    "quote": "Going to hang out with a friend tonight.",
+    "description": "A comfortable feeling of social validation from another person or animal.",
+    "related": ["social contact","comfort","group bond","trust","love"],
+    "opposites": ["contempt","anxiety"],
+    "variations": [{
+        "name": "well-rounded friend",
+        "description": "People who have seen each other in a variety of moods and contexts and still look forward to being around each other.",
+        "examples": ["spouse", "family member", "college roommate"]
+    },{
+        "name": "focused friend",
+        "description": "A relationship that is supportive and friendly in a limited context.",
+        "examples": ["work friends", "hobby friends"]
+    },{
+        "name": "spiritual friend",
+        "description": "A relationship between people who can share deep existential conversations.",
+        "links": ["spiritual bond"],
+        "examples": ["religious fellowship","philosophy club"]
+    },{
+        "name": "animal companion",
+        "description": "Pets and other animal relationships can alleviate stress and connect us with nature."
+    },{
+        "name": "utility friendship",
+        "description": "Keeping in touch with someone in part because that relationship brings status or could be beneficial in the future.",
+        "links": ["desire for social status","problem solving"],
+        "examples": ["She's pretty nice and knows about all the job openings in my industry."]
+    },{
+        "name": "false friendship",
+        "description": "Keeping in touch with someone only because that relationship brings status or could be beneficial in the future.",
+        "links": ["desire for social status","problem solving"],
+        "examples": ["I really can't stand her, but she knows about all the job openings in my industry."]
+    }],
+    "commentaries": [{
+        "quote": "It's pretty common for us to work very hard over a long time to get a thumbs-up from friends."
+    },{
+        "quote": "The only way to have a friend is to be one.",
+        "attribution": "Ralph Waldo Emerson"
+    },{
+        "quote": "The bird a nest, the spider a web, man friendship.",
+        "attribution": "William Blake"
+    }],
+    "spectrum": {
+        "acquaintance": 1,
+        "belonging": 2,
+        "friend": 4,
+        "fellowship": 6,
+        "BFFs": 8
+    },
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            }, 
+            "3,2": {
+                "conditions": ["A sense of social validation from interacting with another person or animal"]
+            },
+            "1": {
+                "experiences": ["comfort"]
+            }
+        }
+    }]
+}

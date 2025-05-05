@@ -1,0 +1,29 @@
+{
+    "lang": "en/us",
+    "createDate": "20250226",
+    "updateDate": "20250302",
+    "name": "deduction",
+    "valence": 0,
+    "quote": "It must have been a bird because of the feather on the ground.",
+    "description": "Ability to identify an unknown attribute of an object from general knowledge.",
+    "related": ["problem solving","generalization","learning"],
+    "examples": ["."],
+    "variations": [{
+        "name": "stereotyping",
+        "description": "Predicting that every member of a group share all characteristics perceived to be common within the group."
+    }],
+    "commentaries": [{
+        "quote": "Deductive reasoning is when you combine multiple facts to arrive at something not available to your direct perception. For instance, if you know the movie time is noon, but that previews take 10 minutes, you won't be late if you're in a seat at 12:10."
+    },{
+        "quote": "Using mental shortcuts is the only way our simple brains can navigate a world that's way above their pay grade. It may be helpful to have a sense of humility about the quality of the beliefs you rely on."
+    }],
+    "models": [{
+        "version": "em1",
+        "type": "capacity",
+        "levels": {
+            "4,3": {
+                "conditions": ["The brain makes a prediction based on combining multiple patterns."]
+            }
+        }
+    }]
+}

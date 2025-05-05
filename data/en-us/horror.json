@@ -1,0 +1,62 @@
+{
+    "lang": "en/us",
+    "createDate": "20241129",
+    "updateDate": "20250504",
+    "name": "horror",
+    "valence": -1,
+    "quote": "I hit a baby deer with the car!",
+    "description": "A strong sense of aversion to an event that is perceived as being likely to damage the body or an important social identity of a person important to you.",
+    "related": ["disgust", "anxiety", "surprise"],
+    "opposites": ["delight"],
+    "variations": [{
+        "name": "fearful horror",
+        "description": "If the experience comes with fear, there's probably a physical or social threat to the self."
+    },{
+        "name": "social horror",
+        "description": "If the experience is caused by someone breaking an important social rule, it may come with contempt."
+    },{
+        "name": "self horror",
+        "description": "If the experience was caused by the self breaking a social rule, it may come with guilt or shame."
+    },{
+        "name": "suprised horror",
+        "description": "If the experience was completely unexpected, it may come with shock.",
+        "links": ["surprise"]
+    }],
+    "comparisons": [{
+        "links": ["fear"],
+        "description": "Horror is fear mixed with disgust or contempt."
+    },{
+        "links": ["disgust"],
+        "description": "People sometimes use the term 'horrified' to mean 'I have a strong aversion to this thing.' We like to inflate our experiences to make a point."
+    }],
+    "commentaries": [{
+        "quote": "The basis of all true cosmic horror is violation of the order of nature, and the profoundest violations are always the least concrete and describable.",
+        "attribution": "H.P. Lovecraft"
+    },{
+        "quote": "People who love horror films are people with boring lives… when a really scary movie is over, you're reassured to see that you're still alive and the world still exists as it did before.",
+        "attribution": "Ryu Murakami"
+    }],
+    "spectrum": {
+        "concern": 1,
+        "worry": 1,
+        "anxiety": 2,
+        "apprehension": 3,
+        "fear": 4,
+        "dread": 5,
+        "horror": 6,
+        "terror": 7,
+        "panic": 9
+    },
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4,3": {
+                "conditions": ["Something happened to the self or another agent that was very unpleasant or broke an important rule."]
+            },
+            "2,1": {
+                "experiences": ["disgust","anxiety"]
+            }
+        }
+    }]
+}

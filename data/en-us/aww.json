@@ -1,0 +1,40 @@
+{
+    "lang": "en/us",
+    "createDate": "20241210",
+    "updateDate": "20250213",
+    "name": "aww",
+    "valence": 1,
+    "quote": "So cute!",
+    "description": "A feeling of extreme positivity upon seeing baby humans or harmless baby animals.",
+    "related": ["appreciation"],
+    "opposites": ["aversion"],
+    "variations": [{
+        "name": "protective instinct",
+        "description": "May invoke an instinctual desire to protect."
+    },{
+        "name": "cute aggression",
+        "description": "At it's most extreme, aww can become 'cute agression' where it's mixed with a selfish possessive urge.",
+        "links": ["greed"]
+    }],
+    "spectrum": {
+        "cute": 1,
+        "aww": 5,
+        "squee": 7,
+        "cute agression": 10
+    },
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4,3": {
+                "experiences": ["narration"]
+            }, 
+            "2": {
+                "conditions": ["Matches instinctual patterns of offspring attractiveness."]
+            },
+            "1": {
+                "experiences": ["delight"]
+            }
+        }
+    }]
+}

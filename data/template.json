@@ -1,0 +1,46 @@
+{
+    "lang": "en/us",
+    "createDate": "20250501",
+    "updateDate": "20250501",
+    "name": "",
+    "valence": 1,
+    "quote": "",
+    "description": "",
+    "links": [],
+    "related": [],
+    "opposites": [],
+    "examples": [],
+    "variations": [{
+        "name": "",
+        "description": "",
+        "links": [],
+        "examples": []
+    }],
+    "comparisons": [{
+        "links": [],
+        "description": ""
+    }],
+    "commentaries": [{
+        "quote": "",
+        "attribution": ""
+    }],
+    "spectrum": {
+    },
+    "models": [{
+        "version": "em1",
+        "type": "",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            }, 
+            "3": {
+                "variations": [""],
+                "conditions": [""]
+            },
+            "2": {
+                "experiences": [""],
+                "description": [""]
+            }
+        }
+    }]
+}

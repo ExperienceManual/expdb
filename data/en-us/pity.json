@@ -1,0 +1,43 @@
+{
+    "lang": "en/us",
+    "createDate": "20250223",
+    "updateDate": "20250223",
+    "name": "pity",
+    "valence": -1,
+    "quote": "Sorry for your stomach ache, but I said that candy wasn't good for you.",
+    "description": "Recognizing the suffering of a person or animal but feeling it's probably their fault in some way.",
+    "related": ["empathy","compassion","sympathy","self-pity","justice"],
+    "opposites": ["disconnection","contempt"],
+    "variations": [{
+        "name": "dissonant pity",
+        "description": "If you're not sure whether you should be warmer or help more, there may be some dissonance.",
+        "links": ["sympathy"],
+        "examples": ["I told her not to do that, but didn't know it would be that bad."]
+    }],
+    "commentaries": [{
+        "quote": "Pity is related to sympathy, but pity is cooler and more distant, so can be perceived as less friendly."
+    },{
+        "quote": "With pity, there's a sense that the person sorta deserves the suffering. With sympathy, they're innocent victims but you can only help with moral support. With compassion, you're offering more tangible help."
+    }],
+    "spectrum": {
+        "pity": 2,
+        "sympathy": 4,
+        "commiseration": 6,
+        "compassion": 8
+    },
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            }, 
+            "3": {
+                "conditions": ["You recognize suffering in another but perceive it was likely caused by their own actions."]
+            },
+            "2,1": {
+                "experiences": ["sadness","dissonance"]
+            }
+        }
+    }]
+}

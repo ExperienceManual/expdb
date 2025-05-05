@@ -1,0 +1,51 @@
+{
+    "lang": "en/us",
+    "createDate": "20250120",
+    "updateDate": "20250213",
+    "name": "desire for social influence",
+    "valence": 0,
+    "quote": "Listen up people...",
+    "description": "Wanting to influence others in the decisions they make.",
+    "related": ["desire for social status","validation","self-confidence","ambition"],
+    "opposites": ["tolerance","desire for privacy"],
+    "variations": [{
+        "name": "teacher",
+        "description": "If you see a gap in understanding and want to be a part of the solution, sharing ideas with others can legitimately help them.",
+        "links": ["helpfulness"]
+    },{
+        "name": "paid influencer",
+        "description": "Some people seek to spread their influence mostly to elevate their status and for economic reasons.",
+        "links": ["ambition","desire for social status"]
+    },{
+        "name": "control others",
+        "description": "If you plan to penalize people who don't fall under your influence, this is social control.",
+        "links": ["power"]
+    },{
+        "name": "make your mark",
+        "description": "Influence can include non-verbal impact, like wanting to be the one to track up a fresh snowfall."
+    },{
+        "name": "annoy to impress",
+        "description": "Influence can mean having a negative impact on some social group, ranging from graffiti to terrorists. In this case, there's probably a trade for negative attention from one group bring positive attention from another."
+    }],
+    "commentaries": [{
+        "quote": "Of course people often want things for multiple reasons. There's no harm in helping others while also hoping for a favorable response."
+    },{
+        "quote": "If you're aiming to help others who are perceived as likely to make poor choices on their own, it may be perceived as 'preachy'."
+    }],
+    "models": [{
+        "version": "em1",
+        "type": "impulse",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            }, 
+            "3,2": {
+                "conditions": ["Perception that other agents need help with information or in making good choices."]
+            },
+            "1": {
+                "experiences": ["desire for comfort"],
+                "description": "Whether you're helping someone or receiving positive feedback, it likely releases reward chemicals in your brain."
+            }
+        }
+    }]
+}

@@ -1,0 +1,48 @@
+{
+    "lang": "en/us",
+    "createDate": "20250112",
+    "updateDate": "20250213",
+    "name": "playful",
+    "valence": 0,
+    "quote": "Let's go dancing!",
+    "description": "Desire for a positive stimulating social experience.",
+    "related": ["humor","boredom","enthusiasm","desire for social contact","desire for stimulation","companionship","desire to improve"],
+    "opposites": ["overwhelmed","depression","tiredness","desire for privacy"],
+    "variations": [{
+        "name": "play to bond",
+        "description": "Play can be a social bonding experience."
+    },{
+        "name": "play as an escape",
+        "description": "It may help you forget about anxieties for a while."
+    },{
+        "name": "play as practice",
+        "description": "Play may improve skills that may be useful in another context."
+    }],
+    "commentaries": [{
+        "quote": "Being 'playful' can mean light-hearted bonding activities like like games and pillow fights, or more serious social adventures like dancing or sports."
+    },{
+        "quote": "People are generally more playful with friends, and play can be a bonding experience."
+    },{
+        "quote": "Play can be a way to improve skills in a safe environment."
+    }],
+    "models": [{
+        "version": "em1",
+        "type": "impulse",
+        "levels": {
+            "4,3": {
+                "experiences": ["narration"]
+            }, 
+            "3": {
+                "variations": ["play as an escape"],
+                "conditions": ["Self experiences a desire for an entertaining social activity."]
+            },
+            "2": {
+                "variations": ["play to bond","play as practice"],
+                "conditions": ["Self experiences a desire to interact with important others in a way that practices key skills."]
+            },
+            "1": {
+                "experiences": ["desire for stimulation"]
+            }
+        }
+    }]
+}

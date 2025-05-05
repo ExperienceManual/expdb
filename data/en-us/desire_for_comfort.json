@@ -1,0 +1,58 @@
+{
+    "lang": "en/us",
+    "createDate": "20250119",
+    "updateDate": "20250316",
+    "name": "desire for comfort",
+    "valence": 0,
+    "quote": "Is it Friday yet?",
+    "description": "Wanting to attain an experience with less discomfort.",
+    "related": ["desire for food", "sickness", "boredom", "desire for sex", "pain", "relief"],
+    "opposites": ["sacrifice", "desire for social status"],
+    "variations": [{
+        "name": "wanting to feel better",
+        "description": "If starting from a place of pain or sickness, even just feeling normal is a relief.",
+        "examples": ["another week and I get this cast off"]
+    },{
+        "name": "more is better",
+        "description": "Even in a normal state, we often still desire something more tangibly pleasant.",
+        "examples": ["I'm not cold but could use an extra blanket anyhow."]
+    },{
+        "name": "low discomfort tolerance",
+        "description": "A consistent need for comfort can border on addiction."
+    },{
+        "name": "desire for pleasure",
+        "description": "Wanting to shift into an experience with positive sensations. Basically, wanting pleasure goes beyond just aiming to be comfortable."
+    },{
+        "name": "desire for health",
+        "description": "A desire for the body to feel well.",
+        "links": ["desire for pure body"]
+    },{
+        "name": "better surroundings",
+        "description": "Wanting for your surroundings to be better aligned with preferences.",
+        "examples": ["wish it would warm up"]
+    }],
+    "commentaries": [{
+        "quote": "It may be helpful to be aware if longing for the presence or absence of specific brain chemicals is distracting you needlessly from the present."
+    },{
+        "quote": "Escaping into distractions like TV, movies, video games, and the internet is form of comfort because everyday life is full of anxiety-causing doubt."
+    },{
+        "quote": "Life is supposed to be a little uncomfortable at times, maybe most of the time."
+    }],
+    "spectrum": {
+        "desire for comfort": 3,
+        "desire for health": 5,
+        "desire for pleasure": 7
+    },
+    "models": [{
+        "version": "em1",
+        "type": "impulse",
+        "levels": {
+            "4,3,2": {
+                "experiences": ["narration"]
+            }, 
+            "1": {
+                "conditions": ["Desire for a more optimal experience."]
+            }
+        }
+    }]
+}

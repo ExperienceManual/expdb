@@ -1,0 +1,45 @@
+{
+    "lang": "en/us",
+    "createDate": "20250215",
+    "updateDate": "20250215",
+    "name": "comfort",
+    "valence": 1,
+    "quote": "It's all good.",
+    "description": "Being within a tolerable zone of physical, social, or mental discomfort.",
+    "related": ["desire for comfort"],
+    "opposites": ["discomfort"],
+    "variations": [{
+        "name": "temporary comfort",
+        "description": "If you're aware that the current calm conditions are not going to last, you may have a sense of gratitude and desire to fully experience the present moment."
+    },{
+        "name": "social comfort",
+        "description": "The feeling that you're amongst people who accept an important part of your identity."
+    },{
+        "name": "physical comfort",
+        "description": "The recognition that your body is not experiencing significant discomfort."
+    }],
+    "commentaries": [{
+        "quote": "'Comfort' is relative. We're never truly without some kind of discomfort for long, but some people have higher tolerances physical or social discomfort."
+    },{
+        "quote": "You can be physically comfortable while being mentally uncomfortable or vice versa. In fact, for many of us in the modern world, they're almost always out of sync by definition."
+    },{
+        "quote": "You'll probably only recognize the relief of comfort for a short while after the discomfort."
+    }],
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            },
+            "3,2": {
+                "variations": ["social comfort"],
+                "conditions": ["Self perceives that being amongst a certain social group is less stressful."]
+            }, 
+            "1": {
+                "variations": ["physical comfort"],
+                "conditions": ["Perception that the body is experiencing no more than minor discomfort."]
+            }
+        }
+    }]
+}

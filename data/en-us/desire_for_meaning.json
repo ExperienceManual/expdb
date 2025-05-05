@@ -1,0 +1,39 @@
+{
+    "lang": "en/us",
+    "createDate": "20250203",
+    "updateDate": "20250215",
+    "name": "desire for meaning",
+    "valence": 0,
+    "quote": "",
+    "description": "Wanting to feel good about your relationship to the existential environment.",
+    "related": ["meaning","doubt","desire for safety"],
+    "opposites": ["self-worth"],
+    "commentaries": [{
+        "quote": "'Meaning' is defined here as having a sense that that you're providing value by gracefully working towards a signficant purpose. The key is that you do not doubt that what you're doing will be seen as positive by someone important. Often times individuals don't know what a suitable larger purpose might be until they try different things at the intersection of ideals and skills."
+    },{
+        "quote": "Meaning has to be understood as a relationship rather than an absolute state. We feel meaning when we are connecting us to ourselves, to others, and to the world. We face a meaning crisis when feel anxious & alienated because we’re stuck in our head, lose the sense of our embodiment. When we feel weak connection with reality.",
+        "attribution": "John Vervaeke"
+    },{
+        "quote": "Man's main concern is not to take pleasure or avoid pain, but rather to see meaning in his life.",
+        "attribution": "Viktor Frankl"
+    }],
+    "models": [{
+        "version": "em1",
+        "type": "impulse",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            }, 
+            "3": {
+                "conditions": ["Self perceives a gap between what the everyday self is doing and what an ideal self should be doing, and that closing the gap is important, but doesn't see how to close that gap."]
+            },
+            "2": {
+                "experiences": ["doubt","dissatisfaction", "anxiety"]
+            },
+            "1": {
+                "experiences": ["anxiety","desire for comfort"],
+                "description": "Self would like to escape the shadow of anxiety cast by doubt."
+            }
+        }
+    }]
+}

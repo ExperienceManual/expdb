@@ -1,0 +1,52 @@
+{
+    "lang": "en/us",
+    "createDate": "20250302",
+    "updateDate": "20250302",
+    "name": "enmity",
+    "valence": -1,
+    "quote": "That jerk is blocking my career.",
+    "description": "A deep aversion to the beliefs or actions of another person and a sense they are actively working against your interests.",
+    "related": ["hate","group hate","aversion","righteousness","vengefulness","fear"],
+    "opposites": ["love"],
+    "variations": [{
+        "name": "enemy of my enemy",
+        "description": "A perceived bond with someone who seems to actively dislike your enemy.",
+        "links": ["validation"],
+        "examples": ["unlikely allies working together against a threat"]
+    },{
+        "name": "enemy signaling",
+        "description": "Declaring that someone is your enemy mostly to score points with a social group.",
+        "links": ["desire for social status"],
+        "examples": ["Everyone in my family roots against that team, so I do too."]
+    },{
+        "name": "habitual enemy",
+        "description": "Behavior that perpetuates adversarial relations due to past injustice, social cohesion, or identity.",
+        "examples": ["Hatfield-McCoy"]
+    },{
+        "name": "former friend",
+        "description": "Someone who was once a friend that betrayed you.",
+        "links": ["betrayal"]
+    }],
+    "commentaries": [{
+        "quote": "It may be helpful to consider whether to engage your enemy head-on or attempt to understand their perspective. You'll probably end up fighting either way, but the outcome may differ in the long run."
+    },{
+        "quote": "People are bound by countless social threads, so cannot change in the short-term. Don't expect your enemy to change simply because you're punishing them with your anger."
+    },{
+        "quote": "Some people like having an enemy because it gives structure to their lives. Others are fearful of having any enemies lurking."
+    }],
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            }, 
+            "3": {
+                "conditions": ["A deep aversion to the beliefs or actions of another agent and a sense they are actively working against your interests."]
+            },
+            "2,1": {
+                "experiences": ["anxiety","dismay"]
+            }
+        }
+    }]
+}

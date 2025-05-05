@@ -1,0 +1,58 @@
+{
+    "lang": "en/us",
+    "createDate": "20250308",
+    "updateDate": "20250308",
+    "name": "sadness",
+    "valence": -1,
+    "quote": "I'm not going to get that job I really wanted.",
+    "description": "Things aren't as you would prefer and is perceived to negatively affect an important identity and future experiences.",
+    "related": ["dismay","grief","melancholy","losing","loneliness","depression"],
+    "opposites": ["happiness"],
+    "variations": [{
+        "name": "sadness of the void",
+        "description": "A loss of love, hope, trust, wonder, or other pleasant experiences can create a sense that the future is not going to meet previous expectations and that you will struggle to find enjoyment.",
+        "examples": ["A friend treats you poorly.","Breaking up a romance."]
+    },{
+        "name": "sadness of defeat",
+        "description": "If you worked hard for an important competition, a defeat might make you feel the investment was wasted and hopes for future success are diminished.",
+        "examples": ["I needed to win that match to get to the finals."]
+    },{
+        "name": "existential sadness",
+        "description": "A sense that your life story is going nowhere or is in a downward trend.",
+        "links": ["desire for meaning"],
+        "examples": ["I can't find someone to share my life with."]
+    }],
+    "commentaries": [{
+        "quote": "Dismay, Sadness, and Grief are mileposts on an unfortunate spectrum. 'Disappointment' is when something happened that's not as you would prefer but it doesn't doesn't affect your core identity or future experiences. 'Sadness' happens when the situation is unpleasant and negatively affects an important sense of identity. 'Grief' is when things get really bad and you're going to be forced to change deeply held patterns of existence."
+    },{
+        "quote": "The walls we build around us to keep sadness out also keep out the joy.",
+        "attribution": "Jim Rohn"
+    },{
+        "quote": "If you're not sad about something at least every other week, you're either enlightened, really lucky, or not engaged in this gamble we call life. Odds are the latter."
+    },{
+        "quote": "It's not necessary for anything to actually change to cause sadness. A simple shift in perception is enough."
+    }],
+    "spectrum": {
+      "bummer": 1,
+      "disappointment": 2,
+      "dismay": 3,
+      "sadness": 5,
+      "despair": 7,
+      "misery": 8
+    },
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            }, 
+            "3,2": {
+                "conditions": ["A perception of the environment has changed unfavorably.","You predict more low-valence experiences are coming."]
+            },
+            "1": {
+                "experiences": ["dismay"]
+            }
+        }
+    }]
+}

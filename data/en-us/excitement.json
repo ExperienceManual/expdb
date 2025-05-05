@@ -1,0 +1,40 @@
+{
+    "lang": "en/us",
+    "createDate": "20250223",
+    "updateDate": "20250223",
+    "name": "excitement",
+    "valence": 0,
+    "quote": "The kids at the party were running around happily.",
+    "description": "A heightened state of energy in response to a positive or negative experience.",
+    "related": ["enthusiasm","defensiveness","triumph","anticipation","fear","anger","surprise"],
+    "opposites": ["boredom","discouragement","ennui"],
+    "variations": [{
+        "name": "positive excitement",
+        "description": "Having a high energy about something fun and positive.",
+        "examples": ["She was excited to go to the amusement park."]
+    },{
+        "name": "negative excitement",
+        "description": "Having a high energy about something threatening.",
+        "examples": ["The speaker stirred the crowd into a frenzy with his provacative statements."]
+    }],
+    "commentaries": [{
+        "quote": "In English, 'excitement' usually refers to something positive, but it can be used more generally to mean a vigorous response. For example, someone who's really angry could be considered 'excited'."
+    }],
+    "spectrum": {
+        "stimulation": 3,
+        "excitement": 5,
+        "frenzied": 8
+    },
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4,3,2": {
+                "experiences": ["many"]
+            }, 
+            "1": {
+                "conditions": ["Something has aroused your energy level."]
+            }
+        }
+    }]
+}

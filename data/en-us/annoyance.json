@@ -1,0 +1,51 @@
+{
+    "lang": "en/us",
+    "createDate": "20250311",
+    "updateDate": "20250312",
+    "name": "annoyance",
+    "valence": -1,
+    "quote": "Our walk was nice except for the mosquitos.",
+    "description": "A desire to stop a repeated unwanted mild experience from intruding on a preferred experience.",
+    "related": ["frustration","impatience"],
+    "opposites": ["calmness"],
+    "variations": [{
+        "name": "pet peeve",
+        "description": "A particular source of annoyance that you have a long history with, such that it doesn't take much to escalate your annoyance to vexation or anger.",
+        "examples": ["I don't like it when people leave dishes in the sink."]
+    },{
+        "name": "questionable task annoyance",
+        "description": "Wondering whether the current task is really worth the effort, with no fear of failing it.",
+        "links": ["dissonance"]
+    }],
+    "commentaries": [{
+        "quote": "Annoyance is a mild form of anger - the goal is to stop the repeated unwanted experience even though it's not really stopping you from other things. If the source is human, words or body language may be enough. If the source is something else, you may swat at it, try to fix it, or attempt to ignore it."
+    },{
+        "quote": "Everything that irritates us about others can lead us to an understanding of ourselves.",
+        "attribution": "Carl Gustav Jung"
+    },{
+        "quote": "My annoyance became frustration, which became anger, which became hate, and hate is a long-burning fuel.",
+        "attribution": "Hank Green"
+    }],
+    "spectrum": {
+        "annoyance": 1,
+        "irritation": 2,
+        "resentment": 3,
+        "frustration": 3,
+        "impatience": 4,
+        "vexation": 4,
+        "anger": 5,
+        "rage": 7
+    },
+    "models": [{
+        "version": "em1",
+        "type": "impulse",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            }, 
+            "3,2,1": {
+                "conditions": ["A desire to stop a repeated unwanted mild experience from intruding on a preferred experience.","You are not blocked from accomplishing a larger task."]
+            }
+        }
+    }]
+}

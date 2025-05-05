@@ -1,0 +1,28 @@
+{
+    "lang": "en/us",
+    "createDate": "20250227",
+    "updateDate": "20250227",
+    "name": "love",
+    "valence": 1,
+    "description": "A sense that having repeated experiences with a particular person, animal, thing, idea, or sensation will likely be very positive.",
+    "links": ["desire","romantic love","familial love","group bond","companionship","appreciation","admiration"],
+    "opposites": ["hate"],
+    "commentaries": [{
+        "quote": "'Love' is a broad term that superficially applies to everything from your soul mate to your favorite fast-food joint."
+    },{
+        "quote": "You may love pizza, but not desire one right now. You may desire to try a new thing on the menu without knowing if you'll love it."
+    },{
+        "quote": "In all relationships involving other people, there's a pattern of signaling that reveals interest or disinterest. These signals can be obvious or subtle, immediate or slow, conscious or unconscious. These signals can sew us closer together bit by bit or drag us apart."
+    }],
+    "spectrum": {
+        "like": 1,
+        "fond": 2,
+        "adore": 3,
+        "love": 5,
+        "treasure": 6
+    },
+    "models": [{
+        "version": "em1",
+        "type": "node"
+    }]
+}

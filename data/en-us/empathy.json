@@ -1,0 +1,28 @@
+{
+    "lang": "en/us",
+    "createDate": "20250222",
+    "updateDate": "20250223",
+    "name": "empathy",
+    "valence": 0,
+    "quote": "I think I know what you're feeling.",
+    "description": "Ability to recognize and perhaps share the experience of a person or animal.",
+    "related": ["sympathy","pity","compassion","first party social knowledge"],
+    "opposites": ["selfishness","disconnection"],
+    "commentaries": [{
+        "quote": "Empathy is the basic capacity to put yourself in the shoes of another. A person without this capacity may have trouble relating to people."
+    },{
+        "quote": "Exploring another's experience does not necessarily mean you have to agree with their outlook. It can result in many reactions ranging from compassion to manipulation."
+    }],
+    "models": [{
+        "version": "em1",
+        "type": "capacity",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            }, 
+            "3": {
+                "conditions": ["A desire to better understand the perspective another, perhaps to help them or perhaps to help yourself."]
+            }
+        }
+    }]
+}

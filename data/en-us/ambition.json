@@ -1,0 +1,40 @@
+{
+    "lang": "en/us",
+    "createDate": "20250306",
+    "updateDate": "20250306",
+    "name": "ambition",
+    "valence": 0,
+    "quote": "I bowl every day working towards that perfect game.",
+    "description": "A strong desire to achieve a particular goal someday with a specific plan to reach it.",
+    "related": ["desire","aspiration"],
+    "opposites": ["aimlessness"],
+    "variations": [{
+        "name": "selfish ambition",
+        "description": "If the plan to reach the goal will negatively affect others, they may see it as selfish.",
+        "links": ["selfishness"],
+        "examples": ["He's stepped on a lot of toes in his career."]
+    },{
+        "name": "long-term ambition",
+        "description": "A desire that is going to take many years of consistent effort to achieve.",
+        "links": ["patience"],
+        "examples": ["writing a novel trilogy"]
+    }],
+    "commentaries": [{
+        "quote": "A man's worth is no greater than his ambitions.",
+        "attribution": "Marcus Aurelius"
+    },{
+        "quote": "There are lots of inspiring quotes about ambition from lots of great people. But bad people have ambitions too. And distant parents. It may be worth occasionally weighing the price of your action plan against the anticipated outcome."
+    }],
+    "models": [{
+        "version": "em1",
+        "type": "impulse",
+        "levels": {
+            "4,3": {
+                "conditions": ["A strong desire to achieve a particular goal someday.","A specific plan to reach that goal."]
+            },
+            "2,1": {
+                "experiences": ["anticipation"]
+            }
+        }
+    }]
+}

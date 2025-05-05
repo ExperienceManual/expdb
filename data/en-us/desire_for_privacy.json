@@ -1,0 +1,37 @@
+{
+    "lang": "en/us",
+    "createDate": "20250120",
+    "updateDate": "20250213",
+    "name": "desire for privacy",
+    "valence": 0,
+    "quote": "I'm not going out tonight.",
+    "description": "A desire to avoid social activity.",
+    "related": ["desire for quiet", "desire for comfort"],
+    "opposites": ["desire for social contact"],
+    "variations": [{
+        "name": "need a rest",
+        "description": "Social withdrawal driven by a simple need for some downtime. Depending your personality type, this may be infrequent or often.",
+        "links": ["tiredness"]
+     },{
+        "name": "social recovery",
+        "description": "Social withdrawal after negative social experience like anxiety, cynicism, shame, ennui, or contempt."
+    }],
+    "commentaries": [{
+        "quote": "It can be hard for us to balance being an individual integrated as part of several groups, some of which we may not be fully aligned with. We like to have a sense of safety and control, and we may sometimes perceive that a social situation causes as much anxiety as joy." 
+    }],
+    "models": [{
+        "version": "em1",
+        "type": "impulse",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            }, 
+            "3,2": {
+                "conditions": ["A desire to avoid some or all social situations, predicting that they would be not be worth the effort."]
+            },
+            "1": {
+                 "experiences": ["desire for quiet", "desire for comfort"]
+            }
+        }
+    }]
+}

@@ -1,0 +1,25 @@
+{
+    "lang": "en/us",
+    "createDate": "20250223",
+    "updateDate": "20250223",
+    "name": "introspection",
+    "valence": 0,
+    "quote": "I thought a lot about our talk yesterday.",
+    "description": "Ability to create a model of what's happening inside our mental world.",
+    "related": ["desire for environment knowledge"],
+    "opposites": ["denial","repression"],
+    "commentaries": [{
+        "quote": "It's not easy to see inside, but it's not easy to see in the starlight either. The hard part is trusting your low-light perceptions. When you can navigate around without smacking into something every few minutes, you can start trusting them more."
+    },{
+        "quote": "An introspection process is: imagine a model, become the model, compare it against real-world experience, repeat. For example, if you're trying to figure out why you're a little sad, come up with a possible reason and embrace that reason. You'll resonate when you find the right one(s). Because it's raining? Nah. Because I miss my cat? Maybe. Because they forgot my birthday? Yeah, probably that's it."
+    }],
+    "models": [{
+        "version": "em1",
+        "type": "capacity",
+        "levels": {
+            "4,3": {
+                "conditions": ["A desire to figure out what's happening inside."]
+            }
+        }
+    }]
+}

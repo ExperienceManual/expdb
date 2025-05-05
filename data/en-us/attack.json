@@ -1,0 +1,45 @@
+{
+    "lang": "en/us",
+    "createDate": "20250205",
+    "updateDate": "20250211",
+    "name": "attack",
+    "valence": 0,
+    "quote": "It's mine now.",
+    "description": "Taking action to degrade the state of others for your benefit or for an important other.",
+    "related": ["desire for social status","courage","contempt","desire for territory"],
+    "opposites": ["defense","respect","compassion"],
+    "variations": [{
+        "name": "acquiring territory or assets",
+        "description": "Many animals fight over terrory, and humans will fight over all kinds of things like land, treasure, and job titles.",
+        "links": ["desire for territory","desire for social status","stealing"]
+    },{
+        "name": "threatening life or health",
+        "description": "Hunting, or additionally in the case of primates, crime and war.",
+        "links": ["desire for social status","hate","contempt","fear","anger"]
+    },{
+        "name": "attacking reputation",
+        "description": "Working to degrade the social status of another.",
+        "links": ["desire for social status","criticism","resentment","revenge"]
+    },{
+        "name": "destroy something of value",
+        "description": "Destroying something of value to someone else not because you want it, but to spite the other.",
+        "links": ["anger","resentment"]
+    }],
+    "models": [{
+        "version": "em1",
+        "type": "impulse",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            }, 
+            "3,2": {
+                "variations": ["acquiring territory or assets","attacking reputation","destroy something of value"],
+                "conditions": ["Self is acting on a goal to aquire or destroy something of value, whether on behalf of the self or for another agent."]
+            },
+            "1": {
+                "variations": ["threatening life or health"],
+                "conditions": ["Self is acting on a goal to harm another agent for food."]
+            }
+        }
+    }]
+}

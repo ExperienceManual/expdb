@@ -1,0 +1,58 @@
+{
+    "lang": "en/us",
+    "createDate": "20241228",
+    "updateDate": "20250407",
+    "name": "humor",
+    "valence": 1,
+    "quote": "I liked the joke about the witch!",
+    "description": "Delight driven by unusual social tension or connection that is perceived as clever and harmless to the self and other important people.",
+    "related": ["playful","surprise","social tension"],
+    "opposites": ["failed humor can go in many directions"],
+    "variations": [{
+        "name": "slapstick humor",
+        "description": "Slapstick humor is physical, e.g. someone tripping but not hurt."
+    },{
+        "name": "verbal humor",
+        "description": "Verbal humor can be jokes, puns, stories, insults, witty observations, etc."
+    },{
+        "name": "teasing",
+        "description": "Teasing is a gently irritating social interaction that can be verbal or physical."
+    },{
+        "name": "repetitive humor",
+        "description": "Surprise can be a factor in finding something funny, but old favorite jokes can still amuse."
+    },{
+        "name": "silly humor",
+        "description": "Attempts at humor that seem obvious, over-the-top, or cringingly manufactured.",
+        "examples": ["dad jokes"]
+    },{
+        "name": "gross humor",
+        "description": "Attempts at humor that involve bodily fluids or noises that make young kids giggle."
+    }],
+    "commentaries": [{
+        "quote": "Laughter doesn't always mean something is funny. It can also be a social signal that there's some kind of tension that the laugher hopes will resolve harmlessly."
+    },{
+        "quote": "Failed humor can be experienced in many ways, including: weird, gross, concern, cringe, embarrassment, disagreement, disappointment, humiliation, anger, and anxiety."
+    }],
+    "spectrum": {
+	"amusing": 1,
+	"humorous": 3,
+	"funny": 5,
+	"hilarious": 8,
+	"ROFL": 10
+    },
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            }, 
+            "3": {
+                "conditions": ["Unusual tension or connection, often social, that is perceived as clever and/or harmless."]
+            },
+            "2,1": {
+                "experiences": ["delight"]
+            }
+        }
+    }]
+}

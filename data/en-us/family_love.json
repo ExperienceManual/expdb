@@ -1,0 +1,51 @@
+{
+    "lang": "en/us",
+    "createDate": "20250301",
+    "updateDate": "20250301",
+    "name": "family love",
+    "valence": 1,
+    "quote": "She loved the adopted child as her own.",
+    "description": "A deep sense that your very existence is interwoven with that of another person or people.",
+    "related": ["love","desire for parenthood","companionship","subordination"],
+    "opposites": ["group hate"],
+    "examples": ["your parents","your children","siblings"],
+    "variations": [{
+        "name": "baby love",
+        "description": "The deep sense that this little person is a part of you and depends on you.",
+        "links": ["desire to protect","pride"]
+    },{
+        "name": "parent love",
+        "description": "A sense of gratitude and respect for the people that brought into the world."
+    },{
+        "name": "family duty",
+        "description": "Supporting a family member even if they don't invoke consistently positive feelings.",
+        "links": ["responsibility"],
+        "examples": ["He still helped his dad despite their differences."]
+    },{
+        "name": "estranged family",
+        "description": "Family members who you're no longer talking to because they create more negative feelings than positive.",
+        "examples": ["There was a split in the family after the Thanksgiving argument."]
+    }],
+    "commentaries": [{
+        "quote": "Family is a unique gift that needs to be appreciated and treasured, even when they're driving you crazy.",
+        "attribution": "Jenna Morasca"
+    },{
+        "quote": "Home is where you are loved the most and act the worst.",
+        "attribution": "Marjorie Pay Hinckley"
+    }],
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            }, 
+            "3": {
+                "conditions": ["The sense that your existential self is interwoven with another person or people."]
+            },
+            "2,1": {
+                "experiences": ["comfort"]
+            }
+        }
+    }]
+}

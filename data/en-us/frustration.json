@@ -1,0 +1,64 @@
+{
+    "lang": "en/us",
+    "createDate": "20250312",
+    "updateDate": "20250312",
+    "name": "frustration",
+    "valence": -1,
+    "quote": "I can't figure out how to solve it!",
+    "description": "The sense that you've been repeatedly blocked from reaching a desired outcome and fear that failure may be near.",
+    "related": ["annoyance","impatience","discouragement","failure"],
+    "opposites": ["calmness","triumph"],
+    "variations": [{
+        "name": "social frustration",
+        "description": "The sense that a social goal is being blocked by someone.",
+        "links": ["losing"],
+        "examples": ["I think I deserve employee of the month, but my boss doesn't like me."]
+    },{
+        "name": "self frustration",
+        "description": "A sense that there must be something wrong with your own abilities for not being able to achieve the outcome.",
+        "links": ["self-condemnation"]
+    },{
+        "name": "bad luck frustration",
+        "description": "A sense of injustice that you keep getting blocked from a certain outcome by chance events.",
+        "examples": ["This is the fourth time I've had to reschedule the picnic!"]
+    },{
+        "name": "existential frustration",
+        "description": "The sense that you just want some measure of satisfaction but don't know how the universe wants you to achieve it."
+    },{
+        "name": "questionable task frustration",
+        "description": "Being unsure that you can achieve a certain goal while at the same time questioning whether the goal is actually worthwhile.",
+        "links": ["dissonance"],
+        "examples": ["Do we really have to go through this?"]
+    }],
+    "commentaries": [{
+        "quote": "Frustration is proportional to the fear of failure."
+    },{
+        "quote": "It is hardly possible to build anything if frustration, bitterness, and a mood of helplessness prevail.",
+        "attribution": "Lech Walesa"
+    },{
+        "quote": "My annoyance became frustration, which became anger, which became hate, and hate is a long-burning fuel.",
+        "attribution": "Hank Green"
+    }],
+    "spectrum": {
+        "annoyance": 1,
+        "irritation": 2,
+        "resentment": 3,
+        "frustration": 3,
+        "impatience": 4,
+        "vexation": 4,
+        "anger": 5,
+        "rage": 7
+    },
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            }, 
+            "3,2,1": {
+                "conditions": ["A desire to complete a certain goal.","A sense of being repeatedly blocked from reaching that goal after a reasonable amount of effort."]
+            }
+        }
+    }]
+}

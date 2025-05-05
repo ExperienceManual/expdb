@@ -1,0 +1,30 @@
+{
+    "lang": "en/us",
+    "createDate": "20250215",
+    "updateDate": "20250215",
+    "name": "dissatisfaction",
+    "valence": -1,
+    "quote": "We could have done better.",
+    "description": "The sense that an event or person does not meet expectations, but that it doesn't affect things too badly.",
+    "related": ["dismay"],
+    "opposites": ["satisfaction","delight"],
+    "variations": [{
+        "name": "worried dissatisfaction",
+        "description": "If you're worried about the results of the event missing expectations, there may be dismay."
+    },{
+        "name": "mental dissatisfaction",
+        "description": "The sense that mental patterns aren't properly aligned. For example, if you perceive that the answer to the trivia question is debatable."
+    }],
+    "commentaries": [{
+        "quote": "We're always judging whether events and people meet our expectations. If they just reach that bar, we may feel satisfaction or relief. If they miss the mark, we may feel dissatifaction or dismay. On the rare occasion things are better than we'd hoped for, the result is delight."
+    }],
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4,3,2,1": {
+                "conditions": ["Self perceives that an event or person did not meet expectations, but that this is not an urgent problem."]
+            }
+        }
+    }]
+}

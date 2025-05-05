@@ -1,0 +1,36 @@
+{
+    "lang": "en/us",
+    "createDate": "20250223",
+    "updateDate": "20250223",
+    "name": "calmness",
+    "valence": 0,
+    "quote": "It's all good.",
+    "description": "You have a mild and comfortable energy level -- not too high, not too low.",
+    "description": "A state where no emotions or insistent thoughts are stirring the mind.",
+    "related": ["desire for quiet","meditative"],
+    "opposites": ["excitement","anxiety"],
+    "commentaries": [{
+        "quote": "The cultural term 'cool' is a celebration of calmness. It's positive because people who can react calmly to things likely have confidence and self-mastery."
+    },{
+        "quote": "Our waking minds are not often truly calm because the deepest self loves the frantic shadows cast from above."
+    },{
+        "quote": "The best most of us can do to approximate tranquility is instant suppression of energy spikes."
+    }],
+    "spectrum": {
+        "calmness": 3,
+        "tranquility": 5,
+        "serenity": 5
+    },
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4,3,2": {
+                "experiences": ["many"]
+            },
+            "1": {
+                "conditions": ["You have a mild, comfortable, energy level -- not too high, not too low."]
+            }
+        }
+    }]
+}

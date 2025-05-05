@@ -1,0 +1,28 @@
+{
+    "lang": "en/us",
+    "createDate": "20241201",
+    "updateDate": "20250213",
+    "name": "bittersweet",
+    "valence": 0,
+    "quote": "Romeo and Juliet is a tragic love story.",
+    "description": "Having both a positive and negative sensation at the same time.",
+    "related": ["consolation"],
+    "commentaries": [{
+        "quote":"Bittersweet is a balance of positive and negative while a consolation is a small positive amidst a larger negative situation."
+    }],
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            },
+            "3": {
+                "conditions": ["Perception that an event has roughly equal positives and negatives."]
+            },
+            "2,1": {
+                "experiences": ["delight","dismay"]
+            }
+        }
+    }]
+}

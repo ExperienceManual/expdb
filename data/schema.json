@@ -1,0 +1,219 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "type": "object",
+  "additionalProperties": false,
+  "default": {},
+  "title": "Root Schema",
+  "required": [
+    "lang",
+    "createDate",
+    "updateDate",
+    "name",
+    "valence",
+    "description",
+    "models"
+  ],
+  "properties": {
+    "lang": {
+      "type": "string",
+      "examples": [
+        "en/us"
+      ]
+    },
+    "createDate": {
+      "type": "string",
+      "examples": [
+        "20250217"
+      ]
+    },
+    "updateDate": {
+      "type": "string",
+      "examples": [
+        "20250217"
+      ]
+    },
+    "name": {
+      "type": "string"
+    },
+    "valence": {
+      "type": "integer",
+      "default": 0,
+      "examples": [
+        1
+      ]
+    },
+    "quote": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "links": {
+      "type": "array",
+      "default": [],
+      "items": {
+        "type": "string"
+      }
+    },
+    "related": {
+      "type": "array",
+      "default": [],
+      "items": {
+        "type": "string"
+      }
+    },
+    "opposites": {
+      "type": "array",
+      "default": [],
+      "items": {
+        "type": "string"
+      }
+    },
+    "examples": {
+      "type": "array",
+      "default": [],
+      "items": {
+        "type": "string"
+      }
+    },
+    "variations": {
+      "type": "array",
+      "default": [],
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "default": {},
+        "required": [
+          "name",
+          "description"
+        ],
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string"
+          },
+          "links": {
+            "type": "array",
+            "default": [],
+            "items": {
+              "type": "string"
+            }
+          },
+          "examples": {
+            "type": "array",
+            "default": [],
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "comparisons": {
+      "type": "array",
+      "default": [],
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "default": {},
+        "required": [
+          "links",
+          "description"
+        ],
+        "properties": {
+          "links": {
+            "type": "array",
+            "default": [],
+            "items": {
+              "type": "string"
+            }
+          },
+          "description": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "commentaries": {
+      "type": "array",
+      "default": [],
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "default": {},
+        "required": [
+          "quote"
+        ],
+        "properties": {
+          "quote": {
+            "type": "string"
+          },
+          "attribution": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "spectrum": {
+      "type": "object",
+      "required": [],
+      "properties": {}
+    },
+    "models": {
+      "type": "array",
+      "default": [],
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "default": {},
+        "required": [
+          "version",
+          "type"
+        ],
+        "properties": {
+          "version": {
+            "type": "string"
+          },
+          "type": {
+            "type": "string"
+          },
+          "levels": {
+            "type": "object",
+            "default": {},
+            "patternProperties": {
+              "^[0-9]+": {
+                "type": "object",
+                "default": {},
+                "properties": {
+                  "experiences": {
+                    "type": "array",
+                    "default": [],
+                    "items": {
+                      "type": "string"
+                    }
+                  },
+                  "variations": {
+                    "type": "array",
+                    "default": [],
+                    "items": {
+                      "type": "string"
+                    }
+                  },
+                  "conditions": {
+                    "type": "array",
+                    "default": [],
+                    "items": {
+                      "type": "string"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+    "lang": "en/us",
+    "createDate": "20250215",
+    "updateDate": "20250215",
+    "name": "loneliness",
+    "valence": 1,
+    "quote": "I miss him so much.",
+    "description": "Sadness from lack of significant social contact.",
+    "related": ["desire for social contact","sadness","emptiness"],
+    "opposites": ["happiness"],
+    "variations": [{
+        "name": "lonely in a crowd",
+        "description": "Even surrounded by others, you can be saddened by the lack of a specific type of social interaction."
+    },{
+        "name": "isolation loneliness",
+        "description": "If you've been by yourself for an extended period, you may perceive most any social contact as significant."
+    }],
+    "models": [{
+        "version": "em1",
+        "type": "",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            }, 
+            "3,2": {
+                "conditions": ["You perceive that the social situation is not living up to what's desired."]
+            },
+            "1": {
+                "experiences": ["dismay"]
+            }
+        }
+    }]
+}

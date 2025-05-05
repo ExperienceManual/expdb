@@ -1,0 +1,52 @@
+{
+    "lang": "en/us",
+    "createDate": "20250215",
+    "updateDate": "20250215",
+    "name": "agency",
+    "valence": 0,
+    "quote": "I got this.",
+    "description": "The sense that your actions or decisions are your own and they're important.",
+    "related": ["desire for agency","self-confidence","aspiration", "ambition"],
+    "opposites": ["subordination","hopelessness","ennui"],
+    "variations": [{
+        "name": "responsible agency",
+        "description": "The sense that you are willing and able to perform tasks expected of you.",
+        "links": ["responsibility"]
+    },{
+        "name": "insubordination",
+        "description": "Making your own decision in conflict to a request or demand from an important person in the social group. This may come with consequence or a loss of status with that group."
+    },{
+        "name": "ambitious agency",
+        "description": "The sense that you can improve the situation beyond what is expected of you."
+    },{
+        "name": "controlling agency",
+        "description": "A feeling that you are needed to guide or correct the actions of others whether they agree with you or not.",
+        "links": ["desire for control"]
+    },{
+        "name": "existential agency",
+        "description": "A sense that your actions are aligned with a deep sense of purpose.",
+        "links": ["desire for meaning"]
+    }],
+    "commentaries": [{
+        "quote": "Cultures have different views on the balance between personal agency and being part of the group, but most people have a desire to make some of their own decisions."
+    },{
+        "quote": "Many people over-emphasize the importance of their control, and many more under-emphasize it. There's no right balance that's going to work in all situations."
+    },{
+        "quote": "Civilization works only because we humans can operate independently or let go of some self-interest in order to work together in groups."
+    }],
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            }, 
+            "3,2": {
+                "conditions": ["A perception that your actions or decisions are your own and they're important."]
+            },
+            "1": {
+                "experiences": ["satisfaction"]
+            }
+        }
+    }]
+}

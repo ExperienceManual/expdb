@@ -1,0 +1,42 @@
+{
+    "lang": "en/us",
+    "createDate": "20250208",
+    "updateDate": "20250213",
+    "name": "overwhelmed",
+    "valence": -1,
+    "quote": "I need a vacation.",
+    "description": "Not knowing how to respond to too many demands or too much stimulation.",
+    "related": ["desire for quiet","anxiety"],
+    "opposites": ["desire for stimulation","playful"],
+    "variations": [{
+        "name": "feeling out of control",
+        "description": "An uncomfortable sense that events have spiraled out of your control.",
+        "links": ["desire for agency"]
+    },{
+        "name": "too much to process",
+        "description": "When hit with a completely unexpected event you may not know how to respond."
+    }],
+    "commentaries": [{
+        "quote": "Dealing with the complications of modern life can strain your ability to keep up with it: bills, appointments, home ownership, parenthood, spam, avoiding scams, traffic, making ends meet, relationships. It all adds up. Consider taking one thing at a time."
+    }],
+    "spectrum": {
+        "busy": 1,
+        "overwhelmed": 5,
+        "panic attack": 10
+    },
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            }, 
+            "3,2": {
+                "conditions": ["Environmental demands are greater than you perceive you can handle"]
+            },
+            "1": {
+                "experiences": ["anxiety"]
+            }
+        }
+    }]
+}

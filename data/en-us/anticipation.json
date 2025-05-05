@@ -1,0 +1,23 @@
+{
+    "lang": "en/us",
+    "createDate": "20250217",
+    "updateDate": "20250412",
+    "name": "anticipation",
+    "valence": 0,
+    "quote": "Looking forward to finding out what happens.",
+    "description": "Waiting to perceive which of several predicted outcomes happens.",
+    "related": ["prediction","hope","hopelessness","optimism","pessimism","doubt"],
+    "opposites": ["confusion"],
+    "commentaries": [{
+        "quote": "We automatically predict what things might happen next, we may try to influence the outcome, and then have to wait to see which prediction happens. That period of anticipation may be pleasant or unpleasant, hopeful or hopeless."
+    }],
+    "models": [{
+        "version": "em1",
+        "type": "impulse",
+        "levels": {
+            "4,3,2,1": {
+                "conditions": ["Waiting to perceive which of several predicted outcomes happens."]
+            }
+        }
+    }]
+}

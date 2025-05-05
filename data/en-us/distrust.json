@@ -1,0 +1,52 @@
+{
+    "lang": "en/us",
+    "createDate": "20250426",
+    "updateDate": "20250426",
+    "name": "distrust",
+    "valence": -1,
+    "quote": "They've screwed up my order too often.",
+    "description": "Prediction that a person, group, tool, or idea will not behave in the way you would prefer.",
+    "related": ["pessimism"],
+    "opposites": ["trust","optimism"],
+    "variations": [{
+        "name": "social distrust",
+        "description": "A prediction that a person or group will behave in an undesirable way.",
+        "examples": ["assuming your kid will waste too much time with video games","not trusting the government agency to finish the permit on time"]
+    },{
+        "name": "distrust in a tool",
+        "description": "Prediction that a non-living thing will not be useful in accomplishing something.",
+        "examples": ["I don't think that low tire is going to make it to the service station."]
+    },{
+        "name": "distrust in an idea",
+        "description": "Prediction that a concept will not be useful in accomplishing something.",
+        "examples": ["He doesn't trust an unregulated market to be safe for consumers."]
+    },{
+        "name": "account of distrust",
+        "description": "We keep an internal tally of how much a person or group has earned or spent our willingness to trust them.",
+        "examples": ["He never pays me back on time."]
+    }],
+    "comparisons": [{
+        "links": ["pessimism"],
+        "description": "Pessimism focuses more on the general outcome, for example, that you're probably going to lose the game. Distrust is about specific things, for instance, that you have bad luck or that your opponent is probably going to cheat."
+    }],
+    "commentaries": [{
+        "quote": "Trust and distrust in a particular something we've never had exposure to is based on generalizing characteristics that are similar to things we do have experience with. Yeah, it's basically stereotyping, and it's the way the brain handles the unknown. What matters is how we approach someone or something that is not initially trusted."
+    },{
+        "quote": "In some social circles, distrusting by default is considered cool. Because trust can make you vulnerable. It may be worth considering the kind of environment that outlook creates."
+    },{
+        "quote": "Low trust is the greatest cost in life and in organizations, including families. Low trust creates hidden agendas, politics, interpersonal conflict, interdepartmental rivalries, win-lose thinking, defensive and protective communication.",
+        "attribution": "Stephen M. R. Covey"
+    }],
+    "models": [{
+        "version": "em1",
+        "type": "impulse",
+        "levels": {
+            "4,3,2": {
+                "conditions": ["Prediction that a person, group, tool, or idea will not behave in the way you would prefer."]
+            },
+            "1": {
+                "experiences": ["dissatisfaction"]
+            }
+        }
+    }]
+}

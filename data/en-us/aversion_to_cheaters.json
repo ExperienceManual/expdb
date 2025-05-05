@@ -1,0 +1,29 @@
+{
+    "lang": "en/us",
+    "createDate": "20250221",
+    "updateDate": "20250222",
+    "name": "aversion to cheaters",
+    "valence": -1,
+    "quote": "Hey dude, the back of the line is over there!",
+    "description": "Negative feelings about people who break an important social rule.",
+    "related": ["dismay","criticism","horror","aversion","contempt"],
+    "opposites": ["admiration"],
+    "commentaries": [{
+        "quote": "A social system may be able to handle a small number of cheaters, but without strong aversion signals, there could become too many cheaters to deal with. This applies to many taboos like cutting in line, freeloading off handouts, stealing, extra-marital affairs, etc."
+    }],
+    "models": [{
+        "version": "em1",
+        "type": "impulse",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            },
+            "3,2": {
+                "conditions": ["You perceive an important rule has been broken and you feel the offender should be made to understand the importance."]
+            },
+            "1": {
+                "experiences": ["dismay"]
+            }
+        }
+    }]
+}

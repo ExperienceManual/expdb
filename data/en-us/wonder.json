@@ -1,0 +1,53 @@
+{
+    "lang": "en/us",
+    "createDate": "20250406",
+    "updateDate": "20250406",
+    "name": "wonder",
+    "valence": 1,
+    "quote": "Everyone was talking about what happened in the movie.",
+    "description": "A sensation that challenges your inner model of the world in a non-threatening way.",
+    "related": ["awe","delight","excitement"],
+    "opposites": ["boredom","ennui"],
+    "variations": [{
+        "name": "wonder of nature",
+        "description": "A sense of fascination about plants or animals.",
+        "examples": ["ant colony"]
+    },{
+        "name": "inspirational wonder",
+        "description": "An inspiring sense of amazement about something that opens possibilities in your mind.",
+        "links": ["inspirational admiration","epiphany"],
+        "examples": ["I had no idea that was possible!"]
+    }],
+    "commentaries": [{
+        "quote": "Nature and history are infinitely layered tapestries of wonder and terror."
+    },{
+        "quote": "Wisdom begins in wonder.",
+        "attribution": "Socrates"
+    },{
+        "quote": "If our religion is based on salvation, our chief emotions will be fear and trembling. If our religion is based on wonder, our chief emotion will be gratitude.",
+        "attribution": "Carl Jung"
+    },{
+        "quote": "The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself.",
+        "attribution": "Henry Miller"
+    }],
+    "spectrum": {
+        "wonder": 2,
+        "awe": 5,
+        "stupifying": 8
+    },
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            }, 
+            "3": {
+                "conditions": ["A perception that challenges your inner model of the world in a non-threatening way."]
+            },
+            "2,1": {
+                "experiences": ["delight"]
+            }
+        }
+    }]
+}

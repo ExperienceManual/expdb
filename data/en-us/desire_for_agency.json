@@ -1,0 +1,41 @@
+{
+    "lang": "en/us",
+    "createDate": "20250120",
+    "updateDate": "20250213",
+    "name": "desire for agency",
+    "valence": 0,
+    "quote": "Dad, I'm not a little kid anymore.",
+    "description": "The feeling that others are making too many decisions for you.",
+    "related": ["responsibility","self-confidence","aspiration", "ambition","agency"],
+    "opposites": ["apathy","aimlessness","hopelessness"],
+    "variations": [{
+        "name": "growing in responsibility",
+        "description": "If you know that you've been in a training stage, then becoming ready for more responsibility is part of the process. It may come with impatience if others don't recognize your readiness."
+    },{
+        "name": "being held back",
+        "description": "If you feel held back by those who are making decisions for you, this may come with frustration or anger, especially if you disagree with them."
+    },{
+        "name": "desire for control",
+        "description": "Wanting to be able to choose which experiences you have."
+    }],
+    "commentaries": [{
+        "quote": "It's normal to want to feel free of unnecessary constraints on your decision-making. But it may be helpful to understand the reason for the constraint before becoming upset by it. Society's shared assets cannot not work at scale if everyone has complete freedom to make whatever decisions they want."
+    },{
+        "quote": "Agency probably isn't important to hive creatures like ants and bees. But it is important to all other social creatures who are required to be able survive alone or in small groups."
+    }],
+    "models": [{
+        "version": "em1",
+        "type": "impulse",
+        "levels": {
+            "4,3": {
+                "experience": ["narration"]
+            }, 
+            "2": {
+                "conditions": ["Desire to control your own experiences more than currently deemed possible."]
+            },
+            "1": {
+                "experiences": ["anxiety"]
+            }
+        }
+    }]
+}

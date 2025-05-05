@@ -1,0 +1,41 @@
+{
+    "lang": "en/us",
+    "createDate": "20250428",
+    "updateDate": "20250501",
+    "name": "conspiratorial",
+    "valence": 0,
+    "quote": "We're planning to get people to boycott that business.",
+    "description": "Being part of a group that is considering or implementing a surprise action affecting someone or something.",
+    "related": ["surprise"],
+    "opposites": ["openness"],
+    "variations": [{
+        "name": "positive conspiracy",
+        "description": "A group implementing a surprise that will benefit the target.",
+        "examples": ["planning a big surprise party for someone"]
+    },{
+        "name": "negative conspiracy",
+        "description": "A group implementing a surprise that will negatively impact the target.",
+        "links": ["cheating","attack"],
+        "examples": ["rigging an election"]
+    }],
+    "comparisons": [{
+        "links": ["conspiracy minded"],
+        "description": "Conspiratorial is the experience of carrying out an actual conspiracy, while 'conspiracy minded' is the perception that conspiracies are afoot everywhere."
+    }],
+    "commentaries": [{
+        "quote": "Being involved in any kind of hidden aggression is likely to bond you close to some people and irritate or anger others. It might be worth considering whether the cost of social trust is worth the desired new status quo."
+    }],
+    "models": [{
+        "version": "em1",
+        "type": "impulse",
+        "levels": {
+            "4,3": {
+                "conditions": ["Being part of a group that is considering or implementing a surprise action affecting someone or something."]
+            },
+            "2,1": {
+                "experiences": ["excitement","anxiety"],
+                "description": ["Positive and negative conspiracy are perceived differently. One is an act of friendship, one is an attack."]
+            }
+        }
+    }]
+}

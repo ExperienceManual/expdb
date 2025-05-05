@@ -1,0 +1,44 @@
+{
+    "lang": "en/us",
+    "createDate": "20250208",
+    "updateDate": "20250213",
+    "name": "failure",
+    "valence": -1,
+    "quote": "It's all my fault.",
+    "description": "Something you had valued is gone and you perceive the loss was due to your own actions.",
+    "related": ["losing","regret"],
+    "opposites": ["gaining","triumph"],
+    "variations": [{
+        "name": "garden variety failure",
+        "description": "An experience we take in stride and learn from."
+    },{
+        "name": "failure sickness",
+        "description": "An overreaction to a mistake with a perceived loss of social status and sense of shame."
+    },{
+        "name": "failure in others",
+        "description": "Disappointment in the actions of others."
+    }],
+    "commentaries": [{
+        "quote": "Some of us are all too ready to blame ourselves for small things. Others are unwilling to recognize even big mistakes."
+    },{
+        "quote": "Fear of failure can keep us from trying anything."
+    },{
+        "quote": "Brain patterns cannot get better without the recalibration that comes from both success and failure."
+    }],
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            }, 
+            "3,2": {
+                "variations": ["failure", "garden variety failure", "failure sickness"],
+                "conditions": ["The state of the world is perceived to have changed in a negative way and is viewed as the self's fault."]
+            },
+            "1": {
+                "experiences": ["dismay"]
+            }
+        }
+    }]
+}

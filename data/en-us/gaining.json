@@ -1,0 +1,61 @@
+{
+    "lang": "en/us",
+    "createDate": "20250206",
+    "updateDate": "20250213",
+    "name": "gaining",
+    "valence": 1,
+    "quote": "I got the job!",
+    "description": "Something you had previously wanted is now yours.",
+    "related": ["happiness"],
+    "opposites": ["losing"],
+    "variations": [{
+        "name": "winning a game or contest",
+        "links": ["challenge"],
+        "description": "Many contests involve an element of chance, so winning often comes with an element of pleasant surprise. If any skill was involved, it may come with some pride."
+    },{
+        "name": "winning an important contest you were favored to lose",
+        "links": ["challenge"],
+        "description": "If you or your team were the predicted losers, a win may may affect perceived social status, provide a sense of triumph, or other positive experiences. It may come with gratitude.",
+        "links": ["surprise","gain of social status"]
+    },{
+        "name": "gaining a loved one",
+        "description": "It's not often we gain special relationships like friends, lovers, children, and pets. So when it happens, it may be cause for gratitude.",
+        "links": ["love","desire for parenthood","companionship"]
+    },{
+        "name": "gaining an important asset",
+        "description": "If something special is gained like a job or a house, it may cause pride, relief, and gratitude."
+    },{
+        "name": "gaining social status",
+        "description": "If the win comes with a perceived upgrade in social status, it will likely come with some rewarding brain chemicals.",
+        "links": ["gain of social status"]
+    },{
+        "name": "gaining something considered neutral or negative",
+        "description": "Phrases like 'gaining weight' and 'gaining enemies' are just double negatives -- these can be interpreted to mean 'losing fitness' and 'losing friends'.",
+        "links": ["losing"]
+    }],
+    "spectrum": {
+        "gaining": 3,
+        "winning": 5
+    },
+    "commentaries": [{
+        "quote": "When you've had a relatively easy life where you have most everything you really want, 'gaining' things seems like the norm. That can make 'not gaining' feel like 'losing', and actual loss feel intolerable."
+    },{
+        "quote": "It's not whether you win or lose, but how you play the game.",
+        "attribution": "Grantland Rice"
+    }],
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            }, 
+            "3,2": {
+                "conditions": ["The state of the world changes in a way you perceive as positive."]
+            },
+            "1": {
+                "experiences": ["delight"]
+            }
+        }
+    }]
+}

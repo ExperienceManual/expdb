@@ -1,0 +1,27 @@
+{
+    "lang": "en/us",
+    "createDate": "20250223",
+    "updateDate": "20250223",
+    "name": "imagination",
+    "valence": 0,
+    "quote": "She drew a horse with feathers.",
+    "description": "Ability to create a mental object that was previously not experienced.",
+    "related": ["daydreaming","problem solving","playful"],
+    "opposites": ["conventional"],
+    "commentaries": [{
+        "quote": "Imagination is sometimes thought of as a fun kid thing, but it's a critical part of many careers. For example, creativity in engineering and design drives those markets."
+    },{
+        "quote": "We must enjoy experiencing imagined things because we do it a lot."
+    },{
+        "quote": "Imagination may feel instantaneous but it's not. Here's how it works: (1) desire to mentally experience something that solves certain constraints. (2) let your sub-conscious focus on those constraints. It will come up with something. (3) Consider the results and refine the constraints as needed. For example: draw a creature that will make my kid smile. She likes dogs. A flying dog could be fun. But she also likes frogs and a flying frog would be even sillier."
+    }],
+    "models": [{
+        "version": "em1",
+        "type": "capacity",
+        "levels": {
+            "4,3": {
+                "conditions": ["A desire to create a mental experience with certain constraints."]
+            }
+        }
+    }]
+}

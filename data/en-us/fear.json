@@ -1,0 +1,64 @@
+{
+    "lang": "en/us",
+    "createDate": "20250223",
+    "updateDate": "20250223",
+    "name": "fear",
+    "valence": -1,
+    "quote": "Watch out for that car!",
+    "description": "A perception of major physical or social danger that you're not prepared to handle.",
+    "related": ["desire for safety","horror","anxiety","paranoia"],
+    "opposites": ["calmness"],
+    "variations": [{
+        "name": "physical fear",
+        "description": "Perception that a life-threatening event is happening or about to happen to you or an important other.",
+        "links": ["desire for comfort"],
+        "examples": ["victim of violent crime","extreme sports"]
+    },{
+        "name": "social fear",
+        "description": "Perception that something is happening or about to happen that will significantly change your social standing.",
+        "links": ["loss of social status"],
+        "examples": ["I think I'm going to get fired."]
+    },{
+        "name": "phobia",
+        "description": "A strong, often irrational, fear about something that could theoretically be dangerous, but most often is not.",
+        "links": ["aversion to unpopular creatures","paranoia"],
+        "examples": ["He's afraid to travel by air."]
+    }],
+    "commentaries": [{
+        "quote": "Our lives are shaped, driven, and preserved by the threat of future pain: fear of doing something dangerous, fear of missing out, fear of looking stupid, fear of appearing weak. The list goes on, for good and for bad."
+    },{
+        "quote": "The oldest and strongest emotion of mankind is fear, and the oldest and strongest kind of fear is fear of the unknown.",
+        "attribution": "H.P. Lovecraft"
+    },{
+        "quote": "I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain.",
+        "attribution": "Frank Herbert in Dune"
+    }],
+    "spectrum": {
+        "concern": 1,
+        "worry": 1,
+        "anxiety": 2,
+        "apprehension": 3,
+        "fear": 4,
+        "dread": 5,
+        "horror": 6,
+        "terror": 7,
+        "panic": 9
+    },
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            }, 
+            "3,2": {
+                "variations": ["social fear"],
+                "conditions": ["Perception that something is happening or about to happen that will significantly change your social standing."]
+            },
+            "1": {
+                "variations": ["physical fear"],
+                "conditions": ["Perception that a life-threatening event is happening or about to happen to you or an important other."]
+            }
+        }
+    }]
+}
