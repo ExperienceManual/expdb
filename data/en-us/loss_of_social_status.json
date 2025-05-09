@@ -26,13 +26,10 @@
         "quote": "The loss of status is a special case of 'losing' in general. It's highlighted here because for most of us, it's our most important asset. Even money is less important because at least you can couch surf if you have friends."
     },{
         "quote": "Even though a loss of status in the modern world is rarely going to kill us, it still triggers deep instincts and brain chemicals meant to keep us tied to the safety of the group."
-    },{
-        "quote": "After being restructured out of a management job, there was a deep void where respect and satisfaction had once lived. My people were gone. What had I done?",
-        "attribution": "bg"
     }],
     "models": [{
         "version": "em1",
-        "type": "",
+        "type": "sensation",
         "levels": {
             "4": {
                 "experiences": ["narration"]

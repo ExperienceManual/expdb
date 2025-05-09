@@ -33,7 +33,6 @@
     "models": [{
         "version": "em1",
         "type": "impulse",
-        "type": "",
         "levels": {
             "4": {
                 "experiences": ["narration"]

@@ -45,7 +45,7 @@
     },
     "models": [{
         "version": "em1",
-        "type": "process",
+        "type": "sensation",
         "levels": {
             "4": {
                 "experiences": ["narration"]

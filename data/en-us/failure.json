@@ -1,11 +1,11 @@
 {
     "lang": "en/us",
     "createDate": "20250208",
-    "updateDate": "20250213",
+    "updateDate": "20250505",
     "name": "failure",
     "valence": -1,
     "quote": "It's all my fault.",
-    "description": "Something you had valued is gone and you perceive the loss was due to your own actions.",
+    "description": "Sadness caused by something you had valued being taken from you and the loss is perceived as being due to your own actions.",
     "related": ["losing","regret"],
     "opposites": ["gaining","triumph"],
     "variations": [{
@@ -17,6 +17,19 @@
     },{
         "name": "failure in others",
         "description": "Disappointment in the actions of others."
+    }],
+    "comparisons": [{
+        "links": ["losing"],
+        "description": "Failure is a loss where you blame yourself."
+    },{
+        "links": ["regret"],
+        "description": "Regret is when you're disappointed in the outcome of a perceived failure and not so focused on your actions that may have led to the failure."
+    },{
+        "links": ["guilt"],
+        "description": "Guilt is when you're hard on yourself for a perceived failure in something socially or morally important, probably in an effort to avoid repeating it."
+    },{
+        "links": ["shame"],
+        "description": ""
     }],
     "commentaries": [{
         "quote": "Some of us are all too ready to blame ourselves for small things. Others are unwilling to recognize even big mistakes."

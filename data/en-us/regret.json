@@ -1,0 +1,57 @@
+{
+    "lang": "en/us",
+    "createDate": "20250505",
+    "updateDate": "20250505",
+    "name": "regret",
+    "valence": -1,
+    "quote": "I'm sorry it didn't work out.",
+    "description": "Sadness from a perception that an experience could have been much better if things had gone the way you had hoped for.",
+    "related": ["sadness","losing","failure"],
+    "opposites": ["happiness","gaining"],
+    "examples": ["The concert was an unfortunate waste of time."],
+    "variations": [{
+        "name": "social regret",
+        "description": "Sadness from perceiving that the social world could be better in some way if something had been different.",
+        "examples": ["I regret losing touch with an old friend."]
+    },{
+        "name": "existential regret",
+        "description": "Sadness from perceiving that an important aspect of your life has not gone according to plan.",
+        "examples": ["I shouldn't have gone into this career.","I should have started a spiritual journey sooner."]
+    },{
+        "name": "emergent regret",
+        "description": "Sadness from perceiving a negative outcome that's your fault in only a small way.",
+        "examples": ["I wish we didn't create so much plastic garbage."]
+    }],
+    "comparisons": [{
+        "links": ["guilt"],
+        "description": "Guilt focuses on your actions while regret focuses on the outcome. For example, you may regret an unfortunate accident that couldn't have been avoided, but may feel guilty about taking an extra cookie."
+    },{
+        "links": ["embarassment"],
+        "description": "You might regret the outcome of a minor embarassing action, but it doesn't fundamentally change your social status."
+    }],
+    "commentaries": [{
+        "quote": "I haven't lived a perfect life. I have regrets. But that's from a lifetime of taking chances, making decisions, and trying not to be frozen. The only thing that I can do with my regrets is understand them.",
+        "attribution": "Kevin Costner"
+    },{
+        "quote": "I have made it a rule of my life never to regret and never to look back. Regret is an appalling waste of energy, and no one who intends to become a writer can afford to indulge in it. You can't get it into shape; you can't build on it; it's only good for wallowing in.",
+        "attribution": "Katherine Mansfield"
+    },{
+        "quote": "We must all suffer from one of two pains: the pain of discipline or the pain of regret. The difference is discipline weighs ounces while regret weighs tons.",
+        "attribution": "Jim Rohn"
+    }],
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            }, 
+            "3": {
+                "conditions": ["A perception that an experience could have been much better if things had gone the way you had hoped for."]
+            },
+            "2,1": {
+                "experiences": ["dismay"]
+            }
+        }
+    }]
+}

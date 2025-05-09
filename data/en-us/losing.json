@@ -1,11 +1,11 @@
 {
     "lang": "en/us",
     "createDate": "20250206",
-    "updateDate": "20250213",
+    "updateDate": "20250505",
     "name": "losing",
     "valence": -1,
     "quote": "Where, oh where, has my little dog gone?",
-    "description": "Something you had valued is gone without anything to show for it.",
+    "description": "Sadness caused by something you had valued being taken from you without anything to show for it.",
     "related": ["failure", "sadness","regret"],
     "opposites": ["gaining"],
     "variations": [{

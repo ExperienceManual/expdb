@@ -1,0 +1,60 @@
+{
+    "lang": "en/us",
+    "createDate": "20250505",
+    "updateDate": "20250505",
+    "name": "guilt",
+    "valence": -1,
+    "quote": "I'm sorry I said that.",
+    "description": "Sadness from a perception that your behavior did not meet one of your own important standards.",
+    "related": ["sadness","regret","losing","desire to improve"],
+    "opposites": ["happiness","pride"],
+    "variations": [{
+        "name": "social guilt",
+        "description": "Sadness from perceiving that the social world could be better in some way if you hadn't made a particular mistake.",
+        "examples": ["I should have invited John too.","Lying to a friend"]
+    },{
+        "name": "existential guilt",
+        "description": "Sadness from perceiving that your deepest self could be better in some way if you hadn't made a particular mistake.",
+        "examples": ["I've been a neglectful father."]
+    },{
+        "name": "emergent guilt",
+        "description": "Sadness from perceiving a problem in the world that's your fault in some small way.",
+        "examples": ["I shouldn't discard so much plastic."]
+    }],
+    "comparisons": [{
+        "links": ["shame"],
+        "description": "Guilt focuses on a mistaken behavior while shame focuses on the perception that the self is somehow 'broken'."
+    },{
+        "links": ["embarassment"],
+        "description": "Embarassment is a relatively minor discomfort about failing to meet social expectations. Guilt is a more significant experience from failing to meet one your own important standards."
+    }],
+    "commentaries": [{
+        "quote": "I'm just going to say it: I'm pro-guilt. Guilt is good. Guilt helps us stay on track because it's about our behavior. It occurs when we compare something we've done—or failed to do—with our values.",
+        "attribution": "Brené Brown"
+    },{
+        "quote": "Guilt upon the conscience, like rust upon iron, both defiles and consumes it, gnawing and creeping into it, as that does which at last eats out the very heart and substance of the metal.",
+        "attribution": "Bishop Robert South"
+    },{
+        "quote": "Habitual guilt points to where you expect yourself to be pure and perfect. It seems to be an unconcious way of doing penance in hopes of being forgiven by existence."
+    }],
+    "spectrum": {
+        "embarassment": 2,
+        "guilt": 5,
+        "remorse": 7
+    },
+    "models": [{
+        "version": "em1",
+        "type": "sensation",
+        "levels": {
+            "4": {
+                "experiences": ["narration"]
+            }, 
+            "3": {
+                "conditions": ["Sadness from a perception that your behavior did not meet your own standards."]
+            },
+            "2,1": {
+                "experiences": ["sadness"]
+            }
+        }
+    }]
+}
