@@ -1,0 +1,46 @@
+{
+  "lang": "en/us",
+  "createDate": "20250223",
+  "updateDate": "20250510",
+  "name": "introspection",
+  "valence": 0,
+  "quote": "I thought a lot about our talk yesterday.",
+  "description": "Ability to create a model of what's happening inside our mental world.",
+  "perceptions": ["There something you don't understand about yourself or a reaction."],
+  "desires": ["desire for environment knowledge"],
+  "sensations": ["discomfort","curiosity"],
+  "results": ["desire to understand our own reactions."],
+  "guidance": [
+    {
+      "description": "Meditation can be a way of helping to introspect.",
+      "references": ["https://www.mindful.org/how-to-meditate/"]
+    }
+  ],
+  "related": ["desire for environment knowledge"],
+  "opposites": ["denial", "repression"],
+  "commentaries": [
+    {
+      "quote": "It's not easy to see inside, but it's not easy to see in the starlight either. The hard part is trusting your low-light perceptions. When you can navigate around without smacking into something every few minutes, you can start trusting them more."
+    },{
+      "quote": "Don't be surprised if introspection is difficult. First, though we can do it, it's subtle and gets drowned out by other senses. Second, it might not be considered 'cool' or useful to some of your social groups. Finally, there's a part of your mind that won't like what it finds there."
+    },{
+      "quote": "An introspection process is: imagine a model, become the model, compare it against real-world experience, repeat. For example, if you're trying to figure out why you're a little sad, come up with a possible reason and embrace that reason. You'll resonate when you find the right one(s). Because it's raining? Nah. Because I miss my cat? Maybe. Because they forgot my birthday? Yeah, probably that's it."
+    }
+  ],
+  "models": [
+    {
+      "version": "em1",
+      "variations": [
+        {
+          "names": ["introspection"],
+          "predominantType": "capacity",
+          "levels": {
+            "4,3": {
+                "description": "The process of trying to perceive your own mental processes."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

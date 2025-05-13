@@ -25,11 +25,12 @@
     },{
         "quote": "Politics is the set of values for how individuals relate to the patchworked social body as a whole: what rights and responsibilities different types of people have, how rules are made and enforced."
     },{
-        "quote": "If you've never chopped down a tree or dug a big hole, it may be hard for you to understand why our ancestors valued physical strength so much. It's difficult work and we humans really like our wood and our holes."
+        "quote": "On physical power: if you've never chopped down a tree or dug a big hole, it may be hard for you to understand why our ancestors valued physical strength so much. It's difficult work and we humans really like our wood and our holes."
     },{
-        "quote": "If you've never balanced a spreadsheet, your new business is likely to fail. If you've never solved an equation, your bridge is probably going to collapse. Ideas are important in shaping a complex environment."
+        "quote": "On mental power: if you've never balanced a spreadsheet, your new business is likely to fail. If you've never solved an equation, your bridge is probably going to collapse. Ideas are important in shaping a complex environment."
     },{
-        "quote": "Civilization is a child of the farmer and the scribe managed by the lawyer. We need people to shape the physical environment. We need people who help them build the right things. And we need people to dampen the bickering."
+        "quote": "[The founders of the United States] were insightful students of human nature. They feared the abuse of power because they understood that every human being has not only "better angels" in his nature, but also an innate vulnerability to temptation — especially the temptation to abuse power over others.",
+        "attribution": "Al Gore, Address at New York University 2004)"
     }],
     "models": [{
         "version": "em1",

@@ -1,0 +1,48 @@
+{
+  "lang": "en/us",
+  "createDate": "20250223",
+  "updateDate": "20250510",
+  "name": "generalization",
+  "valence": 0,
+  "quote": "I've observed that birds have feathers.",
+  "description": "Ability to perceive a common attribute from a set of experiences or ideas.",
+  "desires": ["desire for environment knowledge"],
+  "results": ["notice a similarity, establish a pattern to be used in the future"],
+  "related": ["problem solving", "deduction", "learning","epiphany"],
+  "examples": ["Everytime I'm around that cat I sneeze."],
+  "variations": [{
+      "name": "stereotyping",
+      "description": "Predicting that every member of a group share all characteristics perceived to be common within the group.",
+      "perceptions": ["This person, place, or thing is similar in some ways to something I've experienced before."],
+      "desires": ["desire for environment knowledge"],
+      "results": ["assume that the person, place, or thing shares other characteristics"],
+      "guidance": [{
+        "description": "Stereotypes can be accurate statements about current statistical group differences, but they can be inaccurate when applied to individuals.",
+        "references": ["https://www.allsides.com/translator/stereotypes"]
+      }]
+  }],
+  "commentaries": [
+    {
+      "quote": "'Generalization' as used here is just the thing that neurons do in the brain - the create patterns of connections that reflect some aspect of the world.  This might be similar in concept to 'inductive reasoning', but there's no feedback loop -- even a fish can link patterns togther: repeat things that worked well, avoid things that hurt."
+    },{
+      "quote": "Just linking perceptions to results often leads to errors. A rain dance does not always bring rain. Stereotypes are what the brain does, but it can be helpful to re-evaluate established patterns."
+    }
+  ],
+  "models": [
+    {
+      "version": "em1",
+      "variations": [
+        {
+          "names": ["generalization"],
+          "predominantType": "capacity",
+          "levels": {
+            "4,3,2,1": {
+              "description": "All animals learn patterns.",
+              "experiences": ["generalization"]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

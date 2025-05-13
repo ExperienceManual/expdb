@@ -1,0 +1,80 @@
+{
+  "lang": "en/us",
+  "createDate": "20250223",
+  "updateDate": "20250508",
+  "name": "self control",
+  "valence": 0,
+  "quote": "No thanks, I'm on a diet.",
+  "description": "The general ability to regulate one's emotions, thoughts, and behavior in the face of temptations and impulses.",
+  "desires": [ "desire to improve" ],
+  "related": [ "abstinence" ],
+  "opposites": [ "indulgence" ],
+  "examples": [ "Dessert only on special occasions", "Stay on task" ],
+  "variations": [{
+      "name": "willpower",
+      "description": "A successful act of mental control after an encounter with something tempting. It may a well-practiced habit of self-control with barely any awareness of the avoided pleasure, or it may be an act that took terrific energy. You may feel pride for the accomplishment or relief that you passed the test.",
+      "links": ["temptation"],
+      "perceptions": [ "Something appealing tempts you away from a goal" ],
+      "desires": [ "desire to improve", "desire for comfort" ],
+      "sensations": [ "dissonance" ],
+      "results": [ "avoid the temptation" ],
+      "guidance": [{
+          "description": "A great practice to enhance willpower is the '10-minute rule.' If you feel an impulse to indulge in a bad habit, wait 10 minutes. This brief pause allows your rational mind to catch up with your impulses, often leading to better decisions.",
+          "attribution": "Peter Boolkah",
+          "references": ["https://www.forbes.com/councils/forbescoachescouncil/2024/01/24/15-practical-ways-to-strengthen-self-control-and-willpower/"]
+      },{
+          "description": "Create environments that allow you to do whatever needs doing with the least amount of friction. Willpower won’t get you out of bed on a cold morning to go for a run; knowing that your running gear has already been set aside the night before for you to get into, however, will.",
+          "attribution": "Dr. Rakish Rana",
+          "references": ["https://www.forbes.com/councils/forbescoachescouncil/2024/01/24/15-practical-ways-to-strengthen-self-control-and-willpower/"]
+      },{
+          "description": "You can exercise the specific place in your brain that impacts willpower. Pick something 'safe' that you don’t want to do, and do it. Maybe avoid looking at your phone during meetings. Practice until it’s easy. Keep challenging yourself in this way to strengthen your willpower. Willpower is also impacted by sleep, nutrition, physical exercise and your beliefs.",
+          "attribution": "Laurie Sudbrink",
+          "references": ["https://www.forbes.com/councils/forbescoachescouncil/2024/01/24/15-practical-ways-to-strengthen-self-control-and-willpower/"]
+      }]
+  }],
+  "comparisons": [{
+      "links": ["abstinence"],
+      "description": "Abstinence is a goal to completely 'deprive' oneself of something desirable. Self-control is the general ability to exercise willpower, so is used in support of abstinence. Partially limiting yourself (e.g. to one dessert per week) would be self-control and not abstinence."
+  }],
+  "commentaries": [{
+      "quote": "Much recent research suggests that willpower—the capacity to exert self-control—is a limited resource that is depleted after exertion. We propose that whether depletion takes place or not depends on a person’s belief about whether willpower is a limited resource.",
+      "attribution": "Veronika Job, et. al. Ego Depletion—Is It All in Your Head?: Implicit Theories About Willpower Affect Self-Regulation"
+    },{
+      "quote": "When I was starting out, I used to sit down and write a couple of times a week. And then, I was watching these construction workers go back to work, watched them trudging down the street. It was like a revelation to me: these guys don’t want to go back to work after lunch, but they’re goin’. That’s their job. If they can exhibit that level of dedication for that job, I should be able to do the same.",
+      "attribution": "Jerry Seinfeld"
+  },{
+      "quote": "Use, do not abuse; neither abstinence nor excess ever renders man happy.",
+      "attribution": "Voltaire"
+  },{
+      "quote": "It's not 'willpower' if a realistic threat of pain is driving the decision."
+  }],
+  "models": [
+    {
+      "version": "em1",
+      "variations": [{
+          "names": [ "self-control" ],
+          "predominantType": "capacity",
+          "levels": {
+            "4,3": {
+              "description": "A desire to conform to an ideal is so important that it regularly overrides short-term pleasure."
+            },
+            "2,1": {
+              "description": "At these levels, what looks like self-control is fear that a negative outcome will outweigh any potential benefit.",
+              "experiences": ["fear"]
+            }
+          }
+      },{
+          "names": [ "willpower" ],
+          "predominantType": "impulse",
+          "levels": {
+            "4,3": {
+              "experiences": ["willpower"]
+            },
+            "2,1": {
+              "experiences": ["desire for comfort","dissonance"]
+            }
+          }
+      }]
+    }
+  ]
+}

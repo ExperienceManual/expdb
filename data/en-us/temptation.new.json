@@ -1,0 +1,77 @@
+{
+  "lang": "en/us",
+  "createDate": "20241129",
+  "updateDate": "20250510",
+  "name": "temptation",
+  "valence": -1,
+  "quote": "I'd like to have that pie, but shouldn't.",
+  "description": "Struggling with a desire that isn't necessary and has a downside. Temptation is what comes before willpower or indulgence.",
+  "perceptions": ["Something really appealing presents itself.","You know you shouldn't do or say it because it breaks an internal or social rule.", "There's no real perceived short-term danger."],
+  "desires": ["desire for comfort", "desire for safety"],
+  "sensations": ["dissonance"],
+  "examples": ["dessert","binge watching","addictive substances"],
+  "guidance": [{
+      "description": "If you need help with temptation from something addictive, consider finding a support group or professional help.",
+      "references": ["https://www.addictioncenter.com/treatment/support-groups/"]
+  },{
+      "description": "For general tips, see guidance in 'willpower'.",
+      "references": ["willpower"]
+  },{
+      "description": "Religions address temptation by helping you understand what's happening and to feel watched.",
+      "references": ["https://www.christianity.com/bible/bible-verses-about-temptation-26","https://www.virtualmosque.com/ummah/community/battling-temptation/","https://www.accesstoinsight.org/lib/authors/guruge/wheel419.html"]
+  }],
+  "related": ["abstinence", "indulgence", "addiction", "desire for comfort"],
+  "opposites": ["disgust"],
+  "variations": [{
+      "name": "sexual temptation",
+      "description": "Struggling with a sexual desire that has a downside.",
+      "perceptions": ["A sexually appealing person enters your experience.","You know you should not engage this person physically because that would break an internal or social rule.", "There's no real perceived short-term danger.","The complications of such a relationship seem remote."],
+      "desires": ["desire for sex", "desire for safety"],
+      "sensations": ["dissonance","excitement","anxiety"]
+  },{
+      "name": "power temptation",
+      "description": "Internal debate on whether to use a position of leverage to make something happen.",
+      "perceptions": ["An opportunity appears where you can change a situation in the physical or social environment.","You don't know whether others want the change, or you know that they don't.", "There's no real perceived short-term danger.","You don't know that the change would for sure be better."],
+      "desires": ["desire for agency", "desire for social status", "desire for safety"],
+      "sensations": ["dissonance","anxiety"]
+  },{
+      "name": "stress temptation",
+      "description": "If you feel negative in any way (stress, sadness, etc.) you may feel a desire to 'balance' that feeling by doing something that reliably makes you feel good. Like eating or alcohol."
+      "perceptions": ["I have an unpleasant feeling.","I know what would make me feel better for a while.","There's no real perceived short-term danger."],
+      "desires": ["desire for comfort"],
+      "sensations": ["dissonance","anxiety"],
+      "guidance": [{
+          "description": "Giving into temptation probably isn't going to solve the underlying problem. You might consider addressing both short- and long-term needs through self-help of professional help.",
+          "references": ["https://www.helpguide.org/","https://www.mayoclinic.org/diseases-conditions/mental-illness/in-depth/mental-health-providers/art-20045530"]
+      }]
+  }],
+  "commentaries": [{
+      "quote": "Blessed is the man that endureth temptation; for when he is tried, he shall receive the crown of life.",
+      "attribution": "The Bible - James. I. 12"
+  },{
+      "quote": "A silly idea is current that good people do not know what temptation means. This is an obvious lie. Only those who try to resist temptation know how strong it is... A man who gives in to temptation after five minutes simply does not know what it would have been like an hour later. That is why bad people, in one sense, know very little about badness. They have lived a sheltered life by always giving in.",
+      "attribution": "C.S. Lewis"
+  },{
+      "quote": "It's all right letting yourself go, as long as you can get yourself back.",
+      "attribution": "Mick Jagger"
+  }],
+  "models": [
+    {
+      "version": "em1",
+      "variations": [
+        {
+          "names": ["temptation"],
+          "predominantType": "impulse",
+          "levels": {
+            "4,3": {
+              "experiences": ["temptation"]
+            },
+            "2,1": {
+              "experiences": ["dissonance","desire for comfort"]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

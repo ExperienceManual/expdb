@@ -1,0 +1,65 @@
+{
+  "lang": "en/us",
+  "createDate": "20241201",
+  "updateDate": "20250513",
+  "name": "admiration",
+  "valence": 1,
+  "quote": "I like the way she brushed off that insult.",
+  "description": "Judgment that a person or creation process shows unusual quality or skill. Admiration is about the person or process that created something that you appreciate.",
+  "perceptions": ["You appreciate that someone or something has unusually good qualities.","You recognize that displaying these characteristics doesn't happen automatically."],
+  "desires": ["desire for environment knowledge"],
+  "sensations": ["delight","appreciation","deduction (recognizing the skill involved)"],
+  "results": ["desire to express this recognition"],
+  "related": ["appreciation", "wonder", "love","curiosity"],
+  "opposites": ["contempt"],
+  "variations": [{
+      "name": "admiration of a product",
+      "description": "Recognizing a thing or idea as having an uncommon special formulation. The product may be physical like a shoe or purely mental like a mathematical equation. You might not know the person or group behind the object but you can still admire that it took some level of genius to create it."
+  },{
+      "name": "inspirational admiration",
+      "description": "Admiring traits that we would like to exhibit ourselves.",
+      "perceptions": ["You appreciate that someone or something has unusually good qualities.","You would like to have some of those good qualities yourself."],
+      "desires": ["desire to improve"],
+      "sensations": ["delight"],
+      "results": ["desire to learn how to emulate the skill"],
+      "guidance": [{
+          "description": "8 Tips for Learning a New Skill",
+          "attribution": "Shahram Heshmat Ph.D.",
+          "references": ["https://www.psychologytoday.com/us/blog/science-of-choice/202311/8-tips-for-learning-a-new-skill-effectively"]
+        }
+      ],
+      "links": ["desire to improve"]
+    },
+    {
+      "name": "admiration of the unusual",
+      "description": "A sense that another person is different from others in a good or interesting way. You don't necessarily want to have that trait yourself, but approve of its existence.",
+      "links": ["good weird"]
+    }
+  ],
+  "spectrum": {
+    "like": 1,
+    "admiration": 5,
+    "star struck": 9,
+    "hero worship": 10
+  },
+  "models": [
+    {
+      "version": "em1",
+      "variations": [{
+          "names": ["*"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["admiration","social contact"]
+            },
+            "2,1": {
+              "experiences": ["delight"]
+            }
+          }
+      }]
+    }
+  ]
+}

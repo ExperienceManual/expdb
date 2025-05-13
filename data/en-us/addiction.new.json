@@ -1,0 +1,64 @@
+{
+  "lang": "en/us",
+  "createDate": "20241130",
+  "updateDate": "20250510",
+  "name": "addiction",
+  "valence": -1,
+  "quote": "He can't go a day without whiskey.",
+  "description": "A strong desire for a psychoactive substance.",
+  "perceptions": ["Doing a certain thing makes me feel better in the moment.","I deserve to feel good.","I've done this before, it's ok."],
+  "desires": ["desire for comfort"],
+  "sensations": ["temptation"],
+  "results": ["desire for particular brain chemicals"],
+  "related": ["desire for stimulation", "temptation", "indulgence"],
+  "guidance": [
+    {
+      "description": "If you're struggling with an addiction that's causing problems, you should consider seeking group support or professional help.",
+      "references": ["https://www.google.com/search?q=addiction+support+group","https://www.psychologytoday.com/us/therapists?category=addiction"]
+    }
+  ],
+  "variations": [{
+      "name": "something you really like",
+      "description": "In common usage, 'addiction' just mean a 'strong desire' as in being 'addicted' to peanut butter. But when there's nothing psychoactive involved, it's really just a strong desire or appreciation.",
+      "perceptions": ["There's this thing I enjoy.","It's fine in moderation.","I likebeing associated with this thing."],
+      "desires": ["desire for comfort"],
+      "sensations": ["appreciation"],
+      "results": ["desire to experience the thing"]
+    }
+  ],
+  "commentaries": [
+    {
+      "quote": "If you're struggling with an addiction that's causing problems, you should consider seeking professional help."
+  },{
+      "quote": "I have absolutely no pleasure in the stimulants in which I sometimes so madly indulge. It has not been in the pursuit of pleasure that I have periled life and reputation and reason. It has been the desperate attempt to escape from torturing memories, from a sense of insupportable loneliness and a dread of some strange impending doom.",
+      "attribution": "Edgar Allan Poe"
+  },{
+      "quote": "Addiction is just a way of trying to get at something else. Something bigger. Call it transcendence if you want, but it’s like a rat in a maze. We all want the same thing. We all have this hole. The thing you want offers relief, but it’s a trap.",
+      "attribution": "Tess Callahan"
+  },{
+      "quote": "Remember that just because you hit bottom doesn’t mean you have to stay there.",
+      "attribution": "Robert Downey, Jr."
+  }],
+  "models": [
+    {
+      "version": "em1",
+      "variations": [
+        {
+          "names": ["addiction"],
+          "predominantType": "impulse",
+          "levels": {
+            "0": {
+              "experiences": ["chemical dependency"]
+            },
+            "2,1": {
+              "experiences": ["desire for comfort"]
+            },
+            "4,3": {
+              "experiences": ["narration"]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "lang": "en/us",
+  "createDate": "20241129",
+  "updateDate": "20250512",
+  "name": "gratitude",
+  "valence": 1,
+  "quote": "I'm thankful for your support.",
+  "description": "Positive feelings about a person, group, or the universe for having or receiving something that you recognize as desired and that might not have come your way.",
+  "perceptions": ["You recognize that the world, a person, or a group provided something that you value.","You recognize that not everyone gets this thing and you might not have received it.","You don't want to take the gift for granted."],
+  "desires": ["desire for social contact"],
+  "sensations": ["happiness","relief","admiration"],
+  "results": ["desire to express your positive reaction for the gift"],
+  "guidance": [
+    {
+      "description": "Cultivating gratitude boosts mental well-being, strengthens relationships, and helps you notice the everyday moments of goodness in life.",
+      "references": ["https://www.mindful.org/an-introduction-to-mindful-gratitude/"]
+    }
+  ],
+  "related": ["admiration", "indebtedness", "reverence", "humility"],
+  "opposites": ["contempt", "betrayal", "resentment"],
+  "variations": [{
+      "name": "indebted gratitude",
+      "description": "If it comes with skeptical or netural feelings towards the giver, gratitude may come with a feeling of indebtedness.",
+      "perceptions": ["You recognize that a person or group provided something that you value.","You recognize that not everyone gets this thing and you might not have received it.","You don't want to be indebted to the giver."],
+      "desires": ["desire for social contact","desire for agency"],
+      "sensations": ["happiness","relief","indebtedness","skepticism"],
+      "results": ["desire to express a positive reaction for the gift"],
+      "guidance": [
+        {
+          "description": "Gifts should make us feel grateful—but sometimes we only feel guilty or obligated to reciprocate.",
+          "attribution": "Jill Suttie",
+          "references": ["https://greatergood.berkeley.edu/article/item/how_to_say_thanks_without_feeling_indebted"]
+        }
+      ]
+    },
+    {
+      "name": "someone's gratitude to you",
+      "description": "When you've done something for someone else and they express gratitude can bring joy. You may feel you've done something for the greater good, or have started to return favors others have done for you.",
+      "perceptions": ["You've done something for someone else.","They express sincere gratitude."],
+      "desires": ["desire for social contact"],
+      "sensations": ["happiness","goodwill"],
+      "firstPersonExperiences": ["gratitude"],
+      "thirdPersonExperience": true
+    },
+    {
+      "name": "existential gratitude",
+      "description": "If the giving agent is perceived as having been God or The Universe, it may come with awe.",
+      "perceptions": ["You recognize that the world provided something that you value.","You recognize that not everyone gets this thing and you might not have received it.","You don't want to take the gift for granted."],
+      "desires": ["desire for meaning"],
+      "sensations": ["awe"]
+    }
+  ],
+  "commentaries": [{
+      "quote": "By turning us outward, gratitude can open us to a bigger perspective, shifting focus from what we lack to what we already have."
+  },{
+      "quote": "Practicing universal gratitude can be difficult as it goes against traits like wanting control and crediting ourselves."
+  },{
+      "quote": "No one who achieves success does so without the help of others. The wise and confident acknowledge this help with gratitude.",
+      "attribution": "Alfred North Whitehead"
+  },{
+      "quote": "Gratitude is not only the greatest of virtues but the parent of all others.",
+      "attribution": "Marcus Tullius Cicero"
+  }],
+  "spectrum": {
+    "recognition": 1,
+    "appreciativeness": 3,
+    "gratitude": 5
+  },
+  "models": [
+    {
+      "version": "em1",
+      "variations": [{
+          "names": ["gratitude"],
+          "predominantType": "sensation",
+          "levels": {
+            "2,1": {
+              "experiences": ["delight"]
+            },
+            "3": {
+              "experiences": ["gratitude"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["indebted gratitude"],
+          "predominantType": "sensation",
+          "levels": {
+            "2,1": {
+              "experiences": ["delight","anxiety"]
+            },
+            "3": {
+              "experiences": ["gratitude","indebtedness"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["existential gratitude"],
+          "predominantType": "sensation",
+          "levels": {
+            "2,1": {
+              "experiences": ["delight"]
+            },
+            "3": {
+              "experiences": ["gratitude","awe"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      }]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "lang": "en/us",
+  "createDate": "20241211",
+  "updateDate": "20250513",
+  "name": "appreciation",
+  "valence": 1,
+  "quote": "What a beautiful sunset!",
+  "description": "Attractiveness to the senses or sensibilities in purely subjective arena. What puts something into the zone of 'attractive' depends on culture and individual experiences. You consider it to be a well-formed example of that kind of thing.",
+  "alternateDefinitions": ["'Appreciation is often used as another word for gratitude. The underlying connection is that we do find acts of kindness unusual and 'well-formed' enough to find them attractive."],
+  "perceptions": ["Something brings delight by being judged as an instance falling into the upper range of being well-formed for its type of thing."],
+  "sensations": ["delight","admiration"],
+  "related": ["love","gratitude","admiration"],
+  "opposites": ["aversion"],
+  "examples": ["appreciation for good architecture","appreciation for nature"],
+  "variations": [{
+      "name": "natural appreciation",
+      "description": "A peaceful nature scene may invoke wonder. For example, a striking orange sunset.",
+      "perceptions": ["something in nature is considered a well-formed example of it's type"],
+      "sensations": ["delight","wonder"]
+    },{
+      "name": "aesthetic appreciation",
+      "description": "Bright colors or a musical medley may invoke a sense of beauty - that this work of art compares well to others of its type. For example, a sunlit stained glass window.",
+      "perceptions": ["An artistic representation of something brings delight by being considered well-formed for that kind of thing."],
+      "sensations": ["delight","admiration"]
+    },{
+      "name": "appreciation signaling",
+      "description": "Sometimes we might recognize that a social group expects us to find a certain thing appealing, which may nudge us into paying closer attention.",
+      "perceptions": ["We think our social group will care about this thing.","The thing delights by being considered well-formed."],
+      "desires": ["desire for social contact"],
+      "sensations": ["delight","excitement"],
+      "results": ["desire to report the event to the group"]
+    },{
+      "name": "physical appreciation",
+      "description": "A particularly attractive item, ideal, or person may create a sense of longing to be more closely associated with it/him/her. What makes something physically attractive depends on culture and upbringing.",
+      "perceptions": ["A person or item is judged to be a good example of being well-formed."],
+      "sensations": ["delight","admiration","desire for social contact"]
+    }
+  ],
+  "comparisons": [{
+      "links": ["gratitude"],
+      "description": "Gratitude is a special form of appreciation where the 'thing judged to be well-formed' is an expression of recognition for goodwill."
+  },{
+      "links": ["admiration"],
+      "description": "'Appreciation' is more about specific outward qualities, while 'admiration' is more about the process or skill involved in attaining those qualities. These things often come at the same time. For example, appreciating a wine is about the quality of the flavor while you might admire the maker of the wine. When appreciating nature, you may enjoy the details of the vista while admiring how it came to be, whether that's a geologic process or a divine act."
+  },{
+      "links": ["love"],
+      "description": "You 'love' things that you find 'well-formed' in the general sense that you would like to experience them repeatedly."
+  }],
+  "commentaries": [{
+      "quote": "Aesthetic appreciation is always subjective. Someone else may not appreciate the architecture, singing voice, sunset, stained glass, or the smell of crayons. They may even have a negative reaction."
+  },{
+    "quote": "Appreciation is a wonderful thing: It makes what is excellent in others belong to us as well.",
+    "attribution": "Voltaire"
+  },{
+    "quote": "Don't get me wrong, I admire elegance and have an appreciation of the finer things in life. But to me, beauty lies in simplicity.",
+    "attribution": "Mark Hyman"
+  }],
+  "spectrum": {
+    "like": 1,
+    "aesthetic appreciation": 3,
+    "beautiful": 7,
+    "love": 9
+  },
+  "models": [
+    {
+      "version": "em1",
+      "variations": [{
+          "names": ["appreciation","physical appreciation","aesthetic appreciation"],
+          "predominantType": "sensation",
+          "levels": {
+            "2,1": {
+              "experiences": ["delight"]
+            },
+            "3": {
+              "experiences": ["appreciation","admiration"]
+            },
+            "4": {
+              "experiences": ["narration","appreciation"]
+            }
+          }
+      },{
+          "names": ["natural appreciation"],
+          "predominantType": "sensation",
+          "levels": {
+            "2,1": {
+              "experiences": ["delight"]
+            },
+            "4,3": {
+              "experiences": ["appreciation","admiration","wonder"]
+            }
+          }
+      }]
+    }
+  ]
+}

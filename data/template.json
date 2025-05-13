@@ -7,14 +7,36 @@
     "quote": "",
     "description": "",
     "links": [],
+    "perceptions": [""],
+    "desires": [""],
+    "sensations": [""],
+    "results": [""],
+    "firstPersonExperiences": [""],
+    "thirdPersonExperience": false,
     "related": [],
     "opposites": [],
     "examples": [],
+    "guidance": [{
+        "description": "",
+        "attribution": "",
+        "references": [""]
+    }],
     "variations": [{
         "name": "",
         "description": "",
         "links": [],
-        "examples": []
+        "perceptions": [""],
+        "desires": [""],
+        "sensations": [""],
+        "results": [""],
+        "firstPersonExperiences": [""],
+        "thirdPersonExperience": false,
+        "examples": [],
+        "guidance": [{
+            "description": "",
+            "attribution": "",
+            "references": [""]
+        }]
     }],
     "comparisons": [{
         "links": [],
@@ -28,19 +50,15 @@
     },
     "models": [{
         "version": "em1",
-        "type": "",
-        "levels": {
-            "4": {
-                "experiences": ["narration"]
-            }, 
-            "3": {
-                "variations": [""],
-                "conditions": [""]
-            },
-            "2": {
+        "variations": [{
+            "names": [""],
+            "predominantType": "",
+            "levels": {
+              "N,M": {
                 "experiences": [""],
-                "description": [""]
+                "description": ""
+              }
             }
-        }
+        }]
     }]
 }

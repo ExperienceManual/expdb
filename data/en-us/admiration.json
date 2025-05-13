@@ -6,7 +6,7 @@
     "valence": 1,
     "quote": "I like the way she brushed off that insult.",
     "description": "Judgment that a person has unusually worthy attitude, talent, or skill.",
-    "related": ["awe","wonder","love"],
+    "related": ["appreciation","awe","wonder","love"],
     "opposites": ["contempt"],
     "variations": [{
         "name": "admiration of nature",

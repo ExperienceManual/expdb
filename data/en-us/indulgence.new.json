@@ -1,0 +1,92 @@
+{
+  "lang": "en/us",
+  "createDate": "20241129",
+  "updateDate": "20250513",
+  "name": "indulgence",
+  "valence": 0,
+  "quote": "A big piece of chocolate cake please.",
+  "description": "Engaging in something pleasurable that part of your mind knows is not necessary and has downsides. It may come with a flash of excitement or guilt.",
+  "perceptions": ["You are engaging in a pleasurable activity.","You know the activity to be unhealthy and perhaps selfish.","But the activity doesn't break any solid social rules."],
+  "desires": ["desire for comfort","desire for agency"],
+  "sensations": ["delight","dissonance"],
+  "guidance": [{
+      "description": "If indulgence is the result of failed willpower and you want some tips on practicing, the entry for willpower.",
+      "references": ["willpower"]
+  }],
+  "opposites": ["abstinence"],
+  "related": ["temptation", "desire for comfort"],
+  "variations": [{
+      "name": "indulgence signaling",
+      "description": "Engaging in something pleasurable but potentially unhealthy due to social motivations. Also known as 'peer pressure'.",
+      "perceptions": ["A social group rewards you for engaging in an activity which there's good reason to avoid.","The activity itself has pleasurable aspects despite known downsides."],
+      "desires": ["desire for social contact","desire for social status"],
+      "sensations": ["delight","dissonance"],
+      "guidance": [{
+          "description": "If desired, there are various resources available for how to gently resist social pressure.",
+          "references": ["https://yourlifecounts.org/learning-center/peer-pressure/20-ways-to-avoid-peer-pressure/","https://wholejourneywellness.com/social-pressure-resisting-peer-pressure-and-staying-true-to-yourself-during-the-holidays/"]
+      }],
+      "links": ["desire for social status"],
+      "examples": ["smoking","drinking","expressing contempt"]
+    },{
+      "name": "guilty pleasure",
+      "description": "May come with guilt for not being able to resist.",
+      "perceptions": ["You are engaging in a pleasurable activity.","You know the activity to be unhealthy and perhaps selfish.","But the activity doesn't break any solid social rules.","Still you know should not be doing it."],
+      "desires": ["desire for comfort"],
+      "sensations": ["delight","dissonance","guilt"]
+    }
+  ],
+  "commentaries": [{
+    "quote": "Indulgence is an unsucessful encounter with temptation."
+  },{
+    "quote": "The greatest crimes do not arise from a want of feeling for others but from an over-sensibilit y for ourselves and an over-indulgence to our own desires.",
+    "attribution": "Edmund Burke"
+  },{
+    "quote": "While overeating would be seen by some as an indulgence of self, it is in fact a profound rejection of self. It is a moment of self-betrayal and self-punishment, and anything but a commitment to one's own well-being.",
+    "attribution": "Marianne Williamson"
+  }],
+  "models": [
+    {
+      "version": "em1",
+      "variations": [{
+          "names": ["indulgence"],
+          "predominantType": "sensation",
+          "levels": {
+            "4,3": {
+              "experiences": ["indulgence"]
+            },
+            "2,1": {
+              "experiences": ["delight","desire for comfort"]
+            }
+          }
+      },{
+          "names": ["indulgence signaling"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["indulgence signaling"]
+            },
+            "2,1": {
+              "experiences": ["delight","desire for comfort"]
+            }
+          }
+      },{
+          "names": ["guilty pleasure"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["guilty pleasure","guilt"]
+            },
+            "2,1": {
+              "experiences": ["delight","anxiety","desire for comfort"]
+            }
+          }
+      }]
+    }
+  ]
+}

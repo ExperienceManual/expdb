@@ -1,0 +1,49 @@
+{
+  "lang": "en/us",
+  "createDate": "20250226",
+  "updateDate": "20250510",
+  "name": "deduction",
+  "valence": 0,
+  "quote": "It must have been a bird because of the feather on the ground.",
+  "description": "Ability to identify an unknown attribute of an object from general knowledge.",
+  "related": ["problem solving", "generalization", "learning"],
+  "variations": [{
+    "name": "inductive reasoning",
+    "description": "The application of previously learned patterns to a new situation. We can get 'induction' and 'deduction' confused because we can 'deduce' a general pattern from repeated observations.",
+    "perceptions": ["Need to figure out a new situation.","Several parts of the situation partly match past scenarios."],
+    "desires": ["desire for environment knowledge"],
+    "results": ["Apply similarities from past generalizations as initial guesses about the new situation."]
+  },{
+    "name": "logical deduction",
+    "description": "Apply only general principles that have been verified as true, either by definition or comprehensive proof. Few things in complex environments like the social world have bullet-proof general principles.",
+    "perceptions": ["Need to figure out a new situation.","There's a set of proven patterns and a process for combining them."],
+    "desires": ["desire for environment knowledge"],
+    "results": ["Apply proven principles to the new situation."],
+    "examples": ["You know the movie time is noon, but that previews take 10 minutes, you won't be late if you're in a seat at 12:10."]
+  }],
+  "commentaries": [{
+      "quote": "Using mental shortcuts is the only way our simple brains can navigate a world that's more complicated then they are. It may be helpful to have a sense of humility about the quality of the patterns and beliefs you rely on."
+  }],
+  "models": [
+    {
+      "version": "em1",
+      "variations": [{
+          "names": ["inductive reasoning"],
+          "predominantType": "capacity",
+          "levels": {
+            "4,3,2,1": {
+              "description": "The brain makes a prediction based on combining multiple patterns that were created from one or more experiences."
+            }
+          }
+      },{
+          "names": ["logical deduction"],
+          "predominantType": "capacity",
+          "levels": {
+            "4": {
+              "description": "A process of applying a disciplined set of known truths in a particular way to arrive at a statement that is likely to be true."
+            }
+          }
+      }]
+    }
+  ]
+}

@@ -48,6 +48,52 @@
     "description": {
       "type": "string"
     },
+    "alternateDefinitions": {
+      "type": "array",
+      "default": [],
+      "items": {
+        "type": "string"
+      }
+    },
+    "perceptions": {
+      "type": "array",
+      "default": [],
+      "items": {
+        "type": "string"
+      }
+    },
+    "desires": {
+      "type": "array",
+      "default": [],
+      "items": {
+        "type": "string"
+      }
+    },
+    "sensations": {
+      "type": "array",
+      "default": [],
+      "items": {
+        "type": "string"
+      }
+    },
+    "results": {
+      "type": "array",
+      "default": [],
+      "items": {
+        "type": "string"
+      }
+    },
+    "firstPersonExperiences": {
+      "type": "array",
+      "default": [],
+      "items": {
+        "type": "string"
+      }
+    },
+    "thirdPersonExperience": {
+      "type": "boolean",
+      "default": false
+    },
     "links": {
       "type": "array",
       "default": [],
@@ -76,6 +122,31 @@
         "type": "string"
       }
     },
+    "guidance": {
+      "type": "array",
+      "default": [],
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "default": {},
+        "required": [ "references" ],
+        "properties": {
+          "description": {
+            "type": "string"
+          },
+          "attribution": {
+            "type": "string"
+          },
+          "references": {
+              "type": "array",
+              "default": [],
+              "items": {
+                "type": "string"
+              }
+          }
+        }
+      }
+    },
     "variations": {
       "type": "array",
       "default": [],
@@ -94,6 +165,44 @@
           "description": {
             "type": "string"
           },
+	  "perceptions": {
+	      "type": "array",
+	      "default": [],
+	      "items": {
+		"type": "string"
+	      }
+	  },
+	  "desires": {
+	      "type": "array",
+	      "default": [],
+	      "items": {
+		"type": "string"
+	      }
+	  },
+	  "sensations": {
+	      "type": "array",
+	      "default": [],
+	      "items": {
+		"type": "string"
+	     }
+	  },
+	  "results": {
+	      "type": "array",
+	      "default": [],
+	      "items": {
+		"type": "string"
+	      }
+	    },
+	  "firstPersonExperiences": {
+	      "type": "array",
+	      "default": [],
+	      "items": {
+		"type": "string"
+	      }
+	    },
+	  "thirdPersonExperience": {
+	      "type": "boolean"
+	    },
           "links": {
             "type": "array",
             "default": [],
@@ -107,7 +216,32 @@
             "items": {
               "type": "string"
             }
-          }
+          },
+	    "guidance": {
+	      "type": "array",
+	      "default": [],
+	      "items": {
+		"type": "object",
+		"additionalProperties": false,
+		"default": {},
+		"required": [ "references" ],
+		"properties": {
+		  "description": {
+		    "type": "string"
+		  },
+		  "attribution": {
+		    "type": "string"
+		  },
+		  "references": {
+		      "type": "array",
+		      "default": [],
+		      "items": {
+			"type": "string"
+		      }
+		  }
+		}
+	      }
+	    }
         }
       }
     },
@@ -170,44 +304,57 @@
         "default": {},
         "required": [
           "version",
-          "type"
+          "variations"
         ],
         "properties": {
           "version": {
             "type": "string"
           },
-          "type": {
-            "type": "string"
-          },
-          "levels": {
-            "type": "object",
-            "default": {},
-            "patternProperties": {
-              "^[0-9]+": {
-                "type": "object",
-                "default": {},
-                "properties": {
-                  "experiences": {
-                    "type": "array",
-                    "default": [],
-                    "items": {
-                      "type": "string"
-                    }
-                  },
-                  "variations": {
-                    "type": "array",
-                    "default": [],
-                    "items": {
-                      "type": "string"
-                    }
-                  },
-                  "conditions": {
-                    "type": "array",
-                    "default": [],
-                    "items": {
-                      "type": "string"
-                    }
-                  }
+          "variations": {
+            "type": "array",
+            "default": [],
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "default": {},
+              "required": [
+                "names",
+                "levels"
+              ],
+              "properties": {
+                "names": {
+	          "type": "array",
+	          "default": [],
+	          "items": {
+		    "type": "string"
+	          }
+                },
+                "predominantType": {
+                  "type": "string"
+                },
+		"levels": {
+		    "type": "object",
+		    "default": {},
+		    "patternProperties": {
+		      "^[0-9]+": {
+			"type": "object",
+                        "additionalProperties": false,
+			"default": {},
+			"properties": {
+			  "experiences": {
+			    "type": "array",
+			    "default": [],
+			    "items": {
+			      "type": "string"
+			    }
+			  },
+                          "description": {
+                            "type": "string"
+                          }
+			}
+		      }
+		    }
+		  }
                 }
               }
             }
@@ -216,4 +363,3 @@
       }
     }
   }
-}

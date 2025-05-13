@@ -1,0 +1,118 @@
+{
+  "lang": "en/us",
+  "createDate": "20241129",
+  "updateDate": "20250513",
+  "name": "horror",
+  "valence": -1,
+  "quote": "I hit a baby deer with the car!",
+  "description": "A strong sense of aversion to an event that is perceived as being likely to damage the body or an important social identity of you or a person important to you. Horror is fear with disgust.",
+  "perceptions": ["Something very unpleasant happened or is happening.","This event may cause damage and seems like it could contaminate your mind, a social identity, or your body."],
+  "desires": ["desire for comfort","desire for purity"],
+  "sensations": ["disgust","fear"],
+  "results": ["desire to revert the event or contain the damage"],
+  "guidance": [{
+      "description": "If you're having trouble dealing with the memory of something horrible, consider seeking support or professional help.",
+      "references": ["https://newsinhealth.nih.gov/2018/06/dealing-trauma"]
+    }
+  ],
+  "related": ["disgust", "anxiety", "surprise"],
+  "opposites": ["delight"],
+  "variations": [{
+      "name": "social horror",
+      "description": "If the experience is caused by someone breaking an important social rule, it may come with contempt. You may be worried about the implications of others not following this rule.",
+      "perceptions": ["Someone is breaking an important social rule.","You are unsettled that flauting the rule could contaminate the social environment.","You're worried about the implications of a contaminated environment to your selfself and other important people."],
+      "desires": ["desire for order"],
+      "sensations": ["contempt","dismay"],
+      "results": ["desire to put things back in order"]
+    },{
+      "name": "self horror",
+      "description": "If the experience is caused by the self breaking a social rule, it may come with guilt.",
+      "perceptions": ["You realize that you are unintentionally breaking a social rule.","You view the rule as important."],
+      "desires": ["desire for purity"],
+      "sensations": ["guilt"],
+      "results": ["desire to make things right"]
+    },{
+      "name": "suprised horror",
+      "description": "If the experience was completely unexpected, it may come with shock.",
+      "perceptions": ["Something very unpleasant happened or is happening.","The event is unexpected."],
+      "desires": ["desire for comfort","desire for order"],
+      "sensations": ["disgust","fear","surprise"],
+      "results": ["desire to revert the event or contain the damage"]
+    }
+  ],
+  "comparisons": [{
+      "links": ["fear"],
+      "description": "Horror is fear mixed with disgust or contempt."
+    },{
+      "links": ["disgust"],
+      "description": "People sometimes use the term 'horrified' to mean 'I have a strong aversion to this thing.' We like to inflate our experiences to make a point."
+  }],
+  "commentaries": [
+    {
+      "quote": "The basis of all true cosmic horror is violation of the order of nature, and the profoundest violations are always the least concrete and describable.",
+      "attribution": "H.P. Lovecraft"
+    },{
+      "quote": "People who love horror films are people with boring lives... when a really scary movie is over, you're reassured to see that you're still alive and the world still exists as it did before.",
+      "attribution": "Ryu Murakami"
+    }
+  ],
+  "spectrum": {
+    "concern": 1,
+    "worry": 1,
+    "anxiety": 2,
+    "apprehension": 3,
+    "fear": 4,
+    "dread": 5,
+    "horror": 6,
+    "terror": 7,
+    "panic": 9
+  },
+  "models": [
+    {
+      "version": "em1",
+      "variations": [{
+          "names": ["horror","surprised horror"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2": {
+              "experiences": ["horror"]
+            },
+            "1": {
+              "experiences": ["disgust", "anxiety"]
+            }
+          }
+      },{
+          "names": ["social horror"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["social horror","contempt"]
+            },
+            "2,1": {
+              "experiences": ["disgust", "anxiety"]
+            }
+          }
+      },{
+          "names": ["self horror"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["self horror"]
+            },
+            "2,1": {
+              "experiences": ["anxiety"]
+            }
+          }
+      }]
+    }
+  ]
+}
