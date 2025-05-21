@@ -1,0 +1,54 @@
+{
+  "lang": "en/us",
+  "createDate": "20250112",
+  "updateDate": "20250515",
+  "name": "playful",
+  "valence": 0,
+  "quote": "Let's go dancing!",
+  "description": "Desire for a positive stimulating social experience.",
+  "desires": ["desire for stimulation","desire for social contact"],
+  "related": [ "humor", "boredom", "enthusiasm", "desire for social contact", "desire for stimulation", "companionship", "desire to improve" ],
+  "opposites": ["overwhelmed", "depression", "tiredness", "desire for privacy"],
+  "variations": [
+    {
+      "name": "play as an escape",
+      "description": "Wanting a stimulating social event in part to help you forget about anxieties for a while.",
+      "desires": ["desire for stimulation","desire for social contact"]
+    },{
+      "name": "play as practice",
+      "description": "Playful social stimulation may improve skills that may be useful in another context.",
+      "desires": ["desire to improve","desire for stimulation","desire for social contact"]
+  }],
+  "commentaries": [{
+      "quote": "Being 'playful' can mean light-hearted bonding activities like like games and pillow fights, or more serious social adventures like dancing or sports."
+  },{
+      "quote": "People are generally more playful with friends, and play can be a bonding experience."
+  },{
+      "quote": "Play is our brain's favorite way of learning.",
+      "attribution": "Diane Ackerman"
+  },{
+      "quote": "Those who play rarely become brittle in the face of stress or lose the healing capacity for humor.",
+      "attribution": "Stuart Brown, MD"
+  }],
+  "models": [
+    {
+      "version": "em1",
+      "variations": [{
+          "names": ["*"],
+          "predominantType": "impulse",
+          "levels": {
+            "2,1": {
+              "experiences": ["desire for stimulation"]
+            },
+            "3": {
+              "experiences": ["playful"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

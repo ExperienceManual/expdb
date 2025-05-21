@@ -1,0 +1,45 @@
+{
+  "lang": "en/us",
+  "createDate": "20241222",
+  "updateDate": "20250514",
+  "name": "delight",
+  "valence": 1,
+  "quote": "I found some wild raspberries!",
+  "description": "Pleasant but fleeting experience of something exceeding expectations, often unexpected.",
+  "perceptions": ["Something happened that's positive, but it doesn't significantly affect anything long lasting."],
+  "desires": ["desire for comfort"],
+  "related": ["happiness", "joy", "love", "satisfaction"],
+  "opposites": ["dismay"],
+  "comparisons": [{
+    "links": ["happiness","joy"],
+    "description": "Delight is a short positive feeling about something minor. Happiness is a longer sensation because something good happened that positively affected something important. Joy is a mood that's generally less intense and much less connected to a specific thing that happened."
+  },{
+    "links": ["satisfaction"],
+    "description": "Satisfaction is a neutral feeling that recognizes things could have been better but they could have also been worse. Delight is the sensation that things went very well, perhaps unexpectedly well."
+  }],
+  "commentaries": [{
+      "quote": "Delight is the basic deep-down positive experience. There are many complex experiences that create deep-down delight. For example, at a social level, finding wild raspberries may create delight, but also excitement about sharing the news with others."
+  },{
+      "quote": "A beautiful woman delights the eye; a wise woman, the understanding; a pure one, the soul.",
+      "attribution": "Minna Antrim"
+  }],
+  "spectrum": {
+    "delight": 3,
+    "glee": 6
+  },
+  "models": [{
+      "version": "em1",
+      "variations": [
+        {
+          "names": ["delight"],
+          "predominantType": "sensation",
+          "levels": {
+            "4,3,2,1": {
+              "experiences": ["delight"]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

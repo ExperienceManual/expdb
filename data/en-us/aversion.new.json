@@ -1,0 +1,82 @@
+{
+  "lang": "en/us",
+  "createDate": "20241211",
+  "updateDate": "20250514",
+  "name": "aversion",
+  "valence": -1,
+  "quote": "That painting is ugly as sin.",
+  "description": "Unattractiveness to the senses or sensibilities in purely subjective arena. What puts something into the zone of 'unattractive' depends on culture and individual experiences. You consider it to be a poorly-formed example of that kind of thing.",
+  "perceptions": ["Something brings dismay by being judged as a poorly-formed instance of its type of thing."],
+  "results": ["preference to not experience this often"],
+  "related": [ "dismay", "disgust", "contempt", "aversion to cheaters", "aversion to strangers", "aversion to dangerous creatures", "hate" ],
+  "opposites": ["appreciation", "desire"],
+  "comparisons": [{
+    "links": ["disgust"],
+    "description": "Disgust is the perception that the target could somehow contaminate you. Aversion is simply not liking the thing while not perceiving that it could taint you somehow."
+  },{
+    "links": ["hate"],
+    "description": "You 'hate' things that you never want to experience again. Aversion is weaker - you find the thing 'poorly-formed' but can probably tolerate experiencing it again."
+  },{
+    "links": ["contempt"],
+    "description": "You can have an aversion to a specific trait or thing without necessarily feeling superior to the person showing it. Contempt involves a more fundamental judgment about the other person's inherent worth or capabilities, leading to a sense of superiority."
+  }],
+  "variations": [{
+      "name": "aesthetic aversion",
+      "description": "Something unattractive to the senses or sensibilities in purely subjective arena. For example colors you consider clashing or music from a genre you don't favor.",
+      "perceptions": ["An artistic representation of something brings dismay by being considered poorly-formed for that kind of thing."],
+      "sensations": ["dismay"]
+    },{
+      "name": "physical aversion",
+      "description": "A particularly unattractive item, ideal, or person may create a desire to avoid it/him/her. What makes something or someone physically unattractive depends on culture and upbringing.",
+      "perceptions": ["A person or item is judged to be poorly-formed."],
+      "sensations": ["dismay"]
+    },{
+      "name": "aversion signaling",
+      "description": "Sometimes we might recognize that a social group expects us to find a certain thing unappealing, which may nudge us into paying closer attention.",
+      "perceptions": ["We think our social group will want us to dislike this thing.","The thing disappoints by being considered poorly-formed."],
+      "desires": ["desire for social status"],
+      "sensations": ["dismay"],
+      "guidance": [{
+          "description": "If desired, there are various resources available for how to gently resist social pressure.",
+          "references": ["https://yourlifecounts.org/learning-center/peer-pressure/20-ways-to-avoid-peer-pressure/","https://wholejourneywellness.com/social-pressure-resisting-peer-pressure-and-staying-true-to-yourself-during-the-holidays/"]
+      }],
+      "links": ["desire for social status"]
+    }
+  ],
+  "commentaries": [{
+      "quote": "Aesthetic aversion is always subjective. Someone else may appreciate the architecture, singing voice, graffiti, or clashing colors."
+  },{
+      "quote": "A feeling of aversion or attachment toward something is your clue that there's work to be done.",
+      "attribution": "Ram Dass"
+  }],
+  "spectrum": {
+    "dislike": 1,
+    "aversion": 3,
+    "scorn": 3,
+    "hate": 5,
+    "despise": 7,
+    "loathe": 8,
+    "disgust": 8
+  },
+  "models": [
+    {
+      "version": "em1",
+      "variations": [{
+          "names": ["*"],
+          "predominantType": "sensation",
+          "levels": {
+            "2,1": {
+              "experiences": ["dismay"]
+            },
+            "3": {
+              "experiences": ["aversion","contempt"]
+            },
+            "4": {
+              "experiences": ["narration","aversion"]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

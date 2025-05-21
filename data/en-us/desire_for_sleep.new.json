@@ -1,0 +1,61 @@
+{
+  "lang": "en/us",
+  "createDate": "20250119",
+  "updateDate": "20250515",
+  "name": "desire for sleep",
+  "valence": 0,
+  "quote": "I'm going to nap.",
+  "description": "Physical or mental need for sleep.",
+  "perceptions": ["biological need to sleep"],
+  "guidance": [{
+      "description": "If you're having trouble with sleep, consider researching on your own or seeking help.",
+      "references": ["https://medlineplus.gov/sleepdisorders.html","https://www.sleepfoundation.org/sleep-hygiene"]
+  }],
+  "related": ["tiredness", "exhaustion"],
+  "opposites": ["desire for stimulation"],
+  "variations": [{
+      "name": "escape sleep",
+      "description": "Sometimes a nap can be triggered more from a desire for a short escape to quiet and comfort than from feeling sleepy.",
+      "perceptions": ["sleep would help me relax"],
+      "links": ["desire for comfort", "desire for quiet"]
+    }
+  ],
+  "commentaries": [{
+      "quote": "Without enough sleep, we all become tall two year olds.",
+      "attribution": "JoJo Jensen"
+  },{
+      "quote": "Sleep, and enough of it, is the prime necessity. Enough exercise, and good food and enough, are other necessities. But sleep – good sleep, and enough of it – this is a necessity without which you cannot have the exercise of use, nor the food.",
+      "attribution": "Edward Everett Hale"
+  },{
+      "quote": "There is more refreshment and stimulation in a nap, even of the briefest, than in all the alcohol ever distilled.",
+      "attribution": "Edward Lucas"
+  }],
+  "models": [
+    {
+      "version": "em1",
+      "variations": [{
+          "names": ["desire for sleep"],
+          "predominantType": "impulse",
+          "levels": {
+            "4,3": {
+              "experiences": ["narration"]
+            },
+            "2,1": {
+              "experiences": ["desire for sleep"]
+            }
+          }
+      },{
+          "names": ["escape sleep"],
+          "predominantType": "impulse",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2,1": {
+              "experiences": ["desire for comfort","desire for quiet"]
+            }
+          }
+      }]
+    }
+  ]
+}

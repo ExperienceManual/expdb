@@ -22,12 +22,6 @@
       "desires": ["desire for social status"],
       "sensations": ["delight","relief","vindication"],
       "results": ["desire to show off to your skeptics"]
-    },{
-      "name": "brainy triumph",
-      "description": "If the success was mental and resolved in a sudden insight, it may be described as an epiphany.",
-      "perceptions": ["You solved a difficult mental problem by seeing it from a different perspective.","The problem was important to a valued social group."],
-      "desires": ["desire for social status"],
-      "sensations": ["delight","epiphany"]
     }
   ],
   "models": [
@@ -65,23 +59,6 @@
             },
             "4": {
               "experiences": ["narration"]
-            }
-          }
-      },{
-          "names": ["brainy triumph"],
-          "predominantType": "sensation",
-          "levels": {
-            "1": {
-              "experiences": ["delight"]
-            },
-            "2": {
-              "experiences": ["happiness"]
-            },
-            "3": {
-              "experiences": ["triumph"]
-            },
-            "4": {
-              "experiences": ["epiphany"]
             }
           }
       }]

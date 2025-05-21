@@ -1,0 +1,62 @@
+{
+  "lang": "en/us",
+  "createDate": "20250501",
+  "updateDate": "20250501",
+  "name": "",
+  "valence": 1,
+  "quote": "",
+  "description": "",
+  "perceptions": [""],
+  "desires": [""],
+  "sensations": [""],
+  "results": [""],
+  "personOfInterestExperiences": [""],
+  "guidance": [{
+      "description": "",
+      "attribution": "",
+      "references": [""]
+  }],
+  "links": [],
+  "related": [],
+  "opposites": [],
+  "examples": [],
+  "variations": [{
+      "name": "",
+      "description": "",
+      "perceptions": [""],
+      "desires": [""],
+      "sensations": [""],
+      "results": [""],
+      "personOfInterestExperiences": [""],
+      "guidance": [{
+          "description": "",
+          "attribution": "",
+          "references": [""]
+      }],
+      "links": [],
+      "examples": []
+  }],
+  "comparisons": [{
+      "links": [],
+      "description": ""
+  }],
+  "commentaries": [{
+    "quote": "",
+    "attribution": ""
+  }],
+  "spectrum": {
+  },
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": [""],
+          "predominantType": "",
+          "levels": {
+            "N,M": {
+              "experiences": [""],
+              "description": ""
+            }
+          }
+      }]
+  }]
+}

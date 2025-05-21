@@ -1,0 +1,68 @@
+{
+  "lang": "en/us",
+  "createDate": "20241201",
+  "updateDate": "20250514",
+  "name": "consolation",
+  "valence": 0,
+  "quote": "I lost the match, but her look of pride of helped.",
+  "description": "Something that adds some relief to a generally negative situation.",
+  "perceptions": ["Something overall negative happened.","There was a small aspect of the event that can be seen as positive."],
+  "desires": ["desire for comfort"],
+  "sensations": ["losing","gaining","dissonance"],
+  "opposites": ["insult to injury"],
+  "related": ["bittersweet"],
+  "variations": [{
+      "name": "thankful consolation",
+      "description": "If someone provided assistance in the negative situation, it may come with gratitude.",
+      "perceptions": ["Something overall negative happened.","Someone did something to help make the outcome not as bad as it could have been."],
+      "desires": ["desire for comfort"],
+      "sensations": ["losing","gaining","gratitude","dissonance"],
+      "results": ["desire to express gratitude"]
+    }
+  ],
+  "comparisons": [{
+    "links": ["bittersweet"],
+    "description": "A consolation is a small positive amidst a larger negative situation while bittersweet is a roughly equal balance of positive and negative."
+  }],
+  "commentaries": [{
+      "quote": "There was always the consolation that if I didn't like what I wrote I could throw it away or burn it.",
+      "attribution": "Carl Sandburg"
+  },{
+      "quote": "When you're in the muck you can only see muck. If you somehow manage to float above it, you still see the muck but you see it from a different perspective. And you see other things too. That's the consolation of philosophy.",
+      "attribution": "David Cronenberg"
+  }],
+  "models": [
+    {
+      "version": "em1",
+      "variations": [{
+          "names": ["consolation"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["consolation","losing"]
+            },
+            "2,1": {
+              "experiences": ["discomfort","dissonance"]
+            }
+          }
+      },{
+          "names": ["thankful consolation"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["consolation","losing","gratitude"]
+            },
+            "2,1": {
+              "experiences": ["discomfort","dissonance"]
+            }
+          }
+      }]
+    }
+  ]
+}

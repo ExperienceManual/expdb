@@ -1,0 +1,68 @@
+{
+  "lang": "en/us",
+  "createDate": "20241201",
+  "updateDate": "20250514",
+  "name": "discouragement",
+  "valence": -1,
+  "quote": "I tried to fix the clock but gave up.",
+  "description": "Doubt about being unable to achieve a desired outcome along with minor frustration and a growing readiness to give up.",
+  "perceptions": ["You've been struggling with a task.","You're starting to get a little frustrated and doubt your ability to complete the task."],
+  "desires": ["desire to solve a problem"],
+  "sensations": ["frustration","doubt","sadness"],
+  "results": ["temptation to give up"],
+  "guidance": [{
+      "description": "If you're facing discouragement, try searching for tips.",
+      "references": ["https://www.mindshiftwellnesscenter.com/how-to-overcome-discouragement/","https://www.indeed.com/career-advice/career-development/what-to-do-when-feeling-discouraged-in-your-career"]
+  }],
+  "related": ["frustration", "doubt"],
+  "opposites": ["excitement", "triumph", "ephiphany"],
+  "comparisons": [{
+    "links": ["failure"],
+    "description": "Discouragement is a prediction of imminent failure."
+  }],
+  "variations": [{
+      "name": "fear of shame",
+      "description": "If you perceive that there may be a loss of social status with a failure, discouragement may come with fear of shame.",
+      "perceptions": ["You've been struggling with a task.","You're starting to get a little frustrated and doubt your ability to complete the task.","You're concerned that failing in the task could affect how people see you."],
+      "desires": ["desire to solve a problem","desire for social status"],
+      "sensations": ["frustration","doubt","sadness","anxiety"],
+      "results": ["dissonance"]
+  }],
+  "commentaries": [{
+      "quote": "When you predict a failure, it can be difficult to attribute the appropriate of amount of self-blame."
+  },{
+      "quote": "Every person who has grown to any degree of usefulness, every person who has grown to distinction, almost without exception has been a person who has risen by overcoming obstacles, by removing difficulties, by resolving that when he met discouragement he would not give up.",
+      "attribution": "Booker T. Washington"
+  },{
+      "quote": "Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times.",
+      "attribution": "Napolean Hill"
+  }],
+  "models": [
+    {
+      "version": "em1",
+      "variations": [{
+          "names": ["discouragement"],
+          "predominantType": "sensation",
+          "levels": {
+            "4,3": {
+              "experiences": ["discouragement","failure"]
+            },
+            "2,1": {
+              "experiences": ["frustration", "anxiety"]
+            }
+          }
+      },{
+          "names": ["fear of shame"],
+          "predominantType": "sensation",
+          "levels": {
+            "4,3": {
+              "experiences": ["discouragement","failure","shame"]
+            },
+            "2,1": {
+              "experiences": ["frustration", "anxiety"]
+            }
+          }
+      }]
+    }
+  ]
+}

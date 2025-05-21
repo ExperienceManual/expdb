@@ -1,0 +1,101 @@
+{
+  "lang": "en/us",
+  "createDate": "20250120",
+  "updateDate": "20250516",
+  "name": "desire for privacy",
+  "valence": 0,
+  "quote": "I'm not going out tonight.",
+  "description": "A desire to avoid unnecessary social attention at the moment.",
+  "perceptions": ["Being very social seems unimportant or unappealing right now."],
+  "guidance": [{
+      "description": "It's ok if you get a social invitation that you want to decline.",
+      "attribution": "",
+      "references": ["https://www.self.com/story/saying-no-to-invitations","https://parade.com/living/how-to-politely-decline-an-invitation"]
+  }],
+  "related": ["desire for quiet", "desire for comfort"],
+  "opposites": ["desire for social contact"],
+  "comparisons": [{
+    "links": ["desire for quiet"],
+    "description": "Being around your noisy family may still be considered being private. Likewise, a quiet public library may still feel exposing if you're not feeling well."
+  }],
+  "variations": [{
+      "name": "desire for social rest",
+      "description": "Social withdrawal driven by a simple need for some downtime. Depending your personality, this may be infrequent or often.",
+      "perceptions": ["A social interaction may cost more energy than I have right now."],
+      "links": ["tiredness","overwhelmed","desire for quiet"]
+    },{
+      "name": "desire for social recovery",
+      "description": "Social withdrawal after negative social experience like anxiety, cynicism, shame, ennui, or contempt.",
+      "sensations": ["social tension"],
+      "perceptions": ["After what happened, I need a break from that group."]
+  },{
+      "name": "limit what others know about you",
+      "description": "Desire to keep certain information from certain people. Some people live their lives on social media, others prefer a smaller circle.",
+      "perceptions": ["Concern about what someone may do with a particular piece of information.","Concern about how someone might perceive you if they had this detail."],
+      "sensations": ["desire for agency","distrust"],
+      "examples": ["salary","home address","political/tribal affiliation"],
+      "links": ["desire for agency","distrust"]
+  }],
+  "commentaries": [{
+      "quote": "It can be hard for us to balance being an individual integrated as part of several groups, some of which we may not be fully aligned with. We like to have a sense of safety and control, and we may sometimes perceive that a social situation causes as much anxiety as joy."
+  },{
+      "quote": "My take is, privacy is precious. I think privacy is the last true luxury. To be able to live your life as you choose without having everyone comment on it or know about.",
+      "attribution": "Valerie Plame"
+  },{
+      "quote": "When it comes to privacy and accountability, people always demand the former for themselves and the latter for everyone else.",
+      "attribution": "David Brin"
+  },{
+      "quote": "But there are other words for privacy and independence. They are isolation and loneliness.",
+      "attribution": "Megan Whalen Turner in 'The King of Attolia'"
+  },{
+      "quote": "I don't know why people are so keen to put the details of their private life in public; they forget that invisibility is a superpower.",
+      "attribution": "Banksy"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["desire for privacy","desire for social rest"],
+          "predominantType": "impulse",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2": {
+              "experiences": ["desire for privacy"]
+            },
+            "1": {
+              "experiences": ["desire for quiet", "desire for comfort"]
+            }
+          }
+      },{
+          "names": ["desire for social recovery"],
+          "predominantType": "impulse",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2": {
+              "experiences": ["desire for privacy","social tension"]
+            },
+            "1": {
+              "experiences": ["desire for quiet", "desire for comfort"]
+            }
+          }
+      },{
+          "names": ["limit what others know about you"],
+          "predominantType": "impulse",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2": {
+              "experiences": ["desire for privacy","distrust"]
+            },
+            "1": {
+              "experiences": ["desire for quiet", "desire for comfort"]
+            }
+          }
+      }]
+    }
+  ]
+}

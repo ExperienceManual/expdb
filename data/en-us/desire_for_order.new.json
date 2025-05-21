@@ -1,0 +1,136 @@
+{
+  "lang": "en/us",
+  "createDate": "20250220",
+  "updateDate": "20250520",
+  "name": "desire for order",
+  "valence": 0,
+  "quote": "A place for everything, everything in its place.",
+  "description": "Wanting things to be predictable and positive within a particular range.",
+  "perceptions": ["There's a way things should be.","It's easier to predict and influence things if they are in their place."],
+  "desires": ["desire for comfort","desire for agency"],
+  "guidance": [{
+      "description": "If a desire for order is negatively affecting your life and relationships, you might have a form of OCD.",
+      "references": ["https://my.clevelandclinic.org/health/diseases/24526-obsessive-compulsive-personality-disorder-ocpd"]
+  }],
+  "related": [ "desire for comfort", "desire for control", "dissatisfaction", "anxiety" ],
+  "opposites": ["desire for change"],
+  "variations": [{
+      "name": "desire for social order",
+      "description": "Wanting people to behave as expected. If they don't behave as you feel would be appropriate, you may feel contempt, anger, anxiety, or fear.",
+      "perceptions": ["It's better if people follow the rules."],
+      "desires": ["desire for safety", "desire for social influence"],
+      "sensations": ["contempt", "anger", "anxiety","fear"],
+      "results": ["Want to find a way to get that person to behave as expected."],
+      "guidance": [{
+          "description": "On a near-daily basis, we’re faced with situations that we know are wrong, but saying something might make us or others feel uncomfortable.",
+          "attribution": "Amen Clinics",
+          "references": ["https://www.amenclinics.com/blog/10-tips-for-confronting-someone-whos-in-the-wrong/"]
+      }],
+      "links": ["desire for safety", "desire for social influence"],
+      "examples": ["social norms", "law enforcement"]
+    },{
+      "name": "desire for pure body",
+      "description": "A desire to align with the ideal that your body is a temple: eating well, exercising, sleeping well, etc.",
+      "perceptions": ["It's very important to treat my body well."],
+      "desires": ["desire for health"],
+      "guidance": [{
+          "description": "There are many guides available for living a healthier lifestyle.",
+          "references": ["https://www.nhs.uk/live-well/","https://www.heart.org/en/healthy-living/healthy-lifestyle/lifes-essential-8","https://www.healthpartners.com/blog/how-to-live-healthy-lifestyle/"]
+      }],
+      "links": ["desire for health"],
+      "examples": ["preferring organic food","regular exercise"]
+    },{
+      "name": "desire for clear perception",
+      "description": "A desire to perceive key parts of the world clearly towards making better decisions. You may get frustrated by things that hinder clarity like errors and misinformation.",
+      "perceptions": ["Having an accurate understanding of things is important."],
+      "desires": ["desire for environment knowledge"],
+      "sensations": ["curiosity"],
+      "results": ["desire to remove things that inhibit accurate perception"],
+      "guidance": [{
+          "description": "There are many guides to spotting misinformation.",
+          "references": ["https://www.unicef.org/eca/stories/quick-guide-spotting-misinformation","https://www.apa.org/topics/journalism-facts/misinformation-recommendations","https://www.coe.int/en/web/campaign-free-to-speak-safe-to-learn/dealing-with-propaganda-misinformation-and-fake-news"]
+      }],
+      "links": ["desire for environment knowledge","curiosity"],
+      "examples": ["Wanting things to make sense."]
+    },{
+      "name": "desire for pure environment",
+      "description": "Wanting to live in an environment that matches important ideals relating to health, nature, or social conditions.",
+      "perceptions": ["I'm safer and more comfortable in an environment with certain characteristics."],
+      "desires": ["desire for health","desire for safety"],
+      "examples": [ "Wanting to stay away from liars who pollute your ability to perceive clearly.", "Wanting to live in a clean place with safe water.", "Wanting to stay away from people who are perceived to be a bad influence." ]
+    }
+  ],
+  "comparisons": [{
+      "links": ["desire for environment knowledge","desire for agency"],
+      "description": "We want to understand each environment so that we can predict what might happen in various scenarios so that we can influence the outcome. So the desire for agency drives a desire for order, which drives us to put energy into gaining environment knowledge."
+  }],
+  "commentaries": [{
+      "quote": "Many of us have ideals that we work hard to live up to. Sometimes we can become obsessive about aligning with an ideal as a way of hoping to control negative things in our lives."
+    },{
+      "quote": "If things seem disordered and you can't align them, it may be that the expectations are not quite right."
+    },{
+      "quote": "There is a way to improve the chance of having accurate expectations. It's called the Scientific Method."
+    },{
+      "quote": "There's a lot of overlap underlying our desires for social status, purity, safety, and comfort. It may be worth considering whether the strength of these desires is helping you or causing unnecessary stress."
+    },{
+      "quote": "Good order is the foundation of all great things.",
+      "attribution": "Edmund Burke"
+    },{
+      "quote": "To put the world in order, we must first put the nation in order; to put the nation in order, we must put the family in order; to put the family in order, we must cultivate our personal life; and to cultivate our personal life, we must first set our hearts right.",
+      "attribution": "Confucious"
+    },{
+      "quote": "The art of progress is to preserve order amid change and to preserve change amid order.",
+      "attribution": "Alfred North Whitehead"
+  }],
+  "spectrum": {"desire for order": 5, "desire for purity": 9},
+  "models": [
+    {
+      "version": "em1",
+      "variations": [{
+          "names": ["desire for order"],
+          "predominantType": "impulse",
+          "levels": {
+            "4,3": {
+              "experiences": ["desire for order","desire for agency"]
+            },
+            "2,1": {
+              "experiences": ["desire for comfort"]
+            }
+          }
+      },{
+          "names": ["desire for social order"],
+          "predominantType": "impulse",
+          "levels": {
+            "4,3": {
+              "experiences": ["desire for order","desire for social influence"]
+            },
+            "2,1": {
+              "experiences": ["desire for comfort","desire for safety"]
+            }
+          }
+      },{
+          "names": ["desire for clear perception"],
+          "predominantType": "impulse",
+          "levels": {
+            "4,3": {
+              "experiences": ["desire for order","desire for environment knowledge"]
+            },
+            "2,1": {
+              "experiences": ["desire for comfort"]
+            }
+          }
+      },{
+          "names": ["desire for pure body","desire for pure environment"],
+          "predominantType": "impulse",
+          "levels": {
+            "4,3": {
+              "experiences": ["desire for order","desire for health"]
+            },
+            "2,1": {
+              "experiences": ["desire for comfort","desire for safety"]
+            }
+          }
+      }]
+    }
+  ]
+}

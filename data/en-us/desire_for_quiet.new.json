@@ -1,0 +1,45 @@
+{
+  "lang": "en/us",
+  "createDate": "20250119",
+  "updateDate": "20250515",
+  "name": "desire for quiet",
+  "valence": 0,
+  "quote": "I need to get out of this crazy place.",
+  "description": "Physical or mental need for stillness.",
+  "perceptions": ["The body wants to rest, or the mind wants to experience stillness."],
+  "related": ["overwhelmed", "tiredness", "tranquility","desire for sleep"],
+  "opposites": ["boredom", "desire for stimulation"],
+  "comparisons": [{
+    "links": ["overwhelmed"],
+    "description": "Being 'overwhelmed' doesn't necessarily mean you desire quiet - it can mean you're feeling unable to process so much at once and would like to cut back some."
+  },{
+    "links": ["desire for sleep","tiredness"],
+    "description": "Wanting quiet does not necessarily mean you're sleepy."
+  }],
+  "commentaries": [{
+      "quote": "Silence is the sanctuary of the soul.",
+      "attribution": "Lailah Gifty Akita"
+  },{
+      "quote": "Introverted folks tend to be more sensitive and therefore use quiet, isolation, and reflection to regulate their stimulation to a comfortable level. Extroverts, conversely, tend to be less sensitive and therefore need more excitement and interaction to reach their ideal levels of stimulation.",
+      "attribution": "Susan Cain in 'Quiet: The Power of Introverts in a World That Can’t Stop Talking'"
+  }],
+  "models": [
+    {
+      "version": "em1",
+      "variations": [
+        {
+          "names": ["desire for quiet"],
+          "predominantType": "impulse",
+          "levels": {
+            "3,2,1": {
+              "experiences": ["desire for quiet"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

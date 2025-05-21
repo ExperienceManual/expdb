@@ -5,20 +5,23 @@
     "name": "desire to improve",
     "valence": 0,
     "quote": "Practice makes perfect.",
-    "description": "Wanting to get better in a particular way.",
-    "related": ["playful","desire for comfort","desire for social status","desire for stimulation"],
+    "description": "Wanting to make yourself or the situation better in a particular way.",
+    "related": ["desire for comfort","desire for social status","desire for stimulation"],
     "opposites": ["laziness"],
     "variations": [{
-        "name": "improve health",
+        "name": "desire to solve a problem",
+        "description": "Wanting to work towards the resolution of a problem or challenge."
+    },{
+        "name": "desire to improve health",
         "description": "Engaging in physical exercise, study, or meditation toward improving your physical or mental health. For example, wanting to lose weight in order to feel more energetic."
     },{
-        "name": "improve survival",
+        "name": "desire to improve survival",
         "description": "Spending time in physical exercise or study toward improving survival skills. For example, animals practice various skills that help them survive."
     },{
-        "name": "improve social situation",
+        "name": "desire to improve social situation",
         "description": "Engaging in physical exercise, study, or meditation toward improving a social relationship. For example, wanting to lose weight in order to be more attractive."
     },{
-        "name": "improve existential self",
+        "name": "desire to improve existential self",
         "description": "Engaging in physical exercise, study, meditation, or acts of kindness toward narrowing a perceived gap between your actual and ideal self."
     }],
     "models": [{

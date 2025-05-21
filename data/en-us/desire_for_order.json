@@ -1,30 +1,35 @@
 {
     "lang": "en/us",
     "createDate": "20250220",
-    "updateDate": "20250221",
-    "name": "desire for purity",
+    "updateDate": "20250520",
+    "name": "desire for order",
     "valence": 0,
     "quote": "A place for everything, everything in its place.",
-    "description": "A yearning to live up to a particular ideal.",
-    "related": ["abstinence"],
-    "opposites": ["indulgence"],
+    "description": "Wanting things match a particular ideal or at least be withing a particular range of expectations.",
+    "related": ["desire for comfort","desire for control","dissatisfaction","anxiety","abstinence"],
+    "opposites": ["desire for change"],
     "variations": [{
+        "name": "desire for social order",
+        "description": "Wanting people to behave as expected.",
+        "links": ["desire for safety","desire for social influence"],
+        "examples": ["social norms","law enforcement"]
+    },{
         "name": "desire for pure body",
-        "description": "A strong desire to align with the ideal that your body is a temple: eating well, exercising, sleeping well, etc.",
+        "description": "A desire to align with the ideal that your body is a temple: eating well, exercising, sleeping well, etc.",
         "links": ["desire for health"]
     },{
         "name": "desire for pure social reputation",
-        "description": "A strong desire to bolter and protect an aspect of an identity as a way to ensure social status.",
+        "description": "A desire to bolter and protect an aspect of an identity as a way to ensure social status.",
         "links": ["desire for social status"],
         "examples": ["Doing things to be seen as brave.","Striving for perfect competence in a field.", "Always looking your best."]
     },{
         "name": "desire for pure existential reputation",
-        "description": "A desire for a spotless reputation. While you can hide thoughts from people, your existential self knows it can't hide them from God, gods, or Universe.",
+        "description": "A desire for a spotless reputation. While you can hide thoughts from people, your existential self knows it can't hide them from God, karma, or the Universe.",
         "links": ["desire for meaning"],
         "examples": ["Modern religious people may strive for goodness, faith, and charity.","Ancient religions may have encouraged aggression and bravery without hesitation."]
     },{
         "name": "desire for pure perception",
-        "description": "A strong desire to perceive key parts of the world clearly to improve the chance of choosing the correct actions.",
+        "description": "A desire to perceive key parts of the world clearly to improve the chance of choosing the correct actions.",
         "links": ["desire for safety"],
         "examples": ["Wanting things to make sense."]
         },{

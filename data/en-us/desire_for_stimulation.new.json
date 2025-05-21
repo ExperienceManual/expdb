@@ -1,0 +1,61 @@
+{
+  "lang": "en/us",
+  "createDate": "20250119",
+  "updateDate": "20250515",
+  "name": "desire for stimulation",
+  "valence": 0,
+  "quote": "I'm going stir crazy.",
+  "description": "Physical or mental need for activity.",
+  "perceptions": ["The body wants to stretch and move, or the mind wants to experience something more exciting."],
+  "related": ["boredom", "playful"],
+  "opposites": ["overwhelmed", "desire for quiet"],
+  "comparisons": [{
+    "links": ["boredom"],
+    "description": "Often, 'boredom' is a desire for stimulation, but sometimes you can feel bored even when you're active at the 'wrong' kind of activity."
+  }],
+  "variations": [{
+      "name": "desire for comfort chemicals",
+      "description": "The brain can become quite fond of stimulating chemicals consumed or released during exciting activities.",
+      "perceptions": ["The mind wants to feel the stimulation of brain juices."],
+      "examples": ["caffeine","dopamine","adrenaline"],
+      "links": ["addiction", "desire for sex"]
+    },{
+      "name": "desire for novelty",
+      "description": "Wanting to experience something different than usual. Some people enjoy new situations, others prefer to limit their experiences to the familiar.",
+      "perceptions": ["The brain wants to experience something new."],
+      "examples": ["Let's try that new restaurant.","mango peach orange juice"]
+    }
+  ],
+  "commentaries": [{
+      "quote": "Good communication is just as stimulating as black coffee, and just as hard to sleep after.",
+      "attribution": "Anne Morrow Lindbergh"
+  },{
+      "quote": "Working with so many people from all over the world is extremely enriching and stimulating.",
+      "attribution": "Fabiola Gianotti"
+  },{
+      "quote": "We live in a time of overstimulation. There's not a moment when we're not 'on something'--such as the TV, radio, cell phone, Facebook, CD player, Pandora or cordless whatever.",
+      "attribution": "Jim Brickman"
+  },{
+      "quote": "The itch to try new things can wind up in disappointment, or it could lead to having more choices to optimize life experience. People who enjoy novelty probably have some FOMO about not trying the different things life has to offer."
+  },{
+      "quote": "It really is a fact that liberals are much higher than conservatives on a major personality trait called 'openness to experience.' People who are high on openness to experience just crave novelty, variety, diversity, new ideas, travel. People low on it like things that are familiar, that are safe and dependable.",
+      "attribution": "Jonathan Haidt"
+  }],
+  "models": [
+    {
+      "version": "em1",
+      "variations": [{
+          "names": ["*"],
+          "predominantType": "impulse",
+          "levels": {
+            "1": {
+              "experiences": ["desire for stimulation"]
+            },
+            "4,3,2": {
+              "experiences": ["narration"]
+            }
+          }
+      }]
+    }
+  ]
+}

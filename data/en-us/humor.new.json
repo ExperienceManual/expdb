@@ -1,0 +1,89 @@
+{
+  "lang": "en/us",
+  "createDate": "20241228",
+  "updateDate": "20250514",
+  "name": "humor",
+  "valence": 1,
+  "quote": "I liked the joke about the witch!",
+  "description": "Delight driven by unusual social tension or connection that is perceived as clever and harmless to the self and other important people.",
+  "perceptions": ["Something happened to cause unusual tension or connection, often social","The event is considered clever or harmless."],
+  "sensations": ["delight"],
+  "results": ["desire to smile or laugh"],
+  "guidance": [{
+      "description": "Every person likes to stay around people who make them laugh. Being funny is one of the greatest sought after qualities.",
+      "attribution": "Canadian Institute of International Business",
+      "references": ["https://www.scienceofpeople.com/how-to-be-funny/","https://ciib.org/blog/how-to-be-funny/"]
+  }],
+  "related": ["playful", "surprise", "social tension"],
+  "opposites": ["failed humor can go in many directions"],
+  "variations": [
+    {
+      "name": "slapstick humor",
+      "description": "Slapstick humor is physical, e.g. someone tripping but not hurt.",
+      "perceptions": ["A physical accident or minor attack happened to cause unusual tension.","The event is considered clever or harmless."],
+      "examples": ["The Three Stooges","Road Runner cartoons"]
+    },{
+      "name": "verbal humor",
+      "description": "Verbal humor can be jokes, puns, stories, insults, witty observations, etc.",
+      "perceptions": ["Something is said that causes unusual tension or connection, often social","The statement is considered clever or harmless."],
+      "examples": ["standup comedy"]
+    },{
+      "name": "teasing",
+      "description": "Teasing is a gently irritating social interaction that can be verbal or physical. Children enjoy teasing and tickling, as do chimpanzees.",
+      "perceptions": ["A physical incident or minor irritation is aimed at getting attention and causing unusual tension.","The event is considered harmless."],
+      "examples": ["tickling","pillow fights"]
+    },{
+      "name": "repetitive humor",
+      "description": "Surprise can be a factor in finding something funny, but old favorite jokes can still amuse.",
+      "perceptions": ["Something happened that repeats an uncommon tension or connection.","The event is considered clever or harmless."]
+    },{
+      "name": "silly humor",
+      "description": "Attempts at humor that seem obvious, over-the-top, or cringingly manufactured.",
+      "perceptions": ["Something unusual and often childlike happened that creates an uncommon tension.","The event is considered harmless."],
+      "examples": ["dad jokes"]
+    },{
+      "name": "gross humor",
+      "description": "Attempts at humor that involve bodily fluids or noises that make young kids giggle.",
+      "perceptions": ["Something considered rude happened that creates an uncommon tension.","The event is considered harmless."],
+      "examples": ["public rude noises"]
+  }],
+  "commentaries": [{
+      "quote": "Not everyone finds every kind of humor funny."
+  },{
+      "quote": "Laughter doesn't always mean something is funny. It can also be a social signal that there's some kind of tension that the laugher hopes will resolve harmlessly."
+  },{
+      "quote": "Failed humor can be experienced in many ways, including: weird, gross, concern, cringe, embarrassment, disagreement, disappointment, humiliation, anger, and anxiety."
+  },{
+      "quote": "Humor played a multifaceted role in human evolution, contributing to social bonding, mate selection, cognitive development, emotional regulation, and conflict resolution.",
+      "attribution": "Google Gemini summarizing 'Evolutionary Theories of Human Culture' from Cambridge University Press"
+  }],
+  "spectrum": {
+    "amusing": 1,
+    "humorous": 3,
+    "funny": 5,
+    "hilarious": 8,
+    "ROFL": 10
+  },
+  "models": [
+    {
+      "version": "em1",
+      "variations": [
+        {
+          "names": ["*"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["humor"]
+            },
+            "2,1": {
+              "experiences": ["delight"]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "lang": "en/us",
+  "createDate": "20241201",
+  "updateDate": "20250514",
+  "name": "bittersweet",
+  "valence": 0,
+  "quote": "Romeo and Juliet is a tragic love story.",
+  "description": "An event that provokes both a positive and negative sensation at the same time.",
+  "perceptions": ["Something happens that provokes roughly equal amounts of positive and negative sensations."],
+  "sensations": ["any postitive","any negative"],
+  "results": ["dissonance"],
+  "related": ["consolation","dissonance"],
+  "comparisons": [{
+    "links": ["dissonance"],
+    "description": "Dissonance is any kind of scenario where multiple sensations are firing. Bittersweet is a special case of dissonance where the sensations are roughly equal parts positive and negative."
+  }],
+  "commentaries": [{
+      "quote": "Leaving the space station was bittersweet - I had been there for a long time and looked forward to leaving, but it is a remarkable place.",
+      "attribution": "Scott Kelley"
+  },{
+      "quote": "If you go back to your home town or you're reunited with school friends, its always slightly bittersweet because as much as there's nice things in terms of seeing them again, the town has changed without you, and you're no longer a part of it.",
+      "attribution": "Edgar Wright"
+  }],
+  "models": [
+    {
+      "version": "em1",
+      "variations": [
+        {
+          "names": ["bittersweet"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["bittersweet"]
+            },
+            "2,1": {
+              "experiences": ["delight", "dismay"]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

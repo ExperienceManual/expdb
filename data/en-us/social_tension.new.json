@@ -1,0 +1,71 @@
+{
+  "lang": "en/us",
+  "createDate": "20250118",
+  "updateDate": "20250515",
+  "name": "social tension",
+  "valence": -1,
+  "quote": "(nervous laughter)",
+  "description": "People are perceived as possibly having negative judgments of you or other people. This can range from playful humor to serious conflict.",
+  "perceptions": ["Another person or group may have a negative judgment of you or someone you care about."],
+  "desires": ["desire for social status","desire for safety"],
+  "guidance": [{
+      "description": "There are many sources of social tension. We should probably all consider trying to improve how we handle various types of tense social situations.",
+      "references": ["https://mindfulhealthsolutions.com/10-ways-to-successfully-handle-social-gatherings-with-social-anxiety/","https://www.onelegal.com/blog/ways-for-legal-professionals-to-defuse-tense-situations/","https://taskhuman.com/insights/navigating-productive-political-conversations-at-work/"]
+  }],
+  "related": ["anxiety", "humor", "group hostility", "contempt"],
+  "opposites": ["companionship", "acceptance"],
+  "variations": [{
+      "name": "dangerous tension",
+      "description": "If you predict social tension may become a harmful conflict, it may escalate to fear.",
+      "perceptions": ["Another person or group definitely has a negative judgment of you or someone you care about.","You also have a fairly negative judgment of them."],
+      "desires": ["desire for social status","desire for safety"],
+      "sensations": ["fear","contempt","anger"],
+      "results": ["defense","desire to exit the situation"]
+    }
+  ],
+  "commentaries": [{
+      "quote": "Most of us drift along on instinct and background, so we when inevitably bump into someone else's bad day, we aren't aways good at dealing with it gracefully. Minor tension may resolve with humor. More serious tension requires wisdom and practice."
+  },{
+      "quote": "Sometimes laughing can be a signal suggesting that tension should be defused. Comedy like 'Seinfeld' is based heavily on cringy social tension."
+  },{
+      "quote": "Peace is not the absence of conflict, it is the ability to handle conflict by peaceful means.",
+      "attribution": "Ronald Reagan"
+  },{
+      "quote": "In times of stress, the best thing we can do for each other is to listen with our ears and our hearts.",
+      "attribution": "Dr. Rick Hanson"
+  }],
+  "models": [
+    {
+      "version": "em1",
+      "variations": [{
+          "names": ["social tension"],
+          "predominantType": "sensation",
+          "levels": {
+            "1": {
+              "experiences": ["anxiety"]
+            },
+            "3,2": {
+              "experiences": ["social tension"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["dangerous tension"],
+          "predominantType": "sensation",
+          "levels": {
+            "1": {
+              "experiences": ["anxiety"]
+            },
+            "3,2": {
+              "experiences": ["social tension","fear"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      }]
+    }
+  ]
+}

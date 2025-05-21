@@ -1,0 +1,81 @@
+{
+  "lang": "en/us",
+  "createDate": "20250119",
+  "updateDate": "20250516",
+  "name": "desire for sex",
+  "valence": 0,
+  "quote": "Your place or mine?",
+  "description": "Desire for sexual contact.",
+  "perceptions": ["The body or mind desires sexual contact."],
+  "guidance": [{
+      "description": "Human beings are sexual creatures, but Western culture is pretty shy about about the subject. If this topic is causing you problems, consider researching it.",
+      "references": ["https://siecus.org/homeschool-style-sex-ed-resources/","https://sexualhealthalliance.com/nymphomedia-blog/sex-education-tools-for-adults"]
+    }
+  ],
+  "related": [ "desire for stimulation", "desire for pleasure", "temptation", "validation" ],
+  "opposites": ["desire for quiet"],
+  "variations": [{
+      "name": "biological desire for sex",
+      "description": "The purely biological desire for sexual contact is a small part of the story for most of us. If this is causing a problem, consider the guidance under the main section.",
+      "perceptions": ["biological desire for sexual contact"],
+      "links": ["desire for parenthood"]
+    },{
+      "name": "validating desire for sex",
+      "description": "Being attractive enough to find a partner can fulfill a desire for social validation.",
+      "perceptions": ["being sexually active means you're not ugly"],
+      "desires": ["desire for social status"],
+      "links": ["desire for social status"]
+    },{
+      "name": "peer pressure desire for sex",
+      "description": "Some may feel the need to be sexually active to stay in the graces of a social group.",
+      "perceptions": ["being sexually active means you're cool"],
+      "desires": ["desire for social status"],
+      "links": ["desire for social status"]
+  }],
+  "commentaries": [{
+      "quote": "Conflicting social norms can make any kind of sex complicated. It may help to understand where your own desire is coming from: social pressures, habits, escape, or biology."
+  },{
+      "quote": "There are many that consider sex to be a private matter that shouldn't be openly discussed in case it encourages young people. This is understandable, as the consequences can be significant. Not only is having a baby life changing, but you don't really want to think about your grandparents in that way."
+  },{
+      "quote": "It is clear that sexual desire is one of the — if not the — strongest of human needs. Typically, it takes up a huge portion of our time, emotional energy, and lives.",
+      "attribution": "Elijah Wolfson on healthline.com"
+  },{
+      "quote": "Our failure to understand the real and paradoxical nature of human mating is costly, both scientifically and socially.",
+      "attribution": "David M. Buss in 'The Evolution of Desire'"
+  }],
+  "spectrum": {
+    "desire for sex": 5,
+    "lust": 9
+  },
+  "models": [
+    {
+      "version": "em1",
+      "variations": [{
+          "names": ["desire for sex","biological desire for sex"],
+          "predominantType": "impulse",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2,1": {
+              "experiences": ["desire for sex"]
+            }
+          }
+      },{
+          "names": ["validating desire for sex","peer pressure desire for sex"],
+          "predominantType": "impulse",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["desire for social status"]
+            },
+            "2,1": {
+              "experiences": ["desire for pleasure"]
+            }
+          }
+      }]
+    }
+  ]
+}

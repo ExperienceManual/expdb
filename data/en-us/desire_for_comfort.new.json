@@ -1,0 +1,86 @@
+{
+  "lang": "en/us",
+  "createDate": "20250119",
+  "updateDate": "20250515",
+  "name": "desire for comfort",
+  "valence": 0,
+  "quote": "Is it Friday yet?",
+  "description": "Wanting to attain an experience with less discomfort. If we can imagine a more optimal situation, we often want to get there.",
+  "perceptions": ["The situation could and should be easier and more comfortable."],
+  "related": [ "desire for food", "sickness", "boredom", "desire for comfort chemicals", "desire for sex", "pain", "relief"
+  ],
+  "opposites": ["sacrifice"],
+  "guidance": [{
+      "description": "If you'd like expand your comfort zone, consider making it a goal.",
+      "references": ["https://www.indeed.com/career-advice/career-development/getting-out-of-your-comfort-zone","https://www.forbes.com/councils/forbescoachescouncil/2023/04/17/18-actionable-tips-for-stepping-out-of-your-comfort-zone/"]
+  }],
+  "variations": [{
+      "name": "wanting to feel better",
+      "description": "If starting from a place of pain, sickness, or discomfort, even just feeling normal would be a relief.",
+      "perceptions": ["The body or mind is not feeling well."],
+      "examples": ["another week and I get this cast off"]
+    },{
+      "name": "more comfort is better",
+      "links": ["desire for pure body"],
+      "description": "Even in a normal state, we often still desire something more tangibly pleasant.",
+      "perceptions": ["things could be even better"],
+      "examples": ["I'm not cold but could use an extra blanket anyhow."]
+    },{
+      "name": "low discomfort tolerance",
+      "description": "A consistent need for comfort can border on addiction and perhaps cause problems in every day living.",
+      "perceptions": ["Being even a little bit uncomfortable is hard to tolerate."],
+      "guidance": [{
+          "description": "Life is often uncomfortable. If you find yourself limited by low tolerance for discomfort, consider seeking support.",
+          "references": ["__THERAPY_LINKS__"]
+      }]
+    },{
+      "name": "desire for better surroundings",
+      "description": "Wanting for your surroundings to be better aligned with preferences.",
+      "perceptions": ["my surroundings could be more comfortable"],
+      "examples": ["wish it would warm up"]
+  }],
+  "commentaries": [{
+      "quote": "It may be helpful to be aware if longing for the presence or absence of specific brain chemicals is distracting you needlessly from the present."
+    },{
+      "quote": "We escape our lives of anxious doubt with comfortable distractions like TV, movies, video games, and the internet."
+    },{
+      "quote": "Life begins at the end of your comfort zone.",
+      "attribution": "Neale Donald Walsch"
+  },{
+      "quote": "Comfort is a drug. Once you get used to it, it becomes addicting.",
+      "attribution": "Peter Shankman"
+  }],
+  "spectrum": {
+    "desire for comfort": 3,
+    "desire for health": 5,
+    "desire for pleasure": 7
+  },
+  "models": [
+    {
+      "version": "em1",
+      "variations": [{
+          "names": ["desire for comfort","desire for better surroundings","low discomfort tolerance","more comfort is better"],
+          "predominantType": "impulse",
+          "levels": {
+            "3,2,1": {
+              "experiences": ["desire for comfort"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["wanting to feel better"],
+          "predominantType": "impulse",
+          "levels": {
+            "3,2,1": {
+              "experiences": ["wanting to feel better","desire to improve health"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      }]
+    }
+  ]
+}

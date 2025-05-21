@@ -1,0 +1,56 @@
+{
+  "lang": "en/us",
+  "createDate": "20241210",
+  "updateDate": "20250514",
+  "name": "aww",
+  "valence": 1,
+  "quote": "So cute!",
+  "description": "A feeling of extreme positivity upon seeing baby humans or harmless baby animals. Likely to come with an instinct to protect the cutie.",
+  "perceptions": ["Visual or audio perception of a cute baby human or animal."],
+  "sensations": ["appreciation"],
+  "results": ["desire to protect"],
+  "related": ["appreciation"],
+  "opposites": ["aversion"],
+  "variations": [{
+      "name": "cute aggression",
+      "description": "At its most extreme, aww can become 'cute agression' where it's mixed with a selfish possessive urge to pinch or squeeze it. Perhaps this is a way of releasing the strong sensation.",
+      "perceptions": ["Visual or audio perception of a cute baby human or animal."],
+      "desires": ["desire to possess and squeeze this cute creature"],
+      "sensations": ["appreciation"],
+      "links": ["greed"]
+  }],
+  "spectrum": {
+    "cute": 1,
+    "aww": 5,
+    "squee": 7,
+    "cute agression": 10
+  },
+  "commentaries": [{
+    "quote": "This protective reaction is probably rooted in an ancient part of the brain that picks up on subtle cues for babies like the relative size of the eyes to the head."
+  },{
+    "quote": "Biological response of oxytocin attaches the adults to infants and vasopressin is somehow associated with aggressive feelings. Cute aggression, such as biting, squeezing, and tickling, is related to the intersection of emotional responses and reward centers.",
+    "attribution": "Wikipedia entry on Cute_aggression"
+  }],
+  "models": [
+    {
+      "version": "em1",
+      "variations": [
+        {
+          "names": ["aww"],
+          "predominantType": "sensation",
+          "levels": {
+            "1": {
+              "experiences": ["delight"]
+            },
+            "2": {
+              "experiences": ["aww"]
+            },
+            "4,3": {
+              "experiences": ["narration"]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

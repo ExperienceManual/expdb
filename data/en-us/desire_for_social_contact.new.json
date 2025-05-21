@@ -1,0 +1,57 @@
+{
+  "lang": "en/us",
+  "createDate": "20250120",
+  "updateDate": "20250520",
+  "name": "desire for social contact",
+  "valence": 0,
+  "quote": "I need a friendly ear.",
+  "description": "A desire for social activity. Could be driven by a desires for simple companionship, social validation, or general social stimulation.",
+  "perceptions": ["It's been a while since I've interacted with people."],
+  "desires": ["desire for stimulation"],
+  "guidance": [{
+      "description": "Ways To Get Some Quick Social Contact When You're Feeling Really Lonely And Isolated: meetups, religious service, family, friends, online chat, support group, counselor. Know there's nothing shameful about wanting social contact. It's a basic human need.",
+      "attribution": "Chris MacLeod, MSW",
+      "references": ["https://www.succeedsocially.com/lonelysocialcontact"]
+  }],
+  "related": ["loneliness", "desire for stimulation","desire for social status"],
+  "opposites": ["overwhelmed", "desire for quiet", "desire for privacy"],
+  "variations": [{
+      "name": "desire to be around certain people",
+      "description": "A desire for social interactions with a specific group of people. Could be driven by a desire to meet someone special or gain the favor of that group.",
+      "perceptions": ["I'd like to be amongst people of like mind."],
+      "desires": ["desire for validation","desire for stimulation","desire for comfort"],
+      "links": ["desire for social status"]
+    }
+  ],
+  "comparisons": [{
+    "links": ["lonliness"],
+    "description": "Feeling lonely would certainly drive a desire for social contact, but you can desire social interaction for the stimulation without necessarily feeling lonely."
+  }],
+  "commentaries": [{
+    "quote": "Man is, by nature, a social animal.",
+    "attribution": "Aristotle"
+  },{
+    "quote": "Human beings are social creatures. We are social not just in the trivial sense that we like company, and not just in the obvious sense that we each depend on others. We are social in a more elemental way: simply to exist as a normal human being requires interaction with other people.",
+    "attribution": "Atul Gawande"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["*"],
+          "predominantType": "impulse",
+          "levels": {
+            "1": {
+              "experiences": ["desire for stimulation"]
+            },
+            "3,2": {
+              "experiences": ["desire for social contact"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

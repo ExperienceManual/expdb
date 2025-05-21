@@ -1,0 +1,73 @@
+{
+  "lang": "en/us",
+  "createDate": "20250120",
+  "updateDate": "20250516",
+  "name": "desire for safety",
+  "valence": -1,
+  "quote": "Call for help!",
+  "description": "A desire to get out of a situation of perceived bodily or social danger. This desire is the result of fear or anxiety.",
+  "alternateDefinitions": ["fight or flight"],
+  "perceptions": ["Your body or an important social identity are threatened."],
+  "desires": ["desire for comfort","desire for social status"],
+  "sensations": ["fear","anxiety"],
+  "results": ["desire to remove or escape the perceived threat"],
+  "related": ["defensiveness", "anxiety", "fear", "anger"],
+  "opposites": ["calmness"],
+  "guidance": [{
+    "description": "Remaining composed enough to respond appropriately to danger can take courage.",
+    "references": ["https://greatergood.berkeley.edu/article/item/six_ways_to_find_your_courage_during_challenging_times","https://www.psychologytoday.com/us/blog/the-path-to-passionate-happiness/202501/the-guide-to-being-courageous"]
+  }],
+  "variations": [{
+      "name": "desire to escape danger",
+      "description": "Your physical safety is threatened when your body is in danger. If someone is perceived as causing this threat, it can come with anger.",
+      "perceptions": ["Your body is threatened."],
+      "desires": ["desire for comfort"],
+      "sensations": ["fear","anxiety","anger"],
+      "results": ["desire to remove or escape the perceived threat"]
+    },{
+      "name": "desire to escape social threat",
+      "description": "Your social safety is threatened when your status and reputation are perceived as being attacked. This may come with anger or other negative social experiences like shame.",
+      "perceptions": ["An important social identity is threatenened."],
+      "desires": ["desire for social status"],
+      "sensations": ["fear","anxiety","anger","shame"],
+      "results": ["desire to remove or escape the perceived threat"],
+      "guidance": [{
+          "description": "See guidance for social tension.",
+          "references": ["social_tension"]
+      }]
+    }
+  ],
+  "commentaries": [{
+      "quote": "This is the flight-freeze-flight reaction. 'Safety' could be thought of as a kind of 'existential comfort' that is often prioritized over physical comfort. This also covers social dangers because we're aware of how much we depend on others, we often link 'social comfort' and 'existential comfort'."
+  },{
+      "quote": "Even though we may not always be aware of danger on a cognitive level, on a neurophysiological level, our body has already started a sequence of neural processes that would facilitate adaptive defense behaviors such as fight, flight or freeze.",
+      "attribution": "Stephen W. Porges in 'The Polyvagal Theory: Neurophysiological Foundations of Emotions, Attachment, Communication, and Self-Regulation'"
+  },{
+      "quote": "My fight-or-flight response was currently telling me to get the hell outta there. Except that my fight-or-flight response had a third, less-evolved option called deer-in-the-headlights.",
+      "attribution": "Preston Norton"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [
+        {
+          "names": ["*"],
+          "predominantType": "impulse",
+          "levels": {
+            "1": {
+              "experiences": ["desire for safety"]
+            },
+            "2": {
+              "experiences": ["anxiety","fear"]
+            },
+            "3": {
+              "experiences": ["anxiety","fear","anger","shame"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

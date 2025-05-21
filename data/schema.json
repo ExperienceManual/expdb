@@ -83,16 +83,12 @@
         "type": "string"
       }
     },
-    "firstPersonExperiences": {
+    "PersonOfInterestExperiences": {
       "type": "array",
       "default": [],
       "items": {
         "type": "string"
       }
-    },
-    "thirdPersonExperience": {
-      "type": "boolean",
-      "default": false
     },
     "links": {
       "type": "array",

@@ -1,0 +1,84 @@
+{
+  "lang": "en/us",
+  "createDate": "20250120",
+  "updateDate": "20250519",
+  "name": "desire for agency",
+  "valence": 0,
+  "quote": "Dad, I'm not a little kid anymore.",
+  "description": "A desire to be involved in the decisions about your actions and experiences in life or a part of life.",
+  "perceptions": ["I should be involved in making this decison that affects me."],
+  "desires": ["desire for social influence","desire to improve"],
+  "guidance": [{
+      "description": "Taking control of your life means cutting through all the noise, finding emotional and physical balance, thinking more clearly, and advocating for yourself.",
+      "attribution": "Paul Napper and Anthony Rao",
+      "references": ["https://www.mindful.org/seven-ways-to-develop-personal-agency/"]
+  }],
+  "related": [ "responsibility", "self-confidence", "aspiration", "ambition", "agency", "power" ],
+  "opposites": ["apathy", "aimlessness", "hopelessness"],
+  "variations": [{
+      "name": "growing in responsibility",
+      "description": "If you know that you've been in a training stage, then becoming ready for more responsibility is part of the process. It may come with impatience if others don't recognize your readiness.",
+      "perceptions": ["I am now capable of making a decision on this topic.","Others might not be sure I'm ready."],
+      "desires": ["want to prove I can do it"],
+      "examples": ["kids growing up","employees ready for growth"]
+    },{
+      "name": "being held back",
+      "description": "If you feel held back by those who are making decisions for you, this may come with frustration or anger, especially if you disagree with them.",
+      "perceptions": ["I am capable of making a decision on this topic.","Others are not letting me make decisions."],
+      "desires": ["want to to be given a chance"],
+      "sensations": ["frustration"],
+      "examples": ["overbearing relationships","micromanagement"]
+    },{
+      "name": "desire for control",
+      "description": "Wanting to be able to choose which experiences you have, including perhaps on behalf of others. Wanting 'control' is stronger than wanting agency.",
+      "perceptions": ["I'm capable of decisions on this topic.","I should be allowed to make decisons."],
+      "desires": ["want to have things come out in a certain way"],
+      "sensations": ["confidence"],
+      "examples": ["I'm going to drive"],
+      "guidance": [{
+          "description": "The desire for control may be rooted in a fear of uncertainty.",
+          "attribution": "Emma Dibdin",
+          "references": ["https://psychcentral.com/blog/why-you-need-to-control-everything"]
+      }]
+  }],
+  "commentaries": [{
+      "quote": "It's normal to want freedom of unnecessary constraints on your decision-making. It may be helpful to understand the reason for the constraint before becoming upset by it. Civilization cannot not work if everyone has complete freedom to make whatever decisions they want."
+  },{
+      "quote": "A sense of agency probably isn't important to hive creatures like ants and bees. But it is important to all other social creatures who are required to be able survive alone or in small groups."
+  },{
+      "quote": "Don't tread on me.",
+      "attribution": "Christopher Gadsden"
+  },{
+      "quote": "Men often oppose a thing merely because they have had no agency in planning it, or because it may have been planned by those whom they dislike.",
+      "attribution": "Alexander Hamilton"
+  },{
+      "quote": "I am an artist, and I have the ability and the free will to choose the way the world will envision me.",
+      "attribution": "Lady Gaga"
+  },{
+      "quote": "Man is a masterpiece of creation if for no other reason than that, all the weight of evidence for determinism notwithstanding, he believes he has free will.",
+      "attribution": "Georg C. Lichtenberg"
+  },{
+      "quote": "The Creator, in taking infinite pains to shroud with mystery His presence in every atom of creation, could have had but one motive - a sensitive desire that men seek Him only through free will.",
+      "attribution": "Paramahansa Yogananda"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["*"],
+          "predominantType": "impulse",
+          "levels": {
+            "1": {
+              "experiences": ["frustration"]
+            },
+            "3,2": {
+              "experiences": ["desire for agency"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

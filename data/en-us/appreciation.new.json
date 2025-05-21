@@ -7,7 +7,7 @@
   "quote": "What a beautiful sunset!",
   "description": "Attractiveness to the senses or sensibilities in purely subjective arena. What puts something into the zone of 'attractive' depends on culture and individual experiences. You consider it to be a well-formed example of that kind of thing.",
   "alternateDefinitions": ["'Appreciation is often used as another word for gratitude. The underlying connection is that we do find acts of kindness unusual and 'well-formed' enough to find them attractive."],
-  "perceptions": ["Something brings delight by being judged as an instance falling into the upper range of being well-formed for its type of thing."],
+  "perceptions": ["Something brings delight by being judged as a well-formed instance of its type of thing."],
   "sensations": ["delight","admiration"],
   "related": ["love","gratitude","admiration"],
   "opposites": ["aversion"],
@@ -25,13 +25,17 @@
     },{
       "name": "appreciation signaling",
       "description": "Sometimes we might recognize that a social group expects us to find a certain thing appealing, which may nudge us into paying closer attention.",
-      "perceptions": ["We think our social group will care about this thing.","The thing delights by being considered well-formed."],
+      "perceptions": ["We think our social group will care that we like this thing.","The thing delights by being considered well-formed."],
       "desires": ["desire for social contact"],
       "sensations": ["delight","excitement"],
-      "results": ["desire to report the event to the group"]
+      "results": ["desire to report the event to the group"],
+      "guidance": [{
+          "description": "If desired, there are various resources available for how to gently resist social pressure.",
+          "references": ["https://yourlifecounts.org/learning-center/peer-pressure/20-ways-to-avoid-peer-pressure/","https://wholejourneywellness.com/social-pressure-resisting-peer-pressure-and-staying-true-to-yourself-during-the-holidays/"]
+      }]
     },{
       "name": "physical appreciation",
-      "description": "A particularly attractive item, ideal, or person may create a sense of longing to be more closely associated with it/him/her. What makes something physically attractive depends on culture and upbringing.",
+      "description": "A particularly attractive item, ideal, or person may create a sense of longing to be more closely associated with it/him/her. What makes something or someone physically attractive depends on culture and upbringing.",
       "perceptions": ["A person or item is judged to be a good example of being well-formed."],
       "sensations": ["delight","admiration","desire for social contact"]
     }

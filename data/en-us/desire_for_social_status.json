@@ -1,7 +1,7 @@
 {
     "lang": "en/us",
     "createDate": "20250123",
-    "updateDate": "20250216",
+    "updateDate": "20250520",
     "name": "desire for social status",
     "valence": 0,
     "quote": "One day I'm gonna be somebody.",
@@ -14,6 +14,15 @@
     },{
         "name": "recover lost status",
         "description": "You may perceive that you're recovering previously lost status. This may come with relief or vindication."
+    },{
+        "name": "desire to win",
+        "description": "You perceive a competition with another person or group, and want to win.",
+        "links": ["gaining","vengefulness"]
+    },{
+        "name": "desire for existential status",
+        "description": "A desire to align with perceived expectations from the deepest elements of life, gaining grace from God, karma, or the Universe.",
+        "links": ["desire for meaning"],
+        "examples": ["Modern religious people may strive for goodness, faith, and charity.","Ancient religions may have encouraged aggression and bravery."]
     }],
     "commentaries": [{
         "quote": "People sacrifice so many necessities of life to impress one another that they appear to be responding to a higher, spiritual need.",

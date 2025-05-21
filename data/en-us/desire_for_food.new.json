@@ -1,0 +1,92 @@
+{
+  "lang": "en/us",
+  "createDate": "20250119",
+  "updateDate": "20250515",
+  "name": "desire for food",
+  "valence": 0,
+  "quote": "When's lunch?",
+  "description": "Physical or mental desire to eat.",
+  "perceptions": ["Physical hunger or clock says it's time to eat."],
+  "guidance": [{
+      "description": "Dieting and breaking diets is common. You know whether it's time to seek help.",
+      "references": ["https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/weight-loss/art-20047342"]
+  }],
+  "related": ["hunger", "desire for stimulation", "desire for comfort"],
+  "opposites": ["disgust"],
+  "variations": [{
+      "name": "biological hunger",
+      "description": "Hunger is an uncomfortably empty feeling in the belly driving you to seek nourishment.",
+      "perceptions": ["stomach growling"]
+    },{
+      "name": "clock says hungry",
+      "description": "Often in the modern world, we're ready to eat mostly because the clock says it's time for a meal and you're ready for a break from work. Often these breaks are cherished parts of the day.",
+      "perceptions": ["Not necessarily hungry, but it's time to eat."],
+      "desires": ["desire for stimulation"],
+      "links": ["desire for stimulation"]
+    },{
+      "name": "grazing",
+      "description": "You can feel a desire for food by watching others eat. For example, watching an advertisement that shows happy people eating your favorite dish.",
+      "perceptions": ["Others are eating, that looks enjoyable. I should join them."],
+      "desires": ["desire for social contact","desire for stimulation"],
+      "links": ["desire for social contact","desire for stimulation"]
+    },{
+      "name": "comfort snacking",
+      "description": "Snacking can be driven by a deep desire for comfort brought about by the sensations and brain chemicals of the actual eating, and of having the economic luxury to do so.",
+      "perceptions": ["Would be nice to have a snack and there's no harm in doing so."],
+      "desires": ["desire for stimulation"],
+      "links": ["desire for stimulation"]
+  }],
+  "commentaries": [{
+      "quote": "It may be helpful to be aware of why you're heading to the refrigerator: boredom, anxiety, social bonding, or actual hunger."
+  },{
+      "quote": "Food is a lot of people's therapy - when we say comfort food, we really mean that. It's releasing dopamine and serotonin in your brain that makes you feel good.",
+      "attribution": "Brett Hoebel"
+  },{
+      "quote": "A party without cake is just a meeting.",
+      "attribution": "Julia Child"
+  },{
+      "quote": "Food is our common ground, a universal experience",
+      "attribution": "James Beard"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["desire to eat","biological hunger"],
+          "predominantType": "impulse",
+          "levels": {
+            "1": {
+              "experiences": ["biological hunger"]
+            },
+            "4,3,2": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["clock says hungry","comfort snacking"],
+          "predominantType": "impulse",
+          "levels": {
+            "2,1": {
+              "experiences": ["desire for stimulation"]
+            },
+            "4,3": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["grazing"],
+          "predominantType": "impulse",
+          "levels": {
+            "2,1": {
+              "experiences": ["desire for stimulation"]
+            },
+            "3": {
+              "experiences": ["desire for social contact"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      }]
+    }
+  ]
+}

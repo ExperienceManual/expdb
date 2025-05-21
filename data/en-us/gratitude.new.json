@@ -35,12 +35,11 @@
     },
     {
       "name": "someone's gratitude to you",
-      "description": "When you've done something for someone else and they express gratitude can bring joy. You may feel you've done something for the greater good, or have started to return favors others have done for you.",
+      "description": "When you've done something for someone else and they express gratitude, it can bring joy. You may feel you've done something for the greater good, or have started to return favors others have done for you.",
       "perceptions": ["You've done something for someone else.","They express sincere gratitude."],
       "desires": ["desire for social contact"],
       "sensations": ["happiness","goodwill"],
-      "firstPersonExperiences": ["gratitude"],
-      "thirdPersonExperience": true
+      "personOfInterestExperiences": ["gratitude"],
     },
     {
       "name": "existential gratitude",
