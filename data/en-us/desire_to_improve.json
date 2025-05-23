@@ -9,6 +9,9 @@
     "related": ["desire for comfort","desire for social status","desire for stimulation"],
     "opposites": ["laziness"],
     "variations": [{
+        "name": "desire to improve the environment",
+        "description": "Dissatisfaction with some aspect of your environment that prompts you to want to make a change."
+    },{
         "name": "desire to solve a problem",
         "description": "Wanting to work towards the resolution of a problem or challenge."
     },{

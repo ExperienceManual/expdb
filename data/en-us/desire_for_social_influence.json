@@ -1,7 +1,7 @@
 {
     "lang": "en/us",
     "createDate": "20250120",
-    "updateDate": "20250213",
+    "updateDate": "20250520",
     "name": "desire for social influence",
     "valence": 0,
     "quote": "Listen up people...",
@@ -9,22 +9,18 @@
     "related": ["desire for social status","validation","self-confidence","ambition"],
     "opposites": ["tolerance","desire for privacy"],
     "variations": [{
-        "name": "teacher",
+        "name": "desire to teach",
         "description": "If you see a gap in understanding and want to be a part of the solution, sharing ideas with others can legitimately help them.",
         "links": ["helpfulness"]
     },{
-        "name": "paid influencer",
-        "description": "Some people seek to spread their influence mostly to elevate their status and for economic reasons.",
-        "links": ["ambition","desire for social status"]
-    },{
-        "name": "control others",
+        "name": "desire to control others",
         "description": "If you plan to penalize people who don't fall under your influence, this is social control.",
         "links": ["power"]
     },{
-        "name": "make your mark",
+        "name": "desire to make your mark",
         "description": "Influence can include non-verbal impact, like wanting to be the one to track up a fresh snowfall."
     },{
-        "name": "annoy to impress",
+        "name": "desire to annoy",
         "description": "Influence can mean having a negative impact on some social group, ranging from graffiti to terrorists. In this case, there's probably a trade for negative attention from one group bring positive attention from another."
     }],
     "commentaries": [{

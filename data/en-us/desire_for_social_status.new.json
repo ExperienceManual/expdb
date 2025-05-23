@@ -1,0 +1,164 @@
+{
+  "lang": "en/us",
+  "createDate": "20250123",
+  "updateDate": "20250522",
+  "name": "desire for social status",
+  "valence": 0,
+  "quote": "One day I'm gonna be somebody.",
+  "description": "Wanting to be validated or better perceived by a particular social group. Most of us don't want to have the highest status, but we strive to avoid being the lowest status.",
+  "perceptions": ["It's important to be perceived well by a certain social group."],
+  "desires": ["desire for social contact","desire for safety"],
+  "results": ["seek a way to validate, preserve, or improve status"],
+  "guidance": [{
+      "description": "You can't eliminate the desire for social status because it's built in deep. Without status in some group perceived as powerful, we may not feel safe. It may worth understanding how your interest in a particular group is effecting your experiences.",
+      "references": ["https://newsroom.haas.berkeley.edu/we-all-want-high-social-status-2/","https://www.shortform.com/blog/importance-of-social-status/","https://www.shortform.com/blog/importance-of-social-status/","https://www.psychologytoday.com/us/blog/beautiful-minds/201008/two-routes-to-social-status"]
+  }],
+  "related": ["validation", "ambition", "group bond", "gain of social status", "loss of social status"],
+  "variations": [{
+      "name": "desire for identity",
+      "description": "Wanting to know what role you have in a particular social context.",
+      "perceptions": ["I want to know where I fit in the structure of a particular social group.","This will help guide my decisions."],
+      "desires": ["desire for comfort","desire for safety"],
+      "sensations": ["doubt"],
+      "guidance": [{
+          "description": "Identity is important to organizing our lives. We often create an identity that's at least partly defined by what or who we are not.",
+          "attribution": "",
+          "references": ["https://www.mghclaycenter.org/parenting-concerns/discovering-who-i-am-the-critical-role-of-identity/","https://www.scientificamerican.com/article/the-search-for-social-identity-leads-to-us-versus-them/","https://www.healthassured.org/blog/building-a-healthy-self-identity/"]
+      }]
+  },{
+      "name": "desire for validation",
+      "description": "Wanting to have your social value confirmed.",
+      "perceptions": ["I'm not sure where I stand with a particular social group.","I would like to confirm that my standing is still positive."],
+      "sensations": ["anxiety"],
+      "results": ["seek a way to confirm others approval"],
+      "guidance": [{
+          "description": "If you find yourself seeking validation more often than healthy, consider seeking support resources.",
+          "references": ["https://psychcentral.com/health/steps-to-stop-seeking-approval-from-others","https://hbr.org/2023/12/overcoming-your-need-for-constant-validation-at-work"]
+      }]
+  },{
+      "name": "desire to win",
+      "description": "You want to win in a competition with another person or group.",
+      "perceptions": ["There's a competition that I'd like to win.","Winning it will improve my standing."],
+      "desires": ["desire for social status","desire for wealth","desire for stimulation"],
+      "sensations": ["ambition"],
+      "results": ["seek a way to win"],
+      "links": ["gaining", "ambition", "vengefulness"]
+  },{
+      "name": "desire for wealth",
+      "description": "Access to a valued asset is a sign of social status, whether the asset is money, collectibles, fame, attractiveness, or something else.",
+      "perceptions": ["Having more of this asset would make my life better."],
+      "desires": ["desire for comfort","desire for safety"],
+      "results": ["seek ways to obtain the asset"],
+      "personOfInterestExperiences": ["greed"],
+      "guidance": [{
+          "description": "Studies have shown over and over again that after a certain point, money does not buy you happiness (Kahneman & Deaton, 2010).",
+          "attribution": "Julia D Hur Ph.D.",
+          "references": ["https://nickhalaris.medium.com/getting-real-about-money-and-desire-35c1fdc4ae4d","https://www.psychologytoday.com/us/blog/gim-goals-incentives-and-meritocracy/202207/what-makes-us-obsessed-with-money"]
+      }],
+      "links": ["wealthy"]
+  },{
+      "name": "desire for existential status",
+      "description": "A desire to align with perceived expectations of God, karma, or the Universe.",
+      "perceptions": ["The status of my existential self matters."],
+      "desires": ["desire for meaning","desire for comfort"],
+      "guidance": [{
+          "description": "Religions and moral systems lay out an existential worldview and a path for how to improve the self within that context.",
+          "references": ["https://www.nytimes.com/2025/02/01/opinion/religion-faith-choose.html","https://fathergoodrich.com/4-starting-points-for-choosing-a-religion-or-at-least-exploring-one/"]
+      }],
+      "links": ["desire for meaning"],
+      "examples": [
+        "Modern religious people may strive for goodness, faith, and charity.",
+        "Ancient religions may have encouraged aggression and bravery."
+      ]
+  },{
+      "name": "desire to decrease others status",
+      "description": "A perception that relative status matters so knocking others down appears to improve your own position.",
+      "perceptions": ["Someone else has a higher status in a group I care about.","They are imperfect humans, so I can find a flaw.","Lowering their status will make my relative status higher."],
+      "desires": ["desire for social status"],
+      "sensations": ["jealousy","contempt"],
+      "results": ["seek a way to attack their status"],
+      "personOfInterestExperiences": ["defense","injustice"],
+      "examples": ["online trolls"]
+  }],
+  "commentaries": [{
+      "quote": "People sacrifice so many necessities of life to impress one another that they appear to be responding to a higher, spiritual need.",
+      "attribution": "Steven Pinker in 'How the Mind Works'"
+  },{
+      "quote": "The deepest craving of human nature is the need to be appreciated.",
+      "attribution": "William James"
+  },{
+      "quote": "Deep down people recognize that we require social support for our individual survival in the long term. So having status with a group that help keep us safe is unconciously critical."
+  },{
+      "quote": "Gaining social status with one group probably involves losing status with another."
+  },{
+      "quote": "The problem - at least in the United States - is not that people can't find jobs. The problem is that they're no longer finding jobs that provide them with dignity and decent social status.",
+      "attribution": "Kenneth Rogoff"
+  },{
+      "quote": "Status illegibility is necessary to keep a group of losers stable. It is a deep form of uncertainty. I am not saying that there is a ranking that is just not known or knowable. I am saying there is no clear ranking to be known.",
+      "attribution": "Venkatesh Rao in the-gervais-principle-iv-wonderful-human-beings"
+  },{
+      "quote": "We quickly and unconciously measure social status for everyone automatically. The problem is that we each have different measuring sticks. Status can be based in different amounts of appearance, age, wealth, behavior, accent, gender, religion, group membership, or pretty much any other factor."
+  },{
+      "quote": "The brain can only handle a few absolute statuses: high, medium, and low. Some people want to be high status, some do not. No one wants to be low status, but by definition there has to be members of the lowest bucket even if they're not aware of their position. Within each bucket, we're sensitive about measuring fuzzy status differences relative to others, striving to maintain or improve our relative position."
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["desire for social status","desire for wealth","desire for validation","desire for identity"],
+          "predominantType": "impulse",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2": {
+              "experiences": ["desire for social status"]
+            },
+            "1": {
+              "experiences": ["desire for comfort","desire for safety"]
+            }
+          }
+      },{
+          "names": ["desire to decrease others status"],
+          "predominantType": "impulse",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2": {
+              "experiences": ["desire for social status"]
+            },
+            "1": {
+              "experiences": ["anxiety","desire for safety"]
+            }
+          }
+      },{
+          "names": ["desire for existential status"],
+          "predominantType": "impulse",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["desire for social status","desire for meaning"]
+            },
+            "2,1": {
+              "experiences": ["anxiety","desire for safety"]
+            }
+          }
+      },{
+          "names": ["desire to win"],
+          "predominantType": "impulse",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["desire for social status","ambition"]
+            },
+            "2,1": {
+              "experiences": ["desire for stimulation","desire for comfort"]
+            }
+          }
+      }]
+  }]
+}

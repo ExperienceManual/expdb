@@ -29,16 +29,11 @@
       "links": ["desire for safety", "desire for social influence"],
       "examples": ["social norms", "law enforcement"]
     },{
-      "name": "desire for pure body",
-      "description": "A desire to align with the ideal that your body is a temple: eating well, exercising, sleeping well, etc.",
-      "perceptions": ["It's very important to treat my body well."],
-      "desires": ["desire for health"],
-      "guidance": [{
-          "description": "There are many guides available for living a healthier lifestyle.",
-          "references": ["https://www.nhs.uk/live-well/","https://www.heart.org/en/healthy-living/healthy-lifestyle/lifes-essential-8","https://www.healthpartners.com/blog/how-to-live-healthy-lifestyle/"]
-      }],
-      "links": ["desire for health"],
-      "examples": ["preferring organic food","regular exercise"]
+      "name": "desire for purity",
+      "description": "Many people prioritize some aspect of their life as being extremely important to protect and optimize. Anything short of pure perfection in this area can cause anxiety. It varies from person-to-person, but commonly includes health, reputation, spirituality, knowledge, safety, sexuality, etc.",
+      "perceptions": ["It's critical to maintain a certain aspect of life."],
+      "links": ["abstinence","desire for control"],
+      "examples": ["culture of honor","preferring organic food","regular religious attendance"]
     },{
       "name": "desire for clear perception",
       "description": "A desire to perceive key parts of the world clearly towards making better decisions. You may get frustrated by things that hinder clarity like errors and misinformation.",
@@ -53,7 +48,7 @@
       "links": ["desire for environment knowledge","curiosity"],
       "examples": ["Wanting things to make sense."]
     },{
-      "name": "desire for pure environment",
+      "name": "desire for better environment",
       "description": "Wanting to live in an environment that matches important ideals relating to health, nature, or social conditions.",
       "perceptions": ["I'm safer and more comfortable in an environment with certain characteristics."],
       "desires": ["desire for health","desire for safety"],

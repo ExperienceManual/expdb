@@ -5,19 +5,22 @@
     "name": "desire for social status",
     "valence": 0,
     "quote": "One day I'm gonna be somebody.",
-    "description": "Wanting to be better perceived by a particular social group.",
+    "description": "Wanting to be validated or better perceived by a particular social group.",
     "related": ["validation","ambition","group bond"],
     "variations": [{
-        "name": "social infuencer",
-        "description": "Influencing others can be a way of gaining or validating social status.",
-        "links": ["desire for social influence"]
+        "name": "desire for validation",
+        "description": "Wanting to have your social value confirmed."
     },{
-        "name": "recover lost status",
+        "name": "desire to recover lost status",
         "description": "You may perceive that you're recovering previously lost status. This may come with relief or vindication."
     },{
         "name": "desire to win",
         "description": "You perceive a competition with another person or group, and want to win.",
         "links": ["gaining","vengefulness"]
+    },{
+        "name": "desire for wealth",
+        "description": "Access to a valued asset is a sign of social status, whether that wealth is money, collectibles, fame, attractiveness, or something else.",
+        "links": ["wealthy"]
     },{
         "name": "desire for existential status",
         "description": "A desire to align with perceived expectations from the deepest elements of life, gaining grace from God, karma, or the Universe.",
@@ -28,7 +31,7 @@
         "quote": "People sacrifice so many necessities of life to impress one another that they appear to be responding to a higher, spiritual need.",
         "attribution": "Steven Pinker in 'How the Mind Works'"
     },{
-        "quote": "“The deepest craving of human nature is the need to be appreciated.”,
+        "quote": "The deepest craving of human nature is the need to be appreciated.",
         "attribution": "William James"
     },{
         "quote": "Deep down people recognize that we require social support for our individual survival in the long term. So having status with a group that help keep us safe is unconciously critical."

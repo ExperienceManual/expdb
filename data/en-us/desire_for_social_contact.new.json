@@ -26,6 +26,9 @@
   "comparisons": [{
     "links": ["lonliness"],
     "description": "Feeling lonely would certainly drive a desire for social contact, but you can desire social interaction for the stimulation without necessarily feeling lonely."
+  },{
+    "links": ["desire for social influence","desire for social status"],
+    "description": "You might just want to hang out with people without trying to influence them in any way or engage in any kind of status re-evaluation. Likewise, if you do want to influence someone, it could be for reasons other than social status like safety, parenting, etc."
   }],
   "commentaries": [{
     "quote": "Man is, by nature, a social animal.",
