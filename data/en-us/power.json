@@ -31,6 +31,12 @@
     },{
         "quote": "[The founders of the United States] were insightful students of human nature. They feared the abuse of power because they understood that every human being has not only "better angels" in his nature, but also an innate vulnerability to temptation — especially the temptation to abuse power over others.",
         "attribution": "Al Gore, Address at New York University 2004)"
+    },{
+        "quote": "Nothing discloses real character like the use of power. It is easy for the weak to be gentle. Most people can bear adversity. But if you wish to know what a man really is, give him power. This is the supreme test. It is the glory of Lincoln that, having almost absolute power, he never abused it, except on the side of mercy.",
+        "attribution": "Robert G. Ingersoll"
+    },{
+        "quote": "It's good to be the king.",
+        "attribution": "Mel Brooks"
     }],
     "models": [{
         "version": "em1",

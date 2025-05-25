@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250123",
-  "updateDate": "20250522",
+  "updateDate": "20250524",
   "name": "desire for social status",
   "valence": 0,
   "quote": "One day I'm gonna be somebody.",
@@ -12,6 +12,9 @@
   "guidance": [{
       "description": "You can't eliminate the desire for social status because it's built in deep. Without status in some group perceived as powerful, we may not feel safe. It may worth understanding how your interest in a particular group is effecting your experiences.",
       "references": ["https://newsroom.haas.berkeley.edu/we-all-want-high-social-status-2/","https://www.shortform.com/blog/importance-of-social-status/","https://www.shortform.com/blog/importance-of-social-status/","https://www.psychologytoday.com/us/blog/beautiful-minds/201008/two-routes-to-social-status"]
+  },{
+      "description": "A group that's important for many is the relationship with others of their own gender -- male bonding groups and female bonding groups.",
+      "references": ["https://blog.thewellnessuniverse.com/the-power-of-male-bonding/","https://mensgroup.com/mens-group-activities/","https://bayoulifemag.com/women-supporting-women-why-our-feminine-bonds-are-so-vital/","https://www.fearlesslygirl.com/blog/team-building-activities-to-foster-cooperation-and-confidence-in-girls"]
   }],
   "related": ["validation", "ambition", "group bond", "gain of social status", "loss of social status"],
   "variations": [{
@@ -79,6 +82,16 @@
       "results": ["seek a way to attack their status"],
       "personOfInterestExperiences": ["defense","injustice"],
       "examples": ["online trolls"]
+  },{
+      "name": "social signaling",
+      "description": "Showing something characteristic of a particular social group to appeal to others interested in that group. This could be wearing a certain type of clothing, talking about certain topics, showing support for certain issues, etc.",
+      "perceptions": ["It's important to be perceived well by a certain social group.","I want to show them how devoted I am to the group by doing or displaying something they care about."],
+      "desires": ["desire for social status"],
+      "guidance": [{
+          "description": "There's nothing wrong with social signaling, we all do it all the time simply by living in the world. But signaling vigorously for one group is likely to lower your status with other groups. If you feel trapped by the need to conform in certain ways, it may help to consider which actions are for yourself and which are for the group.",
+          "references": ["https://connectepsychology.com/en/2021/08/31/connecting-with-others-the-importance-of-what-we-dont-say-an-introduction-to-social-signaling/","https://personalmba.com/social-signals/"]
+      }],
+      "examples": ["wearing a sports team logo", "posting articles on social media", "clothing", "hairstyle", "flying a flag", "which car you drive", "which food you eat"]
   }],
   "commentaries": [{
       "quote": "People sacrifice so many necessities of life to impress one another that they appear to be responding to a higher, spiritual need.",
@@ -88,6 +101,8 @@
       "attribution": "William James"
   },{
       "quote": "Deep down people recognize that we require social support for our individual survival in the long term. So having status with a group that help keep us safe is unconciously critical."
+  },{
+      "quote": "If groups are fighting, it's about relative status. It's not really about the religion. It's not primarily about ancestry. It's not all about economic class. These things matter because they sort people into groups, and people in these groups feel they must win over the rival or risk negative consequences. Sometimes there are even legitimate grievances."
   },{
       "quote": "Gaining social status with one group probably involves losing status with another."
   },{
@@ -100,11 +115,14 @@
       "quote": "We quickly and unconciously measure social status for everyone automatically. The problem is that we each have different measuring sticks. Status can be based in different amounts of appearance, age, wealth, behavior, accent, gender, religion, group membership, or pretty much any other factor."
   },{
       "quote": "The brain can only handle a few absolute statuses: high, medium, and low. Some people want to be high status, some do not. No one wants to be low status, but by definition there has to be members of the lowest bucket even if they're not aware of their position. Within each bucket, we're sensitive about measuring fuzzy status differences relative to others, striving to maintain or improve our relative position."
+  },{
+      "quote": "The very rich and the very poor have so much in common... no one expects them to conform to social niceties. It’s only those of us in the middle who must constantly prove our worth to both sides.",
+      "attribution": "Margaret Stohl in 'Jo & Laurie'"
   }],
   "models": [{
       "version": "em1",
       "variations": [{
-          "names": ["desire for social status","desire for wealth","desire for validation","desire for identity"],
+          "names": ["desire for social status","desire for wealth","desire for validation","desire for identity","social signaling"],
           "predominantType": "impulse",
           "levels": {
             "4": {

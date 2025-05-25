@@ -1,0 +1,141 @@
+{
+  "lang": "en/us",
+  "createDate": "20250216",
+  "updateDate": "20250523",
+  "name": "loss of social status",
+  "valence": -1,
+  "quote": "I got fired.",
+  "description": "The sense that you have fallen in the estimation of an important social group.",
+  "perceptions": ["I've lost standing with a social group that's important to me."],
+  "desires": ["desire for social status","desire for safety"],
+  "sensations": ["losing","sadness","shame","anxiety"],
+  "guidance": [{
+      "description": "Ongoing efforts to maintain a positive view of oneself despite economic and social hardships can engage psychological defense mechanisms that are ultimately self-defeating.  Instead of ingratiating themselves to those around them – this is the successful strategy for status attainment - low-status individuals may be more prone to bullying and hostile behavior, especially when provoked.  Research identifying factors that lead to successful status-seeking provides some optimism, though.  Individuals capable of signaling their worth to others rather than being preoccupied with signaling their worth to themselves may be able to break the self-defeating cycle of low-status behavior.",
+      "attribution": "Adam Waytz",
+      "references": ["https://www.scientificamerican.com/article/the-psychology-of-social/"]
+  }],
+  "related": [ "desire for social status", "losing", "sadness", "shame", "anxiety" ],
+  "opposites": ["gain of social status", "gaining"],
+  "examples": ["criticized by the leader","losing a job"],
+  "variations": [{
+      "name": "unexpected status loss",
+      "description": "If you didn't see a status loss coming, there may be added senses of surprise, resentment, or injustice.",
+      "perceptions": ["I've lost standing with a social group that's important to me.","I didn't know this was going to happen."],
+      "desires": ["desire for social status","desire for safety"],
+      "sensations": ["losing","surprise","resentment","injustice","anxiety"],
+      "guidance": [{
+          "description": "Bad news can leave us in a state of dread and despair. It seems like our whole world is falling apart, almost as if we’re being driven into the ground. Some coping techniques include contextualization, visualization, support, and physical well-being.",
+          "attribution": "Neel Burton M.A., M.D.",
+          "references": ["https://www.psychologytoday.com/us/blog/hide-and-seek/201804/how-to-cope-with-bad-news"]
+      }],
+      "examples": ["losing a job","someone close runs into social trouble","politics"]
+  },{
+      "name": "economic status loss",
+      "description": "If lose an important way of supporting yourself, there may be concern about getting food to the table and survival-based anxiety or panic.",
+      "perceptions": ["I've lost standing with a social group that supported me economically.","I don't know how I'm going to be able to obtain food and shelter."],
+      "desires": ["will to live"],
+      "sensations": ["losing","fear","anxiety"],
+      "guidance": [{
+          "description": "Whether your problems stem from a loss of work, escalating debt, unexpected expenses, or a combination of factors, financial worry is one of the most common stressors in modern life.",
+          "attribution": "Lawrence Robinson and Melinda Smith, M.A.",
+          "references": ["https://www.helpguide.org/mental-health/stress/coping-with-financial-stress"]
+      }],
+      "links": ["losing an important asset"],
+      "examples": ["losing a job","stock market crash","house burns down"]
+  },{
+      "name": "exile",
+      "description": "Being cast out of a beloved job or social group is likely to trigger shame, fear, or anger. In ancient times, being an outcast would have been been a survival-level problem.",
+      "perceptions": ["I've been cast out of a social group that supported me.","I don't know how I'm going to be able to obtain food and shelter."],
+      "desires": ["will to live","desire for social contact"],
+      "sensations": ["losing","fear","anxiety","lonliness"],
+      "guidance": [{
+          "description": "The life of a refugee or internally displaced person is often filled with many challenges, including those related to their health. However, these struggles do not define who the person is. Successful recovery is more challenging for some than for others—however, with effective management or treatment, a displaced person can successfully manage their mental health.",
+          "attribution": "McLean Hospital",
+          "references": ["https://www.mcleanhospital.org/essential/refugee-mental-health"]
+      },{
+          "description": "Some Christians in the West see themselves as exiles in their own countries due to the declining influence of their religion in the culture. They find solace in parallels to the Bible.",
+          "references": ["https://www.catholic365.com/article/32116/living-in-exile.html"]
+      }]
+  }],
+  "comparisons": [{
+      "links": ["losing"],
+      "description": "The loss of social status is an especially painful special case of 'losing'. For most of us, social connections are the most important asset. Even if the money were gone, if you have friends, at least you can couch surf."
+  }],
+  "commentaries": [{
+      "quote": "Even though a loss of status in the modern world is rarely going to kill us, it still triggers deep instincts and brain chemicals meant to keep us tied to the safety of the group."
+  },{
+      "quote": "Your downfall is a preparation for your up-rise. If you don’t know this secret, you will remain on the floor, blaming your legs instead of your head!",
+      "attribution": "Israelmore Ayivor, Daily Drive 365"
+  },{
+      "quote": "When we meet real tragedy in life, we can react in two ways - either by losing hope and falling into self-destructive habits, or by using the challenge to find our inner strength.",
+      "attribution": "Dalai Lama"
+  },{
+      "quote": "The compensations of calamity are made apparent to the understanding also, after long intervals of time. A fever, a mutilation, a cruel disappointment, a loss of wealth, a loss of friends, seems at the moment unpaid loss, and unpayable. But the sure years reveal the deep remedial force that underlies all facts.",
+      "attribution": "Ralph Waldo Emerson"
+  }],
+  "spectrum": {
+      "loss of social status": 4,
+      "refugee": 8,
+      "exile": 8
+  },
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["loss of social status"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["loss of social status","shame"]
+            },
+            "2,1": {
+              "experiences": ["sadness","anxiety","desire for safety"]
+            }
+          }
+      },{
+          "names": ["unexpected status loss"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["loss of social status","shame","surprise"]
+            },
+            "2,1": {
+              "experiences": ["sadness","anxiety","desire for safety"]
+            }
+          }
+      },{
+          "names": ["economic status loss"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["loss of social status"]
+            },
+            "2,1": {
+              "experiences": ["fear","will to live"]
+            }
+          }
+      },{
+          "names": ["exile"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["loss of social status","lonliness"]
+            },
+            "2,1": {
+              "experiences": ["fear","will to live"]
+            }
+          }
+      }]
+  }]
+}

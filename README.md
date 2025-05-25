@@ -87,6 +87,7 @@ Some word usage may warrant elaboration:
 - Environment - we use this term in the most general sense of "surroundings", not just the natural environment. I.e. classrooms and offices are environments just as much as a rainforest.
 - Dismay - this term is used as the opposite of "delight". Some people may find "dismay" to be too strong, but other alternatives like "disappointment" seem imperfect as well.
 - Pure/Purity - this just means anything that is close to 100%. It can apply to anything we want to be spotless, whether that's your reputation, your health, your amorous activities, or anything else. 
+- Existential/Existential Self - this term is used to represent the idealized part of yourself that is concerned about its relationship to the Universe. Many people call this "soul" or "spirit". Whether or not we ever find a "soul" in an FMRI scan is irrelevant -- history shows that the human brain gives special deference to its relationship with life's biggest mysteries.
 
 # Next Steps
 

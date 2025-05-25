@@ -1,0 +1,89 @@
+{
+  "lang": "en/us",
+  "createDate": "20250202",
+  "updateDate": "20250524",
+  "name": "desire to protect",
+  "valence": 0,
+  "quote": "I'll be there anytime, anywhere.",
+  "description": "Readiness to help a valued person or group even with a significant cost to the self.",
+  "perceptions": ["An important person or group needs my help.","It may take a lot of effort or resources to help.","I'm willing to spend the effort or resources."],
+  "desires": ["desire for meaning"],
+  "sensations": ["love"],
+  "related": ["love", "sacrifice", "courage", "desire for meaning"],
+  "opposites": ["apathy", "selfishness"],
+  "examples": ["readiness to protect for your romantic love","readiness to protect your family"],
+  "variations": [{
+      "name": "desire for military service",
+      "description": "Being ready to support your country or group with your life if needed.",
+      "perceptions": ["My country or group is very important to me.","There are threats and they need help.","I can help."],
+      "desires": ["desire for social status"],
+      "sensations": ["group bond"],
+      "guidance": [{
+          "description": "Joining the military can be fulfilling, and it’s an excellent way to develop new skills and form important connections. However, the military isn’t for everybody, and the lifestyle can be undesirable for some people.",
+          "attribution": "MLC Secret Squirrel Blog Writer",
+          "references": ["https://militaryluggage.com/blog/what-you-should-know-before-joining-the-military"]
+      }],
+      "links": ["group bond", "desire for social status"]
+  },{
+      "name": "desire to protect nature",
+      "description": "Being ready to rescue a pet from the shelter, to participate in a neighborhood cleanup, or to devote your life to helping the natural environment.",
+      "perceptions": ["Animals or other nature are in need of help.","I enjoy nature and animals."],
+      "sensations": ["wonder of nature"],
+      "guidance": [{
+          "description": "Nature is vital to our existence. It provides the air we breathe, the water we drink and the food we eat as well as other essential resources we need to survive. Being out in nature also has important benefits for our mental health and well-being. Nature protects us. But what can be done to protect nature?",
+          "attribution": "Grantham Institute",
+          "references": ["https://www.imperial.ac.uk/stories/protecting-nature/"]
+      },{
+          "description": "There are a few things you should be aware of before giving an animal a forever home.",
+          "attribution": "Four Paws International",
+          "references": ["https://www.four-paws.org/our-stories/publications-guides/checklist-what-to-consider-before-adopting-a-pet"]
+      }],
+      "links": ["animal companion"]
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["desire to protect"],
+          "predominantType": "impulse",
+          "levels": {
+            "1": {
+              "experiences": ["defense"]
+            },
+            "3,2": {
+              "experiences": ["desire to protect","love"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["desire for military service"],
+          "predominantType": "impulse",
+          "levels": {
+            "1": {
+              "experiences": ["defense"]
+            },
+            "3,2": {
+              "experiences": ["desire to protect","group bond"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["desire to protect nature"],
+          "predominantType": "impulse",
+          "levels": {
+            "1": {
+              "experiences": ["defense"]
+            },
+            "3,2": {
+              "experiences": ["desire to protect","wonder of nature"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      }]
+  }]
+}

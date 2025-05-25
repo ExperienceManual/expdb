@@ -11,13 +11,13 @@
     "name": "inductive reasoning",
     "description": "The application of previously learned patterns to a new situation. We can get 'induction' and 'deduction' confused because we can 'deduce' a general pattern from repeated observations.",
     "perceptions": ["Need to figure out a new situation.","Several parts of the situation partly match past scenarios."],
-    "desires": ["desire for environment knowledge"],
+    "desires": ["desire for knowledge"],
     "results": ["Apply similarities from past generalizations as initial guesses about the new situation."]
   },{
     "name": "logical deduction",
     "description": "Apply only general principles that have been verified as true, either by definition or comprehensive proof. Few things in complex environments like the social world have bullet-proof general principles.",
     "perceptions": ["Need to figure out a new situation.","There's a set of proven patterns and a process for combining them."],
-    "desires": ["desire for environment knowledge"],
+    "desires": ["desire for knowledge"],
     "results": ["Apply proven principles to the new situation."],
     "examples": ["You know the movie time is noon, but that previews take 10 minutes, you won't be late if you're in a seat at 12:10."]
   }],

@@ -1,0 +1,103 @@
+{
+  "lang": "en/us",
+  "createDate": "20250202",
+  "updateDate": "20250524",
+  "name": "desire to improve",
+  "valence": 0,
+  "quote": "Practice makes perfect.",
+  "description": "Wanting to make yourself or the situation better in a particular way.",
+  "perceptions": ["Something is not ideal.","I could make it better."],
+  "related": [ "desire for comfort", "desire for social status", "desire for stimulation" ],
+  "opposites": ["laziness"],
+  "comparisons": [{
+      "links": ["desire for knowledge"],
+      "description": "Gaining knowledge is a special form of improving yourself or your situation. Having a healthy body and mind requires knowledge, but also desire and effort over time."
+  }],
+  "guidance": [{
+      "description": "There's no shortage of guides to help you improve everything: getting in shape, dealing with social problems, fixing machines, handling garden weeds, playing the guitar, stress management, etc.",
+      "references": ["https://youtube.com"]
+  }],
+  "variations": [{
+      "name": "desire to improve your environment",
+      "description": "Dissatisfaction with some aspect of your environment that prompts you to want to make a change.",
+      "perceptions": ["Some part of my environment is not ideal.","I could make it better."],
+      "sensations": ["dissatisfaction"],
+      "results": ["try to find a way to improve the environment"],
+      "examples": ["fix the dishwasher","weed the garden","apologize to your sibling"]
+  },{
+      "name": "desire to improve the self",
+      "description": "Engaging in physical exercise, study, or meditation toward improving your physical or mental health.",
+      "perceptions": ["My body or mind could be better."],
+      "sensations": ["dissatisfaction"],
+      "examples": ["lose weight","heal the carpal tunnel","stress management","better mental health"]
+  },{
+      "name": "desire to improve skills",
+      "description": "Spending time in practice toward improving skills.",
+      "perceptions": ["It would be good for me to more skilled in this area."],
+      "sensations": ["dissatisfaction"],
+      "desires": ["desire for stimulation","desire for social status"],
+      "examples": ["learning an instrument","training for a marathon"]
+  },{
+      "name": "desire to improve existential self",
+      "description": "Engaging in physical exercise, study, meditation, or idealized behavior toward narrowing a perceived gap between your actual and ideal self.",
+      "perceptions": ["I'm not living in accordance with my highest ideals."],
+      "sensations": ["dissatisfaction"],
+      "desires": ["desire for meaning"],
+      "examples": ["going to religious services", "praying", "meditating", "random acts of kindness"]
+  }],
+  "commentaries": [{
+      "quote": "Optimizing things to be 'better' is the absolute core of being a 'civilized' human trying to live in a ridiculously complicated world. All that effort is why we get so upset when things get 'worse'. But either we do this, we regress to the jungle, or we join a mountaintop monastary."
+  },{
+      "quote": "There is only one corner of the universe you can be certain of improving, and that's your own self.",
+      "attribution": "Aldous Huxley"
+  },{
+      "quote": "You must have a level of discontent to feel the urge to want to grow.",
+      "attribution": "Idowu Koyenikan"
+  },{
+      "quote": "To change the world takes time; to change yourself takes courage.",
+      "attribution": "R.S. Lowel"
+  },{
+      "quote": "Start now. Optimize later. Imperfect starts can always be improved.",
+      "attribution": "James Clear"
+  },{
+      "quote": "If you optimize everything, you will always be unhappy.",
+      "attribution": "Donald Knuth"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["desire to improve"],
+          "predominantType": "impulse",
+          "levels": {
+            "4,3,2,1": {
+              "experiences": ["desire to improve", "dissatisfaction"]
+            }
+          }
+      },{
+          "names": ["desire to improve the self","desire to improve skills","desire to improve your environment"],
+          "predominantType": "impulse",
+          "levels": {
+            "1": {
+              "experiences": ["dissatisfaction"]
+            },
+            "4,3,2": {
+              "experiences": ["desire to improve", "desire for comfort", "desire for social status", "desire for stimulation"]
+            }
+          }
+      },{
+          "names": ["desire to improve existential self"],
+          "predominantType": "impulse",
+          "levels": {
+            "1": {
+              "experiences": ["dissatisfaction"]
+            },
+            "3,2": {
+              "experiences": ["desire to improve", "desire for meaning"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      }]
+  }]
+}

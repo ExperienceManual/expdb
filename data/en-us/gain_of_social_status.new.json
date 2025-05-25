@@ -1,0 +1,188 @@
+{
+  "lang": "en/us",
+  "createDate": "20250216",
+  "updateDate": "20250216",
+  "name": "gain of social status",
+  "valence": 1,
+  "quote": "I got the promotion!",
+  "description": "The sense that you have risen in the estimation of an important social group.",
+  "perceptions": ["I've gained standing with a social group that's important to me."],
+  "desires": ["desire for social status"],
+  "sensations": ["gaining","happiness"],
+  "guidance": [{
+      "description": "How do I remain down to earth and do not let success get to my head?",
+      "attribution": "Quora",
+      "references": ["https://www.quora.com/How-do-I-remain-down-to-earth-and-do-not-let-success-get-to-my-head"]
+  }],
+  "related": ["desire for social status", "gaining", "happiness"],
+  "opposites": ["loss of social status", "losing"],
+  "variations": [{
+      "name": "increase in responsibility",
+      "description": "If a higher social status implies additional responsibility, it may come with a sobering recognition of future challenges.",
+      "perceptions": ["I've gained standing with a social group that's important to me.","The new standing increases expectations on me."],
+      "desires": ["desire for social status"],
+      "sensations": ["gaining","responsibility","resolve","anxiety"],
+      "guidance": [{
+          "description": "8 Ways To Take More Responsibility in the Workplace",
+          "attribution": "Indeed",
+          "references": ["https://www.indeed.com/career-advice/career-development/take-more-responsibility"]
+      }],
+      "examples": ["promotion"]
+  },{
+      "name": "unexpected status gain",
+      "description": "If you didn't know a higher social status was coming, there may be surprise or gratitude. If it comes with additional responsibilities or power, there may be additional sensations.",
+      "perceptions": ["I've gained standing with a social group that's important to me.","I didn't know this was going to happen."],
+      "desires": ["desire for social status"],
+      "sensations": ["gaining","happiness","surprise","gratitude"],
+      "links": ["increase in responsibility","increase in power"]
+  },{
+      "name": "expected status gain",
+      "description": "If you had hoped for or expected the gain in social status, there may be a sense of relief. If it comes with additional responsibilities or power, there may be additional sensations.",
+      "perceptions": ["I've gained standing with a social group that's important to me.","I had hoped this was going to happen."],
+      "desires": ["desire for social status"],
+      "sensations": ["gaining","happiness","relief"],
+      "links": ["increase in responsibility","increase in power"]
+  },{
+      "name": "increase in power",
+      "description": "If a higher social status comes with decision-making power over others, it may come with a sense of self-worth. Ideally an increase in power comes with an increase in responsibility.",
+      "perceptions": ["I've gained standing with a social group that's important to me.","This will put me in a position to make important decisions."],
+      "desires": ["desire for social status"],
+      "sensations": ["gaining","happiness","power"],
+      "guidance": [{
+          "description": "Gaining power at work without sufficient preparation can undermine the ability to effectively lead, manage, and coach teams. Three Remedies to Not Let Power Go to Your Head as a New Leader: Showing Authentic Vulnerability, Having Routine 'Level-with-me' Conversations, Always Listening for Subtext.",
+          "attribution": "LSA Global",
+          "references": ["https://lsaglobal.com/how-to-not-let-power-go-to-your-head-as-a-new-leader/"]
+      }],
+      "links": ["increase in responsibility"]
+  },{
+      "name": "too much status",
+      "description": "With a gain in social status, if you feel you've been given too much credit you may become anxious that you're undeserving or likely to lose the status soon. Also known as 'impostor syndrome'.",
+      "perceptions": ["I've gained standing with a social group that's important to me.","I'm not sure I deserve or am ready for this."],
+      "desires": ["desire for social status","desire for safety"],
+      "sensations": ["gaining","doubt","anxiety"],
+      "guidance": [{
+          "description": "Many people face feelings of impostor phenomenon, struggling with the sense they haven’t earned what they’ve achieved and are a fraud. Strategies that can help include: Celebrate your successes, Let go of perfectionism, Share your failures",
+          "attribution": "American Psychological Association",
+          "references": ["https://www.apa.org/monitor/2021/06/cover-impostor-phenomenon"]
+      }],
+      "links": ["humility", "doubt"]
+  },{
+      "name": "possession of a rarity",
+      "description": "Those that have access to a rare and valued asset may been seen as having higher status. For example, owning a shiny or powerful object, or having an inherent talent or beauty.",
+      "perceptions": ["I've got a rare object or attribute that grants me standing with a social group that's important to me."],
+      "desires": ["desire for social status"],
+      "sensations": ["gaining"],
+      "guidance": [{
+          "description": "Building an identity around an asset that can be lost carries some risk of future unpleasantness.",
+          "references": ["modesty"]
+      }],
+      "examples": ["being rich","being beautiful","owning a rare collectable"]
+  }],
+  "comparisons": [{
+      "links": ["gaining"],
+      "description": "The gain of status is an especially pleasant special case of 'gaining'. Many of us define our identities with the roles we play in our important social groups, so moving to a more prominent role can be a life event." 
+  }],
+  "commentaries": [{
+      "quote": "We are deeply social creatures as reflected in the powerful positive brain chemicals that help align our behavior with our chosen groups."
+  },{
+      "quote": "Plenty of men can do good work for a spurt and with immediate promotion in mind, but for promotion you want a man in whom good work has become a habit.",
+      "attribution": "Henry Latham Doherty"
+  },{
+      "quote": "It is easier to appear worthy of a position one does not hold, than of the office which one fills.",
+      "attribution": "Francois de La Rochefoucauld"
+  },{
+      "quote": "Success is not defined by money or status, necessarily, but by how many people you've impacted and how fulfilled you feel with your decisions. If you can garner all of these things, then more power and success to you, but all in all, you must feel happy and satisfied with what you personally have put out into the world.",
+      "attribution": "Kirstin Maldonado"
+  },{
+      "quote": "Life is like a dogsled race. If you ain't the lead dog, the scenery never changes.",
+      "attribution": "Lewis Grizzard"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["gain of social status","possession of a rarity"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2": {
+              "experiences": ["gain of social status"]
+            },
+            "1": {
+              "experiences": ["delight"]
+            }
+          }
+      },{
+          "names": ["unexpected status gain"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2": {
+              "experiences": ["gain of social status","surprise"]
+            },
+            "1": {
+              "experiences": ["delight"]
+            }
+          }
+      },{
+          "names": ["expected status gain"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2": {
+              "experiences": ["gain of social status","relief"]
+            },
+            "1": {
+              "experiences": ["delight"]
+            }
+          }
+      },{
+          "names": ["increase in responsibility"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2": {
+              "experiences": ["gain of social status","responsibility"]
+            },
+            "1": {
+              "experiences": ["delight","anxiety"]
+            }
+          }
+      },{
+          "names": ["increase in power"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2": {
+              "experiences": ["gain of social status","power"]
+            },
+            "1": {
+              "experiences": ["delight"]
+            }
+          }
+      },{
+          "names": ["too much status"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2": {
+              "experiences": ["gain of social status","doubt"]
+            },
+            "1": {
+              "experiences": ["anxiety"]
+            }
+          }
+      }]
+  }]
+}

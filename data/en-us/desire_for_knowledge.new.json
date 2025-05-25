@@ -1,0 +1,148 @@
+{
+  "lang": "en/us",
+  "createDate": "20250201",
+  "updateDate": "20250524",
+  "name": "desire for knowledge",
+  "valence": 0,
+  "quote": "I'd like to know what's going on.",
+  "description": "Wanting to better understand the physical or social environment towards making better decisions about them. 'Information' is just an isolated piece of data while 'knowledge' is a pattern of ideas that combine into something useful or experiential.",
+  "perceptions": ["There's something I don't understand.","Understanding it will help me make better decisions or improve my experience or standing with a social group."],
+  "desires": ["desire for agency"],
+  "sensations": ["curiosity"],
+  "results": ["seeking ways to satisfy the curiosity"],
+  "guidance": [{
+      "description": "The internet lets you learn about anything. You should consider making sure that your teaching resource is reputable and up-to-date.",
+      "references": ["https://youtube.com"]
+  }],
+  "related": ["desire to improve","desire for social contact", "desire for safety", "curiosity","expertise"],
+  "opposites": ["denial", "willful ignorance"],
+  "spectrum": {
+      "curiosity": 4,
+      "desire for knowledge": 5
+  },
+  "comparisons": [{
+      "links": ["curiosity"],
+      "description": "Curiosity is noticing something in the world not matching your expecations and wanting for it to make sense. If it doesn't make sense after re-examining, it may prompt a desire for knowledge and a series of activities to figure it out."
+  }],
+  "variations": [{
+      "name": "first party socializing",
+      "description": "Talking with someone because you want to better understand them to further the relationship. This can be with an old friend or someone you've never met.",
+      "perceptions": ["It could be interesting, enjoyable, and useful to talk with this person or group."],
+      "desires": ["desire for social contact"],
+      "guidance": [{
+          "description": "We all have awkward moments when we wish we could be more social—whether we're introverts or not. Social skills can be developed without changing who you are.",
+          "attribution": "Kate Vessel, ACC",
+          "references": ["https://www.betterup.com/blog/how-to-improve-social-skills"]
+      }],
+      "links": ["empathy"]
+  },{
+      "name": "third party socializing",
+      "description": "Participating in social knowledge transfer about someone not present to further a different relationship. Also known as 'gossip'.",
+      "perceptions": ["I can bond with this person or group by talking with them.","Talking about someone else is always an interesting topic."],
+      "desires": ["desire for social contact"],
+      "guidance": [{
+          "description": "Gossip, whether we like to admit it or not, is a common thread woven into the fabric of our social lives. It serves various social functions and has both advantages and disadvantages, depending on how it's used.",
+          "attribution": "Blossom Psychotherapy",
+          "references": ["https://blossompsychotherapy.ca/blog/f/the-gossip-game-pros-cons-and-the-power-of-silence"]
+      }]
+  },{
+      "name": "education",
+      "description": "Putting effort into learning something about the world that's not directly entertaining. This can be formal or informal, from media or a person, focused or sporadic.",
+      "perceptions": ["There's something I don't understand.","Understanding it will help me make better decisions or improve my standing with a social group.","Understanding it will take time and effort."],
+      "desires": ["desire for agency"],
+      "guidance": [{
+          "description": "The internet lets you learn about anything. You should consider making sure that your teaching resource is reputable and up-to-date.",
+          "references": ["https://www.khanacademy.org/","https://www.onlineeducation.com/","https://www.usnews.com/education/online-education"]
+      }],
+      "examples": ["apprenticing","school","self-study"]
+  },{
+      "name": "story consumer",
+      "description": "Wanting to be exposed to a storyteller. We love tales, fables, books, movies, and games. We learn from them, we bond with others over them.",
+      "perceptions": ["I like stories because they're a fun social experience where you can learn about life and the social world."],
+      "desires": ["desire for social contact","desire for stimulation"],
+      "guidance": [{
+          "description": "A big part of engaging with fiction is to be able to share the experience with others, so a good way to find stories is just to ask your friends what they're reading or watching. Web or library searches for you favorite genres is another good way.",
+          "references": ["https://myreadingvintage.com/blogs/vintage-book-addicts-blog-reading-vintage/how-to-know-what-books-you-like-a-simple-guide","https://www.npr.org/2016/06/15/481090485/read-watch-binge-like-this-movie-you-might-also-like"]
+      }],
+      "examples": ["campfire stories","books","movies"]
+  }],
+  "commentaries": [{
+      "quote": "Knowledge is power.",
+      "attribution": "Francis Bacon"
+  },{
+      "quote": "A reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one.",
+      "attribution": "George R.R. Martin"
+  },{
+      "quote": "No thief, however skillful, can rob one of knowledge, and that is why knowledge is the best and safest treasure to acquire.",
+      "attribution": "L. Frank Baum"
+  },{
+      "quote": "I’ve learned one thing-people who know the least anyways seem to know it the loudest.",
+      "attribution": "Andy Capp"
+  },{
+      "quote": "You are your greatest investment. The more you store in that mind of yours, the more you enrich your experience, the more people you meet, the more books you read, and the more places you visit, the greater is that investment in all that you are. Everything that you add to your peace of mind, and to your outlook upon life, is added capital that no one but yourself can dissipate.",
+      "attribution": "George Matthew Adams"
+  },{
+      "quote": "Gossip isn't scandal and it's not merely malicious. It's chatter about the human race by lovers of the same.",
+      "attribution": "Phyllis McGinley"
+  },{
+      "quote": "Gossip is the Devil's radio.",
+      "attribution": "George Harrison"
+  },{
+      "quote": "Knowledge is the faceted lens that creates the light show of your innermost experience. Sensations and impulses bounce around your knowledge patterns to create either stunning mental laser shows or fuzzy twilight haze."
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["desire for knowledge"],
+          "predominantType": "impulse",
+          "levels": {
+            "4,3,2,1": {
+              "experiences": ["desire for knowledge"],
+              "description": "Even fish exhibit curiosity."
+            }
+          }
+      },{
+          "names": ["first party socializing","third party socializing"],
+          "predominantType": "impulse",
+          "levels": {
+            "1": {
+              "experiences": ["desire for knowledge","desire for stimulation"]
+            },
+            "3,2": {
+              "experiences": ["desire for social contact"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["education"],
+          "predominantType": "impulse",
+          "levels": {
+            "1": {
+              "experiences": ["desire for knowledge"]
+            },
+            "3,2": {
+              "experiences": ["desire for social status","desire for agency"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["story consumer"],
+          "predominantType": "impulse",
+          "levels": {
+            "1": {
+              "experiences": ["desire for knowledge"]
+            },
+            "3,2": {
+              "experiences": ["desire for social contact","desire for agency"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      }]
+  }]
+}

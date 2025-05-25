@@ -6,7 +6,7 @@
   "valence": 0,
   "quote": "I've observed that birds have feathers.",
   "description": "Ability to perceive a common attribute from a set of experiences or ideas.",
-  "desires": ["desire for environment knowledge"],
+  "desires": ["desire for knowledge"],
   "results": ["notice a similarity, establish a pattern to be used in the future"],
   "related": ["problem solving", "deduction", "learning","epiphany"],
   "examples": ["Everytime I'm around that cat I sneeze."],
@@ -14,7 +14,7 @@
       "name": "stereotyping",
       "description": "Predicting that every member of a group share all characteristics perceived to be common within the group.",
       "perceptions": ["This person, place, or thing is similar in some ways to something I've experienced before."],
-      "desires": ["desire for environment knowledge"],
+      "desires": ["desire for knowledge"],
       "results": ["assume that the person, place, or thing shares other characteristics"],
       "guidance": [{
         "description": "Stereotypes can be accurate statements about current statistical group differences, but they can be inaccurate when applied to individuals.",

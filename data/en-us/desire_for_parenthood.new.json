@@ -1,0 +1,68 @@
+{
+  "lang": "en/us",
+  "createDate": "20250202",
+  "updateDate": "20250524",
+  "name": "desire for parenthood",
+  "valence": 0,
+  "quote": "I hope our baby gets your eyes.",
+  "description": "Feeling ready for the joys and responsibilities of raising a child.",
+  "perceptions": ["A major milestone in life is to have a child.","I'm as ready as I'll ever be to raise a child."],
+  "desires": ["desire for meaning"],
+  "guidance": [{
+      "description": "Children are pretty resilient, but they thrive best in a household ready for them.",
+      "references": ["https://psychcentral.com/lib/are-you-ready-to-be-a-parent#1","https://thenaturalparentmagazine.com/yes-you-can-prepare-your-life-for-parenthood/"]
+  }],
+  "related": ["parenting","romantic love", "family love", "emptiness"],
+  "opposites": ["doubt", "overwhelmed"],
+  "variations": [{
+      "name": "parenthood as pretext",
+      "description": "Disingenuous spoken support for parenthood as a way to move forward in a physical relationship.",
+      "perceptions": ["My partner is more likely to get physical if s/he thinks I'm ready to raise a family."],
+      "desires": ["desire for sex"],
+      "sensations": ["dissonance"],
+      "links": ["hypocrisy", "desire for sex"]
+  }],
+  "commentaries": [{
+      "quote": "Through most of history, it didn't matter if you were 'ready' for parenthood. Mating happens, parenthood comes, and you deal with it. Fortunately, we live in a time where people can delay being parents to balance the biology with life circumstances."
+  },{
+      "quote": "Some people may never feel this desire unamibuously because they're mentally aware of how being a parent will change their lives. A tentative sense of readiness is the best some will get, and then the calendar or grandparents may push the decision."
+  },{
+      "quote": "There is no such thing as a perfect parent, so just be a real one." ,
+      "attribution": "Sue Atkins"
+  },{
+      "quote": "The best part about being a parent is the moment you realize you wouldn't want your life any other way.",
+      "attribution": "John Wooden"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["desire for parenthood"],
+          "predominantType": "impulse",
+          "levels": {
+            "1": {
+              "experiences": ["anticipation"]
+            },
+            "3,2": {
+              "experiences": ["desire for parenthood","emptiness"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["parenthood as pretext"],
+          "predominantType": "impulse",
+          "levels": {
+            "2,1": {
+              "experiences": ["desire for sex"]
+            },
+            "3": {
+              "experiences": ["desire for social influence"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      }]
+  }]
+}
