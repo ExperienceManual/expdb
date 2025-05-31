@@ -1,0 +1,99 @@
+{
+  "lang": "en/us",
+  "createDate": "20250208",
+  "updateDate": "20250529",
+  "name": "boredom",
+  "valence": -1,
+  "quote": "Mom, what can I do?",
+  "description": "A perception that the current set of experiences is too slow or repetitive.",
+  "perceptions": ["What I'm experiencing now is stale."],
+  "desires": ["desire for stimulation","desire for novelty"],
+  "sensations": ["frustration"],
+  "results": ["looking for something different to do"],
+  "guidance": [{
+      "description": "The best way to overcome boredom may be to explore and identify why you feel bored in the first place.",
+      "attribution": "Psychology Today",
+      "references": ["https://www.psychologytoday.com/us/basics/boredom"]
+  }],
+  "related": ["desire for stimulation"],
+  "opposites": ["desire for quiet", "overwhelmed"],
+  "variations": [{
+      "name": "bored with inactivity",
+      "description": "A perception that you need more mental or physical stimlulation.",
+      "perceptions": ["I need to do something."],
+      "desires": ["desire for stimulation"],
+      "results": ["try to find something to do"],
+      "guidance": [{
+          "description": "Waiting room boredom is real, and doesn’t appear to be improving. Cartoonists and comedians have had much to say about the long wait times in the healthcare provider’s office, and as is often the case, there is some truth behind these witticisms.",
+          "attribution": "Lynne Eldridge, MD",
+          "references": ["https://www.verywellhealth.com/waiting-room-survival-kit-activities-to-combat-boredom-2248833"]
+      }],
+      "examples": ["waiting for someone to arrive"]
+  },{
+      "name": "bored with the current activities",
+      "description": "A perception that the current experiences are not fulfilling.",
+      "perceptions": ["I need to do something different."],
+      "desires": ["desire for novelty","desire for meaning"],
+      "results": ["try to find something different to do"],
+      "guidance": [{
+	  "description": "We are missing out on the best things in life because we are afraid of a little boredom.",
+	  "attribution": "Reagan Rose",
+	  "references": ["https://redeemingproductivity.com/boredom/"]
+      }]
+  }],
+  "commentaries": [{
+      "quote": "Boredom can be the motherhood of creativity."
+  },{
+      "quote": "Boredom is a catalyst for change and an opportunity for reflection. Therefore, the feeling may arise during a task that isn’t challenging or is extremely repetitive. It can emerge due to a lack of self-awareness about what we find fulfilling. Personality traits also play a role—those prone to sensation seeking, extraversion, and novelty may be more likely to experience boredom.",
+      "attribution": "Psychology Today entry on boredom"
+  },{
+      "quote": "In a 2014 study called ‘The challenges of the disengaged mind‘, participants were placed in a room alone, for up to 15 minutes, with nothing to do but think. They also had the choice to give themselves an electric shock by pushing a button placed next to them. Even though there was absolutely no pressure on the participants to shock themselves (and many of them said they’d pay money to avoid the shock beforehand), 25% of women and 67% of men still chose to push the button. Put simply – people would rather experience physical pain than be bored.",
+      "attribution": "Ali Abdaal in 'The Hidden Power of Boredom'"
+  },{
+      "quote": "I've got a great ambition to die of exhaustion rather than boredom.",
+      "attribution": "Thomas Carlyle"
+  },{
+      "quote": "Instead of running away from boredom, we should invite it wholeheartedly, 'Come as you are,' we say to boredom itself. 'Teach me your lessons. Teach me about the reality of time, the shallowness of desire, and myself.'",
+      "attribution": "Christopher Kakuyo Sensei"
+  }],
+  "spectrum": {
+    "uninteresting": 1,
+    "tedious": 2,
+    "dull": 2,
+    "bored": 3,
+    "bored to tears": 5,
+    "bored to death": 7
+  },
+  "models": [{
+      "version": "em1",
+      "variations": [{
+	  "names": ["boredom","bored with inactivity"],
+          "predominantType": "impulse",
+          "levels": {
+            "1": {
+              "experiences": ["dissatisfaction","desire for stimulation"]
+            },
+            "3,2": {
+              "experiences": ["boredom"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+	  "names": ["bored with the current activities"],
+          "predominantType": "impulse",
+          "levels": {
+            "1": {
+              "experiences": ["dissatisfaction"]
+            },
+            "3,2": {
+              "experiences": ["boredom","desire for novelty","desire for meaning"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      }]
+  }]
+}

@@ -1,0 +1,115 @@
+{
+  "lang": "en/us",
+  "createDate": "20250209",
+  "updateDate": "20250530",
+  "name": "sickness",
+  "valence": -1,
+  "quote": "I have a sore throat.",
+  "description": "Sensations from something that is causing the body or mind to not operate as well as it should. There was no impact injury and there may or may not be pain.",
+  "perceptions": ["My body or mind is not operating normally.","I was not injured by an impact or cut."],
+  "desires": ["desire for comfort"],
+  "sensations": ["discomfort","annoyance","tireness","pain","anxiety"],
+  "results": ["desire to find a way to reduce symptoms"],
+  "opposites": ["comfort", "relief"],
+  "comparisons": [{
+      "links": ["pain"],
+      "description": "Sickness is a malfunctioning of the body or mind that was not caused by a physical impact. Sometimes being sick causes pain or anxiety, while other times it's just annoying. Pain and sickness are often intertwined. For example, a physical cut can get infected and a sinus infection can become quite painful."
+  }],
+  "variations": [{
+      "name": "physical sickness",
+      "description": "Sensations from something that is causing the body to not operate as well as it should. There was no impact injury and the discomfort caused can range from easily ignorable to debilitating pain.",
+      "perceptions": ["My body is not operating normally.","I was not injured by an impact or cut."],
+      "desires": ["desire for comfort"],
+      "sensations": ["discomfort","annoyance","tireness","pain","anxiety"],
+      "results": ["desire to find a way to reduce symptoms"],
+      "examples": ["viral flu","bacterial infection","sickle cell disease","poison","allergies"],
+      "guidance": [{
+          "description": "You may want to know what to do when you're sick with cold symptoms or a stomach flu, so that you can focus on your health and what your body needs to heal and recover.",
+          "attribution": "Kristina Herndon, RN",
+          "references": ["https://www.verywellhealth.com/dos-donts-when-sick-770370"]
+      }]
+  },{
+      "name": "psychological sickness",
+      "description": "Sensations from something that is causing the mind to not operate as well as it should. Results can range from difficulty focusing to difficulty functioning in society. In some cases, the person affected may not be aware they're sick.",
+      "perceptions": ["My mind is not operating normally.","I was not injured by an impact or cut."],
+      "desires": ["desire for comfort"],
+      "sensations": ["anxiety","many negative"],
+      "examples": ["phobia","failure sickness","PTSD","Alzheimers","psychopathy"],
+      "guidance": [{
+          "description": "Many cultures don't understand or prioritize mental problems as well as they do physical problems. If your quality of life is being affected by the brain's perceptions or behavior, consider seeking professional help.",
+          "references": ["https://www.mayoclinic.org/diseases-conditions/mental-illness/diagnosis-treatment/drc-20374974"]
+      },{
+          "description": "Western culture says that males should be 'tough' and that admitting to a mental sickness is a sign of weakness. If you or someone you know may feel a stigma for seeking help, consider resources which help you understand that obstacle. You'd go the doctor for an infected wound on your arm, wouldn't you?",
+          "references": ["https://www.menningerclinic.org/news-resources/why-men-don-t-get-mental-health-care-and-how-to-help","https://www.mentalhealth.org.uk/explore-mental-health/a-z-topics/men-and-mental-health"]
+      }],
+      "links": ["failure sickness", "depression", "confusion"]
+  },{
+      "name": "chronic sickness",
+      "description": "Something that regularly causes the body or mind to not operate properly. It may be permanent or happen periodically.",
+      "perceptions": ["My mind is not operating normally.","I was not injured by an impact or cut.","This happens frequently."],
+      "desires": ["desire for comfort"],
+      "sensations": ["anxiety","pain","annoyance","impatience","many negative"],
+      "examples": ["allergies","arthritis","type 2 diabetes"],
+      "guidance": [{
+          "description": "A chronic or long-term illness means having to adjust to the demands of the illness and the therapy used to treat the condition. There may be additional stresses, since chronic illness might change the way you live, see yourself and relate to others.",
+          "attribution": "betterhealth.vic.gov.au",
+          "references": ["https://www.betterhealth.vic.gov.au/health/healthyliving/chronic-illness"]
+      }]
+  }],
+  "commentaries": [{
+      "quote": "Just like there are hundreds of ways the body can have problems from small to big, there are likely hundreds of ways the mind can suffer. But we can't see mind problems with an x-ray."
+  },{
+      "quote": "A healthy person wants one thousand things, a sick person only wants one.",
+      "attribution": "Confucious"
+  },{
+      "quote": "Every sickness has an alien quality, a feeling of invasion and loss of control that is evident in the language we use about it.",
+      "attribution": "Siri Hustvedt, The Shaking Woman, or A History of My Nerves"
+  },{
+      "quote": "Mental health is just as important as physical health.",
+      "attribution": "Michael Phelps"
+  },{
+      "quote": "Too often, society blames men themselves for their struggles. They are the ones who often turn to substance abuse and violent behavior rather than getting help for their mental health. Men aren’t the problem. The way that we — society as a whole and health care providers specifically — treat them is.",
+      "attribution": "Derek M. Griffith, PhD, Ayo Ogunbiyi, MPH, and Emily Jaeger, MPH"
+  }],
+  "spectrum": {"irritation": 2, "sickness": 5, "misery": 8},
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": [""],
+          "predominantType": "node",
+          "levels": {
+            "1": {
+                "experiences": ["sickness"]
+            },
+            "4,3,2": {
+                "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["physical sickness"],
+          "predominantType": "sensation", 
+          "levels": {
+            "1": {
+                "experiences": ["sickness"]
+            },
+            "4,3,2": {
+                "experiences": ["narration"]
+            }
+          }
+      },{ 
+          "names": ["psychological sickness","chronic sickness"], 
+          "predominantType": "sensation",
+          "levels": {
+            "1": {
+                "experiences": ["sickness","anxiety"]
+            },
+            "3,2": {
+                "experiences": ["many negative"]
+            },
+            "4": {
+                "experiences": ["narration"]
+            }
+          }
+      }]
+  }]
+}

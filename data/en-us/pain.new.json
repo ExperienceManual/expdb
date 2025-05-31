@@ -1,0 +1,111 @@
+{
+  "lang": "en/us",
+  "createDate": "20250208",
+  "updateDate": "20250529",
+  "name": "pain",
+  "valence": -1,
+  "quote": "Ouch!",
+  "description": "The feeling of a physical or mental injury. Ranges from intense to mild.",
+  "perceptions": ["My body or mind is not well."],
+  "desires": ["desire for comfort"],
+  "sensations": ["anxiety"],
+  "related": ["sickness", "discomfort"],
+  "opposites": ["comfort", "relief"],
+  "variations": [{
+      "name": "physical pain",
+      "description": "The body can be injured in many different ways, and pain is the way it tells us how urgently to seek relief.",
+      "perceptions": ["My body is injured."],
+      "desires": ["desire for comfort"],
+      "guidance": [{
+          "description": "Should I go to the doctor? Most of us have asked that question at one time or another. Whether it’s a bad cold, a funny-looking mole, or a nagging pain that just won’t go away,",
+          "attribution": "familydoctor.org",
+          "references": ["https://familydoctor.org/deciding-see-doctor/"]
+      }],
+      "examples": ["sports injury","cut","headache","surgery"]
+  },{
+      "name": "mental pain",
+      "description": "The mind can also be injured in many ways. It expresses a need for help with sensations ranging from minor anxiety to depression.",
+      "perceptions": ["I can't focus.","I'm depressed.","I can't sleep."],
+      "desires": ["desire for comfort"],
+      "guidance": [{
+          "description": "Sometimes it can be hard to tell when a concern about mental health signals a need for professional help. In certain situations, the answer is clear. But in others, it isn't so obvious. For example, if you're afraid of giving a speech in public, does it mean you have a mental health condition or just a typical case of nerves? Or, when does shyness become a social phobia? Here's help understanding how mental health conditions are identified.",
+          "attribution": "Mayo Clinic",
+          "references": ["https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/mental-health/art-20044098"]
+      }],
+      "links": ["mental relief", "dissonance"],
+      "examples": ["acute stress","social rejection","PTSD"]
+  },{
+      "name": "chronic pain",
+      "description": "Some kinds of pain do not heal so you have the knowledge that you will have to live with it.",
+      "perceptions": ["My body or mind is not well.","This has been going on a long time.","Treatments have not worked."],
+      "desires": ["desire for comfort"],
+      "guidance": [{
+          "description": "Living with chronic, persistent pain is a fact of life for 3 out of 10 people in the U.S. Chronic pain can develop in various ways, including from injury or illnesses. When pain lasts beyond three to six months, treatment focuses on the central nervous system, which includes the brain and spinal cord.",
+          "attribution": "Mayo Clinic",
+          "references": ["https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/8-tips-for-managing-chronic-pain"]
+      }],
+      "links": ["patience", "dissonance"],
+      "examples": ["chronic back pain","PTSD"]
+  }],
+  "commentaries": [{
+      "quote": "Pain is the body's way of saying 'be more careful please'."
+  },{
+      "quote": "Mysteriously and in ways that are totally remote from natural experience, the gray drizzle of horror induced by depression takes on the quality of physical pain.",
+      "attribution": "William Styron"
+  },{
+      "quote": "Physical pain is far easier to bear than mental agony.",
+      "attribution": "Preeti Shenoy"
+  },{
+      "quote": "Living with chronic pain is like trying to get comfortable on a cactus sofa.",
+      "attribution": "unknown from moregooddays.com"
+  },{
+      "quote": "Pain is inevitable; suffering is optional.",
+      "attribution": "Buddhist proverb"
+  }],
+  "spectrum": {
+      "irritation": 2,
+      "pain": 5,
+      "suffering": 7,
+      "agony": 9
+  },
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["pain"],
+          "predominantType": "node",
+          "levels": {
+            "1": {
+                "experiences": ["pain"]
+            },
+            "4,3,2": {
+                "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["physical pain"],
+          "predominantType": "sensation",
+          "levels": {
+            "1": {
+                "experiences": ["pain"]
+            },
+            "4,3,2": {
+                "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["mental pain","chronic pain"],
+          "predominantType": "sensation",
+          "levels": {
+            "1": {
+                "experiences": ["pain","anxiety"]
+            },
+            "3,2": {
+                "experiences": ["many negative"]
+            },
+            "4": {
+                "experiences": ["narration"]
+            }
+          }
+      }]
+  }]
+}

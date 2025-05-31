@@ -1,0 +1,113 @@
+{
+  "lang": "en/us",
+  "createDate": "20250206",
+  "updateDate": "20250528",
+  "name": "losing",
+  "valence": -1,
+  "quote": "Where, oh where, has my little dog gone?",
+  "description": "Dismay caused by something or someone you had valued no longer being part of your experience.",
+  "perceptions": ["Something I had valued is gone or not available."],
+  "desires": ["desire for social status","desire for social contact","desire for comfort"],
+  "sensations": ["dismay","failure", "sadness", "regret"],
+  "related": ["loss of social status","nostalgia","challenge","attack","defense","challenge"],
+  "examples": ["unable to find something","the world seems to have changed for the worse","a pattern you had relied on no longer works"],
+  "opposites": ["gaining"],
+  "variations": [{
+      "name": "losing a game or contest",
+      "links": ["challenge"],
+      "description": "Disappointment caused by losing a game or contest. Most of the time we play a game or enter a contest there's a hope we'll win even if chace is involved. We regret the disappearance of hope and whatever resources were invested.",
+      "perceptions": ["I wanted to be on the winning side in that challenge.","That's no longer possible."],
+      "desires": ["desire for social status"],
+      "sensations": ["failure", "sadness", "regret"],
+      "guidance": [{
+          "description": "Good sportsmanship encompasses many aspects of a man’s character, the most fundamental being 'respect'. The good sportsman respects both his teammates and his opponents as equals. He plays with integrity. A win that does not come fairly holds no satisfaction for him. He is honest in his dealings with opponents, because he treats them the way he wants to be treated. He is unselfish in his desire to see all his teammates participate and enjoy the game. He is humble in his victories, and has the proper perspective on his losses. In short, the qualities that go in to making a good man are the same ones that contribute to being a great sportsman.",
+          "attribution": "Brett & Kate McKay",
+          "references": ["https://www.artofmanliness.com/character/etiquette/be-a-good-sport-a-guide-to-sportsmanship/"]
+      }],
+      "examples": ["losing a sports match","losing a card game", "losing an election"]
+  },{
+      "name": "losing an important contest you were favored to win",
+      "description": "Dismay caused by losing a challenge where you or your side were the predicted winner.",
+      "perceptions": ["We should have won this challenge.","We must have done something wrong or gotten unlucky."],
+      "desires": ["desire for comfort"],
+      "sensations": ["surprise", "failure", "shame", "loss of social status"],
+      "results": ["seek comfort in excuses","desire to improve"],
+      "guidance": [{
+          "description": "See guidance for good sportsmanship.",
+          "references": ["losing a game or contest"]
+      }]
+  },{
+      "name": "losing a very important asset",
+      "description": "Grief caused by something considered important to survival or to an identity is lost, destroyed, or stolen.",
+      "perceptions": ["Something I valued deeply is gone.","This affects my survival or an important social identity."],
+      "desires": ["will to live","desire for social status"],
+      "sensations": ["grief","fear","many negative"],
+      "guidance": [{
+          "description": "See guidance for grief",
+          "references": ["grief"]
+      }],
+      "examples": ["losing a job","losing a wedding ring","losing a friend","house fire","crisis of faith","damaging a spotless reputation"]
+  },{
+      "name": "losing a loved one",
+      "description": "See 'grief'.",
+      "links": ["grief"]
+  }],
+  "commentaries": [{
+      "quote": "Phrases like 'losing weight' and 'losing inhibition' are double negatives -- these can be interpreted to mean 'gaining fitness' and 'finding courage'."
+  },{
+      "quote": "It's not whether you win or lose, but how you play the game.",
+      "attribution": "Grantland Rice"
+  },{
+      "quote": "Losses have propelled me to even bigger places, so I understand the importance of losing. You can never get complacent because a loss is always around the corner. It’s in any game that you’re in – a business game or whatever – you can’t get complacent.",
+      "attribution": "Venus Williams"
+  },{
+      "quote": "Winning is habit. Unfortunately, so is losing.",
+      "attribution": "Vince Lombardi"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["losing","losing a game or contest"],
+          "predominantType": "sensation",
+          "levels": {
+            "1": {
+              "experiences": ["dismay"]
+            },
+            "3,2": {
+              "experiences": ["losing"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["losing an important contest you were favored to win"],
+          "predominantType": "sensation",
+          "levels": {
+            "1": {
+              "experiences": ["dismay"]
+            },
+            "3,2": {
+              "experiences": ["losing","loss of social status"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["losing a very important asset"],
+          "predominantType": "sensation",
+          "levels": {
+            "1": {
+              "experiences": ["dismay","anxiety"]
+            },
+            "3,2": {
+              "experiences": ["losing","fear"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      }]
+  }]
+}

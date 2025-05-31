@@ -1,0 +1,98 @@
+{
+  "lang": "en/us",
+  "createDate": "20250215",
+  "updateDate": "20250530",
+  "name": "comfort",
+  "valence": 1,
+  "quote": "It's all good.",
+  "description": "Being within a tolerable zone of physical, social, or mental discomfort.",
+  "perceptions": ["There's nothing annoying me physically, no unusual anxiety, no particular social pressures."],
+  "sensations": ["satisfaction"],
+  "related": ["desire for comfort"],
+  "opposites": ["discomfort"],
+  "variations": [{
+      "name": "social comfort",
+      "description": "The feeling that you're amongst people who accept an important part of your identity.",
+      "perceptions": ["I'm amongst people who respect and accept me as part of the group.","I don't have to strive for acceptance."],
+      "desires": ["desire for social contact"],
+      "sensations": ["satisfaction"],
+      "examples": ["family","friends"]
+  },{
+      "name": "physical comfort",
+      "description": "A perception that your body is not experiencing significant discomfort. In the modern world, we tend to take comfort for granted.",
+      "perceptions": ["I'm healthy, it's not too hot, not too cold, the chair is comfy, all is well."],
+      "sensations": ["satisfaction"],
+      "examples": ["favorite spot in the house","warm spring day"]
+  },{
+      "name": "mental comfort",
+      "description": "A perception that your mind is not experiencing significant discomfort or strong desires.",
+      "perceptions": ["I'm not particularly anxious about anything.","I'm doing things that are aligned with my goals and preferences."],
+      "sensations": ["satisfaction"],
+      "examples": ["quiet rainy weekend","doing a favorite puzzle to kill time"]
+  }],
+  "commentaries": [{
+      "quote": "'Comfort' is relative. Most of us are never truly without some kind of discomfort for long, but some people have higher tolerances physical or social discomfort."
+  },{
+      "quote": "You can be physically comfortable while being mentally uncomfortable or vice versa. In fact, for many of us in the modern world, they're almost always out of sync by definition."
+  },{
+      "quote": "Art should comfort the disturbed and disturb the comfortable.",
+      "attribution": "Cesar A. Cruz"
+  },{
+      "quote": "We find comfort among those who agree with us - growth among those who don't.",
+      "attribution": "Frank A. Clark"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["comfort"],
+          "predominantType": "node",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2,1": {
+              "experiences": ["comfort"]
+            }
+          }
+      },{
+          "names": ["physical comfort"],
+          "predominantType": "sensation",
+          "levels": {
+            "4,3,2": {
+              "experiences": ["narration"]
+            },
+            "1": {
+              "experiences": ["comfort"]
+            }
+          }
+      },{
+          "names": ["social comfort"],
+          "predominantType": "node",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2": {
+              "experiences": ["social comfort"]
+            },
+            "1": {
+              "experiences": ["comfort"]
+            }
+          }
+      },{
+          "names": ["mental comfort"],
+          "predominantType": "node",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2": {
+              "experiences": ["mental comfort"]
+            },
+            "1": {
+              "experiences": ["comfort"]
+            }
+          }
+      }]
+  }]
+}

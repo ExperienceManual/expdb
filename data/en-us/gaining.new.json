@@ -1,0 +1,128 @@
+{
+  "lang": "en/us",
+  "createDate": "20250206",
+  "updateDate": "20250528",
+  "name": "gaining",
+  "valence": 1,
+  "quote": "I got the job!",
+  "description": "Delight caused by obtaining something you had previously wanted.",
+  "perceptions": ["Something I had wanted is now mine."],
+  "desires": ["desire for social status","desire for social contact","desire for comfort"],
+  "sensations": ["delight"],
+  "related": ["happiness","gain of social status","attack","defense","challenge"],
+  "opposites": ["losing"],
+  "examples": ["finding a lost thing", "gaining knowledge", "the world seems to have changed for the better"],
+  "variations": [{
+      "name": "winning a game or contest",
+      "links": ["challenge"],
+      "description": "Delight caused by winning a game or contest.",
+      "perceptions": ["I wanted to be on the winning side in that challenge.","That hope or prediction took place."],
+      "desires": ["desire for social status"],
+      "sensations": ["delight"],
+      "guidance": [{
+          "description": "See the entry about sportsmanship in 'losing'.",
+          "references": ["losing a game or contest"]
+      }]
+  },{
+      "name": "winning an important contest you were predicted to lose",
+      "links": ["surprise", "gain of social status"],
+      "description": "Delight caused by winning a challenge where you or your side were the predicted losers.",
+      "perceptions": ["We should have lost this challenge.","We must have done something right, gotten lucky, or are more skillful than given credit."],
+      "sensations": ["surprise","pride","gratitude"],
+      "guidance": [{
+          "description": "See the entry about sportsmanship in 'losing'.",
+          "references": ["losing a game or contest"]
+      }],
+      "examples": ["winning a championship sports game","being on the winning side of an election"]
+  },{
+      "name": "gaining a loved one",
+      "description": "Delight caused by gaining an important new social connection.",
+      "perceptions": ["A new person has entered into the inner circle of my life.","I'm looking forward having experiences life with this person or pet."],
+      "desires": ["desire for social contact"],
+      "sensations": ["delight","love","anticipation"],
+      "links": ["desire for parenthood", "companionship"],
+      "examples": ["new baby in the family", "new romantic partner", "new pet"]
+  },{
+      "name": "gaining a very important asset",
+      "description": "Delight caused by acquiring something considered important to survival or to an identity.",
+      "perceptions": ["I've got something new that will help me survive or advance an important social identity."],
+      "sensations": ["delight","gratitude","pride","many positive"],
+      "results": ["desire to share the news with others"],
+      "examples": ["getting a job","buying a house","education certificate"]
+  }],
+  "spectrum": {"gaining": 3, "winning": 5},
+  "commentaries": [{
+      "quote": "Phrases like 'gaining weight' and 'gaining enemies' can be interpreted to mean 'losing fitness' and 'losing friends'."
+  },{
+      "quote": "When you've had a relatively easy life where you have most everything you really want, 'gaining' things seems like the norm. That can make 'not gaining' feel like 'losing', and actual loss feel intolerable."
+  },{
+      "quote": "It's not whether you win or lose, but how you play the game.",
+      "attribution": "Grantland Rice"
+  },{
+      "quote": "Too few rejoice at a friend's good fortune.",
+      "attribution": "Aeschylus"
+  },{
+      "quote": "Easy come, easy go.",
+      "attribution": "adage"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["gaining","winning a game or contest"],
+          "predominantType": "sensation",
+          "levels": {
+            "1": {
+              "experiences": ["delight"]
+            },
+            "3,2": { 
+              "experiences": ["gaining"] 
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["winning an important contest you were predicted to lose"],
+          "predominantType": "sensation",
+          "levels": {
+            "1": {
+              "experiences": ["delight"]
+            },
+            "3,2": {
+              "experiences": ["gaining","gain of social status"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["gaining a very important asset"],
+          "predominantType": "sensation",
+          "levels": {
+            "1": {
+              "experiences": ["delight"]
+            },
+            "3,2": {
+              "experiences": ["gaining","gratitude","pride"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["gaining a loved one"],
+          "predominantType": "sensation",
+          "levels": {
+            "1": {
+              "experiences": ["delight"]
+            },
+            "3,2": {
+              "experiences": ["gaining","love"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      }]
+  }]
+}

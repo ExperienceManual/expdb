@@ -1,0 +1,157 @@
+{
+  "lang": "en/us",
+  "createDate": "20250205",
+  "updateDate": "20250528",
+  "name": "attack",
+  "valence": 0,
+  "quote": "It's mine now.",
+  "description": "Taking action to forcibly obtain something from others for your benefit or for an important other.",
+  "perceptions": ["The state of things would be better for me in a certain way.","Someone or something else may resist changing things."],
+  "sensations": ["many"],
+  "desires": ["desire for territory","desire for social status","desire for wealth","desire to improve","desire for stimulation"],
+  "related": [ "anger", "desire for social status", "courage", "contempt", "desire for territory", "desire for trade" ],
+  "opposites": ["defense", "respect", "compassion"],
+  "spectrum": {
+      "attack": 5,
+      "violence": 7
+  },
+  "variations": [{
+      "name": "attacking territory or assets",
+      "description": "Effort towards forcibly trying to obtain land or other resources that are perceived to belong to someone else for your usage.",
+      "perceptions": ["I need or want this particular asset.","The person or entity that currently possesses the asset will not just give it up."],
+      "desires": ["desire for safety","desire for wealth","desire for social status"],
+      "sensations": ["anger","excitement","courage","contempt"],
+      "personOfInterestExperiences": ["defense"],
+      "links": ["desire for territory", "desire for social status", "stealing"],
+      "examples": ["burglary","war"]
+  },{
+      "name": "attacking life or health of a person",
+      "description": "Taking action to seriously injure or kill another person. There are many possible motivations for this: reactive, proactive, criminal.",
+      "perceptions": ["This person, or a group they represent, is dangerous to me or has something I need.","A peaceful resolution does not seem possible or desirable."],
+      "desires": ["many"],
+      "sensations": ["many"],
+      "personOfInterestExperiences": ["defense","anger","anxiety","fear"],
+      "links": ["desire for social status", "desire for social influence", "hate", "contempt", "fear", "anger","vengeance"],
+      "examples": ["crime","war","torture"]
+  },{
+      "name": "attacking life or health of a non-person",
+      "description": "Taking action to seriously injure or kill someone or something that is not a person, for example an animal or an organization. There are many possible motivations for this: reactive, proactive, criminal.",
+      "perceptions": ["This agent or group, is dangerous to me or has something I need.","A peaceful resolution does not seem possible or desirable."],
+      "desires": ["many"],
+      "sensations": ["many"],
+      "links": ["desire for food", "desire to improve", "desire for knowledge"],
+      "examples": ["hunting","lab experiment"]
+  },{
+      "name": "attacking reputation",
+      "description": "Taking action to degrade the social status of another.",
+      "perceptions": ["This person, or a group they represent, is dangerous to my status or I could benefit from their downgrade."],
+      "desires": ["desire for social status","vengeance"],
+      "personOfInterestExperiences": ["defense","anger","anxiety","fear"],
+      "links": [ "criticism" ],
+      "examples": ["criticism","libel"]
+  },{
+      "name": "damage for spite",
+      "description": "Damaging something of value to someone else to negatively effect another.",
+      "perceptions": ["A person or group values this thing.","They will be affected negatively if it's damaged or destroyed."],
+      "desires": ["vengeance","desire to make your mark"],
+      "personOfInterestExperiences": ["defense","anger"],
+      "links": ["anger", "resentment"],
+      "examples": ["vandalism"]
+  }],
+  "commentaries": [{
+      "quote": "Advancing an agenda at the expense of others often creates conflict in the short term. If it's done in way that minimizes unnecessary damage, others may come to see the wisdom. Otherwise, it may set up a chain of resentful actions."
+  },{
+      "quote": "History is a dense timeline of people attacking each other for every conceivable reason, so the cult of the warrior has had a lot of time in the sun. That doesn't mean that every human is violent by nature, but it does suggest that aggression and cooperation can be tapped for intentions both good and bad."
+  },{
+      "quote": "The best defense is a good offense.",
+      "attribution": "adage"
+  },{
+      "quote": "Thou shalt not kill.",
+      "attribution": "The Bible"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["attack"],
+          "predominantType": "action",
+          "levels": {
+            "3,2,1": {
+              "experiences": ["attack"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["attacking territory or assets"],
+          "predominantType": "action",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["attack","desire for social status"]
+            },
+            "2,1": {
+              "experiences": ["attack","desire for territory"]
+            }
+          }
+      },{
+          "names": ["attacking life or health of a person"],
+          "predominantType": "action",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["attack","desire for social status","vengenace"]
+            },
+            "2,1": {
+              "experiences": ["attack"]
+            }
+          }
+      },{
+          "names": ["attacking life or health of a non-person"],
+          "predominantType": "action",
+          "levels": {
+            "4": {
+              "experiences": ["narration","desire for knowledge"]
+            },
+            "3": {
+              "experiences": ["attack"]
+            },
+            "2,1": {
+              "experiences": ["attack","desire for food"]
+            }
+          }
+      },{
+          "names": ["attacking reputation"],
+          "predominantType": "action",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["attack","desire for social status"]
+            },
+            "2,1": {
+              "experiences": ["attack"]
+            }
+          }
+      },{
+          "names": ["damage for spite"],
+          "predominantType": "action",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["attack","desire for social influence"]
+            },
+            "2,1": {
+              "experiences": ["attack"]
+            }
+          }
+      }]
+  }]
+}

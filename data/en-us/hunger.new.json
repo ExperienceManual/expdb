@@ -1,0 +1,46 @@
+{
+  "lang": "en/us",
+  "createDate": "20250208",
+  "updateDate": "20250529",
+  "name": "hunger",
+  "valence": -1,
+  "quote": "When's dinner?",
+  "description": "Physical need to eat or drink. Of course we often desire food when we're not actually hungry.",
+  "perceptions": ["I have a hungry feeling in my stomach or feel light headed from lack of food."],
+  "desires": ["desire for comfort","will to live"],
+  "results": ["find a way to get some food"],
+  "related": ["desire for food"],
+  "variations": [{
+      "name": "strong desire",
+      "description": "Besides food, 'hunger' can be any kind of desire like a 'hunger for acceptance'.",
+      "links": ["desire"]
+  }],
+  "spectrum": {
+      "hunger": 5,
+      "thirst": 5,
+      "starving": 9
+  },
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["hunger"],
+          "predominantType": "sensation",
+          "levels": {
+            "1": {
+              "experiences": ["hunger"]
+            },
+            "4,3,2": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["strong desire"],
+          "predominantType": "node",
+          "levels": {
+              "4,3,2,1": {
+                  "experiences": ["desire"]
+              }
+          }
+      }]
+  }]
+}

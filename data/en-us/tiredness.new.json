@@ -1,0 +1,109 @@
+{
+  "lang": "en/us",
+  "createDate": "20250209",
+  "updateDate": "20250530",
+  "name": "tiredness",
+  "valence": -1,
+  "quote": "I slept until noon after a crazy week.",
+  "description": "State of physical weakness or mental wearniess resulting from excessive stress or over-stimulation.",
+  "perceptions": ["My body or mind needs rest."],
+  "desires": ["desire for comfort","desire for sleep"],
+  "sensations": ["discomfort"],
+  "results": ["find a way to get some rest"],
+  "opposites": ["comfort", "relief"],
+  "variations": [{
+      "name": "sleepiness",
+      "description": "Biological sensation that the brain needs to rest.",
+      "perceptions": ["I'm sleepy."],
+      "desires": ["desire for sleep"],
+      "results": ["sleep or nap"],
+      "guidance": [{
+          "description": "Paying attention to sleep hygiene is one of the most straightforward ways that you can set yourself up for better sleep. Strong sleep hygiene means having both a bedroom environment and daily routines that promote consistent, uninterrupted sleep.",
+          "attribution": "Eric Suni",
+          "references": ["https://www.sleepfoundation.org/sleep-hygiene"]
+      }]
+  },{
+      "name": "physical tiredness",
+      "description": "Muscular weakness or soreness from physical exertion beyond the body's normal capability.",
+      "perceptions": ["My body is tired or sore."],
+      "desires": ["desire for comfort"],
+      "results": ["rest"],
+      "examples": ["working out","busy day on your feet"]
+  },{
+      "name": "psychological weariness",
+      "description": "Reduced mental capacity from physical, mental, or emotional exertion beyond normal.",
+      "perceptions": ["I'm too sleepy, tired physically, or emotionally exhausted to function normally."],
+      "desires": ["desire for comfort"],
+      "results": ["rest","sleep or nap"],
+      "guidance": [{
+          "description": "When stress from adverse or challenging events in life occur continually, you can find yourself in a state of feeling emotionally worn out and drained. This is called emotional exhaustion. For most people, emotional exhaustion tends to build up slowly over time. Emotional exhaustion includes emotional, physical and performance symptoms.",
+          "attribution": "Mayo Clinic",
+          "references": ["https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/emotional-exhaustion-during-times-of-unrest"]
+      }],
+      "links": ["confusion","overwhelmed"]
+  }],
+  "commentaries": [{
+      "quote": "In some languages there's a distinction between 'sleepy-tired' and 'physically-tired'."
+  },{
+      "quote": "Tired minds don't plan well. Sleep first, plan later.",
+      "attribution": "Walter Reisch"
+  },{
+      "quote": "Fatigue is the best pillow.",
+      "attribution": "Benjamin Franklin"
+  },{
+      "quote": "Hear me, my chiefs! I am tired. My heart is sick and sad. From where the sun now stands, I will fight no more forever.",
+      "attribution": "Chief Joseph"
+  }],
+  "spectrum": {"tiredness": 5, "exhaustion": 8},
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["tiredness"],
+          "predominantType": "node",
+          "levels": {
+            "3,2,1": {
+              "experiences": ["tiredness"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["physical tiredness"],
+          "predominantType": "sensation",
+          "levels": {
+            "1": {
+              "experiences": ["physical tiredness"]
+            },
+            "4,3,2": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["sleepiness"],
+          "predominantType": "sensation",
+          "levels": {
+            "1": {
+              "experiences": ["sleepiness"]
+            },
+            "4,3,2": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["psychological weariness"],
+          "predominantType": "sensation",
+          "levels": {
+            "1": {
+              "experiences": ["tiredness"]
+            },
+            "3,2": {
+              "experiences": ["overwhelmed"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      }]
+  }]
+}

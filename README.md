@@ -21,6 +21,17 @@ different understanding of these experiences. You can open an issue
 or pull request with corrections or suggestions. Porting the collection to
 other languages is also welcome.
 
+However, it's worth noting that this library comes from a scientific, progressive, and holisitic perspective:
+
+- Rationality is a valuable tool.
+- There are 'meta-truths' that are useful in understanding provincial truths.
+- The future of human civilization really needs alchemical psychology to start catching up with physical chemistry.
+- Understanding one slice of experience is not enough. Either everything connects or it all falls apart. We need a 'periodic table' of experience, not just Au and H2O.
+- Human psychology is an adaptation of animal psychology, which is an emergent property of some kind of beautiful-but-unempathetic quantum physical implicate order.
+- It is possible to say something about human experience beyond "it is what it is."
+
+If you would just prefer to fortify a provincial truth, please consider creating your own github repo.
+
 # Details
 
 One aim of this collection is to better organize an extremely complicated
@@ -54,13 +65,20 @@ It took hundreds of thousands of years for our species to figure out how to repr
 
 Here are some guiding assumptions:
 
-- It's not easy to introspect these experiences, but neither is it easy to learn what sounds letters make. It takes years of practice for children to learn to read.
-- We must incorporate established science where possible, including psychology, neuroscience, primatology, emotion research, meditation research, philosophy, etc.
-- Our inside experience is related to the neurotransmitter chemicals in the brain, but it is not the same.
-- Humans are profoundly social creatures with complex mental models of social interactions. A given experience feels very different from the inside than when observed in someone else. All of these files are from a first-person perspective, though some entries may reference what the "person of interest" may be experiencing. For example, the file for "hubris" assumes that the person in question is probably feeling "self-confidence".
-- One of society's functions is to decide which experiences to encourage and which to discourage. This collection must include experiences that people might consider harmful or socially inappropriate.
-- We need to allow for multiple underlying explanations for experiences as long as they're coherent and illuminating.
-- We need to deal carefully with mental health problems. This collection is not a self-help replacement for the DSM and professional therapy.
+- **Invitation for introspection** - This collection is not for preaching. For example, we won't say "You shouldn't smoke.". Instead, we suggest "You might consider why you smoke despite it's known effects on health." If insightful people know they smoke for social identity and stress management, it is not our place to moralize things that won't matter 1000 years from now.
+- **Don't over-complicate** - We must incorporate established science where possible, including psychology, neuroscience, primatology, emotion research, meditation research, philosophy, etc. But there are many libraries worth of valid research that need to be synthesized into something digestible.
+- **Don't over-simplify** - It's not easy to introspect these experiences, but neither is it easy to learn what sounds letters make. It takes years of practice for children to learn to read. People of the future will forgive us if we're earnest about this balance.
+- **Brain influences mind** - Our inside experience is related to the neurotransmitter chemicals in the brain, but it is not the same.
+- **First-person perspective** - A given experience feels very different from the inside than when observed in someone else. All of these files are from a first-person perspective, though some entries may reference what the "person of interest" may be experiencing. For example, the file for "hubris" assumes that the person in question is probably feeling "self-confidence".
+- **Go where the people are** - This collection must include experiences that people might consider harmful, socially inappropriate, or illusory.
+    - **Share opposing views** - Commentaries can take provincial perspectives, but the main text should strive to explain what is seen, not what should be.
+    - **Allow what is/was** - This is about human experience, and history shows that experience revolves around: the divine supernatural, mating, violence, unfairness, and other things that trigger people.
+- **Thousand year rule** - we won't take a specific perspective other than to encourage things that our descendants 1,000 years in the future will care about. Other than that, we let society decide which experiences to encourage and which to discourage. Yes, it may be hubristic to assume we know will be important to them, but they will be humanoid, so they will likely care about: social status, agency, safety, enjoyment, and meaning.
+- **No North Star** - The mind is an complicated emergent system with no single component or concern at the center. Just as Jerusalem was dethroned as the center of a flat earth, no particular part of the mind (ego, soul, amygdala, etc) is a keystone.
+- **Architect for multiple perspectives** - We need to allow for multiple underlying explanations for experiences as long as they're coherent and illuminating.
+- **Living Manual** - for those who might want to consider best practices, we should strive to keep up with being a hub pointing to reputable and well-considered resources.
+- **Be responsible** - We need to deal carefully with mental health problems. This collection is not a self-help replacement for the DSM and professional therapy.
+- **Don't forget to smile** - yes, we should do our best, but the future will smile at ourignorance no matter what. Our job is to inch forward and be well-adjusted people.
 
 ## Experiences from Different Angles
 

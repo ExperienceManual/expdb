@@ -29,6 +29,11 @@
           "references": ["https://www.mghclaycenter.org/parenting-concerns/discovering-who-i-am-the-critical-role-of-identity/","https://www.scientificamerican.com/article/the-search-for-social-identity-leads-to-us-versus-them/","https://www.healthassured.org/blog/building-a-healthy-self-identity/"]
       }]
   },{
+      "name": "desire to be perceived a certain way",
+      "description": "Wanting to be seen with certain characteristics in a particular social context.",
+      "perceptions": ["If others to see me in a certain way, it may help me further the goal of our relationship."],
+      "examples": ["wanting to be seen as nice", "wanting to be seen as tough", "wanting to be seen as competent"]
+  },{
       "name": "desire for validation",
       "description": "Wanting to have your social value confirmed.",
       "perceptions": ["I'm not sure where I stand with a particular social group.","I would like to confirm that my standing is still positive."],
@@ -102,7 +107,7 @@
   },{
       "quote": "Deep down people recognize that we require social support for our individual survival in the long term. So having status with a group that help keep us safe is unconciously critical."
   },{
-      "quote": "If groups are fighting, it's about relative status. It's not really about the religion. It's not primarily about ancestry. It's not all about economic class. These things matter because they sort people into groups, and people in these groups feel they must win over the rival or risk negative consequences. Sometimes there are even legitimate grievances."
+      "quote": "If groups are fighting, it's about relative status. It's not really about the religion. It's not primarily about ancestry. It's not primarily about income, education level, or accent. These things matter because they sort people into groups, and people in these groups can feel threatened that they must defeat a rival group or risk negative consequences. And sometimes the grievances are even legitimate."
   },{
       "quote": "Gaining social status with one group probably involves losing status with another."
   },{

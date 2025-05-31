@@ -1,0 +1,78 @@
+{
+  "lang": "en/us",
+  "createDate": "20250205",
+  "updateDate": "20250528",
+  "name": "aggressiveness",
+  "valence": 0,
+  "quote": "He's being very pushy about this.",
+  "description": "A negative perception that someone else is threatening or energetically proposing a particular change that is not welcome. The person in question likely feels justified in these actions. If the actions don't negatively effect someone, then they are 'ambition'.",
+  "perceptions": ["Someone is exerting energy to get what they want.","Either the whole effort is unwelcome or they're doing it with more energy than required."],
+  "sensations": ["anxiety","annoyance","resentment","fear"],
+  "results": ["depends on the context and your relation to the person"],
+  "personOfInterestExperiences": ["desire for social status","attack","desire to improve"],
+  "guidance": [{
+      "description": "Violence and aggression rarely come out of the blue. When working with others, it’s key that you are able to identify some giveaway signals that might suggest the mood has shifted.",
+      "attribution": "PeopleSafe.co.uk -- How To Diffuse Aggression – Conflict Resolution Tips",
+      "references": ["https://peoplesafe.co.uk/blogs/how-to-diffuse-aggression-conflict-resolution-tips/"]
+  }],
+  "related": ["attack","ambition","defensiveness"],
+  "opposites": ["calmness", "introspection", "respect"],
+  "variations": [{
+      "name": "realized aggressiveness",
+      "description": "If you recognize that recent actions have been more pushy than necessary or unfairly ignoring others' interests, you may feel some regret.",
+      "perceptions": ["I probably didn't need to push my agenda in that way.","I may have changed perceptions in a way not intended."],
+      "desires": ["desire to be perceived a certain way"],
+      "sensations": ["regret","humility","embarassment"],
+      "results": ["perhaps an inclination to apologize"]
+  }],
+  "comparisons": [{
+      "links": ["attack"],
+      "description": "'Attack' is the action taken to forcibly advance an agenda, while 'aggressiveness' is a label applied to someone who is perceived as negatively affecting ohers."
+  }],
+  "commentaries": [{
+      "quote": "Some types of aggressiveness can be good. If it's seen that the intended target of your actions is beneficial and that the impact to others' interests is collateral damage, it may be forgiven. But if aggressiveness is aimed specifically at degrading others' interests, they may perceive it negatively."
+  },{
+      "quote": "It's sometimes difficult from the inside to accurately judge how best to advocate for yourself. The manner of actions can be critiqued by others as being 'aggressive' in a negative way."
+  },{
+      "quote": "Unnecessary aggression is not justice or strength it is human weakness and desire.",
+      "attribution": "C.A.A. Savastano"
+  },{
+      "quote": "Weakness invites aggression.",
+      "attribution": "Tommy Tuberville"
+  },{
+      "quote": "The tendency to aggression is an innate, independent, instinctual disposition in man... it constitutes the powerful obstacle to culture.",
+      "attribution": "Sigmund Freud"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["aggressiveness"],
+          "predominantType": "sensation",
+          "levels": {
+            "2,1": {
+              "experiences": ["many negative"]
+            },
+            "3": {
+              "experiences": ["aggressiveness","many negative"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["realized aggressiveness"],
+          "predominantType": "sensation",
+          "levels": {
+            "2,1": { 
+              "experiences": ["dismay"]
+            },
+            "3": {
+              "experiences": ["aggressiveness","humility","regret"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          } 
+      }]
+  }]
+}

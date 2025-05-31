@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250202",
-  "updateDate": "20250524",
+  "updateDate": "20250527",
   "name": "desire to improve",
   "valence": 0,
   "quote": "Practice makes perfect.",
@@ -44,9 +44,22 @@
       "sensations": ["dissatisfaction"],
       "desires": ["desire for meaning"],
       "examples": ["going to religious services", "praying", "meditating", "random acts of kindness"]
+  },{
+      "name": "desire for trade",
+      "description": "Wanting to exchange value with another person or group.",
+      "perceptions": ["Someone else has something that I'd like to have"."I have something they might like.","Attacking them won't help or is a bad idea."],
+      "desires": ["desire for social influence","desire for social status"],
+      "guidance": [{
+          "description": "Negotiation is a fundamental skill that plays a crucial role in both personal and professional life. Whether you’re negotiating a job offer, securing a contract, or resolving conflicts, strong negotiation skills can help you reach a beneficial agreement.",
+          "attribution": "Carrie Re, MBA",
+          "references": ["https://www.betterup.com/blog/how-to-negotiate"]
+      }],
+      "examples": ["purchasing something","exchanging information"]
   }],
   "commentaries": [{
       "quote": "Optimizing things to be 'better' is the absolute core of being a 'civilized' human trying to live in a ridiculously complicated world. All that effort is why we get so upset when things get 'worse'. But either we do this, we regress to the jungle, or we join a mountaintop monastary."
+  },{
+      "quote": "We always optimize towards a goal. Most of the time the goals we quest for are unconscious, so it may be worth reflecting on your favorites. Some common ones: fortify economic stability, have fun, feel better about myself, enhance my social status, prepare for the afterlife, make the world fit into an ideology, etc."
   },{
       "quote": "There is only one corner of the universe you can be certain of improving, and that's your own self.",
       "attribution": "Aldous Huxley"

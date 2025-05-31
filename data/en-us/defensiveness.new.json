@@ -1,0 +1,79 @@
+{
+  "lang": "en/us",
+  "createDate": "20250205",
+  "updateDate": "20250526",
+  "name": "defensiveness",
+  "valence": -1,
+  "quote": "He's very touchy about that subject.",
+  "description": "A negative perception that someone else is being unnecessarily vigorous about denying wrongdoing or defending themselves physically or socially. The person in question likely feels justified in defending themselves.",
+  "perceptions": ["Someone is reacting with more energy than necessary to defend themslves.","They were not attacked as strongly as they're making it out to be."],
+  "sensations": ["empathy","discomfort","annoyance","contempt","frustration","confusion"],
+  "results": ["depends on the context and your relation to the person"],
+  "personOfInterestExperiences": ["defense"],
+  "guidance": [{
+      "description": "Learn more about defensive behavior, and get advice on how to approach and resolve conflict with a defensive person.",
+      "attribution": "Stephanie A. Wright, RN, BSN",
+      "references": ["https://psychcentral.com/lib/how-to-talk-to-someone-who-always-gets-defensive#communication-tips"]
+  }],
+  "related": ["defense","aggressiveness"],
+  "opposites": ["calmness", "introspection"],
+  "variations": [{
+      "name": "realized defensiveness",
+      "description": "If you recognize that you've been pushing away valid feedback, you may experience embarassment or humility.",
+      "perceptions": ["I probably didn't need to react so strongly."],
+      "desires": ["desire to be perceived a certain way"],
+      "sensations": ["humility","embarassment"],
+      "results": ["perhaps an inclination to apologize"]
+  }],
+  "commentaries": [{
+      "quote": "People apply the 'defensive' label to others. From inside the experience, the reaction often feels like a warranted act of self-protection."
+  },{
+      "quote": "It's sometimes difficult from the inside to accurately judge the severity of a threat. It's fair to defend yourself, but it's the manner of the defense against a minor threat that can be critiqued by others as being 'defensive'."
+  },{
+      "quote": "There is a certain degree of satisfaction in having the courage to admit one's errors. It not only clears up the air of guilt and defensiveness, but often helps solve the problem created by the error.",
+      "attribution": "Dale Carnegie"
+  },{
+      "quote": "When people hear needs, it provokes compassion. When people hear diagnoses, it provokes defensiveness and attack.",
+      "attribution": "Marshall B. Rosenberg"
+  }],
+  "spectrum": {
+      "defensiveness": 5,
+      "overreacting": 5
+  },
+  "comparisons": [{
+      "links": ["defense"],
+      "description": "'Defense' is the effort of protecting yourself from perceived negative effects, while 'defensiveness' is a label applied on someone else who is perceived as overreacting in their defense."
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["defensiveness"],
+          "predominantType": "sensation",
+          "levels": {
+            "2,1": {
+              "experiences": ["many"]
+            },
+            "3": {
+              "experiences": ["defensiveness","many"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["realized defensiveness"],
+          "predominantType": "sensation",
+          "levels": {
+            "2,1": {
+              "experiences": ["dismay"]
+            },
+            "3": {
+              "experiences": ["defensiveness","humility","embarassment"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      }]
+  }]
+}

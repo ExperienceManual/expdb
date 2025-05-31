@@ -1,0 +1,65 @@
+{
+  "lang": "en/us",
+  "createDate": "20250208",
+  "updateDate": "20250529",
+  "name": "relief",
+  "valence": 1,
+  "quote": "I feel a lot better.",
+  "description": "Delight from a perception that physical or mental pain is feeling better.",
+  "perceptions": ["I was in a certain amount of pain.","The pain is less now."],
+  "desires": ["desire for comfort"],
+  "sensations": ["delight"],
+  "opposites": ["pain", "anxiety"],
+  "variations": [{
+      "name": "relief attributed to something or someone",
+      "description": "A perception that decreased physical or mental pain is attributed to help from something or someone.",
+      "perceptions": ["I was in a certain amount of pain.","The pain is less now.","Someone or something should be given credit for helping."],
+      "desires": ["desire for comfort"],
+      "sensations": ["delight","gratitude"],
+      "results": ["desire to express gratitude"],
+      "examples": ["the medicine seems to have worked","the doctor figured out what was wrong","prayer helped"]
+  }],
+  "commentaries": [{
+      "quote": "We often don't understand our psychological pain and may not know how to deal it. It may help to have a basic mental 'first aid kit' that works for you, whether that's prayer, meditation, family time, or another healthy activity."
+  },{
+      "quote": "Time only helps heal if you take care of yourself consistently. That goes for mental pain as for physical."
+  },{
+      "quote": "For fast-acting relief try slowing down.",
+      "attribution": "Lily Tomlin"
+  },{
+      "quote": "There is a great relief in experiencing the worst vicariously.",
+      "attribution": "Fiona Shaw"
+  },{
+      "quote": "There is certain relief in change, even though it be from bad to worse! As I have often found in traveling in a stagecoach, that it is often a comfort to shift one's position, and be bruised in a new place.",
+      "attribution": "Washington Irving"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["relief"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2,1": {
+              "experiences": ["relief"]
+            }
+          }
+      },{
+          "names": ["relief attributed to something or someone"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2": {
+              "experiences": ["relief","gratitude"]
+            },
+            "1": {
+              "experiences": ["relief"]
+            }
+          }
+      }]
+  }]
+}

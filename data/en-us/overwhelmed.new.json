@@ -1,0 +1,92 @@
+{
+  "lang": "en/us",
+  "createDate": "20250208",
+  "updateDate": "20250529",
+  "name": "overwhelmed",
+  "valence": -1,
+  "quote": "I need a vacation.",
+  "description": "Dismay from not knowing how to respond to too many demands, too much stimulation, or something that seems too large to handle.",
+  "perceptions": ["I cannot process everything that's expected of me in the expected time period."],
+  "desires": ["desire for agency","desire for social status","desire for quiet"],
+  "sensations": ["dismay","anxiety","frustration","failure","confusion"],
+  "results": ["seek ways to manage the load or expectations"],
+  "guidance": [{
+      "description": "You can take specific actions to help you regain a sense of control and reduce stress. It's all about taking small, manageable steps to improve your situation.",
+      "attribution": "calm.com",
+      "references": ["https://www.calm.com/blog/what-to-do-when-you-feel-overwhelmed"]
+  }],
+  "related": ["desire for quiet", "anxiety"],
+  "opposites": ["desire for stimulation", "playful"],
+  "variations": [{
+      "name": "too many things to do",
+      "description": "Dismay from not knowing how to respond to too many demands.",
+      "perceptions": ["I cannot process everything that's expected of me in the expected time period."],
+      "desires": ["desire for agency","desire for social status","desire for quiet"],
+      "sensations": ["dismay","anxiety","frustration","failure"],
+      "results": ["seek ways to manage the load or expectations"],
+      "links": ["desire for agency"],
+      "examples": ["being a parent of multiple busy kids","crunch time at work"]
+  },{
+      "name": "too big to handle",
+      "description": "Dismay from not knowing how to respond to a very large task or piece of news.",
+      "perceptions": ["I don't know how to handle this big thing."],
+      "desires": ["desire for agency","desire for social status"],
+      "sensations": ["dismay","anxiety","confusion"],
+      "guidance": [{
+          "description": "This article describes an approach to finishing small chunks of a big project. It could also be applied when you're stuck trying to figure out what actually to do. Make 'researching' the topic one of the to-do items. For instance, if someone you know got some bad medical news, an early activity might be to learn about their condition.",
+          "references": ["https://www.psychotactics.com/avoid-overwhelm/"]
+      }],
+      "examples": ["big project you're not ready for","getting some bad news that requires your response"]
+  }],
+  "commentaries": [{
+      "quote": "Dealing with the complications of modern life can strain your ability to keep up with it: bills, appointments, home ownership, parenthood, spam, avoiding scams, traffic, making ends meet, relationships. It all adds up. Consider taking one thing at a time."
+  },{
+      "quote": "Being overwhelmed doesn't mean you necessarily want it to all go away. It means that you feel 'in over your head' and might need help, or at least to step back and look at the situation as a whole."
+  },{
+      "quote": "If you can find a path with no obstacles, it probably doesn’t lead anywhere.",
+      "attribution": "Frank A. Clark"
+  },{
+      "quote": "Remember, you've survived 100 percent of your worst days.",
+      "attribution": "J. Rose in 'Where Wild Things Grow'"
+  },{
+      "quote": "Sometimes when you're overwhelmed by a situation - when you're in the darkest of darkness - that's when your priorities are reordered.",
+      "attribution": "Phoebe Snow"
+  }],
+  "spectrum": {
+      "busy": 1,
+      "overwhelmed": 5,
+      "panic attack": 10
+  },
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["overwhelmed","too many things to do"],
+          "predominantType": "sensation",
+          "levels": {
+            "1": {
+              "experiences": ["dismay","anxiety"]
+            },
+            "3,2": {
+              "experiences": ["overwhelmed","desire for agency"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["too big to handle"],
+          "predominantType": "sensation",
+          "levels": {
+            "1": {
+              "experiences": ["dismay","anxiety"]
+            },
+            "3,2": {
+              "experiences": ["overwhelmed","confusion"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      }]
+  }]
+}
