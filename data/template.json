@@ -30,6 +30,10 @@
         "results": [""],
         "personOfInterestExperiences": [""],
         "examples": [],
+        "comparisons": [{
+            "links": [],
+            "description": ""
+        }],
         "guidance": [{
             "description": "",
             "attribution": "",

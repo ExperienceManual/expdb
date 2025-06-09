@@ -1,0 +1,110 @@
+{
+  "lang": "en/us",
+  "createDate": "20250217",
+  "updateDate": "20250604",
+  "name": "powerless",
+  "valence": -1,
+  "quote": "I don't know how to solve this problem.",
+  "description": "The sense that your cannot influence the shared environment as much as you need to.",
+  "perceptions": ["I do not have the ability to change the environment or solve a problem.","There will be negative consequences."],
+  "desires": ["desire for agency","desire to improve"],
+  "sensations": ["failure","resentment","frustration"],
+  "guidance": [{
+      "description": "",
+      "attribution": "",
+      "references": [""]
+  }],
+  "related": ["agency"],
+  "opposites": ["powerful"],
+  "variations": [{
+      "name": "facing the impossible",
+      "description": "The sense that a significant challenge or threat is not possible to overcome and that there will be negative consequences.",
+      "perceptions": ["I do not have the ability to change the environment or solve a problem.","There will be negative consequences."],
+      "links": ["hopelessness"],
+      "guidance": [{
+          "description": "I don’t have a nicely packaged set of tips to overcome whatever impossible task you are facing. Unfortunately, it doesn’t work that way. That’s the nature of the impossible task – it’s impossible. I can’t change that for you anymore than I can change it for myself. But what I can do – what I hope to do – is share some of the lessons I’ve learned over the years that have helped me make it through some pretty daunting challenges. And in so doing, I hope I can help make your next impossible challenge a tiny bit less impossible.",
+          "attribution": "Brendan Reid",
+          "references": ["https://brendanreid.com/blog/how-to-overcome-an-impossible-task/"]
+      }],
+      "examples": ["saving everyone in a natural disaster","saving someone from an incurable disease"]
+  },{
+      "name": "socially powerless",
+      "description": "Having no choice but to let others decide who's right, how different kinds of people interact with other, and what the group should value.",
+      "perceptions": ["I do not have the ability to change the social environment or solve a social problem.","Others have the ability to do this.","I don't fully trust them or I'm not sure whether I can trust them."],
+      "desires": ["desire for social influence","desire to improve"],
+      "sensations": ["resentment","frustration"],
+      "guidance": [{
+          "description": "See guidance for social influence.",
+          "references": ["social influence"]
+      }],
+      "examples": ["oppressed minority","women in a patriarchal society"]
+  },{
+      "name": "physically powerless",
+      "description": "The sense that your are less able than most to be able to shape the physical environment for the benefit of you or your social group.",
+      "perceptions": ["I lack the ability to change the physical environment in particular way.","Other people would have more success than me."],
+      "desires": ["desire to improve","desire for social influence"],
+      "guidance": [{
+          "description": "See guidance for 'physically powerful'.",
+          "references": ["physically powerful"]
+      }],
+      "examples": ["a disability","being out of shape","inexperienced at a physical task"]
+  },{
+      "name": "mentally powerless",
+      "description": "The sense that you are less able than most to be able to resolve problems in the world of ideas.",
+      "perceptions": ["I lack the ability to resolve problems in the idea environment.","Other people would have more success than me."],
+      "desires": ["desire to improve","desire for social influence"],
+      "guidance": [{
+          "description": "See guidance for 'mentally powerful'.",
+          "references": ["mentally powerful"]
+      }],
+      "examples": ["being smart","being wise"]
+  }],
+  "spectrum": {
+      "incompetent": 3,
+      "insignificance": 3,
+      "powerless": 5,
+      "weakness": 8
+  },
+  "commentaries": [{
+      "quote": "The most common reason we stumble into the delusion of powerlessness is that we're afraid of what other people would do or say or feel if we were to act as we wanted.",
+      "attribution": "Martha Beck"
+  },{
+      "quote": "The pain of powerlessness is excruciating. It is the most painful experience in the earth school, and everyone shares it.",
+      "attribution": "Gary Zukav"
+  },{
+      "quote": "For the several thousands of years before they became firefighters and physicians, women were sirens, enchantresses, snares. At times it seems as if female powerlessness is male self-preservation in disguise. And for millennia, this has made for a zero-sum game: A woman's intelligence was a man's deception.",
+      "attribution": "Stacy Schiff"
+  },{
+      "quote": "The almost insoluble task is to let neither the power of others, nor our own powerlessness, stupefy us.",
+      "attribution": "Theodor W. Adorno"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["powerless","physically powerless"],
+          "predominantType": "node",
+          "levels": {
+            "3,2,1": {
+              "experiences": ["powerless"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["socially powerless","mentally powerless","facing the impossible"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2": {
+              "experiences": ["powerless"]
+            },
+            "1": {
+              "experiences": ["satisfaction"]
+            }
+          }
+      }]
+  }]
+}

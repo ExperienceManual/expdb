@@ -1,0 +1,61 @@
+{
+  "lang": "en/us",
+  "createDate": "20250215",
+  "updateDate": "20250601",
+  "name": "loneliness",
+  "valence": -1,
+  "quote": "I need to get out.",
+  "description": "Sadness from lack of significant social attention.",
+  "perceptions": ["It's been a while since I've had meaningful social contact with someone.","I need to be seen and understood."],
+  "desires": ["desire for social contact","desire for validation","desire for stimulation"],
+  "sensations": ["emptiness","sadness"],
+  "guidance": [{
+      "description": "There are lots of ways to deal with loneliness and isolation. The solution depends on what's causing these feelings.",
+      "attribution": "Health A to Z",
+      "references": ["https://www2.hse.ie/mental-health/life-situations-events/loneliness/coping-with/"]
+  }],
+  "related": ["solitude"],
+  "opposites": ["happiness"],
+  "comparisons": [{
+      "links": ["solitude"],
+      "description": "'Loneliness' is when you're without social contact and you desire validation of your place in the world. 'Solitude' is also without social contact, but no need for validation."
+  }],
+  "commentaries": [{
+      "quote": "I want to be seen, to be understood deeply and to not be so very lonely.",
+      "attribution": "Erin Davis"
+  },{
+      "quote": "Loneliness and the feeling of being unwanted is the most terrible poverty.",
+      "attribution": "Mother Theresa"
+  },{
+      "quote": "Parenting alone can also feel isolating, especially when your children are younger. You can naturally miss adult company.",
+      "attribution": "Health A to Z (www.hse.ie)"
+  },{
+      "quote": "We are all born alone and die alone. The loneliness is definitely part of the journey of life.",
+      "attribution": "Jenova Chen"
+  },{
+      "quote": "Who knows what true loneliness is - not the conventional word but the naked terror? To the lonely themselves it wears a mask. The most miserable outcast hugs some memory or some illusion.",
+      "attribution": "Joseph Conrad"
+  }],
+  "spectrum": {
+      "loneliness": 5,
+      "isolation": 8
+  },
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["loneliness"],
+          "predominantType": "sensation",
+          "levels": {
+            "1": {
+              "experiences": ["dismay"]
+            },
+            "3,2": {
+              "experiences": ["loneliness"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      }]
+  }]
+}

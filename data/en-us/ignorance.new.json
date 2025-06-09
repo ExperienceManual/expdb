@@ -1,0 +1,169 @@
+{
+  "lang": "en/us",
+  "createDate": "20250217",
+  "updateDate": "20250605",
+  "name": "ignorance",
+  "valence": 0,
+  "quote": "I honestly had no idea.",
+  "description": "The state of not knowing or having incorrect knowledge about something. The sensations involved depend on whether you're aware of not knowing and how other people perceive actions based on that lack of knowledge.",
+  "related": ["learning","certainty","doubt","desire for knowledge"],
+  "variations": [{
+      "name": "known ignorance",
+      "description": "The awareness that you lack an area of knowledge along with humility enough to be careful avoid acting as if you had that knowledge.",
+      "perceptions": ["I know that I don't know this topic.","I'm not going to pretend I do.","I will defer to others who have more knowledge on this topic."],
+      "desires": ["desire to improve","desire for social order"],
+      "sensations": ["humility","respect"],
+      "results": ["admitting ignorance","deferring to experts"],
+      "examples": ["advising someone to see a doctor","not weighing in on a topic you're not familiar with"],
+      "guidance": [{
+          "description": "Making decisions with incomplete information is a common challenge in many situations, such as business, personal, or social. How can you avoid making mistakes or missing opportunities when you don't have all the facts? Here are some tips to help you make better decisions with incomplete information.",
+          "attribution": "Linked In",
+          "references": ["https://www.linkedin.com/advice/3/what-best-way-make-decisions-incomplete-information"]
+      }]
+  },{
+      "name": "innocent ignorance",
+      "description": "The sense that someone else doesn't properly understand a certain topic, but you as an external observer don't expect them to know that thing.",
+      "perceptions": ["A sense that someone else just revealed that there's something they don't understand.","A recognition that it's ok for them to know have known."],
+      "sensations": ["many"],
+      "results": ["trying to decide whether to correct the other person's misunderstanding"],
+      "personOfInterestExperiences": ["many"],
+      "examples": ["someone asked about your relative that recently passed away","a young child asks an embarassing question"],
+      "guidance": [{
+          "description": "When someone doesn't know something that they can't be expected to know, you should consider gently correcting them.",
+          "references": ["tolerance"]
+      }]
+  },{
+      "name": "self-centered ignorance",
+      "description": "The sense that someone else doesn't properly understand a certain topic, but you as an external observer feel that they should know better.",
+      "perceptions": ["A sense that someone else just revealed that there's something they don't understand.","A judgment that they should have known this thing."],
+      "desires": ["desire for order"],
+      "sensations": ["discomfort","contempt"],
+      "results": ["trying to decide how to respond to the knowledge gap"],
+      "personOfInterestExperiences": ["many"],
+      "examples": ["overconfidence that a topic is 'easy'","not knowing that texting while driving is unsafe"],
+      "guidance": [{
+          "description": "It may be helpful to understand the 'Dunning-Kruger Effect'. This is a bias that can cause beginners to be over-confident and experts to be under-confident.", 
+          "references": ["https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect"]
+      },{
+          "description": "This kind of ignorance can come with (or be caused by) overconfidence. There are online tips for dealing with people you view as overconfident.",
+          "references": ["https://www.fastcompany.com/90768203/what-to-do-if-youre-managing-someone-overconfident","https://www.linkedin.com/pulse/how-handle-overly-confident-arrogant-individuals-plamondon-thomas"]
+      }]
+  },{
+      "name": "willful ignorance",
+      "description": "The awareness that you lack an area of knowledge along with a sense that area is uninmportant or even dangerous and it's fair to disrespect other's knowledge of this area.",
+      "perceptions": ["I know that I don't know this topic well.","I do not want to understand this topic because it's uncomfortable, dangerous, or could be damaging to me socially.","People that claim knowledge of this area are safe to ignore."],
+      "desires": ["desire to improve","desire for social order"],
+      "sensations": ["desire for safety","desire for social status"],
+      "examples": ["dismissing well-supported scientific research","discounting other perspectives","distrust for people who have knowledge of 'inappropriate' topics"],
+      "guidance": [{
+          "description": "You should be aware that other people might not perceive your willful ignorance as a positive. They may find it disrespectful or even contemptuous.",
+          "references": ["https://www.psychologytoday.com/us/blog/strategically-delusional/202202/keeping-appearances-and-willful-ignorance","https://bigthink.com/neuropsych/people-choose-willful-ignorance/"]
+      }],
+      "comparisons": [{
+          "links": ["known ignorance"],
+          "description": "'Willful ignorance' invokes social tension in people who have knowledge of an area. It's fine to avoid knowledge areas that you find inappropriate or disturbing. That could count as 'known ignorance' as long as you don't act as if you understand it. For example, you might not like horror movies, so avoid exposing yourself to them. It is 'willful ignorance' if you make a statement like 'Everyone who enjoys horror movies is a twisted psycho.', since that's reveals a broad-brush sterotype to those people. A statement like 'Horror movies are not for me' will be perceived as ok. If you really wanted to be an activist to convince people to stop watching horror movies, you would have to research the effects and therefore lose the ignorance."
+      }]
+  },{
+      "name": "realized ignorance",
+      "description": "An after-the-fact realization that that you had acted out of ignorance or false knowledge. The reaction will depend on the consequences and your personality.",
+      "perceptions": ["I had been acting on false information or failed to learn before acting."],
+      "desires": ["desire for knowledge"],
+      "sensations": ["many"],
+      "results": ["decide to admit ignorance with humility","deny the importance of the event"],
+      "links": ["guilt","shame","denial"],
+      "guidance": [{
+          "description": "It can be difficult grappling with the limitations of one tiny human brain against an infinitely complicated world. You have to move forward amidst social pressures and instincts. Good luck.",
+          "references": ["https://www.thecrimson.com/article/2022/11/9/glassman-own-ignorance/","https://fs.blog/two-types-of-ignorance","https://blog.blueyonder.com/ignorance-is-not-bliss-its-ignorance/"]
+      }]
+  }],
+  "commentaries": [{
+      "quote": "There's an infinite amount that can be known, so we're all ignorant of a lot. What matters is how we handle acting on doubt and the inevitable revelation of a blank spot."
+  },{
+      "quote": "Some of us are so terrified of drowning in ignorance that we become obsessive life-long learners who watch documentaries for fun. Others swim happily in their ignorance. People."
+  },{
+      "quote": "The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge.",
+      "attribution": "Daniel J. Boorstin"
+  },{
+      "quote": "If you think education is expensive, try ignorance.",
+      "attribution": "Benjamin Franklin"
+  },{
+      "quote": "Facts do not cease to exist because they are ignored.",
+      "attribution": "Aldous Huxley"
+  },{
+      "quote": "There is a cult of ignorance in the United States, and there has always been. The strain of anti-intellectualism has been a constant thread winding its way through our political and cultural life, nurtured by the false notion that democracy means that 'my ignorance is just as good as your knowledge.",
+      "attribution": "Isaac Asimov"
+  },{
+      "quote": "Ignorance is indeed a marvelous power if a human learned how to use it, it can create worlds and situations and strengthen the energy of the mind giving such control on the way you receive and send human senses and reactions, it happens in so many levels that a regular person can't feel or notice it. Ignorance is not always bad after all!",
+      "attribution": "Amine The I"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["ignorance"],
+          "predominantType": "node",
+          "levels": {
+            "4": {
+                "experiences": ["narration"]
+            },
+            "3,2,1": {
+                "experiences": ["none","many"]
+            }
+          }
+      },{
+          "names": ["known ignorance"],
+          "predominantType": "sensation",
+          "levels": {
+            "4,3": {
+                "experiences": ["known ignorance","humility"]
+            },
+            "2,1": {
+                "experiences": ["doubt"]
+            }
+          }
+      },{
+          "names": ["willful ignorance"],
+          "predominantType": "sensation",
+          "levels": {
+            "4,3": {
+                "experiences": ["willful ignorance","denial"]
+            },
+            "2,1": {
+                "experiences": ["dissonance"]
+            }
+          }
+      },{
+          "names": ["innocent ignorance"],
+          "predominantType": "sensation about another",
+          "levels": {
+            "4,3": {
+                "experiences": ["innocent ignorance","tolerance"]
+            },
+            "2,1": {
+                "experiences": ["many"]
+            }
+          }
+      },{
+          "names": ["self-centered ignorance"],
+          "predominantType": "sensation about another",
+          "levels": {
+            "4,3": {
+                "experiences": ["self-centered ignorance","contempt"]
+            },
+            "2,1": {
+                "experiences": ["many"]
+            }
+          }
+      },{
+          "names": ["realized ignorance"],
+          "predominantType": "sensation",
+          "levels": {
+            "4,3": {
+                "experiences": ["realized ignorance","shame","denial"]
+            },
+            "2,1": {
+                "experiences": ["many"]
+            }
+          }
+      }]
+  }]
+}

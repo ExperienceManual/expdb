@@ -1,0 +1,61 @@
+{
+  "lang": "en/us",
+  "createDate": "20250215",
+  "updateDate": "20250601",
+  "name": "agency",
+  "valence": 0,
+  "quote": "I got this.",
+  "description": "The sense that your actions or decisions are your own and they're important.",
+  "perceptions": ["I'm acting in the world on my own."],
+  "desires": ["desire for agency"],
+  "guidance": [{
+      "description": "Well-Law suggests '3 Actionable Steps to Exercise Agency' are: Name What You Can Control, Interrupt the Victim Narrative, and Celebrate Tiny Wins.",
+      "references": ["https://www.well-law.com/blog/3-actionable-steps-to-exercise-personal-agency-during-chaos"]
+  }],
+  "related": ["self-confidence", "aspiration", "ambition"],
+  "opposites": ["subordination", "hopelessness", "ennui"],
+  "variations": [{
+      "name": "insubordination",
+      "description": "Making your own decision in conflict to a request or demand from an important person or social group. This may come with consequence or a loss of status with that group.",
+      "perceptions": ["I'm acting in the world on my own.","It happens to be against the wishes of someone I'm supposed to listen to."],
+      "guidance": [{
+          "description": "There are many reasons for acting against the wishes of your company, family, or social group. Sometimes it's a form of conscientious objection, other times it's an emotional reaction to protect the ego. Either way, it may be worthwhile being aware of the consequences.",
+          "references": ["https://uswlocals.org/welcome-usw-local-4-380/shop-steward-basic-training/insubordination-what-questions-ask","https://www.shouselaw.com/ca/blog/how-to-fight-an-insubordination-claim/"]
+      }],
+      "examples": ["refusing to perform a certain task","leaving early","disrupting team activities"]
+  }],
+  "commentaries": [{
+      "quote": "Cultures have different views on the balance between personal agency and being part of the group, but most people have a desire to be responsible for some of their own decisions."
+  },{
+      "quote": "Many people over-emphasize the importance of their control, and many more under-emphasize it. There's no right balance that's going to work in all situations. An important point is that agency works on multiple timescales. Sure, maybe a dominant person reduces your sense of agency in the moment, but in the bigger picture of life, you are still steering the ship except in circumstances that are rare in the modern world."
+  },{
+      "quote": "Give me liberty or give me death.",
+      "attribution": "Patrick Henry"
+  },{
+      "quote": "I am an artist, and I have the ability and the free will to choose the way the world will envision me.",
+      "attribution": "Lady Gaga"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["agency"],
+          "predominantType": "action",
+          "levels": {
+            "4,3,2,1": {
+              "experiences": ["agency","satisfaction"]
+            }
+          }
+      },{
+          "names": ["insubordination"],
+          "predominantType": "action",
+          "levels": {
+            "4,3,2,1": {
+              "experiences": ["agency","satisfaction"]
+            },
+            "4,3": {
+              "experiences": ["agency","many"]
+            }
+          }
+      }]
+  }]
+}

@@ -1,0 +1,96 @@
+{
+  "lang": "en/us",
+  "createDate": "20250217",
+  "updateDate": "20250607",
+  "name": "laziness",
+  "valence": 0,
+  "quote": "Nah, I don't feel like it.",
+  "description": "The sense that you should be doing something, but that thing is neither important nor enjoyable and you don't want to expend the volume or type of effort involved.",
+  "perceptions": ["I could be doing something particular.","That thing can wait or isn't very important and I don't feel like doing it right now.","Maybe I won't ever feel like it."],
+  "desires": ["desire for comfort","desire for agency"],
+  "sensations": ["agency","comfort","resistance"],
+  "guidance": [{
+      "description": "You’re Not Lazy: Uncovering the Truth About Laziness -- Calling yourself lazy is a way to give up on your ability to change. Instead, clarify the problem, understand the underlying reasons, and create a momentum plan.",
+      "attribution": "BodyBrain Alliance",
+      "references": ["https://bodybrainalliance.com/youre-not-lazy-uncovering-the-truth-about-laziness/"]
+  }],
+  "opposites": ["desire to improve"],
+  "variations": [{
+      "name": "procrastination",
+      "description": "An honest intention that you will go through with a task, but not just right now.",
+  "perceptions": ["I could be doing something particular.","That thing can wait or isn't very important and I don't feel like doing it right now.","I will do it later."],
+      "desires": ["desire for comfort"],
+      "sensations": ["dissonance"],
+      "guidance": [{
+          "description": "This VeryWell Mind article suggests there are several different causes for procrastination: Perfectionist, Dreamer, Defier, Worrier, Crisis Maker, Overdoer.",
+          "attribution": "VeryWell Mind",
+          "references": ["https://www.verywellmind.com/the-psychology-of-procrastination-2795944"]
+      }],
+      "examples": ["I should go to the gym, but I'm tired today.","I'm sure I know how to do that yet."],
+      "comparisons": [{
+          "links": ["laziness"],
+          "description": "In a state of laziness you really don't want to do the task. A procrastinator would like to do the task, but they find reasons not to."
+      }]
+  },{
+      "name": "socially motivated laziness",
+      "description": "A sense that you could send a message to others by declining to do something they recommend that feels like work that you wouldn't get enough credit for.",
+  "perceptions": ["There's social pressure for me to be doing something.","That thing is more important to them than to me.","Not clear there's enough in it for me.","I can get away with not doing it.","Doing it would set up future expectations or there's no reason to give them the satisfaction."],
+      "desires": ["desire for agency","desire for social status","desire for comfort"],
+      "sensations": ["dissatisfaction","resistance"],
+      "results": ["find a way to minimize or eliminate effort"],
+      "guidance": [{
+          "description": "Social loafing can be limited by establishing individual accountability, minimizing free riding, encouraging team loyalty, and by assigning distinct responsibilities for each team member.",
+          "attribution": "Donelson Forsyth as quoted in simplypsychology.org",
+          "references": ["https://www.simplypsychology.org/social-loafing.html#Reducing-Social-Loafing"]
+      }],
+      "examples": ["There a lot of people doing this task, my effort doesn't matter since it won't get recognized."]
+  }],
+  "commentaries": [{
+      "quote": "Not all 'laziness' is bad. Wisdom is about being right more often than not about what actions are best in which context."
+  },{
+      "quote": "People are not lazy. They simply have impotent goals - that is, goals that do not inspire them.",
+      "attribution": "Tony Robbins"
+  },{
+      "quote": "If you get tired, learn to rest, not to quit.",
+      "attribution": "Banksy"
+  },{
+      "quote": "Tomorrow is the only day in the year that appeals to a lazy man.",
+      "attribution": "Jimmy Lyons"
+  },{
+      "quote": "Have you ever found yourself feeling resentful because your teammates aren’t contributing as much as you are? Yes? Then, congrats — you’ve experienced the consequences of social loafing!",
+      "attribution": "Bojana Pejatovic on pumble.com"
+  }],
+  "spectrum": {"loafing": 2, "laziness": 5, "sloth": 8},
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["laziness","socially motivated laziness"],
+          "predominantType": "sensation",
+          "levels": {
+            "1": {
+              "experiences": ["desire for comfort"]
+            },
+            "3,2": {
+              "experiences": ["laziness","resistance"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["procastination"],
+          "predominantType": "sensation",
+          "levels": {
+            "1": {
+              "experiences": ["desire for comfort","anxiety"]
+            },
+            "3,2": {
+              "experiences": ["procrastination","anxiety"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      }]
+  }]
+}

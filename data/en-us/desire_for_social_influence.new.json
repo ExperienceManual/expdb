@@ -43,7 +43,7 @@
           "description": "There are parenting and workplace guides to help think about reasonable consequences.",
           "references": ["https://www.cdc.gov/parenting-toddlers/discipline-consequences/consequences.html","https://www.aihr.com/blog/disciplinary-action/"]
       }],
-      "links": ["power"],
+      "links": ["powerful"],
       "examples": ["parenting","managing a business","dictatorship"]
   },{
       "name": "desire to make your mark",
@@ -158,7 +158,7 @@
               "experiences": ["narration"]
             },
             "3,2": {
-              "experiences": ["desire for social influence","desire for social status","desire for agency","annoyance","power"]
+              "experiences": ["desire for social influence","desire for social status","desire for agency","annoyance","powerful"]
             },
             "1": {
               "experiences": ["desire for stimulation","desire for safety"]

@@ -1,0 +1,132 @@
+{
+  "lang": "en/us",
+  "createDate": "20250215",
+  "updateDate": "20250531",
+  "name": "discomfort",
+  "valence": -1,
+  "quote": "Public speaking is outside my comfort zone.",
+  "description": "Being outside the tolerable zone of physical, social, or mental expectations such that you have a moderately negative outlook on the situation.",
+  "perceptions": ["There's one or more things not meeting expectations to an extent that the current situation is considered unpleasant."],
+  "desires": ["desire to improve"],
+  "sensations": ["dissatisfaction"],
+  "related": ["desire for comfort", "pain"],
+  "opposites": ["comfort"],
+  "comparisons": [{
+      "links": ["anxiety","fear"],
+      "description": "Discomfort is a negative perception about the situation, but it doesn't always cause anxiety or fear about the situation. For instance, you could be uncomfortable about a social situation, but if you can just walk away and not deal with those people again, you may not have anxiety. On the other hand, discomfort with people you know could cause anxiety from not being sure how to deal with the situation."
+  },{
+      "links": ["pain"],
+      "description": "Pain is something you'll do a lot to avoid again in the future. Discomfort is an annoyance that may be the price of admission for something you enjoy. For example, some people find a 6-hour drive so mentally painful they would rather fly, while for other people, a 6-hour drive is a minor discomfort that doesn't stop them."
+  },{
+      "links": ["dissatisfaction"],
+      "description": "'Dissatisfaction' is a limited sensation that something specific did not meet your expectations, while 'discomfort' is a generalized sense that there's something that needs to be improved right now. For instance, you could be dissatisified that you did a good job gluing the handle back on the mug, but just decide to let your spouse re-do it later and not feel discomfort about your overall situation."
+  },{
+      "links": ["desire to improve"],
+      "description": "'Discomfort' is the sensation that drives an impulse to want to improve it. For example, perhaps you're so dissatisfied about something that you decide it takes you outside your zone what's tolerable. You're now in a perceived state of discomfort, which generally means that a desire will arise to exit that state somehow."
+  }],
+  "variations": [{
+      "name": "mental discomfort",
+      "description": "A perception that your mental state is outside of a tolerable zone such that you have a moderately negative outlook on the situation.",
+      "perceptions": ["I'm anxious, bored, tired, having a bad day, etc."],
+      "desires": ["desire for comfort","desire to improve"],
+      "sensations": ["dissatisfaction"],
+      "guidance": [{
+          "description": "We all have a threshold for being uncomfortable. How high that threshold is varies from person to person. The higher your threshold, the more comfortable you are with being uncomfortable. However, there are steps you can take to make stepping outside your comfort zone easier, regardless of your natural comfort level.",
+          "attribution": "Arlin Cuncic, MA",
+          "references": ["https://www.verywellmind.com/how-to-get-comfortable-being-uncomfortable-5204440"]
+      }],
+      "examples": ["hearing a piece of news that bothers you", "a long car trip"]
+  },{
+      "name": "social discomfort",
+      "description": "A perception that the immediate social situation is outside of your tolerable zone or that it could become that way at any moment.",
+      "perceptions": ["Something's happening socially that I view as moderately negative or that this is the kind of situation where something moderately negative could happen."],
+      "desires": ["desire for comfort","desire to improve"],
+      "sensations": ["dissatisfaction"],
+      "guidance": [{
+          "description": "Although awkward conversations may seem difficult, they can be good opportunities to practice making small talk and handling conflict.",
+          "attribution": "Arlin Cuncic, MA",
+          "references": ["https://www.verywellmind.com/tips-to-cope-with-awkward-conversations-3024859"]
+      }],
+      "examples": ["at a party where you feel out of place","seeing a couple argue in public", "someone makes a comment you consider inappropriate"]
+  },{
+      "name": "physical discomfort",
+      "description": "The recognition that your body is experiencing something outside of your preferred tolerance zone or a very minor pain.",
+      "perceptions": ["Part of my body is sensing something outside of my comfort zone."],
+      "desires": ["desire for comfort","desire to improve"],
+      "sensations": ["dissatisfaction"],
+      "guidance": [{
+          "description": "If there's no obvious reason for an extended period of physical discomfort, you might consider when to see a doctor.",
+          "references": ["physical pain"]
+      }],
+      "examples": ["sitting on a hard surface for a long time","the temperature is a little too high or low"]
+  }],
+  "commentaries": [{
+      "quote": "Everyone has different levels of tolerance for different kinds of discomfort before crossing into their 'discomfort' state. When you reach that place, the instinct is to adjust something to make it less uncomfortable."
+  },{
+      "quote": "Temporary discomfort is an investment in your future self",
+      "attribution": "Florence Given"
+  },{
+      "quote": "Get comfortable being uncomfortable.",
+      "attribution": "US Navy SEALs"
+  },{
+      "quote": "My comfort zone is like a little bubble around me, and I've pushed it in different directions and made it bigger and bigger until these objectives that seemed totally crazy eventually fall within the realm of the possible.",
+      "attribution": "Alex Honnold"
+  },{
+      "quote": "Uncomfortable doesn't mean bad, uncomfortable simply means you're doing something you haven't done before.",
+      "attribution": "Joe Vitale"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["discomfort"],
+          "predominantType": "node",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2,1": {
+              "experiences": ["discomfort"] 
+            }
+          }
+      },{
+          "names": ["physical discomfort"],
+          "predominantType": "sensation",
+          "levels": {
+            "4,3,2": {
+              "experiences": ["narration"]
+            },
+            "1": {
+              "experiences": ["physical discomfort"]
+            }
+          }
+      },{
+          "names": ["social discomfort"],
+          "predominantType": "node",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2": {
+              "experiences": ["social discomfort"]
+            },
+            "1": {
+              "experiences": ["comfort"]
+            }
+          }
+      },{
+          "names": ["mental discomfort"],
+          "predominantType": "node",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2": {
+              "experiences": ["mental discomfort"]
+            },
+            "1": {
+              "experiences": ["comfort"]
+            }
+          }
+      }]
+  }]
+}

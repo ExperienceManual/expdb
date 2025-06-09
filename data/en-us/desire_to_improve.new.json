@@ -7,7 +7,7 @@
   "quote": "Practice makes perfect.",
   "description": "Wanting to make yourself or the situation better in a particular way.",
   "perceptions": ["Something is not ideal.","I could make it better."],
-  "related": [ "desire for comfort", "desire for social status", "desire for stimulation" ],
+  "related": [ "desire for comfort", "desire for social status", "desire for stimulation" , "discomfort"],
   "opposites": ["laziness"],
   "comparisons": [{
       "links": ["desire for knowledge"],

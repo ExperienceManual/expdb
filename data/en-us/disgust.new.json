@@ -1,0 +1,140 @@
+{
+  "lang": "en/us",
+  "createDate": "20250219",
+  "updateDate": "20250607",
+  "name": "disgust",
+  "valence": -1,
+  "quote": "Eeww. Moldy bread!",
+  "description": "A strong aversion to something that could contaminate your physical, social, or existential well-being, but a sense that you can avoid it.",
+  "perceptions": ["This thing is ugly and unhealthy.","If I get too close it could stain or poison me somehow.","I can avoid being contaminated."],
+  "desires": ["desire for comfort","desire for purity","desire for safety"],
+  "sensations": ["aversion","horror"],
+  "results": ["try to avoid the thing"],
+  "related": ["dismay", "fear"],
+  "opposites": ["euphoria"],
+  "comparisons": [{
+      "links": ["hate"],
+      "description": "'Hate is not wanting to experience something, while 'disgust' is that plus a fear that the experience will somehow taint you with an impurity."
+  }],
+  "variations": [{
+      "name": "physical disgust",
+      "description": "A strong aversion to a sight, smell, or thought of something that could make the body sick, along with a sense that you can avoid it.",
+      "perceptions": ["This thing is ugly, unhealthy, and/or smells bad.","If I get too close, it could make me sick.","I can avoid being contaminated."],
+      "desires": ["desire for comfort","desire for safety"],
+      "sensations": ["aversion","fear"],
+      "results": ["try to avoid the thing"],
+      "guidance": [{
+          "description": "Given how challenging it is to combat disgust, it might be helpful to instead focus on building disgust tolerance. Disgust tolerance means being able to stand the feeling and allowing it to pass. It is like a muscle that can be strengthened with practice. To build disgust tolerance, I recommend the following strategies: Pair disgust with something pleasant, Tie disgust tolerance with values, Talk it out, Be Open-Minded",
+          "attribution": "Jennifer L Keluskar Ph.D.",
+          "references": ["https://www.psychologytoday.com/us/blog/alone-together/202401/dealing-with-disgust"]
+      }],
+      "examples": ["excrement", "vomit", "bloody injury"]
+  },{
+      "name": "social disgust",
+      "description": "A strong negative reaction to someone breaking a social taboo.",
+      "perceptions": ["That is one of the worst social behaviors.","If I get too close, it could hurt my reputation.","I need to distance myself to stop from being contaminated."],
+      "desires": ["desire for social status","desire for safety"],
+      "sensations": ["aversion","contempt","anxiety"],
+      "results": ["signal your disapproval to distance yourself"],
+      "guidance": [{
+          "description": "If we empathize with the person who is disgusting us, we will not only do good for another, we will do good to ourselves and become undisgusted.",
+          "attribution": "Rachel Herz Ph.D.",
+          "references": ["https://www.psychologytoday.com/us/blog/smell-life/201202/taking-control-of-disgust"]
+      }],
+      "links": ["group bond", "contempt"],
+      "examples": ["incest", "cheating", "public urination"]
+  },{
+      "name": "existential disgust",
+      "description": "A strong aversion to something that is perceived to taint the purity of your soul.",
+      "perceptions": ["This thing could hurt my standing with God/Universe.","I need to distance myself to stop from being contaminated."],
+      "desires": ["desire for existential status","desire for purity"],
+      "sensations": ["aversion","contempt","anxiety"],
+      "results": ["signal your disapproval to distance yourself","try to 'fix' the situation"],
+      "guidance": [{
+          "description": "Comparative Insights into the Nature and Consequences of Sin in Major World Religions",
+          "attribution": "Sarah Lee",
+          "references": ["https://www.numberanalytics.com/blog/ultimate-guide-to-sin-comparative-religion"]
+      }],
+      "examples": ["major crimes", "sins", "zombies"]
+  }],
+  "commentaries": [{
+      "quote": "Disgust is underrated as a motivator. Perfectionists are just avoiding the stain of failure. The righteous are driven by the stink of cheating. Activists are reacting to behavior they deem rotten."
+  },{
+      "quote": "The more you read about the history of disgust, the more convinced you might be that it is the energy powering a whole host of seemingly unrelated phenomena, from our never-ending culture wars to the existence of kosher laws to 4chan to mermaids. Disgust is a bodily experience that creeps into every corner of our social lives, a piece of evolutionary hardware designed to protect our stomachs that expanded into a system for protecting our souls.",
+      "attribution": "Molly Young in How Disgust Explains Everything"
+  },{
+      "quote": "Disgust is often more deeply buried than envy and anger, but it compounds and intensifies the other negative emotions.",
+      "attribution": "Martha Nussbaum"
+  },{
+      "quote": "Expect to be disgusted by your own early work. If writing is your vocation, if you hope that it might be your salvation, push on through the disgust until you find one true sentence, a few words that say more than you expected, something you didn't know until you set it down.",
+      "attribution": "Naomi Alderman"
+  },{
+      "quote": "The emotion of disgust evolved initially to optimize responses to the omnivore's dilemma. Individuals who had a properly calibrated sense of disgust were able to consume more calories than their overly disgustable cousins while consuming fewer dangerous microbes than their insufficiently disgustable cousins.",
+      "attribution": "Jonathan Haidt, The Righteous Mind: Why Good People Are Divided by Politics and Religion"
+  },{
+      "quote": "As an emotion, disgust is designed as a protection. When people feel disgusted, they tend to remove themselves from a situation.",
+      "attribution": "Vikas Mittal"
+  }],
+  "spectrum": {
+    "gross": 1,
+    "aversion": 2,
+    "disgust": 5,
+    "revulsion": 5,
+    "abhorrence": 6,
+    "loathing": 7
+  },
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["disgust"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2,1": {
+              "experiences": ["disgust"]
+            }
+          }
+      },{
+          "names": ["physical disgust"],
+          "predominantType": "sensation",
+          "levels": {
+            "4,3,2": {
+              "experiences": ["narration"]
+            },
+            "1": {
+              "experiences": ["disgust"]
+            }
+          }
+      },{
+          "names": ["social disgust"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["social disgust"]
+            },
+            "2,1": {
+              "experiences": ["disgust"]
+            }
+          }
+      },{
+          "names": ["existential disgust"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["existential disgust"]
+            },
+            "2,1": {
+              "experiences": ["disgust"]
+            }
+          }
+      }]
+  }]
+}

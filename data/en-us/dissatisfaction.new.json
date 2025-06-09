@@ -1,0 +1,70 @@
+{
+  "lang": "en/us",
+  "createDate": "20250215",
+  "updateDate": "20250531",
+  "name": "dissatisfaction",
+  "valence": -1,
+  "quote": "We could have done better.",
+  "description": "The momentary sense that a perception does not meet what was expected, but that the mismatch doesn't affect things too badly.",
+  "perceptions": ["Something I just perceived doesn't meet what I expected.","The results aren't important in the grand scale of things."],
+  "desires": ["desire for order"],
+  "comparisons": [{
+      "links": ["dismay"],
+      "description": "'Dissatisfaction' is for things that don't really matter to you... they're not going to force a change in future expectations. 'Dismay' is for when the missed expectation will require some re-evaluation or have a social impact of some kind."
+  }],
+  "related": ["dismay"],
+  "opposites": ["satisfaction", "delight"],
+  "guidance": [{
+      "description": "Feeling Dissatisfied? Learn How to Let Go of Expectations and Stay Grounded in the Present",
+      "attribution": "Ben Fairbrother",
+      "references": ["https://www.projectself.io/2019/10/31/let-go-of-expectations-stay-grounded-in-the-present"]
+  }],
+  "variations": [{
+      "name": "dissatisfied with yourself",
+      "description": "The sense that you did not live up to your own expectations and that you could do better.",
+      "perceptions": ["I did not live up to what I expected of myself.","Others don't care as much as I do."],
+      "desires": ["desire for agency","desire for social status"],
+      "examples": ["being late on a sizable project","dailing to resisting a temptation"],
+      "guidance": [{
+          "description": "The more I talk to people about their struggles, the more I realize that we all have some sense of dissatisfaction with ourselves. I have it, and I’d be willing to bet everyone reading this does too. What can we do about our continual dissatisfaction with ourselves? It turns out that these feelings are perfect opportunities - to learn about ourselves and how to be friends with ourselves.",
+          "attribution": "Leo Babauta",
+          "references": ["https://zenhabits.net/dissatisfied/"]
+      }]
+  }],
+  "commentaries": [{
+      "quote": "We're always judging whether events and people's behavior meet our expectations. If they miss the mark, we may feel dissatifaction or dismay depending on whether the results cause a downgrade in future expectations."
+  },{
+      "quote": "Are these things really better than the things I already have? Or am I just trained to be dissatisfied with what I have now?",
+      "attribution": "Chuck Palahniuk"
+  },{
+      "quote": "The little dissatisfaction which every artist feels at the completion of a work forms the germ of a new work.",
+      "attribution": "Berthold Auerbach"
+  },{
+      "quote": "The satisfaction derived from the fleeting things of life is not lasting; and our wants remain unfulfilled. There is thus a general sense of dissatisfaction accompanied by all kinds of worries.",
+      "attribution": "Meher Baba"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["dissatisfaction"],
+          "predominantType": "sensation",
+          "levels": {
+            "4,3,2,1": {
+                "experiences": ["dissatisfaction"],
+                "description": "dissatisfaction can happen in any of the spheres: physical, social, mental, existential."
+            }
+          }
+      },{
+          "names": ["dissatisfied with yourself"],
+          "predominantType": "sensation",
+          "levels": {
+            "2,1": {
+                "experiences": ["dissatisfaction"]
+            }, 
+            "4,3": {
+                "experiences": ["dissatisfied with yourself"]
+            }
+          }
+      }]
+  }]
+}

@@ -1,16 +1,16 @@
 {
     "lang": "en/us",
     "createDate": "20250403",
-    "updateDate": "20250415",
+    "updateDate": "20250608",
     "name": "cheating",
     "valence": 0,
     "quote": "I'm just gonna peek.",
-    "description": "Perception that someone's words or actions reflect selfishness when they are expected to do the 'right' thing.",
+    "description": "Perception that breaking a social rule in this instance is justified.",
     "related": ["unfair contest"],
     "opposites": ["honesty"],
     "variations": [{
         "name": "someone else cheating",
-        "description": "When you perceive someone else cheating or lying, your reaction may range from laughter to anger to disgust. It depends on who's doing it, the importance of the rule, what they stand to gain, and how it affects you."
+        "description": "Perception that someone's words or actions reflect selfishness when they are expected to do the 'right' thing. Your reaction may range from laughter to anger to disgust. It depends on who's doing it, the importance of the rule, what they stand to gain, and how it affects you."
     },{
         "name": "relationship cheating",
         "description": "Marital and sexual cheating creates outrage because it reflects poorly on one party and may create signficant costs."

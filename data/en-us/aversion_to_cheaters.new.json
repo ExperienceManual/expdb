@@ -1,0 +1,54 @@
+{
+  "lang": "en/us",
+  "createDate": "20250221",
+  "updateDate": "20250222",
+  "name": "aversion to cheaters",
+  "valence": -1,
+  "quote": "Hey dude, the back of the line is over there!",
+  "description": "A collection of negative feelings about people who break an important social rule that disadvantages you. This creates a desire to signal your disapproval.",
+  "perceptions": ["That person or group is doing something that breaks an important social rule.","Their behavior has a direct negative impact on my experience.","If we allow everyone to do that, there would be no social order."],
+  "desires": ["desire for order","desire for social influence"],
+  "sensations": ["dismay","contempt","criticism","resentment","disgust"],
+  "results": ["desire to signal disapproval to avoid being tainted by their behavior and to help prevent it in the future"],
+  "guidance": [{
+      "description": "By taking some time to consider the other person’s perspective, and to also push past my own biases and dig into a bit of human psychology, I feel less angry.",
+      "attribution": "Amina",
+      "references": ["https://www.swaystorytelling.com/blog/2018/3/14/on-cheaters-cheating"]
+  }],
+  "related": ["horror", "aversion","cheating"],
+  "opposites": ["admiration","love"],
+  "comparisons": [{
+      "links": ["disgust","contempt"],
+      "description": "'Aversion to cheaters' is a mix of disgust and contempt for a person breaking a rule considered important that comes with a sense of unfairness and a desire to signal your aversion."
+  }],
+  "commentaries": [{
+      "quote": "A social system may be able to handle a small number of cheaters, but without strong aversion signals, there could become too many cheaters to deal with. This applies to many taboos like cutting in line, freeloading off handouts, stealing, extra-marital affairs, etc."
+  },{
+      "quote": "I would prefer even to fail with honor than win by cheating.",
+      "attribution": "Sophocles"
+  },{
+      "quote": "No matter how small the dishonest deed is, at the end of the day, cheating is cheating.",
+      "attribution": "Mohammad Amir"
+  },{
+      "quote": "Someone who thinks the world is always cheating him is right. He is missing that wonderful feeling of trust in someone or something.",
+      "attribution": "Eric Hoffer"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["aversion to cheating"],
+          "predominantType": "impulse",
+          "levels": {
+            "2,1": {
+              "experiences": ["dismay","disgust"]
+            },
+            "3": {
+              "experiences": ["aversion to cheating","contempt"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      }]
+  }]
+}

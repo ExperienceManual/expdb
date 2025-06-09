@@ -9,6 +9,10 @@
     "description": "A state where no emotions or insistent thoughts are stirring the mind.",
     "related": ["desire for quiet","meditative"],
     "opposites": ["excitement","anxiety"],
+    "variations": [{
+        "name": "solitude",
+        "description": "Feeling mild and comfortable when alone."
+    }],
     "commentaries": [{
         "quote": "The cultural term 'cool' is a celebration of calmness. It's positive because people who can react calmly to things likely have confidence and self-mastery."
     },{

@@ -16,6 +16,10 @@
         "name": "social anxiety",
         "description": "Perception that something is happening or about to happen that could negatively change how people look at you.",
         "examples": ["trouble choosing what to wear"]
+    },{
+        "name": "performance anxiety",
+        "description": "Something important is going to happen soon and you will be expected to perform an action that you're not sure you'll be able to do.",
+        "examples": ["public speaking","sports championship"]
     }],
     "comparisons": [{
         "links": ["fear"],

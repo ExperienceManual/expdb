@@ -1,0 +1,109 @@
+{
+  "lang": "en/us",
+  "createDate": "20250215",
+  "updateDate": "20250602",
+  "name": "subservience",
+  "valence": -1,
+  "quote": "I have no choice.",
+  "description": "The feeling that your decisions and actions are directed by others, and that compliance is due to fear of negative consequences.",
+  "perceptions": ["I'm constrained in certain actions and decisions without agreement or by forced agreement.","There will be negative consequences if I don't comply."],
+  "desires": ["desire for agency"],
+  "guidance": [{
+      "description": "If you feel uncomfortable forced into an action through coercive means, you should consider contacting reliable authorities in your area.",
+      "attribution": "",
+      "references": ["https://en.wikipedia.org/wiki/Coercion","https://civilrights.justice.gov/"]
+  }],
+  "related": ["subordination", "fear"],
+  "opposites": ["agency"],
+  "examples": ["fraternity hazing","low-ranking gang members","battered women"],
+  "variations": [{
+      "name": "slavery",
+      "description": "There is no escape and no agency -- you must obey the masters or face harsh consequences.",
+      "perceptions": ["I'm constrained in all actions.","I did not agree to this treatment."],
+      "desires": ["desire for agency","desire for comfort"],
+      "sensations": ["many negative"],
+      "links": ["injustice", "hopelessness", "resentment"]
+  },{
+      "name": "labor as punishment",
+      "description": "Being required to work as part of the consequences of breaking a social rule.",
+      "perceptions": ["I'm forced to do a particular action.","This is social punishment for something they think I did.","It's not forever."],
+      "desires": ["desire for agency"],
+      "results": ["depends on how you view the justice of the situation"],
+      "examples": ["community service","prison labor"]
+  },{
+      "name": "submissive personality",
+      "description": "A sense that you would rather not make your own decisions, mostly letting others make them.",
+      "perceptions": ["I'm not forced to do what this person asks, but I don't want conflict or have nothing better to do.","I shouldn't make my own decisions because I'm not good at it or it might be unsafe."],
+      "desires": ["desire for safety"],
+      "examples": ["dependent personality disorder"],
+      "guidance": [{
+          "description": "Signs You Have a Submissive Personality and How To Stop It",
+          "attribution": "Soo Kim",
+          "references": ["https://www.newsweek.com/submissive-personality-signs-symptoms-risks-dangers-how-stop-1756110"]
+      }]
+  }],
+  "commentaries": [{
+      "quote": "Slavery and indentured servitude were unfortunately common in the distant past because civilization needed labor and didn't have the social or economic systems to encourage labor fairly. More humane social expections have changed the world, as have labor-enhancing technologies."
+  },{
+      "quote": "Dependence begets subservience and paves the way for tyranny.",
+      "attribution": "Thomas Jefferson"
+  },{
+      "quote": "There's nothing wrong with being help. But it's very wrong that we presume people of colour are in a subservient position. That's problematic.",
+      "attribution": "Mellody Hobson"
+  },{
+      "quote": "I think, especially growing up in the South, we are taught that women are supposed to be soft, gentle and kind of just goes along with everything and is submissive.",
+      "attribution": "Hannah Brown"
+  }],
+  "spectrum": {
+      "submissive": 5,
+      "servitude": 6,
+      "coercion": 7,
+      "slavery": 9
+  },
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["subservience","labor as punishment"],
+          "predominantType": "sensation",
+          "levels": {
+            "2,1": {
+              "experiences": ["anxiety"]
+            },
+            "3": {
+              "experiences": ["subservience"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["slavery"],
+          "predominantType": "sensation",
+          "levels": {
+            "2,1": {
+              "experiences": ["many negative"]
+            },
+            "3": {
+              "experiences": ["slavery","many negative"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["submissive personality"],
+          "predominantType": "sensation",
+          "levels": {
+            "2,1": {
+              "experiences": ["anxiety","desire for safety"]
+            },
+            "3": {
+              "experiences": ["submissive personality","many negative"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      }]
+  }]
+}

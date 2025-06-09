@@ -1,34 +1,37 @@
 {
   "lang": "en/us",
   "createDate": "20250215",
-  "updateDate": "20250530",
+  "updateDate": "20250531",
   "name": "comfort",
   "valence": 1,
   "quote": "It's all good.",
-  "description": "Being within a tolerable zone of physical, social, or mental discomfort.",
+  "description": "Being within a tolerable zone of physical, social, or mental expectations such that there are no pressing desires to improve the immediate situation.",
   "perceptions": ["There's nothing annoying me physically, no unusual anxiety, no particular social pressures."],
   "sensations": ["satisfaction"],
   "related": ["desire for comfort"],
   "opposites": ["discomfort"],
+  "comparisons": [{
+      "links": ["satisfaction"],
+      "description": "'Satisfaction' is a limited sensation that something specific meets your expectations, while 'comfort' is a generalized sense that there's nothing that needs to be improved right now. For instance, you could be satisified that you did a good job gluing the handle back on the mug, but still have mental discomfort about something else going on in your life. If you manage to obtain a state of mental comfort, you're currently satisfied about everything considered important."
+  }],
   "variations": [{
       "name": "social comfort",
-      "description": "The feeling that you're amongst people who accept an important part of your identity.",
-      "perceptions": ["I'm amongst people who respect and accept me as part of the group.","I don't have to strive for acceptance."],
-      "desires": ["desire for social contact"],
+      "description": "The immediate social situation doesn't include any significant negative perceptions or require special attention to stay in the tolerable zone.",
+      "perceptions": ["At the moment, things are fine socially.","I'm amongst people who respect and accept me as part of the group.","I don't have to strive for acceptance."],
       "sensations": ["satisfaction"],
       "examples": ["family","friends"]
   },{
       "name": "physical comfort",
-      "description": "A perception that your body is not experiencing significant discomfort. In the modern world, we tend to take comfort for granted.",
+      "description": "A perception that your body is not experiencing any significant negative sensations. In the modern world, we tend to take comfort for granted.",
       "perceptions": ["I'm healthy, it's not too hot, not too cold, the chair is comfy, all is well."],
       "sensations": ["satisfaction"],
       "examples": ["favorite spot in the house","warm spring day"]
   },{
       "name": "mental comfort",
-      "description": "A perception that your mind is not experiencing significant discomfort or strong desires.",
+      "description": "A perception that your mind is not experiencing any significant negative sensations or strong desires.",
       "perceptions": ["I'm not particularly anxious about anything.","I'm doing things that are aligned with my goals and preferences."],
       "sensations": ["satisfaction"],
-      "examples": ["quiet rainy weekend","doing a favorite puzzle to kill time"]
+      "examples": ["quiet rainy weekend","doing a favorite puzzle to pass time"]
   }],
   "commentaries": [{
       "quote": "'Comfort' is relative. Most of us are never truly without some kind of discomfort for long, but some people have higher tolerances physical or social discomfort."
@@ -62,7 +65,7 @@
               "experiences": ["narration"]
             },
             "1": {
-              "experiences": ["comfort"]
+              "experiences": ["physical comfort"]
             }
           }
       },{

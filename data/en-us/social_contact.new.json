@@ -1,0 +1,94 @@
+{
+  "lang": "en/us",
+  "createDate": "20250216",
+  "updateDate": "20250603",
+  "name": "social contact",
+  "valence": 0,
+  "quote": "How's it going?",
+  "description": "There are many sensations created by encounters with other people. Each of us has a strategy for interacting with various groups that's built into our identities.",
+  "perceptions": ["I'm interacting with a person or people.","I have expectations about who I'm interacting with.","There are certain topics that are in-scope or out-of-scope for this context."],
+  "desires": ["desire for stimulation","desire for social status"],
+  "sensations": ["group bond","family love","anxiety","many"],
+  "results": ["positive fulfilling social experience","stressful experience","anything in between"],
+  "related": ["desire for social contact", "desire for quiet"],
+  "opposites": ["loneliness"],
+  "variations": [{
+      "name": "friendly social contact",
+      "description": "Being amongst people perceived as likely to accept important aspects of your identity. Of course, there's a wide range of sensations within this category from old friends to warm strangers.",
+      "perceptions": ["I'm interacting with a person or people.","I expect this interaction to be low-stress.","There are certain topics that are in-scope or out-of-scope for this context."],
+      "desires": ["first party socializing","third party socializing"],
+      "sensations": ["many"],
+      "links": ["group bond", "companionship"],
+      "examples": ["family holiday","college friend reunion"]
+  },{
+      "name": "transactional social contact",
+      "description": "Expecting other people to just do their jobs with minimal social contact and not push unnecessary social discomfort into your day.",
+      "perceptions": ["I'm interacting with a person or people.","I expect this interaction to be quick and low-stress.","There are certain topics that are in-scope or out-of-scope for this context."],
+      "desires": ["desire for optimal"],
+      "examples": ["the checkout person at the grocery store can chat about the weather but not about past medical problems"]
+  },{
+      "name": "unfriendly social contact",
+      "description": "A social encounter with a notable element of tension.",
+      "perceptions": ["I'm interacting with a person or people.","This interaction is causing anxiety."],
+      "desires": ["desire for safety","desire for social status"],
+      "sensations": ["social tension","defense","anxiety"],
+      "results": ["desire to defend yourself","desire to leave this context"],
+      "guidance": [{
+          "description": "See guidance for social tension",
+          "references": ["social tension"]
+      }],
+      "examples": ["encounter with someone who has wronged you","someone who makes you feel unsafe","stereotype of someone who might not like your kind of person"],
+      "links": ["distrust"]
+  },{
+      "name": "anonymous social contact",
+      "description": "Being amongst others but not explicitly interacting with them. For example, 'people watching' is a kind of social contact even it's just reading body language and cultural signaling.",
+      "perceptions": ["I'm amongst people that I don't know.","We are not interacting directly, but are sharing a location and perhaps an activity."],
+      "examples": ["people watching at the mall","working on your laptop from the coffee shop"]
+  },{
+      "name": "foreign social contact",
+      "description": "Trying to communicate with a person who doesn't speak your language well. Difficulty in communicating intentions could lead to frustration, annoyance, humor, humility, or anything in-between.",
+      "perceptions": ["I'm interacting with a person or people.","We are not able to communicate freely with each other.","I need to understand them and to be understood."],
+      "desires": ["many"],
+      "guidance": [{
+          "description": "Today, you’re more likely than ever before to meet, work with, live with, study with and maybe even fall in love with people with a different first language from you, who were brought up in a culture that’s different from your own. Communicating across language and culture barriers can be a recipe for confusion, frustration and causing offence, but with a bit of effort from both parties, it doesn’t have to be.",
+          "attribution": "Oxford Royale",
+          "references": ["https://www.oxford-royale.com/articles/communicate-better-language-and-culture-barriers"]
+      }],
+      "examples": ["traveling in another country"]
+  }],
+  "commentaries": [{
+      "quote": "We are deeply social creatures with a nuanced ability to perceive the social situation. Unless you're a psychopath, your social sense is as developed and important as your sense of smell."
+  },{
+      "quote": "We can choose what strategy we take when engaging in social contacts of different types: giving others the benefit of the doubt, assuming they're going to cheat us if possible, or just whatever our mood is at the moment."
+  },{
+      "quote": "Human interaction is something that I believe, as humans, we crave for. And that is where bars and social environments come into play.",
+      "attribution": "Jon Taffer"
+  },{
+      "quote": "We’re losing social skills, the human interaction skills, how to read a person’s mood, to read their body language, how to be patient until the moment is right to make or press a point. Too much exclusive use of electronic information dehumanizes what is a very, very important part of community life and living together.",
+      "attribution": "Vincent Nichols, Cardinal of the Roman Catholic Church"
+  },{
+      "quote": "The person who is truly effective has the humility and reverence to recognize his own perceptual limitations and to appreciate the rich resources available through interaction with the hearts and minds of other human beings.",
+      "attribution": "Stephen Covey"
+  },{
+      "quote": "Hell is other people.",
+      "attribution": "Jean-Paul Sartre"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["*"],
+          "predominantType": "action",
+          "levels": {
+            "1": {
+              "experiences": ["many"]
+            },
+            "3,2": {
+              "experiences": ["social contact","many"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      }]
+  }]
+}

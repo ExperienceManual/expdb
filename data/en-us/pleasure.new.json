@@ -1,0 +1,65 @@
+{
+  "lang": "en/us",
+  "createDate": "20250215",
+  "updateDate": "20250601",
+  "name": "pleasure",
+  "valence": 1,
+  "quote": "That was an excellent meal.",
+  "description": "Tangible positive reward signals from the body. We often use the word 'pleasure' to mean 'a really good thing', but this definition is focused on body-initiated signals.",
+  "perceptions": [""],
+  "desires": [""],
+  "sensations": [""],
+  "results": [""],
+  "guidance": [{
+      "description": "If you don't feel in control of pleasure-seeking, you might consider looking into ancient Greeks and Roman philosophy. They dealt with the same issues.",
+      "references": ["https://thinkersensitive.com/blog-and-podcast/epicurus-hedonism-in-moderation","https://dailystoic.com/stoic-range-virtue-defense-moderation/"]
+  },{
+      "description": "The world's religions all have outlooks on pleasure.",
+      "references": ["https://www.catholic.com/magazine/print-edition/have-fun","https://zenstudiespodcast.com/worldly-pleasure-buddhist-practice/"]
+  }],
+  "comparisons": [{
+      "links": ["delight"],
+      "description": "'Pleasure' as used here is a body-based delight. Your body sends reward signals for various acts of hedonism, which causes a good feeling. For example, when you eat normal ice cream, it's pleasurable and floods your brain with reward chemicals. But when you eat amazing beyond-expectations ice cream, you're getting both physical pleasure and the 'exceeds expectations in a positive way' chemicals."
+  }],
+  "related": ["delight", "desire for comfort", "abstinence"],
+  "opposites": ["pain"],
+  "examples": ["good food","sugary or high fat foods","good drink","massage","sex"],
+  "commentaries": [{
+      "quote": "Hedonism is the outlook that seeking pleasure is the way to organize your life. Though the body clearly rewards certain behaviors, it's not clear we were meant to chase them to the extent we often do."
+  },{
+      "quote": "One of the secrets of a happy life is continuous small treats",
+      "attribution": "Iris Murdoch"
+  },{
+      "quote": "I can think of nothing less pleasurable than a life devoted to pleasure.",
+      "attribution": "John D. Rockefeller Jr."
+  },{
+      "quote": "Simple pleasures are the last healthy refuge in a complex world.",
+      "attribution": "Oscar Wilde"
+  },{
+      "quote": "The greatest pleasures are only narrowly separated from disgust.",
+      "attribution": "Marcus Tullius Cicero"
+  }],
+  "spectrum": {
+    "enjoyment": 2,
+    "delight": 5,
+    "pleasure": 5,
+    "bliss": 7,
+    "euphoria": 9,
+    "ecstasy": 9
+  },
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["pleasure"],
+          "predominantType": "sensation",
+          "levels": {
+            "1": {
+              "experiences": ["pleasure"]
+            },
+            "4,3,2": {
+              "experiences": ["narration"]
+            }
+          }
+      }]
+  }]
+}

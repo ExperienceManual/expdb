@@ -1,0 +1,132 @@
+{
+  "lang": "en/us",
+  "createDate": "20250217",
+  "updateDate": "20250604",
+  "name": "powerful",
+  "valence": 0,
+  "quote": "I know how to solve this problem.",
+  "description": "The sense that you have an ability to influence the shared environment more than others. We all have an ability to change our environment, but don't make much of it unless we perceive ourselves much better or worse at it than other people.",
+  "perceptions": ["I have the ability to change the environment or solve a problem.","I can do this better than many other people."],
+  "desires": ["desire to improve","desire for social influence"],
+  "sensations": ["pride","responsibility","self-confidence"],
+  "related": ["agency"],
+  "opposites": ["powerless"],
+  "comparisons": [{
+      "links": ["agency"],
+      "description": "'Agency' is the lack of constraint for doing something while 'power' is the actual ability to get something done, whether it's your will or not."
+  }],
+  "variations": [{
+      "name": "socially powerful",
+      "description": "Also known as 'politics', this is having the authority to decide who's right, how different kinds of people interact with other, and what the group should value.",
+      "perceptions": ["I have the ability to change the social environment or solve a social problem.","I can do this more effectively than many other people."],
+      "desires": ["desire to improve","desire for social influence"],
+      "sensations": ["pride","responsibility","self-confidence"],
+      "guidance": [{
+          "description": "See guidance for social influence.",
+          "references": ["desure for social influence"]
+      }],
+      "examples": ["mediator","mayor","prime minister"]
+  },{
+      "name": "physically powerful",
+      "description": "The sense that your are more able than most to be able to shape the physical environment for the benefit of you or your social group.",
+      "perceptions": ["I have the ability to change the physical environment.","I can do this more effectively than many other people."],
+      "desires": ["desire to improve","desire for social influence"],
+      "sensations": ["pride","responsibility","self-confidence"],
+      "guidance": [{
+          "description": "There are many references available for increasing your physical strength.",
+          "references": ["https://www.nhs.uk/live-well/exercise/how-to-improve-strength-flexibility/","https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/strength-training/art-20046670","https://www.healthline.com/health/fitness/how-to-build-strength-guide"]
+      }],
+      "examples": ["physical strength","access to a tool"]
+  },{
+      "name": "mentally powerful",
+      "description": "The sense that you are more able than most to be able to resolve problems in the world of ideas.",
+      "perceptions": ["I have the ability to resolve problems in the idea environment.","I can do this more effectively than many other people."],
+      "desires": ["desire to improve","desire for social influence"],
+      "sensations": ["pride","responsibility","self-confidence"],
+      "guidance": [{
+          "description": "How to build your critical thinking skills in 7 steps (with examples)",
+          "attribution": "Julia Martins on asana.com",
+          "references": ["https://asana.com/resources/critical-thinking-skills"]
+      },{
+          "description": "Cultivating Wisdom: Ten practical strategies for personal and social development.",
+          "attribution": "Jessica Koehler Ph.D.",
+          "references": ["https://www.psychologytoday.com/us/blog/beyond-school-walls/202305/cultivating-wisdom"]
+      }],
+      "examples": ["being smart","being wise"]
+  },{
+      "name": "average power",
+      "description": "We all have the ability to change our environment in small and average ways. But we tend to take everyday abilities for granted.",
+      "perceptions": ["I have the ability to change the environment or solve a problem.","My ability to do this is not higher or lower than most other people."],
+      "comparisons": [{
+          "links": ["powerful","powerlessness"],
+          "description": "Most adults have the power to dig a hole or solve a simple math problem. But we know that our ability for these things is average so doing them does not provide much sensation. You only feel 'powerful' if you have a backhoe to dig the hole or are able to solve complex math problems. Likewise, you may feel 'powerless' if your arthritis prevents you from digging a hole or a brain injury causes you to forget addition."
+      }]
+  }],
+  "spectrum": {
+      "competent": 3,
+      "influential": 3,
+      "significance": 3,
+      "powerful": 5,
+      "greatness": 8,
+      "super powered": 8
+  },
+  "commentaries": [{
+      "quote": "With great power comes great responsibility.",
+      "attribution": "Uncle Ben from Spiderman"
+  },{
+      "quote": "Politics is the set of values for how individuals relate to the patchworked social body as a whole: what rights and responsibilities different types of people have, how rules are made and enforced."
+  },{
+      "quote": "On physical power: if you've never chopped down a tree or dug a big hole, it may be hard for you to understand why our ancestors valued physical strength so much. It's difficult work and we humans really like our wood and our holes."
+  },{
+      "quote": "On mental power: if you've never balanced a spreadsheet, your new business is likely to fail. If you've never solved an equation, your bridge is probably going to collapse. Ideas are important in shaping a complex environment."
+  },{
+      "quote": "[The founders of the United States] were insightful students of human nature. They feared the abuse of power because they understood that every human being has not only 'better angels' in his nature, but also an innate vulnerability to temptation — especially the temptation to abuse power over others.",
+      "attribution": "Al Gore, Address at New York University 2004"
+  },{
+      "quote": "Nothing discloses real character like the use of power. It is easy for the weak to be gentle. Most people can bear adversity. But if you wish to know what a man really is, give him power. This is the supreme test. It is the glory of Lincoln that, having almost absolute power, he never abused it, except on the side of mercy.",
+      "attribution": "Robert G. Ingersoll"
+  },{
+      "quote": "It's good to be the king.",
+      "attribution": "Mel Brooks"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["powerful","physically powerful"],
+          "predominantType": "node",
+          "levels": {
+            "3,2,1": {
+              "experiences": ["powerful"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["socially powerful","mentally powerful"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2": {
+              "experiences": ["powerful"]
+            },
+            "1": {
+              "experiences": ["satisfaction"]
+            }
+          }
+      },{
+          "names": ["average power"],
+          "predominantType": "action",
+          "levels": {
+            "3,2,1": {
+              "experiences": ["average power"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      }]
+  }]
+}

@@ -1,0 +1,102 @@
+{
+  "lang": "en/us",
+  "createDate": "20250215",
+  "updateDate": "20250602",
+  "name": "subordination",
+  "valence": 0,
+  "quote": "I need to check with the boss.",
+  "description": "The sense that specific actions or decisions are driven by someone or something besides yourself, but that you have chosen to comply.",
+  "perceptions": ["I'm constrained in certain actions and decisions by an agreement.","There may be consequences if I don't comply.","I've chosen to align myself with this person, group, or goal."],
+  "desires": ["desire to improve","desire for social status","desire for comfort"],
+  "related": ["group bond", "subservience", "familial love","agency"],
+  "examples": ["being bound by the company handbook","being constrained by laws of your country and city"],
+  "comparisons": [{
+      "links": ["responsibility","ownership"],
+      "description": "'Subordination' is the general concept that you can't just make any decision or take any action that you feel like at the moment. We are all constrained by agreements and goals with ourselves and with other people. 'Responsibility' is taking on a specific goal and aligning your actions to complete that goal instead of relaxing in front of the TV. 'Ownership' is taking on a large ill-defined set of goals that are required for some complex system to succeed. You need to figure out what to do and how to do not just one goal, but many. It's a hierarchy - the ship's captain has to own the whole voyage, deciding what needs to get done. These individual well-defined tasks become assigned responsibilities for crew members. Everyone is subordinate to someone or some goal, the difference being the scope of the goal."
+  }],
+  "variations": [{
+      "name": "responsibility",
+      "description": "The sense that specific actions or decisions are driven by reaching a certain goal. This goal may be set internally, another person, or a group.",
+      "perceptions": ["I'm constrained in certain actions and decisions by an agreement.","There may be consequences if I don't comply.","I've greed to carry out this goal."],
+      "desires": ["desire to improve","desire for social status","desire for comfort"],
+      "guidance": [{
+          "description": "Taking Responsibility for Your Actions: 15 Ways to Cultivate Accountability",
+          "attribution": "STPL Global",
+          "references": ["https://www.linkedin.com/pulse/taking-responsibility-your-actions-15-ways-cultivate-accountability"]
+      },{
+          "description": "10 Ways To Become More Mature & Responsible",
+          "attribution": "Modern Therapy",
+          "references": ["https://moderntherapy.online/2018-8-14-10-ways-to-become-more-mature-responsible/"]
+      }],
+      "examples": [
+        "Most families and jobs require individuals to accept specific tasks they might not choose to do themselves."
+      ]
+  },{
+      "name": "ownership",
+      "description": "The sense that you are the decision-maker for large or complex system, so many of your specific actions and decisions are driven by the goal of making sure the entire system operates successfully.",
+      "perceptions": ["I'm constrained in certain actions and decisions by the need to look after this system.","I've greed to make sure this system operates appropriately.","No one else is looking after this, so I need to, or there will be consequences."],
+      "desires": ["desire for agency","desire for social status","desire for meaning","desire for territory","desire for social influence"],
+      "links": ["powerful"],
+      "examples": ["home ownership","ship captain"],
+      "guidance": [{
+          "description": "Six Ways You Can Demonstrate Ownership To Show Leadership",
+          "attribution": "Jeff Hicks",
+          "references": ["https://www.forbes.com/councils/forbesbusinessdevelopmentcouncil/2021/03/02/six-ways-you-can-demonstrate-ownership-to-show-leadership/"]
+      },{
+          "description": "10 Tips for Being a Better Homeowner",
+          "attribution": "Home by Geneva",
+          "references": ["https://www.genevafi.com/10-tips-for-being-a-better-homeowner/"]
+      }]
+  }],
+  "commentaries": [{
+      "quote": "Groups can work better if some individuals temporarily suppress their own agency so as to coordinate with others."
+  },{
+      "quote": "You cannot escape the responsibility of tomorrow by evading it today.",
+      "attribution": "Abraham Lincoln"
+  },{
+      "quote": "No man should bring children into the world who is unwilling to persevere to the end in their nature and education.",
+      "attribution": "Plato"
+  },{
+      "quote": "Prioritize your problems and take care of them one at a time, the highest priority first. Don’t try to do everything at once or you won’t be successful.",
+      "attribution": "Jocko Willink in Extreme Ownership: How U.S. Navy SEALs Lead and Win"
+  },{
+      "quote": "Taking complete ownership of your outcomes by holding no one but yourself responsible for them is the most powerful thing you can do to drive your success.",
+      "attribution": "Gary W. Keller"
+  },{
+      "quote": "Freedom makes a huge requirement of every human being. With freedom comes responsibility. For the person who is unwilling to grow up, the person who does not want to carry his own weight, this is a frightening prospect.",
+      "attribution": "Eleanor Roosevelt"
+  }],
+  "spectrum": {"partnership": 1, "subordination": 3, "deference": 4},
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["subordination","responsibility"],
+          "predominantType": "impulse",
+          "levels": {
+            "1": {
+              "experiences": ["many"]
+            },
+            "3,2": {
+              "experiences": ["subordination"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["ownership"],
+          "predominantType": "impulse",
+          "levels": {
+            "2,1": {
+              "experiences": ["many"]
+            },
+            "3": {
+              "experiences": ["ownership"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      }]
+  }]
+}

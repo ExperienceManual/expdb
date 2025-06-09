@@ -7,8 +7,7 @@
   "quote": "Is it Friday yet?",
   "description": "Wanting to attain an experience with less discomfort. If we can imagine a more optimal situation, we often want to get there.",
   "perceptions": ["The situation could and should be easier and more comfortable."],
-  "related": [ "desire for food", "sickness", "boredom", "desire for comfort chemicals", "desire for sex", "pain", "relief"
-  ],
+  "related": [ "desire for food", "sickness", "boredom", "desire for comfort chemicals", "desire for sex", "pleasure", "pain", "relief" ],
   "opposites": ["sacrifice"],
   "guidance": [{
       "description": "If you'd like expand your comfort zone, consider making it a goal.",
@@ -42,6 +41,12 @@
       "perceptions": ["my surroundings could be more comfortable"],
       "desires": ["desire to improve"],
       "examples": ["wish it were sunnier","wish the hotel carpet wasn't stained"]
+  },{
+      "name": "desire for optimal",
+      "description": "Wanting for something to happen in the top-tier of speed, quality, and cost for that category of that thing and having a negative reaction if it doesn't.",
+      "perceptions": ["I know the good qualities of this kind of thing or activity.","Every instance of that thing or activity should share those good qualities.","If they don't, I will be disappointed."],
+      "desires": ["desire for order"],
+      "examples": ["wanting to traffic to be good","wanting the lines to be short","wanting the new burrito place to be as good as your favorite"]
   }],
   "commentaries": [{
       "quote": "It may be helpful to be aware if longing for the presence or absence of specific brain chemicals is distracting you needlessly from the present."
@@ -56,6 +61,8 @@
   },{
       "quote": "Choosing to avoid uncomfortable feelings offers immediate short-term relief, but avoidance can lead to long-term consequences.",
       "attribution": "Amy Morin"
+  },{
+      "quote": "The tyranny of peak experience: always comparing things against the best of their class can degrade the experience of the moment as you pick apart the differences with sparks of disappointment. 'This sauce isn't as savory as I like.' 'This line is longer than usual.'"
   }],
   "spectrum": {
     "desire for comfort": 3,

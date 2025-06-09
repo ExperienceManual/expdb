@@ -1,0 +1,131 @@
+{
+  "lang": "en/us",
+  "createDate": "20250217",
+  "updateDate": "20250605",
+  "name": "doubt",
+  "valence": 0,
+  "quote": "I don't know if she's going to be ok.",
+  "description": "The sense that you don't know whether you can rely on a particular prediction, idea, or person for a desired outcome.",
+  "perceptions": ["The outcome of this situation is important, so I'd like to be able to influence it.","But I'm not sure that I know what to do or what's going to happen in this kind of situation."],
+  "desires": ["desire for agency","desire for order","desire for comfort"],
+  "sensations": ["anxiety","dissonance"],
+  "related": ["prediction", "skepticism", "anticipation"],
+  "opposites": ["certainty"],
+  "variations": [{
+      "name": "self doubt",
+      "description": "Being uncertain that your knowledge or skills are up to a particular task.",
+      "perceptions": ["The outcome of this situation is important, so I'd like to be able to influence it.","But I'm not sure my knowledge or skills are up to the task."],
+      "desires": ["desire for agency"],
+      "sensations": ["anxiety","dissonance","social fear"],
+      "results": ["try to find a way to obtain the desired outcome"],
+      "links": ["failure","self-condemnation"],
+      "comparisons": [{
+          "links": ["self-condemnation"],
+          "description": "Condemnation is considering yourself a general failure, while self-doubt may be about a particular area. For instance, you can doubt your skill at helping win an important basketball game, without disliking yourself as a whole."
+      }],
+      "examples": ["being nervous about giving a presentation","anxiety about asking someone on a date"],
+      "guidance": [{
+          "description": "How to overcome fear and self-doubt in 8 steps",
+          "attribution": "Elizabeth Perry, ACC",
+          "references": ["https://www.betterup.com/blog/overcoming-self-doubt"]
+      }]
+  },{
+      "name": "foundational doubt",
+      "description": "The sense that something you have relied on as an important existential pattern might be incorrect or oversimplified.",
+      "perceptions": ["Something's happened that goes against deeply held expectations.","I don't know how to respond.","A social group will care how I respond."],
+      "desires": ["desire for order","desire for social status"],
+      "sensations": ["fear","dissonance","skepticism","grief"],
+      "results": ["deny any evidence that conflicts with the expectation","start the long road of grief"],
+      "examples": ["shock to your religious faith","accepting evidence that gender is more fluid than you think"],
+      "guidance": [{
+          "description": "There are many resources on the internet from religious authorities about how to reconnect to your traditional faith. If that's not going to work for you, there may be stages of grief.",
+          "references": ["grief"]
+      }],
+      "links": ["loss of social status"]
+  },{
+      "name": "fear of doubt",
+      "description": "A sense that uncertainty is deeply unsettling or even dangerous.",
+      "perceptions": ["I need to control things and cannot show weakness or there could be existential danger.","Doubt shows lack of control and weakness."],
+      "desires": ["desire for agency","desire for safety"],
+      "sensations": ["fear","dissonance"],
+      "results": ["try to find a way to obtain the desired outcome","cling to comforting habits"],
+      "examples": ["obsessive compulsive disorder"],
+      "guidance": [{
+          "description": "If your life is impacted by doubts about having locked the door, about cleanliness, about food safety, etc., you might consider that 'possibilities do not equal probability' as noted in these articles.",
+          "references": ["https://www.treatmyocd.com/blog/dealing-with-doubt","https://psychcentral.com/ocd/obsessive-compulsive-disorder-and-uncertainty"]
+      }]
+  }],
+  "commentaries": [{
+      "quote": "As control hungry pattern machines, we vastly prefer certainty. Doubt feels like dangerous gunk that clogs up our ability to predict and control things. It's hard to accept that our over-simplified patterns are never perfect in an infinitely complex world."
+  },{
+      "quote": "Frequent doubt is a sign that your patterns may need to become more generalized to handle the world's actual complexity. A complete lack of doubt is much worse - it means your patterns are way too simple to explain the real world and that you've turned off a key aspect of being a mature human."
+  },{
+      "quote": "What’s the worst that could happen if you do what you feel doubtful about? Is that something you can deal with? Then do it! Most of our worries are a waste of time.",
+      "attribution": "Kate Roselund"
+  },{
+      "quote": "Doubt kills more dreams than failure ever will.",
+      "attribution": "Suzy Kassem"
+  },{
+      "quote": "Modest doubt is called the beacon of the wise.",
+      "attribution": "Shakespeare"
+  },{
+      "quote": "One of the driving forces of compulsions in Obsessive-Compulsive Disorder is chronic doubt. Your brain tricks you into thinking that something has been overlooked, and this fear drives the individual into repeating the action again.  Doubt is a hallmark of the disorder, and it overrides any sense of logic or intelligence an individual might have.",
+      "attribution": "Dr. Holly Schiff"
+  },{
+      "quote": "You could make an argument that an individualistic society could created generations of control freaks with low-grade OCD who are terrified of doubt and hungry for spotless confidence and simple stories. Basically it's that survival requires control, which requires certainty, which requires simplicity."
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["doubt"],
+          "predominantType": "sensation",
+          "levels": {
+            "4,3,2,1": {
+                "experiences": ["doubt","anxiety"]
+            }
+          }
+      },{
+          "names": ["self doubt"],
+          "predominantType": "sensation",
+          "levels": {
+            "1": {
+                "experiences": ["anxiety"]
+            },
+            "3,2": {
+                "experiences": ["self doubt"]
+            },
+            "4":{
+                "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["foundational doubt"],
+          "predominantType": "sensation",
+          "levels": {
+            "2,1": {
+                "experiences": ["anxiety"]
+            },
+            "3": {
+                "experiences": ["foundational doubt","grief"]
+            },
+            "4":{
+                "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["fear of doubt"],
+          "predominantType": "sensation",
+          "levels": {
+            "2,1": {
+                "experiences": ["fear"]
+            },
+            "3": {
+                "experiences": ["fear of doubt"]
+            },
+            "4":{
+                "experiences": ["narration"]
+            }
+          }
+      }]
+  }]
+}

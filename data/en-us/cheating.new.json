@@ -1,0 +1,245 @@
+{
+  "lang": "en/us",
+  "createDate": "20250403",
+  "updateDate": "20250608",
+  "name": "cheating",
+  "valence": 0,
+  "quote": "I'm just gonna peek.",
+  "description": "The sensation of breaking a social rule that you view as justified in this case.",
+  "perceptions": ["I know there's a social rule for this context.","It's not critical in the large scale of things.","Everyone else does it.","I need to win or not lose."],
+  "desires": ["desire for comfort","desire to ditch constraints"],
+  "sensations": ["defiance","dissonance"],
+  "guidance": [{
+      "description": "If you find yourself cheating often, you might want to consider the roots of it. Is it loss aversion? Is it a sense that everyone cheats so you're dumb if you don't cheat? Does it make you feel clever? Are most rules seen as guidelines?",
+      "references": ["https://www.deseret.com/2023/8/2/23799135/why-people-cheat-sports-school-work-doping-psychology-dishonesty/","https://www.thedailyscrumnews.com/why-do-some-athletes-cheat-and-when-is-it-worth-it-in-the-end/"]
+  },{
+      "description": "In the long term, cheating can harm an individual's reputation and career prospects. True success in the workplace comes from working hard, being honest, and playing by the rules.",
+      "attribution": "Sarfaraz Muhammad",
+      "references": ["https://www.linkedin.com/pulse/winning-cheating-success-sarfaraz-muhammad"]
+  }],
+  "related": ["unfair contest","aversion to cheaters"],
+  "opposites": ["honesty"],
+  "variations": [{
+      "name": "bending the rules",
+      "description": "The sensation of breaking a social rule that you view as a general convention that is meant to be broken when needed.",
+      "perceptions": ["I know there's a social rule for this context.","It's more of a guideline than a rule.","Everyone else does it.","It doesn't hurt anyone."],
+      "desires": ["desire for comfort","desire to ditch constraints"],
+      "sensations": ["defiance","dissonance"],
+      "guidance": [{
+          "description": "In order to bend the rules, it needs to benefit all, or at least not harm anyone. If it benefits you and harms the audience, the partner, or whomever, or if it gives you an unfair advantage over a partner, then bending the rules is not OK. With that said, we came up with the 'Top Four Reasons when it is OK to Bend the Rules.'",
+          "attribution": "Brent Barootes",
+          "references": ["https://www.linkedin.com/pulse/bending-rules-brent-barootes"]
+      },{
+          "description": "Choose to break the rules that limit you, not just because you don’t like them. Break the rules but consider the consequences on the rest, not just on you.",
+          "attribution": "Gustavo Razzetti",
+          "references": ["https://www.fearlessculture.design/blog-posts/when-breaking-the-rules-is-the-right-thing-to-do"]
+      }],
+      "examples": ["skipping a step in the process","accepting a late assignment"]
+  },{
+      "name": "someone else cheating",
+      "description": "Perception that someone's words or actions reflect selfishness when they were expected to do the 'right' thing.",
+      "perceptions": ["There's a social rule for this context.","Someone is not following the rule.","This person should have known and followed the rule."],
+      "desires": ["desire for order"],
+      "sensations": ["aversion to cheaters"],
+      "results": ["Your reaction may range from laughter to anger to disgust. It depends on who's doing it, the importance of the rule, what they stand to gain, and how it affects you."],
+      "personOfInterestExperiences": ["many"],
+      "guidance": [{
+          "description": "Encountering cheating in sports can be disheartening, challenging the spirit of fair play and integrity. When facing a cheating opponent, it's essential to handle the situation with poise and follow appropriate steps to address the issue. Here are practical steps to consider.",
+          "attribution": "Alyssa Zajdel, PhD",
+          "references": ["https://www.insideedgecounseling.com/post/what-do-you-do-when-an-opponent-cheats"]
+      }],
+      "examples": ["someone calls the ball out when it was in","caught someone plagiarizing","seeing someone drive very aggressively"]
+  },{
+      "name": "relationship cheating",
+      "description": "Having an extra-marital affair of any type. There are many reasons people engage in affairs, but cheating creates outrage because it reflects poorly on one party and may create signficant costs.",
+      "perceptions": ["I'm not satisfied with my relationship.","It's ok to have a little fun on the side."],
+      "desires": ["desire for stimulation","desire for validation","desire for sex"],
+      "sensations": ["many"],
+      "results": ["many"],
+      "personOfInterestExperiences": ["anger","grief"],
+      "guidance": [{
+          "description": "Cheating is a choice, and while certain elements can contribute to the likelihood of someone engaging in this behaviour, they don’t justify or excuse it. Here are 11 common factors that might lead to infidelity in a marriage. Understanding the context and reasons behind infidelity is crucial for effectively addressing the problem.",
+          "attribution": "Gloria James-Civetta & Co",
+          "references": ["https://www.singaporedivorcelawyer.com.sg/what-causes-a-person-to-cheat-in-a-marriage/"]
+      }]
+  },{
+      "name": "someone ignorant of a minor rule",
+      "description": "Perception that someone's words or actions reflect selfishness in a minor way but they are not expected to know the 'right' thing.",
+      "perceptions": ["There's a social rule for this context.","Someone is not following the rule.","They might not have known the rule."],
+      "desires": ["desire for order"],
+      "results": ["Depends on the rule, the person, the context"],
+      "personOfInterestExperiences": ["surprise","guilt"],
+      "guidance": [{
+          "description": "Here’s how to handle someone who is breaking a rule. (a) Handle it privately, (2) Ask if they realizes they were breaking a rule. (3) Give the person three choices: try harder, leave, or negotiate the rule. ",
+          "attribution": "Craig Freshley",
+          "references": ["https://goodgroupdecisions.com/how-to-handle-rule-breaking/"]
+      }],
+      "examples": [
+        "foreign traveller walking on the grass despite the sign",
+        "a very young child doing just about anything"
+      ]
+  },{
+      "name": "self cheating",
+      "description": "Breaking a rule you set for yourself that no one else knows or cares about.",
+      "perceptions": ["I made this rule for myself.","I'm not hurting anyone else by  breaking it."],
+      "desires": ["desire for comfort","desire for agency"],
+      "sensations": ["dissonance","many"],
+      "guidance": [{
+          "description": "It's your rule, so your choice. However, breaking your own rules too often could create negativity. Either don't make rules you know you won't keep, or consider the guidance for 'self discipline'.",
+          "references": ["self discipline"]
+      }],
+      "examples": ["breaking a diet", "skipping exercise"]
+  },{
+      "name": "existential cheating",
+      "description": "Breaking a religious rule.",
+      "perceptions": ["I know there's a rule in my religion for this context.","I don't think this is a sin or it shouldn't be."],
+      "desires": ["desire for comfort","desire to ditch constraints"],
+      "sensations": ["defiance","dissonance","guilt"],
+      "results": ["Anything from guilt to confession to excommunication."],
+      "guidance": [{
+          "description": "Churchgoing people know how to follow rules. We also know how to skirt them. We know exactly where the line is, and how to stay technically in-bounds, even while we indulge in exactly what that commandment forbids. So here is a crash course on the Ten Commandments, focusing on the unique temptations we 'religious' people have against them.",
+          "attribution": "Tom Hoopes",
+          "references": ["https://www.catholicdigest.com/faith/201311-1810-ways-religious-people-break-the-commandments/"]
+      }]
+  },{
+      "name": "lying",
+      "description": "Speaking words that you know (or suspect) to be untrue but it's beneficial to you for others to hear them.",
+      "perceptions": ["What I'm saying is not necessarily true in a factual sense.","Everyone lies to get what they want. It's the way of the world."],
+      "desires": ["desire for social influence","desire to ditch constraints"],
+      "sensations": ["defiance","dissonance"],
+      "guidance": [{
+          "description": "Misinformation is everywhere. We're in a Post-Truth society now and verbal deception is apparently considered clever. However, if you're open to exploring the benefits of honesty and evidence, here are some articles.",
+          "references": ["https://www.psychologytoday.com/us/blog/pleased-meet-me/202001/the-truth-about-lying-and-what-it-does-the-body","https://ethicalleadership.nd.edu/thought-leadership/what-dishonesty-does-to-your-brain-why-lying-becomes-easier-and-easier","https://www.bbc.co.uk/ethics/lying/lying_1.shtml"]
+      }]
+  },{
+      "name": "offensive deception",
+      "description": "Acting or appearing in a way that hides part of your true nature in a way that allows you to get an advantage over someone else.",
+      "perceptions": ["I'm hiding a portion of my true identity.","I want to gain an edge over them."],
+      "desires": ["desire for wealth","desire for social influence"],
+      "sensations": ["attack","many"],
+      "guidance": [{
+          "description": "A deceptive appearance could be a gag, a sports tactic, or a prelude to crime.",
+          "references": ["commiting a crime"]
+      }],
+      "examples": ["dating app catfish","scammers","spies"]
+  },{
+      "name": "defensive deception",
+      "description": "Acting or appearing in a way that hides part of your true nature to protect yourself.",
+      "perceptions": ["I'm hiding a portion of my true identity.","I want to protect myself from others."],
+      "desires": ["desire for safety"],
+      "sensations": ["anxiety","defense"],
+      "examples": ["driving a beater car when you could afford better"]
+  }],
+  "commentaries": [{
+      "quote": "The more people rationalize cheating, the more it becomes a culture of dishonesty.",
+      "attribution": "Stephen Covey"
+  },{
+      "quote": "There's a reason behind every social rule. It's ok to formally renegotiate the nuance of a rule, but it's generally not cool to unilaterally consider yourself immune."
+  },{
+      "quote": "Lying is easy because 'truth' is difficult."
+  },{
+      "quote": "Spreading misinformation is the same as polluting the mental environment despite the opportunity for social praise. If you wouldn't toss a piece of garbage out of your car window, you shouldn't fib, stretch the truth, spin, or gossip. On the otherhand, if you like whales dying from eating too much plastic, you should consider going into politics."
+  },{
+      "quote": "I have no problem with cheating. Whatever you can get away with.",
+      "attribution": "Joe Torre"
+  },{
+      "quote": "Cheating and lying can have long-term consequences. Trust is the foundation of successful working relationships, and when it is broken, it can be extremely difficult to rebuild.",
+      "attribution": "Maeve M. on Linked In"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["cheating","bending the rules","lying","self cheating"],
+          "predominantType": "action",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["cheating"]
+            },
+            "2,1": {
+              "experiences": ["many"]
+            }
+          }
+      },{
+          "names": ["someone else cheating"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["someone else cheating","contempt"]
+            },
+            "2,1": {
+              "experiences": ["dismay"]
+            }
+          }
+      },{
+          "names": ["someone ignorant of a minor rule"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["someone ignorant of a minor rule"]
+            },
+            "2,1": {
+              "experiences": ["dissonance"]
+            }
+          }
+      },{
+          "names": ["relationship cheating"],
+          "predominantType": "action",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["relationship cheating","desire for validation"]
+            },
+            "2,1": {
+              "experiences": ["desire for stimulation","desire for agency"]
+            }
+          }
+      },{
+          "names": ["existential cheating"],
+          "predominantType": "action",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["existential cheating"]
+            },
+            "2,1": {
+              "experiences": ["dissonance","desire for agency"]
+            }
+          }
+      },{
+          "names": ["defensive deception"],
+          "predominantType": "action",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2,1": {
+              "experiences": ["defensive deception","desire for safety","defense"]
+            }
+          }
+      },{
+          "names": ["offensive deception"],
+          "predominantType": "action",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2,1": {
+              "experiences": ["offensive deception","attack"]
+            }
+          }
+      }]
+  }]
+}
