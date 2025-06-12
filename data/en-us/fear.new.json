@@ -1,0 +1,91 @@
+{
+  "lang": "en/us",
+  "createDate": "20250223",
+  "updateDate": "20250610",
+  "name": "fear",
+  "valence": -1,
+  "quote": "Watch out for that car!",
+  "description": "Perception that a major negative impact is happening or about to happen to you or someone important to you. The impact may be physical or social.",
+  "perceptions": ["Something is happening or about to happen that is going to negatively affect me or someone/something I care about.","I need to do something about it."],
+  "desires": ["desire for safety","desire for social status"],
+  "sensations": ["anxiety"],
+  "results": ["may invoke the fight, flight, or freeze response"],
+  "guidance": [{
+      "description": "Fear and panic are primal reactions, but they're not always triggered by things will actually harm us. If fear or anxiety are clouding your life, these references may be helpful.",
+      "references": ["https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anxiety-fear-panic/","https://www.nhsinform.scot/healthy-living/mental-wellbeing/fears-and-phobias/10-ways-to-fight-your-fears/","https://www.youtube.com/@TherapyinaNutshell"]
+  }],
+  "related": ["horror", "paranoia"],
+  "opposites": ["calmness"],
+  "examples": ["you are being robbed","you are about to give a presentation","your close friend is an accident"],
+  "variations": [{
+      "name": "phobia",
+      "description": "A recurring strong, often irrational, sense that something specific could be dangerous, when most often is not. Phobias can lead you to take unnecessary action or can interfere with normal activities.",
+      "perceptions": ["I'm experiencing something that always causes an intense negative reaction.","It probably won't hurt me, but I need to do something about it."],
+      "desires": ["desire for safety","desire for social status"],
+      "sensations": ["anxiety","aversion to unpopular creatures"],
+      "results": ["may invoke the fight, flight, or freeze response"],
+      "guidance": [{
+          "description": "The best treatment for specific phobias is a form of therapy called exposure therapy. Sometimes your health care professional also may recommend other therapies or medicine. Knowing the cause of a phobia is less important than focusing on how to treat the avoidance behavior that has developed over time.",
+          "attribution": "Mayo Clinic",
+          "references": ["https://www.mayoclinic.org/diseases-conditions/specific-phobias/diagnosis-treatment/drc-20355162"]
+      }],
+      "links": ["paranoia"],
+      "examples": ["He's afraid to travel by air.","claustrophobia"]
+  },{
+      "name": "panic attack",
+      "description": "Perception that a major negative impact is happening or about to happen to you or someone important to you with an intense physical reaction: racing heart, dizziness, shaking, and other symptoms.",
+      "perceptions": ["Something is happening or about to happen that is going to negatively affect me or someone/something I care about.","It's overwhelmed my ability to handle it."],
+      "desires": ["desire for safety","desire for social status"],
+      "sensations": ["anxiety"],
+      "results": ["the fight, flight, or freeze response drives a racing heart, dizziness, sweat, and other unpleasant symptoms."],
+      "guidance": [{
+          "description": "The next time you feel a panic attack coming on: stay where you are if possible, breathe slowly and deeply, remind yourself that the attack will pass, focus on positive, peaceful and relaxing images, remember it's not life threatening. Consider seeing a doctor if you've had frequent panic attacks.",
+          "attribution": "UK National Health System",
+          "references": ["https://www.nhs.uk/mental-health/conditions/panic-disorder/"]
+      }],
+      "links": ["aversion to unpopular creatures", "paranoia"],
+      "examples": ["I can't get on that airplane.","I can't give this presentation."]
+  }],
+  "commentaries": [{
+      "quote": "Our lives are shaped, driven, and preserved by the threat of future pain: fear of doing something dangerous, fear of missing out, fear of looking stupid, fear of appearing weak. The list goes on, for good and for bad."
+  },{
+      "quote": "The oldest and strongest emotion of mankind is fear, and the oldest and strongest kind of fear is fear of the unknown.",
+      "attribution": "H.P. Lovecraft"
+  },{
+      "quote": "I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain.",
+      "attribution": "Frank Herbert in Dune"
+  },{
+      "quote": "The only thing we have to fear is fear itself.",
+      "attribution": "Franklin D. Roosevelt"
+  },{
+      "quote": "Fear defeats more people than any other one thing in the world.",
+      "attribution": "Ralph Waldo Emerson"
+  }],
+  "spectrum": {
+    "concern": 1,
+    "worry": 1,
+    "anxiety": 2,
+    "apprehension": 3,
+    "fear": 4,
+    "dread": 5,
+    "horror": 6,
+    "terror": 7,
+    "phobia": 8,
+    "panic": 9
+  },
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["fear","phobia","panic attack"],
+          "predominantType": "sensation",
+          "levels": {
+            "3,2,1": {
+              "experiences": ["fear"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      }]
+  }]
+}

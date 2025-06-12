@@ -25,23 +25,19 @@
       "desires": ["desire for social contact","desire for agency"],
       "sensations": ["happiness","relief","indebtedness","skepticism"],
       "results": ["desire to express a positive reaction for the gift"],
-      "guidance": [
-        {
+      "guidance": [{
           "description": "Gifts should make us feel grateful—but sometimes we only feel guilty or obligated to reciprocate.",
           "attribution": "Jill Suttie",
           "references": ["https://greatergood.berkeley.edu/article/item/how_to_say_thanks_without_feeling_indebted"]
-        }
-      ]
-    },
-    {
+      }]
+    },{
       "name": "someone's gratitude to you",
       "description": "When you've done something for someone else and they express gratitude, it can bring joy. You may feel you've done something for the greater good, or have started to return favors others have done for you.",
       "perceptions": ["You've done something for someone else.","They express sincere gratitude."],
       "desires": ["desire for social contact"],
       "sensations": ["happiness","goodwill"],
-      "personOfInterestExperiences": ["gratitude"],
-    },
-    {
+      "personOfInterestExperiences": ["gratitude"]
+    },{
       "name": "existential gratitude",
       "description": "If the giving agent is perceived as having been God or The Universe, it may come with awe.",
       "perceptions": ["You recognize that the world provided something that you value.","You recognize that not everyone gets this thing and you might not have received it.","You don't want to take the gift for granted."],

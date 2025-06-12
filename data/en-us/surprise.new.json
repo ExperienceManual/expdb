@@ -1,0 +1,55 @@
+{
+  "lang": "en/us",
+  "createDate": "20250223",
+  "updateDate": "20250611",
+  "name": "surprise",
+  "valence": 0,
+  "quote": "I didn't expect you to be there!",
+  "description": "A perception that an experience happened that was directly counter to expectations in some way. The tone and strength of the surprise depend on the context.",
+  "perceptions": ["Something happened that directly conflicts with an expectation."],
+  "desires": ["desire for order"],
+  "sensations": ["many"],
+  "results": ["Surprise will quickly change into some other experience such as delight or anger. It may raise your energy level into excitement, or maybe not."],
+  "guidance": [{
+      "description": "Surprise is a basic capacity of the mind that's a 'gateway' sensation to many other experiences and is important in directing our attention.",
+      "references": ["https://www.psychologytoday.com/us/blog/surprise/202205/the-power-surprise","https://www.wnycstudios.org/podcasts/takeaway/segments/surprise-unexpected-why-it-feels-good-and-why-its-good-us"]
+  }],
+  "related": ["excitement", "delight", "horror", "confusion"],
+  "opposites": ["anticipation", "boredom"],
+  "comparisons": [{
+      "links": ["excitement"],
+      "description": "Surprise is a violation of your prediction. The relevance of the violation may lead to the higher energy level of excitement."
+  }],
+  "examples": [ "The kids knocked the vase off the shelf, which crashed loudly.", "I'd expected the trip to be good, but not that good." ],
+  "commentaries": [{
+      "quote": "When the unexpected happens, there's generally a moment of confusion while you try to figure out what happened. In a very short time, you can go from surprise to fear to relief to joy."
+  },{
+      "quote": "Nobody is exempt from the surprises of life!",
+      "attribution": "Mehmet Murat ildan"
+  },{
+      "quote": "Surprise is a double-edged sword, dipped in delight on one side and disappointment on the other.",
+      "attribution": "Tania Luna and Leeann Renninger in 'Surprise'"
+  },{
+      "quote": "Surprise is God's way of saying 'hello.' The response is optional.",
+      "attribution": "Joan Chittister in 'Gospel Days'"
+  },{
+      "quote": "The moments of happiness we enjoy take us by surprise. It is not that we seize them, but that they seize us.",
+      "attribution": "Ashley Montagu"
+  }],
+  "spectrum": {"kick": 3, "surprise": 5, "shock": 8},
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["surprise"],
+          "predominantType": "capacity",
+          "levels": {
+            "1": {
+              "experiences": ["surprise"]
+            },
+            "4,3,2": {
+              "experiences": ["many"]
+            }
+          }
+      }]
+  }]
+}

@@ -1,0 +1,112 @@
+{
+  "lang": "en/us",
+  "createDate": "20250222",
+  "updateDate": "20250609",
+  "name": "enthusiasm",
+  "valence": 1,
+  "quote": "I heard the new album is great!",
+  "description": "A desire to experience something that is expected to bring a positive reward of some type.",
+  "perceptions": ["Something is happening or going to happen that I expect will be a positive experience for me."],
+  "desires": ["desire for stimulation","desire for pleasure","desire for novelty"],
+  "sensations": ["anticipation","excitement"],
+  "guidance": [{
+      "description": "How to Be More Enthusiastic, Motivated & Inspired",
+      "attribution": "Sandra Possing and Dev Murphy, MA",
+      "references": ["https://www.wikihow.com/Be-More-Enthusiastic"]
+  }],
+  "related": ["playful","love"],
+  "opposites": ["boredom", "ennui"],
+  "examples": ["a new album from a favored artist","a trip to the amusement park","trying a new restuarant"],
+  "comparisons": [{
+      "links": ["excitement"],
+      "description": "'Excitement' is arousal that can be either positive or negative. 'Enthusiasm' is positive arousal."
+  }],
+  "variations": [{
+      "name": "social enthusiasm",
+      "description": "A desire to experience something in large part due to social factors.",
+      "perceptions": ["Something is happening or going to happen with a person or group.","I expect it will be fun to share with it them."],
+      "desires": ["desire for stimulation","desire for social contact"],
+      "sensations": ["anticipation","excitement"],
+      "guidance": [{
+          "description": "People who love what they do seem to have a charisma or enthusiasm about them. Their attitudes are contagious, and for obvious reasons, they are simply more enjoyable to be around.",
+          "attribution": "Shep Hyken, CSP, CPAE",
+          "references": ["https://www.socialmediatoday.com/content/enthusiasm-its-contagious"]
+      }],
+      "links": ["group bond"],
+      "examples": [
+        "Yeah, it's a fad, but it's actually ok!",
+        "I'd like to go back to Yellowstone to show the kids."
+      ]
+  },{
+      "name": "repeat enthusiasm",
+      "description": "A desire to experience an old favorite thing that never fails to bring something positive.",
+      "perceptions": ["Something is happening or going to happen that I've experienced before.","It's always a good time."],
+      "desires": ["desire for stimulation","desire for social contact"],
+      "sensations": ["nostalgia"],
+      "results": [""],
+      "personOfInterestExperiences": [""],
+      "examples": ["A favorite song","A favorite restaurant"]
+  }],
+  "commentaries": [{
+      "quote": "It can seem cooler and smarter to be ironic, detached, or critical, and it’s certainly much easier and safer to adopt that sort of stance. But enthusiasm is more fun. Enthusiasm is generous, positive, energetic, and social. It’s outward-turning and engaged. It’s brave, unself-conscious, warm-hearted, and kind of goofy.",
+      "attribution": "Gretchen Rubin"
+  },{
+      "quote": "Nothing great was ever achieved without enthusiasm.",
+      "attribution": "Ralph Waldo Emerson"
+  },{
+      "quote": "Enthusiasm is the yeast that makes your hopes shine to the stars. Enthusiasm is the sparkle in your eyes, the swing in your gait. The grip of your hand, the irresistible surge of will and energy to execute your ideas.",
+      "attribution": "Henry Ford"
+  },{
+      "quote": "None are so old as those who have outlived enthusiasm.",
+      "attribution": "Henry David Thoreau"
+  },{
+      "quote": "Enthusiasm is contagious. People will mirror your attitude, your tone of voice, and your body language. If you’re enthusiastic, people will be enthusiastic with you; if you’re confident, people will be confident with you; if you’re unsure, people will be unsure with you; if you’re hesitant, people will be hesitant with you. You get the point.",
+      "attribution": "Belinda Ellsworth"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["enthusiasm"],
+          "predominantType": "impulse",
+          "levels": {
+            "1": {
+              "experiences": ["anticipation"]
+            },
+            "3,2": {
+              "experiences": ["enthusiasm"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["social enthusiasm"],
+          "predominantType": "impulse",
+          "levels": {
+            "1": {
+              "experiences": ["anticipation"]
+            },
+            "3,2": {
+              "experiences": ["social enthusiasm","group bond"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["repeat enthusiasm"],
+          "predominantType": "impulse",
+          "levels": {
+            "2,1": {
+              "experiences": ["anticipation"]
+            },
+            "3": {
+              "experiences": ["repeat enthusiasm","nostalgia"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      }]
+  }]
+}

@@ -90,7 +90,7 @@
         "type": "string"
       }
     },
-    "links": {
+    "otherVariations": {
       "type": "array",
       "default": [],
       "items": {
@@ -259,7 +259,34 @@
 		  }
 		}
 	      }
-	    }
+	    },
+            "commentaries": {
+              "type": "array",
+              "default": [],
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "default": {},
+                "required": [
+                  "quote"
+                ],
+                "properties": {
+                  "quote": {
+                    "type": "string"
+                  },
+                  "attribution": {
+                    "type": "string"
+                  },
+                  "tags": {
+                    "type": "array",
+                    "default": [],
+                    "items": {
+                      "type": "string"
+                    }
+                  }
+                }
+              }
+            }
         }
       }
     },
@@ -304,6 +331,13 @@
           },
           "attribution": {
             "type": "string"
+          },
+          "tags": {
+            "type": "array",
+            "default": [],
+            "items": {
+              "type": "string"
+            }
           }
         }
       }

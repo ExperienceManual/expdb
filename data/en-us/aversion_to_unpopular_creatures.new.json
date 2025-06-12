@@ -1,0 +1,55 @@
+{
+  "lang": "en/us",
+  "createDate": "20250222",
+  "updateDate": "20250609",
+  "name": "aversion to unpopular creatures",
+  "valence": -1,
+  "quote": "Snakes. Why'd it have to be snakes?",
+  "description": "Anxiety about a type of animal perceived to be dangerous or scary.",
+  "perceptions": ["This animal is creepy or dangerous.","It could hurt or poison me."],
+  "desires": ["desire for safety"],
+  "sensations": ["anxiety","fear","disgust"],
+  "results": ["desire to get away from the animal"],
+  "guidance": [{
+      "description": "Fears of snakes, spiders, and other reptiles are very common amongst children and adults. This phobia can potentially keep you or your child from spending time in nature and playing outdoors, both of which have a host of benefits for people of all ages. Slowly increasing your exposure to reptiles and spiders can help you overcome your fear.",
+      "attribution": "Lake Tobias Wildlife Park",
+      "references": ["https://www.laketobias.com/conquering-your-fear-handling-reptiles-and-crawly-things/"]
+  }],
+  "related": ["aversion", "anxiety", "fear"],
+  "opposites": ["admiration"],
+  "examples": ["Fear of snakes, spiders, tigers, etc."],
+  "commentaries": [{
+      "quote": "Many of us are afraid of those animals that killed and injured our ancient ancestors whether it makes sense in the modern world or not."
+  }],
+  "commentaries": [{
+      "quote": "When faced with a spider, I instantly turn into a fearsome warrior, ready to take on my foe as the female version of Zorro.",
+      "attribution": "Gina Marinello-Sweeney in 'Peter'"
+  },{
+      "quote": "I could be quite irrational. Like when I saw a spider, I behaved as if it were the size of a horse with the cold calculation of an assassin. That was irrational.",
+      "attribution": "Jennifer L. Armentrout in 'From Blood and Ash'"
+  },{
+      "quote": "I hate and fear snakes, because if you look into the eyes of any snake you will see that it knows all and more of the mystery of man's fall, and that it feels all the contempt that the Devil felt when Adam was evicted from Eden. Besides which its bite is generally fatal, and it twists up trouser legs.",
+      "attribution": "Rudyard Kipling in 'The Return Of Imray'"
+  },{
+      "quote": "I never kill insects. If I see ants or spiders in the room, I pick them up and take them outside. Karma is everything.",
+      "attribution": "Holly Valance"
+  },{
+      "quote": "The overwhelming majority of snakes are perfectly harmless to humans. But, venomous or not, there are no species of snake in the world that want to hurt you.",
+      "attribution": "Micha Petty"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["aversion to unpopular creatures"],
+          "predominantType": "impulse",
+          "levels": {
+            "4,3": {
+              "experiences": ["narration"]
+            },
+            "2,1": {
+              "experiences": ["aversion to unpopular creatures","anxiety"]
+            }
+          }
+      }]
+  }]
+}

@@ -1,0 +1,58 @@
+{
+  "lang": "en/us",
+  "createDate": "20250222",
+  "updateDate": "20250609",
+  "name": "empathy",
+  "valence": 0,
+  "quote": "I think I know what you're feeling.",
+  "description": "Ability to recognize and perhaps share some of the experience of a person or animal.",
+  "perceptions": ["I think I can start to imagine what that person or animal is going through."],
+  "sensations": ["sympathy","pity","compassion","contempt","delight","dismay"],
+  "results": ["depending on the context, the act of recognizing someone's experience can lead many places or nowhere."],
+  "guidance": [{
+      "description": "Empathy is important for your wellbeing. Develop your empathy skills and learn how to become more empathetic with 8 exercises to show and communicate empathy.",
+      "attribution": "calm.com",
+      "references": ["https://www.calm.com/blog/how-to-be-more-empathetic"]
+  }],
+  "related": ["first party social knowledge"],
+  "opposites": ["selfishness", "disconnection"],
+  "comparisons": [{
+      "links": ["sympathy","pity","compassion"],
+      "description": "'Empathy' is defined here as the capacity to imagine yourself in someone else's experience. It does not mean you agree with their perspective or necessarily want to help them. 'Sympathy' is empathy followed by a hope their situation will improve, but no urge to action. 'Pity' is empathy followed by a sense of detached sadness, but it can come with a suspicion that they may deserve what's happening. 'Compassion' is empathy with a desire to get involved and help."
+  }],
+  "commentaries": [{
+      "quote": "Empathy is the ability to step outside of your own bubble and into the bubbles of other people.",
+      "attribution": "C. JoyBell C."
+  },{
+      "quote": "Some American Christians are now calling empathy a 'sin'. The perspective of the Experience Manual is that 'empathy' is just the basic capacity to put yourself in the shoes of another. A person without this capacity will have trouble relating to people. What these Christians are actually suspicious of is automatic and unquestioning sympathy. Whether that's a sin or not is your preference."
+  },{
+      "quote": "There’s something sacred about sitting in another person’s pain without trying to fix it. That real love isn’t afraid to feel. That’s empathy. And it’s one of the most Christlike things we can offer.",
+      "attribution": "Dan Foster"
+  },{
+      "quote": "We are so used to empathy that we take it for granted, yet it is essential to human society as we know it. Our morality depends on it: How could anyone be expected to follow the golden rule without the capacity to mentally trade places with a fellow human being? It is logical to assume that this capacity came first, giving rise to the golden rule itself.",
+      "attribution": "Frans de Waal"
+  },{
+      "quote": "Exploring another's experience does not necessarily mean you have to agree with their outlook. It can result in many reactions ranging from compassion to manipulation to disgust."
+  },{
+      "quote": "We think we listen, but very rarely do we listen with real understanding, true empathy. Yet listening, of this very special kind, is one of the most potent forces for change that I know.",
+      "attribution": "Carl Rogers"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["empathy"],
+          "predominantType": "capacity",
+          "levels": {
+            "2,1": {
+              "experiences": ["many"]
+            },
+            "3": {
+              "experiences": ["empathy"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      }]
+  }]
+}

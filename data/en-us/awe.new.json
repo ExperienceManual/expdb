@@ -1,0 +1,99 @@
+{
+  "lang": "en/us",
+  "createDate": "20250223",
+  "updateDate": "20250611",
+  "name": "awe",
+  "valence": 1,
+  "quote": "That is absolutely amazing!.",
+  "description": "A vivid sensation that challenges your inner model of the everyday world in a humbling or even frightening way.",
+  "perceptions": ["This perception makes me realize how big, complex, and powerful the world can be.","I am tiny/huge/complex/simple."],
+  "desires": ["desire for agency"],
+  "results": ["Sometimes humbling, sometimes inspiring, sometimes scary"],
+  "guidance": [{
+      "description": "Awe helps make life more meaningful, but it's more likely to come to you if you're in a receptive frame of mind. These articles may help experience awe more often.",
+      "references": ["https://greatergood.berkeley.edu/article/item/six_ways_to_incorporate_awe_into_your_daily_life","https://dhwblog.dukehealth.org/cultivate-a-sense-of-awe-6-ideas-to-experience-wonder/","https://www.psychologytoday.com/us/blog/awakening-to-awe/202503/slow-simmer-vs-quick-boil-awe"]
+  }],
+  "related": ["wonder", "fear", "humility"],
+  "opposites": ["boredom", "ennui"],
+  "variations": [{
+      "name": "existential awe",
+      "description": "The sense of majesty and terror that comes from perceiving a thread of the fabric of existence.",
+      "perceptions": ["This perception makes me realize how big, complex, and powerful the world can be.","I am tiny/huge/complex/simple."],
+      "sensations": ["humility","fear","wonder"],
+      "results": ["reflect on existence"],
+      "guidance": [{
+          "description": "Research from a few experimental studies suggests that awe may increase spiritual and religious feelings.",
+          "attribution": "John Templeton Foundation",
+          "references": ["https://www.templeton.org/discoveries/the-science-of-awe"]
+      }],
+      "examples": ["God the Almighty", "The Pale Blue Dot"]
+  },{
+      "name": "awe of nature",
+      "description": "A humbling sense of wonder about nature's power, scale, beauty, and destructiveness.",
+      "perceptions": ["This perception makes me realize how complex, clever, and powerful nature can be."],
+      "sensations": ["humility","wonder"],
+      "guidance": [{
+          "description": "",
+          "attribution": "",
+          "references": [""]
+      }],
+      "examples": ["A hurricane", "The Grand Canyon", "A clear night sky full of stars"]
+  },{
+      "name": "social awe",
+      "description": "A humbling sense of amazement about someone displaying a valued skill or social characteristic beyond ordinary human capability.",
+      "perceptions": ["That person just did something that is truly impressive.","I am blown away."],
+      "sensations": ["admiration"],
+      "results": ["applause"],
+      "examples": ["A young musical prodigy", "Incredible boldness"]
+  }],
+  "commentaries": [{
+    "quote": "If an everyday social media post can be 'awesome' then that term has lost its proper meaning."
+  },{
+    "quote": "In mathematical terms, 'awe' is 'surprise' divided by zero. Sure, awe is driven by a perception that violates your inner patterns, but in a way that dissolves them at a fundamental level, silently letting you know that your patterns will never cover everything."
+  },{
+    "quote": "A sense of wonder and awe is the foundation of religion. Too often we associate religion with belonging to a church or professing certain beliefs, but the religious instinct is so much broader than that.",
+    "attribution": "Center for Action and Contemplation"
+  },{
+    "quote": "The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself.",
+    "attribution": "Henry Miller"
+  },{
+    "quote": "Because philosophy arises from awe, a philosopher is bound in his or her way to be a lover of myths and poetic fables. Poets and philosophers are alike in being big with wonder.",
+    "attribution": "Thomas Aquinas"
+  },{
+    "quote": "Only when awe of God rules your heart will you be able to keep the pleasures of the material world in their proper place.",
+    "attribution": "Paul David Tripp in 'Awe: Why It Matters for Everything We Think, Say, and Do'"
+  },{
+    "quote": "In some respects, science has far surpassed religion in delivering awe. How is it that hardly any major religion has looked at science and concluded, 'This is better than we thought! The Universe is much bigger than our prophets said, grander, more subtle, more elegant. God must be even greater than we dreamed'? Instead they say, 'No, no, no! My god is a little god, and I want him to stay that way.' A religion old or new, that stressed the magnificence of the universe as revealed by modern science, might be able to draw forth reserves of reverence and awe hardly tapped by the conventional faiths. Sooner or later such a religion will emerge.",
+    "attribution": "Carl Sagan"
+  }],
+  "spectrum": {"wonder": 2, "awe": 5, "stupifying": 8},
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["awe","existential awe","awe of nature"],
+          "predominantType": "sensation",
+          "levels": {
+            "4,3": {
+              "experiences": ["awe"]
+            },
+            "2,1": {
+              "experiences": ["fear", "delight"]
+            }
+          }
+       },{
+          "names": ["social awe"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["social awe","admiration"]
+            },
+            "2,1": {
+              "experiences": ["delight"]
+            }
+          }
+      }]
+  }]
+}

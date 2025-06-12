@@ -5,7 +5,7 @@
   "name": "addiction",
   "valence": -1,
   "quote": "He can't go a day without whiskey.",
-  "description": "A strong desire for a psychoactive substance.",
+  "description": "A strong desire for a psychoactive substance that has created a dependency.",
   "perceptions": ["Doing a certain thing makes me feel better in the moment.","I deserve to feel good.","I've done this before, it's ok."],
   "desires": ["desire for comfort"],
   "sensations": ["temptation"],

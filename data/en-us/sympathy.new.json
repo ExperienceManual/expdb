@@ -1,0 +1,51 @@
+{
+  "lang": "en/us",
+  "createDate": "20250223",
+  "updateDate": "20250610",
+  "name": "sympathy",
+  "valence": -1,
+  "quote": "I hope your dog feels better.",
+  "description": "Recognizing the suffering of a person or animal accompanied by a sense of sadness and a desire to see them better off.",
+  "perceptions": ["I understand that this person, group, or animal is having a negative experience.","It's unfortunate.","It could have been me.","I can at least show them some support."],
+  "desires": ["desire for comfort","desire for social contact"],
+  "sensations": ["sadness"],
+  "results": ["a desire to signal that you understand their situation"],
+  "personOfInterestExperiences": ["many negative"],
+  "guidance": [{
+      "description": "You can support your friends and loved ones by learning to express sympathy. Follow these steps to do so, keeping your doubts or negative reactions to yourself, and you may find that you develop more genuine sympathetic feelings than you expected.",
+      "attribution": "Evan Parks, PsyD",
+      "references": ["https://www.wikihow.com/Be-Sympathetic"]
+  }],
+  "related": ["empathy", "compassion", "pity"],
+  "opposites": ["disconnection", "contempt"],
+  "examples": ["someone's relative dies","a friend loses an important competition"],
+  "commentaries": [{
+      "quote": "To desire and expect nothing for oneself and to have profound sympathy for others is genuine holiness.",
+      "attribution": "Ivan Turgenev"
+  },{
+      "quote": "We should feel sorrow, but not sink under its oppression.",
+      "attribution": "Confucius"
+  },{
+      "quote": "Dislike is much easier to handle than sympathy.",
+      "attribution": "Amie Kaufman in 'These Broken Stars'"
+  }],
+  "spectrum": {"pity": 2, "sympathy": 4, "commiseration": 6, "compassion": 8},
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["sympathy"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["sympathy"]
+            },
+            "2,1": {
+              "experiences": ["sadness"]
+            }
+          }
+      }]
+  }]
+}

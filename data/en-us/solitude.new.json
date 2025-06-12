@@ -1,0 +1,115 @@
+{
+  "lang": "en/us",
+  "createDate": "20250215",
+  "updateDate": "20250611",
+  "name": "solitude",
+  "valence": -1,
+  "quote": "There's no one around.",
+  "description": "The state of being alone or at least not having any social attention.",
+  "perceptions": ["It's been a while since I've had meaningful social contact with someone."],
+  "results": ["Depending on the context, you may enjoy the experience or not. See the variations."],
+  "related": ["solitude"],
+  "opposites": ["happiness"],
+  "variations": [{
+      "name": "loneliness",
+      "description": "Sadness from lack of significant social attention.",
+      "perceptions": ["It's been a while since I've had meaningful social contact with someone.","I need to be seen and understood."],
+      "desires": ["desire for social contact","desire for validation","desire for stimulation"],
+      "sensations": ["emptiness","sadness"],
+      "guidance": [{
+          "description": "There are lots of ways to deal with loneliness and isolation. The solution depends on what's causing these feelings.",
+          "attribution": "Health A to Z",
+          "references": ["https://www2.hse.ie/mental-health/life-situations-events/loneliness/coping-with/"]
+      }],
+      "comparisons": [{
+          "links": ["positive solitude"],
+          "description": "'Loneliness' is when you're without social contact and you desire validation of your place in the world. 'Solitude' is also without social contact, but no need for validation."
+      }]
+  },{
+      "name": "positive solitude",
+      "description": "A sense that you're alone and the lack of social pressure helps create an experience of joy, tranquility, or productivity.",
+      "perceptions": ["I'm alone, but don't desire social contact right now.","The lack of social stimulation is good for me right now."],
+      "desires": ["desire for quiet"],
+      "sensations": ["happiness","relief"],
+      "guidance": [{
+          "description": "If you sometimes like to be alone, these articles may help find ways to carve out that space and enjoy it.",
+          "references": ["https://www.psychologytoday.com/us/blog/solitude-in-a-social-world/202202/8-ways-to-embrace-solitude","https://zenhabits.net/solitude/","https://www.success.com/how-to-find-solitude/"]
+      }]
+  }],
+  "commentaries": [{
+      "quote": "I want to be seen, to be understood deeply and to not be so very lonely.",
+      "attribution": "Erin Davis"
+  },{
+      "quote": "Loneliness and the feeling of being unwanted is the most terrible poverty.",
+      "attribution": "Mother Theresa"
+  },{
+      "quote": "Parenting alone can also feel isolating, especially when your children are younger. You can naturally miss adult company.",
+      "attribution": "Health A to Z (www.hse.ie)"
+  },{
+      "quote": "We are all born alone and die alone. The loneliness is definitely part of the journey of life.",
+      "attribution": "Jenova Chen"
+  },{
+      "quote": "Who knows what true loneliness is - not the conventional word but the naked terror? To the lonely themselves it wears a mask. The most miserable outcast hugs some memory or some illusion.",
+      "attribution": "Joseph Conrad"
+  },{
+      "quote": "I never found the companion that was so companionable as solitude.",
+      "attribution": "Henry David Thoreau"
+  },{
+      "quote": "If you are never alone, you cannot know yourself.",
+      "attribution": "Paulo Coelho"
+  },{
+      "quote": "I restore myself when I'm alone.",
+      "attribution": "Marilyn Monroe"
+  }],
+  "spectrum": {
+      "loneliness": 5,
+      "solitude": 5,
+      "isolation": 8
+  },
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["solitude"],
+          "predominantType": "sensation",
+          "levels": {
+            "1": {
+              "experiences": ["emptiness"]
+            },
+            "3,2": {
+              "experiences": ["solitude"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["loneliness"],
+          "predominantType": "sensation",
+          "levels": {
+            "1": {
+              "experiences": ["dismay"]
+            },
+            "3,2": {
+              "experiences": ["loneliness"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["positive solitude"],
+          "predominantType": "sensation",
+          "levels": {
+            "1": {
+              "experiences": ["satisfaction"]
+            },
+            "3,2": {
+              "experiences": ["positive solitude"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      }]
+  }]
+}

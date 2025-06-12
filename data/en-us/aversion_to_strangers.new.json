@@ -1,0 +1,100 @@
+{
+  "lang": "en/us",
+  "createDate": "20250222",
+  "updateDate": "20250609",
+  "name": "aversion to strangers",
+  "valence": -1,
+  "quote": "I don't usually hold with foreign food.",
+  "description": "Anxiety about people who are unfamiliar or have different customs or language.",
+  "perceptions": ["This person or group has unfamiliar characteristics.","I don't know what to expect or how to behave.","Maybe they won't like me."],
+  "desires": ["desire for comfort","desire for social status"],
+  "sensations": ["anxiety","discomfort","distrust"],
+  "results": ["desire to leave the unfamiliar context"],
+  "guidance": [{
+      "description": "In this article, we'll define social anxiety in general, explore specific social anxiety disorder symptoms, and share some strategies for overcoming social phobia.",
+      "attribution": "Williamsburg Therapy Group",
+      "references": ["https://williamsburgtherapygroup.com/blog/why-am-i-nervous-around-strangers-identifying-and-treating-social-anxiety-disorder"]
+  }],
+  "related": ["distrust", "criticism", "aversion", "contempt", "anxiety"],
+  "opposites": ["admiration", "desire for novelty"],
+  "variations": [{
+      "name": "stranger danger",
+      "description": "Being distrustful of unknown people in general or of a specific type.",
+      "perceptions": ["This person or group is unknown to me.","They look hostile or they could be dangerous somehow.","I need to be careful."],
+      "desires": ["desire for safety","desire for comfort"],
+      "sensations": ["distrust","fear"],
+      "results": ["desire to remove yourself from the situation safely"],
+      "guidance": [{
+          "description": "People with xenophobia experience significant, sudden anxiety and distress when they are around strangers. They often go out of their way to avoid seeing, interacting with, or even thinking about strangers.",
+          "attribution": "Laura Dorwart",
+          "references": ["https://www.verywellhealth.com/fear-of-strangers-xenophobia-5536959"]
+      }],
+      "links": ["group hostility"],
+      "examples": ["teaching kids to be wary of strangers"]
+  },{
+      "name": "cultural discomfort",
+      "description": "Being uncomfortable with people who's looks, ideas, language, or customs are different than what you're familiar with.",
+      "perceptions": ["This person or group is unknown to me.","They have unfamiliar customs or language.","I don't know what to expect or how to behave."],
+      "desires": ["desire for comfort","desire for social status"],
+      "sensations": ["anxiety","discomfort","distrust","contempt"],
+      "results": ["desire to leave the unfamiliar context"],
+      "guidance": [{
+          "description": "Because social acceptance is so important to us, being amongst people with different outlooks and customs can be stressful. If you're going to travel or care to explore your reactions, here are some interesting references.",
+          "references": ["https://www.gooverseas.com/blog/how-to-deal-with-culture-shock-while-studying-abroad","https://tedx.ucla.edu/project/iris_angelopoulou_the_embrace_of_discomfort/","https://www.whitworth.edu/cms/our-stories/magazine/how-to-connect-through-cultural-discomfort/index.htm"]
+      }],
+      "examples": ["person from another country or religion","person from the other side of the political spectrum"]
+  }],
+  "commentaries": [{
+      "quote": "Some people thrive in a multicultural environment, enjoying frequent new experiences. Some do not, preferring familiar things."
+  },{
+      "quote": "I was a picky eater as a teen. I wanted to control this one aspect of my life and liked being an expert on hamburgers. I didn't want to look ignorant by not knowing about weird foods like 'falafels' and 'paneer'. It does take a while to become attuned to all that stuff. But life is long, and I'm glad I did.",
+      "quote": "Bret G."
+  }],
+  "spectrum": {"aversion to strangers": 3, "chauvinism": 6, "xenophobia": 8},
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["aversion to strangers"],
+          "predominantType": "impulse",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2": {
+              "experiences": ["aversion to strangers"]
+            },
+            "1": {
+              "experiences": ["anxiety"]
+            }
+          }
+      },{
+          "names": ["stranger danger"],
+          "predominantType": "impulse",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2": {
+              "experiences": ["stranger danger","fear"]
+            },
+            "1": {
+              "experiences": ["anxiety"]
+            }
+          }
+      },{
+          "names": ["cultural discomfort"],
+          "predominantType": "impulse",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["cultural discomfort","contempt"]
+            },
+            "2": {
+              "experiences": ["anxiety"]
+            }
+          }
+      }]
+  }]
+}

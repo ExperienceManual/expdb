@@ -1,0 +1,48 @@
+{
+  "lang": "en/us",
+  "createDate": "20250223",
+  "updateDate": "20250611",
+  "name": "calmness",
+  "valence": 0,
+  "quote": "It's all good.",
+  "description": "A state where no emotions or insistent thoughts are stirring the mind.",
+  "perceptions": ["Nothing that requires my attention is happening right now.","There's no need to react or plan.","It's ok to just exist for now."],
+  "desires": ["desire for quiet"],
+  "guidance": [{
+      "description": "When you’re angry or anxious, some practices, including breathing techniques and releasing emotional energy, may help you calm yourself down.",
+      "attribution": "healthline.com",
+      "references": ["https://www.healthline.com/health/how-to-calm-down"]
+  }],
+  "related": ["joy"],
+  "opposites": ["excitement", "anxiety"],
+  "commentaries": [{
+      "quote": "The cultural term 'cool' is a celebration of calmness. It's positive because people who can react calmly to things likely have confidence and self-mastery."
+  },{
+      "quote": "Our waking minds are not often truly calm because the deepest self loves the frantic shadows cast from above. The best most of us can do to approximate calmness is to quickly suppress anxiety spikes."
+  },{
+      "quote": "The nearer a man comes to a calm mind, the closer he is to strength",
+      "attribution": "Marcus Aurelius"
+  },{
+      "quote": "Calmness of mind is one of the beautiful jewels of wisdom.",
+      "attribution": "James Allen"
+  },{
+      "quote": "Within you, there is a stillness and a sanctuary to which you can retreat at any time and be yourself.",
+      "attribution": "Herman Hesse"
+  }],
+  "spectrum": {"calmness": 3, "tranquility": 5, "serenity": 5},
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["calmness"],
+          "predominantType": "sensation",
+          "levels": {
+            "1": {
+              "experiences": ["calmness"]
+            },
+            "4,3,2": {
+              "experiences": ["many"]
+            }
+          }
+      }]
+  }]
+}

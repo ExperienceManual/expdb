@@ -47,7 +47,7 @@
   },{
       "name": "desire for trade",
       "description": "Wanting to exchange value with another person or group.",
-      "perceptions": ["Someone else has something that I'd like to have"."I have something they might like.","Attacking them won't help or is a bad idea."],
+      "perceptions": ["Someone else has something that I'd like to have.","I have something they might like.","Attacking them won't help or is a bad idea."],
       "desires": ["desire for social influence","desire for social status"],
       "guidance": [{
           "description": "Negotiation is a fundamental skill that plays a crucial role in both personal and professional life. Whether you’re negotiating a job offer, securing a contract, or resolving conflicts, strong negotiation skills can help you reach a beneficial agreement.",

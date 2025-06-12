@@ -7,7 +7,7 @@
   "description": "Wanting to experience a particular thing.",
   "perceptions": ["There's something I would like to experience."],
   "sensations": ["pain","boredom","lonliness","many negative"],
-  "links": [
+  "otherVariations": [
     "desire_for_agency",
     "desire_for_comfort",
     "desire_for_environment_knowledge",

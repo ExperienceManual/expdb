@@ -1,0 +1,56 @@
+{
+  "lang": "en/us",
+  "createDate": "20250223",
+  "updateDate": "20250610",
+  "name": "compassion",
+  "valence": -1,
+  "quote": "I'll call a vet who can help your dog!",
+  "description": "Recognizing the suffering of a person or animal with an active desire to help alleviate that suffering.",
+  "perceptions": ["I understand that this person, group, or animal is having a negative experience.","Helping them would feel good."],
+  "desires": ["desire for social contact","desire for agency","desire for existential status"],
+  "sensations": ["gaining","agency"],
+  "results": ["trying to determine the right way to help"],
+  "personOfInterestExperiences": ["many negative"],
+  "guidance": [{
+      "description": "(For increasing compassion) Contrary to what many may believe, compassion is considered to be like a muscle that, as any other, can be strengthened with relevant exercises—or can deteriorate and atrophy. In other words, your capacity for compassion can expand, if you choose. You likely never learned in school that you can intentionally strengthen inner skills such as compassion. The good news is that there are specific habits that you can practice in order to begin honing your abilities to expand compassion for yourself and for others.",
+      "attribution": "Hooria Jazaieri",
+      "references": ["https://greatergood.berkeley.edu/article/item/six_habits_of_highly_compassionate_people"]
+  },{
+      "description": "(For decreasing compassion) In healthy situations, you would never think that empathy and compassion could have downsides, right? When you’re with a Hijackal, a narcissistic, or other endlessly difficult person, you can find that you’ve stepped over into some strange land where empathy and compassion cause you to suffer.",
+      "attribution": "Dr. Rhoberta Schaler",
+      "references": ["https://www.forrelationshiphelp.com/giving-too-much-empathy-compassion-can-turn-toxic/"]
+  }],
+  "related": ["empathy", "sympathy", "pity"],
+  "opposites": ["disconnection", "contempt"],
+  "commentaries": [{
+      "quote": "Compassion is seen by some as a virtue and by others as a misguided practice. If you believe everyone should help each other, then you'll see it as a virtue and likely hope it will be reciprocated should you ever need help. But if you believe people should be responsible for their own situation, you may see 'bleeding heart' compassion as creating weakness in others."
+  },{
+      "quote": "A stranger’s compassion can make a world of difference.",
+      "attribution": "Oprah Winfrey"
+  },{
+      "quote": "Compassion is not a relationship between the healer and the wounded. It's a relationship between equals. Only when we know our own darkness well can we be present with the darkness of others. Compassion becomes real when we recognize our shared humanity.",
+      "attribution": "Pema Chodron in 'in The Places That Scare You: A Guide to Fearlessness in Difficult Times'"
+  },{
+      "quote": "Compassion is a necessary part of the Christian life. We weren’t meant to live on an island, only concerned with ourselves and our own affairs.",
+      "attribution": "Shanna on awomancreatedonpurpose.com"
+  }],
+  "spectrum": {"pity": 2, "sympathy": 4, "commiseration": 6, "compassion": 8},
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["compassion"],
+          "predominantType": "impulse",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["compassion"]
+            },
+            "2,1": {
+              "experiences": ["dismay", "agency"]
+            }
+          }
+      }]
+  }]
+}

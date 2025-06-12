@@ -1,0 +1,55 @@
+{
+    "lang": "en/us",
+    "createDate": "20250501",
+    "updateDate": "20250609",
+    "name": "aversion to loss",
+    "valence": -1,
+    "quote": "I need to buy it now in case the price goes up.",
+    "description": "A perception that losing a particularly valued thing is something to be avoided if at all possible.",
+    "perceptions": ["If I lose this game or asset I'll regret it forever."],
+    "desires": ["desire for comfort","desire for social status"],
+    "sensations": ["anxiety","fear"],
+    "results": ["you may avoid participating in something if there's a chance for loss."],
+    "related": ["losing","cheating"],
+    "examples": ["refusal to gamble","selling stocks on a short term dip"],
+    "guidance": [{
+        "description": "Loss aversion is a natural human tendency that exists to keep us from incurring losses. That being said, it is essential to know how to avoid loss aversion to prevent it from influencing our decisions, especially when there are potential gains to be made. There are two main strategies we can use to fight back against this bias: framing and putting loss into perspective.",
+        "attribution": "The Decision Lab",
+        "references": ["https://thedecisionlab.com/biases/loss-aversion"]
+    }],
+    "comparisons": [{
+        "links": ["losing"],
+        "description": "The sensation of 'losing' is what happens after you've lost. 'Aversion to loss' is a feeling of anxiety that can arise as you predict a potential loss."
+    }],
+    "commentaries": [{
+        "quote": "When directly compared or weighted against each other, losses look larger than gains.",
+        "attribution": "Daniel Kahneman"
+    },{
+        "quote": "Loss aversion helps produce inertia, meaning a strong desire to stick with your current holdings.",
+        "attribution": "Richard H. Thaler in 'Nudge: Improving Decisions About Health, Wealth, and Happiness'"
+    },{
+        "quote": "Letting go of attachments to material possessions, relationships, or past experiences that stifle or no longer serve us can be liberating and allow us to move forward with our lives. When we contain our 'loss aversion,' we learn to bounce back from setbacks and master the qualities for navigating life's challenges.",
+        "attribution": "Erik Pevernagie"
+    },{
+        "quote": "Loss aversion plays a significant role in cheating behavior. Players are more likely to cheat to avoid losing progress or status than to gain something new. This mirrors real-world behaviors where people are more likely to cheat on taxes to avoid owing money than to get a bigger refund.",
+        "attribution": "sobrief.com review of Jamie Madigan in 'Getting Gamers'"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["aversion to loss"],
+            "predominantType": "impulse",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["aversion to loss"]
+              },
+              "2,1": {
+                "experiences": ["anxiety"]
+              }
+            }
+        }]
+    }]
+}

@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250120",
-  "updateDate": "20250520",
+  "updateDate": "20250611",
   "name": "desire for social contact",
   "valence": 0,
   "quote": "I need a friendly ear.",
@@ -21,8 +21,18 @@
       "perceptions": ["I'd like to be amongst people of like mind."],
       "desires": ["desire for validation","desire for stimulation","desire for comfort"],
       "links": ["desire for social status"]
-    }
-  ],
+  },{
+      "name": "desire to be around animals",
+      "description": "A desire for interactions with animals. These can be simple and satisfying relationships.",
+      "perceptions": ["I'd like to spend some time with animals.","They aren't going to judge me for what I say, how I look, or what I believe.","They reconnect me with nature in a way."],
+      "desires": ["desire for stimulation","desire for validation"],
+      "examples": ["pets","zoos","animal shelters"],
+      "guidance": [{
+          "description": "Some of the greatest moments in life include the day we met our pets for the first time, and the day we adopted them and they came home with us. Here are 10 things to consider before bringing a new dog or cat home.",
+          "attribution": "Victoria Heuer",
+          "references": ["https://www.petmd.com/dog/care/evr_multi_10_things_consider_before_pet_adoption"]
+      }]
+  }],
   "comparisons": [{
     "links": ["lonliness"],
     "description": "Feeling lonely would certainly drive a desire for social contact, but you can desire social interaction for the stimulation without necessarily feeling lonely."
@@ -36,6 +46,9 @@
   },{
     "quote": "Human beings are social creatures. We are social not just in the trivial sense that we like company, and not just in the obvious sense that we each depend on others. We are social in a more elemental way: simply to exist as a normal human being requires interaction with other people.",
     "attribution": "Atul Gawande"
+  },{
+    "quote": "No one appreciates the very special genius of your conversation as the dog does.",
+    "attribution": "Christopher Morley"
   }],
   "models": [{
       "version": "em1",

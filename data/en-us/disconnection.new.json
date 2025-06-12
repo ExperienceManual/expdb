@@ -1,0 +1,73 @@
+{
+  "lang": "en/us",
+  "createDate": "20250223",
+  "updateDate": "20250223",
+  "name": "disconnection",
+  "valence": 0,
+  "quote": "I have no idea why you're reacting that way.",
+  "description": "Having trouble recognizing what another person or animal is experiencing.",
+  "perceptions": ["I cannot begin to imagine why that person or animal is behaving that way."],
+  "sensations": ["confusion","dissatisfaction"],
+  "results": ["You may recognize the disconnect and care about it, or not."],
+  "guidance": [{
+      "description": "Feeling distant from your partner? Signs, causes & what to do",
+      "attribution": "calm.com",
+      "references": ["https://www.calm.com/blog/feel-distant-from-partner"]
+  },{
+      "description": "If you would like to cultivate a better ability to connect with others in general, see the guidance for empathy.",
+      "references": ["empathy"]
+  }],
+  "related": ["disagreeableness"],
+  "opposites": ["empathy", "companionship", "group bond"],
+  "variations": [{
+      "name": "disconnection from yourself",
+      "description": "Feeling disconnected from your body, your feelings and your environment.",
+      "perceptions": ["I don't feel invested in what's happening and everything seems so distant."],
+      "desires": ["desire for comfort"],
+      "sensations": ["calmness","concern"],
+      "guidance": [{
+          "description": "As a short-term effect, feeling disconnected may be a reaction to stress, but if it recurs over a long enough time to affect your life and relationships, you might consider seeking professional help.",
+          "references": ["https://my.clevelandclinic.org/health/diseases/9791-depersonalization-derealization-disorder"]
+      }],
+      "examples": ["relaxing meditation","depersonalization disorder"]
+  }],
+  "commentaries": [{
+      "quote": "Disconnection is the inability to put yourself in the shoes of another. This can range from temporary exhaustion to deep-seated narcissism."
+  },{
+      "quote": "From the inside, disconnection doesn't feel like anything unless you also have a sense that you should be able to connect. Then you might feel confusion and dissonance."
+  },{
+      "quote": "Disconnect to reconnect. Unplug to get centered. Step away to come closer. Peaceful energy is just a breath away.",
+      "attribution": "Mary Davis in 'Every Day Spirit: A Daybook of Wisdom, Joy and Peace'"
+  },{
+      "quote": "We are living in dystopia, in a world that is dominated by technology and disconnect, alienation, loneliness, and dysfunction.",
+      "attribution": "Steven Wilson"
+  },{
+      "quote": "Current neuroscience research shows that the pain and feelings of disconnection are often as real as physical pain. And just as healing physical pain requires describing it, talking about it, and sometimes getting professional help, we need to do the same thing with emotional pain.",
+      "attribution": "Brené Brown in 'Atlas of the Heart: Mapping Meaningful Connection and the Language of Human Experience'"
+  },{
+      "quote": "I am unable to connect with negativity and toxic people today. Please check back at a later time.",
+      "attribution": "Germany Kent"
+  }],
+  "spectrum": {
+      "disconnection": 5,
+      "psychopath": 8
+  },
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["disconnection","disconnection from yourself"],
+          "predominantType": "sensation",
+          "levels": {
+            "2,1": {
+              "experiences": ["many"]
+            },
+            "3": {
+              "experiences": ["disconnection"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      }]
+  }]
+}

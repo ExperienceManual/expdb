@@ -1,0 +1,68 @@
+{
+  "lang": "en/us",
+  "createDate": "20250227",
+  "updateDate": "20250612",
+  "name": "love",
+  "valence": 1,
+  "description": "A sense that having repeated experiences with a particular person, animal, thing, idea, or sensation will be positive, healthy, and a welcome part of one of your identities.",
+  "perceptions": ["This experience is consistently positive.","This person or thing is a part of how I see myself.","This experience is not unhealthy for me.", "I am not being forced to have this experience against my will."],
+  "sensations": ["anticipation","delight"],
+  "otherVariations": [ "romantic love", "familial love", "group bond", "companionship", "self-love"],
+  "related": ["desire","appreciation","admiration"],
+  "opposites": ["hate"],
+  "variations": [{
+        "name": "animal love",
+        "description": "Looking forward to having repeated experiences with a particular animal that you view as an important part of your world.",
+        "perceptions": ["Interacting with this specific creature is always a positive experience.","It's a friend of mine."],
+        "desires": ["desire to be around animals"],
+        "sensations": ["wonder of nature"],
+        "examples": ["pets","horses"],
+        "guidance": [{
+            "description": "Before getting a pet, consider making sure your household is ready for one. See guidance for 'desire to be around animals'.",
+            "references": ["desire to be around animals"]
+        }]
+  },{
+      "name": "love this experience",
+      "description": "Looking forward to doing a particular activity or experiencing a particular sensory input.",
+      "perceptions": ["This experience is consistently positive.","This thing or activity is a part of how I see myself."],
+      "sensations": ["anticipation","delight"],
+      "examples": ["I love eating pizza","I love being a teacher","I love this song","Gollum's 'Precious'"]
+  }],
+  "commentaries": [{
+      "quote": "This definition of love is just the part that's common across the many relationships we cherish. Here's a breakdown of the key components: positive experiences (obviously), repeated (does not get boring), healthy (doesn't damage other parts of your life), and welcome (it is your choice). There are experiences people enjoy that can shift from ok to being unhealthy, from welcome to unwelcome. For instance, it's ok to say you 'love' a glass of wine in the evening, but an addiction to alcohol cannot be considered 'love'. See the links for more specific definitions.",
+      "tags": ["definition footnote"]
+  },{
+      "quote": "'Love' is a ridiculously broad term that applies to everything from your soul mate to your favorite fast-food joint. It can mean 'I like it' or it can mean 'deep and eternal core of my existence'."
+  },{
+      "quote": "Classical Greece defined several different types of loves: philautia (self-love), eros (romantic love), storge (familial love), philia (companionship and group bond), agape (universal love)"
+  },{
+      "quote": "In all relationships involving other people, there's a give-and-take of signaling that reveals interest or disinterest, respect and disrespect. These signals can be obvious or subtle, immediate or slow, conscious or unconscious. They sew us closer together bit by bit or drag us slowly apart."
+  }],
+  "spectrum": {"like": 1, "fond": 2, "adore": 3, "love": 5, "treasure": 6},
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["love"],
+          "predominantType": "node",
+          "levels": {
+              "4,3,2": {
+                  "experiences": ["love"]
+              },
+              "1": {
+                  "experiences": ["delight"]
+              }
+          }
+      },{
+          "names": ["animal love","love this experience"],
+          "predominantType": "sensation",
+          "levels": {
+              "4,3,2": {
+                  "experiences": ["love"]
+              },
+              "1": {
+                  "experiences": ["delight"]
+              }
+          }
+      }]
+  }]
+}

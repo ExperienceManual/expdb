@@ -1,0 +1,111 @@
+{
+  "lang": "en/us",
+  "createDate": "20250223",
+  "updateDate": "20250610",
+  "name": "pity",
+  "valence": -1,
+  "quote": "Sorry for your stomach ache, but I said that candy wasn't good for you.",
+  "description": "Recognizing the suffering of a person or animal but feeling removed or even relieved like the situation may be their fault or just the way of the world.",
+  "perceptions": ["I understand that this person, group, or animal is having a negative experience.","It's unfortunate.","I can't help them.","It's how things are."],
+  "desires": ["desire for comfort","desire for order"],
+  "sensations": ["gaining","justice"],
+  "results": ["you may feel fortunate relative to the other"],
+  "personOfInterestExperiences": ["many negative"],
+  "guidance": [{
+      "description": "Generally, people who feel sorry for others feel on some level that those they’re pitying are inferior. Even if they don’t do so consciously, they see those “little people” as somehow being less than they are because they don’t have the same amount of money, material possessions, social standing, attractiveness, and so on. When and if you feel sorry for someone because they don’t have your advantages, ask yourself if you’d still pity them if the advantages you currently have suddenly disappeared.",
+      "attribution": "Finn Robinson",
+      "references": ["https://www.aconsciousrethink.com/22088/why-you-feel-bad-for-everyone/"]
+  }],
+  "related": ["empathy", "compassion", "sympathy", "self-pity", "justice"],
+  "opposites": ["disconnection", "contempt"],
+  "comparisons": [{
+      "links": ["sympathy"],
+      "description": "Sympathy and pity are often used interchangably, but the definition used here places pity at more of an emotional distance. There's an element in pity of superiority; that the unfortunate person somehow deserves their situation. Perhaps this is rooted in relief and a rationalization for why the observer isn't the one suffering, but anyhow, sympathy is warmer than pity."
+  }],
+  "variations": [{
+      "name": "dissonant pity",
+      "description": "Recognizing the suffering of a person or animal but not sure whether it's better to help or let them experience it.",
+      "perceptions": ["I understand that this person, group, or animal is having a negative experience.","It's unfortunate, but it's how things are.","I'm not sure if I should help them."],
+      "desires": ["desire for comfort","desire for order","desire for social contact"],
+      "sensations": ["gaining","justice","sympathy"],
+      "results": ["you may feel fortunate relative to the other","try to determine whether to help"],
+      "personOfInterestExperiences": ["many negative"],
+      "links": ["compassion"],
+      "examples": [ "I told her not to do that, but didn't know it would be that bad." ]
+  },{
+      "name": "self-pity",
+      "description": "Negative sensations about your own suffering with no effort to improve the situation.",
+      "perceptions": ["I'm having a negative experience.","The situation is unfair and miserable.","I don't know how to improve the situation."],
+      "desires": ["desire for comfort"],
+      "sensations": ["frustration","injustice"],
+      "results": ["you may complain to get support from others"],
+      "links": ["victim"],
+      "guidance": [{
+          "description": "Self-pity is a mindset, and mindsets are malleable. Here are eight tips for decreasing your feelings of self-pity",
+          "attribution": "Maggie Wooll, MBA",
+          "references": ["https://www.betterup.com/blog/how-to-stop-self-pity"]
+      }],
+      "examples": ["Woe is me."]
+  }],
+  "commentaries": [{
+      "quote": "If you wish me well, do not stand pitying me, but lend me some succour as fast as you can; for pity is but cold comfort when one is up to the chin in water, and within a hair's breadth of starving or drowning.",
+      "attribution": "Aesop in 'The Fox in the Well'"
+  },{
+      "quote": "Friends should be very delicate and careful in administering pity as medicine, when enemies use the same article as poison.",
+      "attribution": "J. F. Boyes in 'Life and Books'"
+  },{
+      "quote": "Accept fate, and move on. Don't yield to the seductive pull of self-pity. Acting like a victim threatens your future.",
+      "attribution": "Oscar Auliq-Ice"
+  },{
+      "quote": "Pity is one who is in the light, giving from a distance a taster to the bats who feast in the darkness, but not teaching them how to acquire it.",
+      "attribution": "Connor Patrick Sullivan"
+  }],
+  "spectrum": {"pity": 2, "sympathy": 4, "commiseration": 6, "compassion": 8},
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["pity"],
+          "predominantType": "impulse",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["pity"]
+            },
+            "2,1": {
+              "experiences": ["sadness","relief"],
+              "description": "Relief is the sense that you're glad it's not you."
+            }
+          }
+      },{
+          "names": ["dissonant pity"],
+          "predominantType": "impulse",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["dissonant pity"]
+            },
+            "2,1": {
+              "experiences": ["sadness","dissonance"]
+            }
+          }
+      },{
+          "names": ["self-pity"],
+          "predominantType": "impulse",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["self pity"]
+            },
+            "2,1": {
+              "experiences": ["anxiety"]
+            }
+          }
+      }]
+  }]
+}

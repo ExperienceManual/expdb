@@ -44,10 +44,15 @@
       "name": "desire to ditch constraints",
       "description": "A desire to ignore some of the social constraints are limiting your agency.",
       "perceptions": ["All these social rules and expecations block my desires.","It would be nice to be free of them."],
+      "sensations": ["frustration"],
+      "results": ["bending rules","anti-social behavior"],
       "guidance": [{
-          "description": "
-          "attribution": "
-          "references": [
+          "description": "See guidance for cheating",
+          "references": ["cheating"]
+      }],
+      "examples": ["rebel without a cause","wild west"],
+      "commentaries": [{
+          "quote": "Frustration at being bound by societal rules is at the root of why many people are attracted to the bad guys: the Dark Lord, Rebel, Outlaw, Pirate. These people are exercising their selfish agency without regard to who they hurt or whether they're going to get in trouble. Yeah, and an apocolypse would suck, but at least you wouldn't have to think about short-term capital gains. Thank goodness a fantasy outlet is enough for most of us."
       }]
   }],
   "commentaries": [{
@@ -66,8 +71,6 @@
   },{
       "quote": "The Creator, in taking infinite pains to shroud with mystery His presence in every atom of creation, could have had but one motive - a sensitive desire that men seek Him only through free will.",
       "attribution": "Paramahansa Yogananda"
-  },{
-      "quote": "Frustration at being bound by societal rules is at the root of why many people are attracted to the bad guys: the Dark Lord, Rebel, Outlaw, Pirate. These people are exercising their selfish agency without regard to who they hurt or whether they're going to get in trouble. Thank goodness a fantasy outlet is enough for most of us."
   }],
   "models": [{
       "version": "em1",
