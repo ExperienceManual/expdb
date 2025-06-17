@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250123",
-  "updateDate": "20250524",
+  "updateDate": "20250612",
   "name": "desire for social status",
   "valence": 0,
   "quote": "One day I'm gonna be somebody.",
@@ -89,7 +89,7 @@
       "examples": ["online trolls"]
   },{
       "name": "social signaling",
-      "description": "Showing something characteristic of a particular social group to appeal to others interested in that group. This could be wearing a certain type of clothing, talking about certain topics, showing support for certain issues, etc.",
+      "description": "Showing something characteristic of a particular social group to appeal to others interested in that group. This could be wearing a certain type of clothing, talking about certain topics, showing support for certain issues, giving into peer pressure, etc.",
       "perceptions": ["It's important to be perceived well by a certain social group.","I want to show them how devoted I am to the group by doing or displaying something they care about."],
       "desires": ["desire for social status"],
       "guidance": [{

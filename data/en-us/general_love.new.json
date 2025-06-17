@@ -1,0 +1,75 @@
+{
+  "lang": "en/us",
+  "createDate": "20250301",
+  "updateDate": "20250615",
+  "name": "general love",
+  "valence": 1,
+  "quote": "Everything is one.",
+  "description": "A deep sense that everything and everyone is bound together and worth experiencing even if it's not always positive.",
+  "perceptions": ["Existence and its emergent creations are truly amazing.","I am fortunate to be a part of it all.","Everyone and everything has a part to play even if I don't particularly like it.","I can forgive a person without condoning certain actions."],
+  "desires": ["desire for order","desire for meaning"],
+  "sensations": ["calmness","awe"],
+  "guidance": [{
+      "description": "Some reasonable objections to the concept of general universal love include: forgiveness of unforgivable actions, diluting what 'love' means, and doubts about the biological possibility. Here are some articles that may help inform your position on this experience.",
+      "references": ["https://www.browndailyherald.com/article/2019/03/visiting-professor-presents-philosophical-argument-for-universal-love","https://dayamati.blog/2009/04/02/universal-love/"]
+  }],
+  "related": ["love"],
+  "opposites": ["angst"],
+  "variations": [{
+      "name": "agape",
+      "description": "The Christian concept of unconditional love, representing God's love for humans and the love Christians should strive to have for one another.",
+      "perceptions": ["God made us and loves us even when we aren't perfect.","A main purpose is to improve ourselves in the eyes of God.","I can forgive a person without condoning certain actions."],
+      "desires": ["desire for order","desire to improve the self","desire for meaning"],
+      "sensations": ["calmness"],
+      "guidance": [{
+          "description": "Embracing agape love is a journey of transformation. It requires us to look beyond ourselves and to see others through the lens of God’s love.",
+          "attribution": "crosspointchurchtx.org",
+          "references": ["https://www.crosspointchurchtx.org/2025/02/embracing-agape-the-transformative-power-of-gods-love"]
+      }]
+  },{
+      "name": "loving-kindness",
+      "description": "The Buddhist concept of compassionate universal love extended to all beings.",
+      "perceptions": ["Everything is as it needs to be.","My judgments won't change the nature of the thing anyhow.","I can forgive a person without condoning certain actions."],
+      "desires": ["desire for order","desire to improve the self","desire for meaning"],
+      "sensations": ["calmness"],
+      "guidance": [{
+          "description": "Having a general attitude of kindness is not like shining a beam of kindly attention toward every being in the universe. It’s more like a bonfire, shedding light and heat in every direction; whatever beings it encounters will be met with warmth.",
+          "attribution": "Bodhipaksa",
+          "references": ["https://www.wildmind.org/metta/metta-five"]
+      }]
+  }],
+  "commentaries": [{
+      "quote": "General universal love is neither natural nor easy. It's a rare human superpower that few strive to unlock."
+  },{
+      "quote": "Agape love is selfless love . . . the love God wants us to have isn’t just an emotion but a conscious act of the will—a deliberate decision on our part to put others ahead of ourselves. This is the kind of love God has for us.",
+      "attribution": "Billy Graham"
+  },{
+      "quote": "Before enlightenment, chop wood, carry water. After enlightenment, chop wood, carry water.",
+      "attribution": "Zen"
+  },{
+      "quote": "The characteristic of loving-kindness is to promote wellbeing. Its function is to prefer wellbeing. Its manifestation is the removal of annoyance. Its proximate cause is seeing the loveliness of beings. It succeeds when it makes ill-will subside, and it fails when it produces selfish affection.",
+      "attribution": "Buddhaghosa in 'Visuddhimagga'"
+  }],
+  "spectrum": {
+      "general love": 7,
+      "universal love": 7
+  },
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["*"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["general love"]
+            },
+            "2,1": {
+              "experiences": ["satisfaction", "comfort"]
+            }
+          }
+      }]
+  }]
+}

@@ -1,0 +1,140 @@
+{
+    "lang": "en/us",
+    "createDate": "20250501",
+    "updateDate": "20250614",
+    "name": "stuck relationship",
+    "valence": 0,
+    "quote": "I don't know where we stand today.",
+    "description": "A relationship that's important to you, but sometimes positive, sometimes negative, and often stressful or low engagement.",
+    "perceptions": ["Experiences with this person are sometimes positive and sometimes negative.","This person is an important part of my life.","Interactions with this person are stressful or infrequent."],
+    "desires": ["desire for social contact"],
+    "sensations": ["anxiety"],
+    "results": ["try to make the relationship work"],
+    "guidance": [{
+        "description": "Many relationships lose their spark over time, but it isn’t always a sign that things are broken beyond repair. What might feel like a dying relationship can often be saved or restored with a mutual commitment to making things work.",
+        "attribution": "healthline.com",
+        "references": ["https://www.healthline.com/health/how-to-save-a-relationship"]
+    }],
+    "variations": [{
+      "name": "dependant relationship",
+      "description": "A sense that you may have lost agency because you have to sacrifice a lot to maintain a relationship that is critical to you. This relationship may have once been great, and you may still admire this person, but you may feel trapped between feeding the relationship, your own priorities, and being deeply afraid of the person leaving.",
+      "perceptions": ["An important part of my life depends on this person.","We had good times and I still often admire them.","The relationship takes a fair amount of maintenance.","I lose agency when around this person."],
+      "desires": ["desire for social contact","desire for order","desire for meaning","desire for sex"],
+      "sensations": ["many"],
+      "results": ["wanting to spend more time with this person","feeling anxious about how to please them"],
+      "personOfInterestExperiences": ["maybe the same"],
+      "guidance": [{ 
+          "description": "Many people struggle with codependency, making it difficult to build healthy and mutually satisfying relationships. It can be tough to change these habits, but with therapy, self-care, and the right coping strategies, codependent individuals can learn how to overcome codependency and establish healthy, rewarding relationships.", 
+          "attribution": "Meaghan Rice PsyD., LPC",
+          "references": ["https://www.talkspace.com/blog/how-to-stop-being-codependent/"]
+      }],
+      "links": ["anxiety"],
+      "examples": ["They can't bear to be apart for even a day."]
+    },{
+      "name": "lustful relationship",
+      "description": "A sense that the relationsip is based mostly on the sex. Experiences with this person outside of the physical are either not important or often negative.",
+      "perceptions": ["Mostly what I like about this relationship is the sex.","Beyond that, we don't often have positive experiences."],
+      "desires": ["desire for sex"],
+      "personOfInterestExperiences": ["maybe the same, maybe not"],
+      "guidance": [{
+          "description": "Why Do They Keep Having Sex With Me If They’re Not Interested Or Don’t Want The Relationship I Want?",
+          "attribution": "Natalie",
+          "references": ["https://baggagereclaim.co.uk/why-do-they-keep-having-sex-with-me-if-theyre-not-interested-or-dont-want-the-relationship-i-want/"]
+      }],
+      "links": ["desire for sex"]
+  },{
+      "name": "one-sided relationship",
+      "description": "A sense that having repeated experiences with a particular person, animal, thing, idea, or sensation would be positive, healthy, and a welcome part of one of your identities. In addition, you find this person attractive or admirable, but either they don't know you at all or aren't interested in having a relationship with you.",
+      "perceptions": ["Experiencies with this person would be positive and healthy.","This person could be a major part of how I see myself in the future.","I find this person attractive or admirable.","I think this person could feel the same way about me if I could find a way to connect."],
+      "desires": ["desire for social contact","desire for order","desire for meaning","desire for sex"],
+      "sensations": ["many"],
+      "results": ["try to get the person's attention","admire from a distance"],
+      "personOfInterestExperiences": ["many"],
+      "guidance": [{
+          "description": "Understanding Unrequited Love and How to Move On",
+          "attribution": "Jodi Clarke, MA, LPC/MHSP",
+          "references": ["https://www.verywellmind.com/unrequited-love-4175362"]
+      }],
+      "links": ["physical appreciation"],
+      "examples": ["He missed her dearly after she broke up with him."]
+  },{
+      "name": "family duty",
+      "description": "A sense that you need to support a family member even if they don't invoke consistently positive feelings.",
+      "perceptions": ["This person is related to me by blood or marriage.","I don't always agree with their actions or outlooks.","They are a part of my life, so I will continue to support them."],
+      "desires": ["desire for order","desire for agency"],
+      "guidance": [{
+          "description": "7 Strategies to Deal With Difficult Family Members",
+          "attribution": "Abigail Brenner M.D.",
+          "references": ["https://www.psychologytoday.com/us/blog/in-flux/201802/7-strategies-to-deal-with-difficult-family-members"]
+      }],
+      "links": ["responsibility"],
+      "examples": ["He still helped his dad despite their differences."]
+    },{
+      "name": "estranged family",
+      "description": "Family members who you're no longer talking to because they create more negative feelings than positive.",
+      "perceptions": ["This person is related by blood or marriage.","Interactions with them are almost always stressful and negative.", "I prefer to not have to deal with them.","They probaby feel the same about me."],
+      "desires": ["desire for comfort"],
+      "sensations": ["sadness"],
+      "guidance": [{
+          "description": "Struggling to coexist with difficult family members? Learn about common sources of conflict and how to deal with dysfunctional family relationships.",
+          "attribution": "Sheldon Reid",
+          "references": ["https://www.helpguide.org/relationships/social-connection/dealing-with-difficult-family-relationships"]
+      }],
+      "examples": [
+        "There was a split in the family after the Thanksgiving argument."
+      ]
+    }],
+    "commentaries": [{
+        "quote": "Relationships in this category may have once felt on the track to being great, but are currently in a state that doesn't feel ideal. It's possible that they get unstuck and progress to a mutually acceptable place. Or you may decide that it's good enough as it is.",
+        "tags": ["definition footnote"]
+    },{
+        "quote": "You don’t develop courage by being happy in your relationships every day. You develop it by surviving difficult times and challenging adversity.",
+        "attribution": "Epicurus"
+    },{
+        "quote": "Love doesn’t just sit there, like a stone; it has to be made, like bread; remade all the time, made new.",
+        "attribution": "Ursula K. LeGuin"
+    },{
+        "quote": "Sometimes, toxic people are like a black hole. No matter how much love and effort you pour into them, they never seem satisfied.",
+        "attribution": "Dr. Ramani Durvasula"
+    },{
+        "quote": "The way you help heal the world is you start with your own family.",
+        "attribution": "Mother Teresa"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["stuck relationship"],
+            "predominantType": "node",
+            "levels": {
+              "2,1": {
+                "experiences": ["anxiety"]
+              },
+              "4,3": {
+                "experiences": ["stuck relationship"]
+              }
+            }
+        },{
+            "names": ["dependent relationship","one-sided relationship","family duty","estranged family"],
+            "predominantType": "sensation",
+            "levels": {
+              "2,1": {
+                "experiences": ["anxiety","dissatisfaction"]
+              },
+              "4,3": {
+                "experiences": ["stuck relationship"]
+              }
+            }
+        },{
+            "names": ["lustful relationship"],
+            "predominantType": "sensation",
+            "levels": {
+              "2,1": {
+                "experiences": ["desire for sex","dissatisfaction"]
+              },
+              "4,3": {
+                "experiences": ["lustful relationship"]
+              }
+            }
+        }]
+    }]
+}

@@ -1,0 +1,160 @@
+{
+    "lang": "en/us",
+    "createDate": "20250615",
+    "updateDate": "20250616",
+    "name": "healthy self-regard",
+    "valence": 1,
+    "timescale": ["unknown"],
+    "rarity": ["unknown"],
+    "frequency": ["unknown"],
+    "quote": "I think I've got this.",
+    "description": "Having a positive and accurate view of your role in the world, being able to stand up for yourself, accepting your perceived shortcomings, and taking care of yourself without ignoring others.",
+    "perceptions": ["I'm comfortable with who I am, warts and all.","I am ready to defend my interests when necessary.","I take time to do things for myself when needed.","I care about others and account for their interests in my actions when feasible."],
+    "desires": ["desire for agency","desire for comfort","desire for meaning"],
+    "sensations": ["many"],
+    "related": ["love","expertise","optimism"],
+    "opposites": ["unhealthy self-regard"],
+    "comparisons": [{
+        "links": ["self-esteem","self-respect","self-acceptance","self-care"],
+        "description": "Healthy self-regard is defined here as a combination of 4 inter-related aspects of your expression in the world: (1) Self-esteem is a positive externally-focused self-evaluation. (2) Self-respect is taking externally-focused actions to represent your interests. (3) Self-acceptance is a positve internally-focused self-evaluation. (4) Self-care is taking action on internally-focused needs."
+    }],
+    "guidance": [{
+        "description": "See guidance for the components of self-regard.",
+        "references": ["self-esteem","self-respect","self-acceptance","self-care"]
+    }],
+    "variations": [{
+        "name": "self-esteem",
+        "description": "A positive evaluation of your external worth.",
+        "timescale": ["unknown"],
+        "rarity": ["unknown"],
+        "frequency": ["unknown"],
+        "opposites": ["self-doubt"],
+        "perceptions": ["I have a place in the world.","My capabilities are good enough to do what's needed."],
+        "desires": ["desire for agency","desire for social status"],
+        "guidance": [{
+            "description": "Here are some resources for improving your self-esteem.",
+            "references": ["https://www.mind.org.uk/information-support/types-of-mental-health-problems/self-esteem/tips-to-improve-your-self-esteem/","https://www.betterup.com/blog/how-to-improve-self-esteem"]
+        }]
+    },{
+        "name": "self-respect",
+        "description": "Assertively acting on or defending your interests.",
+        "timescale": ["unknown"],
+        "rarity": ["unknown"],
+        "frequency": ["unknown"],
+        "opposites": ["timidness"],
+        "perceptions": ["It's ok to represent my preferences in the world.","My capabilities are good enough to do what's needed."],
+        "desires": ["desire for agency","desire for social status"],
+        "guidance": [{
+            "description": "Here are six practical ways to cultivate greater self-respect and foster a healthier and more compassionate relationship with yourself.",
+            "attribution": "Kate James",
+            "references": ["https://totalbalance.com.au/6-steps-to-build-self-respect/"]
+        }],
+        "comparisons": [{
+            "links": ["self-esteem"],
+            "description": "You might have a healthy evaluation of your worth (self-esteem), but be concerned for some reason about exercising your preferences in the world (self-respect)."
+        }]
+    },{
+        "name": "self-acceptance",
+        "description": "A positive evaluation of how you align with self-expectations.",
+        "timescale": ["unknown"],
+        "rarity": ["unknown"],
+        "frequency": ["unknown"],
+        "opposites": ["self-condemnation"],
+        "perceptions": ["I'm comfortable with whatever flaws I perceive in myself.","I'm not perfect and may want to improve things, but am aligned well enough to not beat myself up too much."],
+        "desires": ["desire for order"],
+        "guidance": [{
+            "description": "Many of us have trouble accepting ourselves exactly as we are. It’s not so hard to accept the good parts of ourselves, but what about the rest? Surely we shouldn’t accept our flaws and failures? In fact, that’s exactly what we should do! Read on to learn why we need to accept ourselves, the good and the bad, and to get some practical suggestions on how to do it.",
+            "attribution": "Courtney E. Ackerman, MA.",
+            "references": ["https://positivepsychology.com/self-acceptance/"]
+        }]
+    },{
+        "name": "self-care",
+        "description": "Taking time to do things for yourself when needed.",
+        "timescale": ["unknown"],
+        "rarity": ["unknown"],
+        "frequency": ["unknown"],
+        "opposites": ["self-neglect"],
+        "perceptions": ["It's ok for me to prioritize my needs along with taking care of others."],
+        "desires": ["desire for comfort"],
+        "guidance": [{
+            "description": "In today’s fast-paced world, it’s easy to get caught up in the hustle and bustle of daily life. Between work, family and other responsibilities, it can be challenging to find time for yourself. However, taking care of your mental health is crucial for overall well-being. That’s where self-care comes in. Self-care is the practice of taking care of your physical, emotional and mental health. It involves making time for yourself and engaging in activities that bring you joy and relaxation.",
+            "attribution": "turningpointcare.com",
+            "references": ["https://turningpointcare.com/blog/7-tips-for-practicing-self-care/"]
+        }],
+        "comparisons": [{
+            "links": ["self-acceptance"],
+            "description": "You might have a healthy evaluation of your self-expectations (self-acceptance), but feel like you are unable to act on things you need for yourself (self-care)."
+        }]
+    },{
+        "name": "self-compassion",
+        "description": "A combination of self-acceptance and self-care.",
+        "timescale": ["unknown"],
+        "rarity": ["unknown"],
+        "frequency": ["unknown"],
+        "opposites": ["self-condemnation","self-neglect"],
+        "perceptions": ["I'm comfortable with whatever flaws I perceive in myself.","It's ok for me to prioritize my needs along with taking care of others."],
+        "desires": ["desire for comfort"],
+        "guidance": [{
+            "description": "Instead of mercilessly judging and criticizing yourself for various inadequacies or shortcomings, self-compassion means you are kind and understanding when confronted with your failings – after all, who ever said you were supposed to be perfect?",
+            "attribution": "Dr. Kristin Neff",
+            "references": ["https://self-compassion.org/"]
+        }]
+    }],
+    "commentaries": [{
+        "quote": "There are many overlapping definitions for self-regard, self-esteem, etc. The definitions here try to respect the important nuances in an understandable way.",
+        "tags": ["definition footnote"]
+    },{
+        "quote": "The most terrifying thing is to accept oneself completely.",
+        "attribution": "Carl Jung"
+    },{
+        "quote": "Respect yourself and others will respect you.",
+        "attribution": "Confucious"
+    },{
+        "quote": "It's not my responsibility to be beautiful. I'm not alive for that purpose. My existence is not about how desirable you find me.",
+        "attribution": "Warsan Shire"
+    },{
+        "quote": "You can search throughout the entire universe for someone who is more deserving of your love and affection than you are yourself, and that person is not to be found anywhere.",
+        "attribution": "Sharon Salzberg"
+    }],
+    "spectrum": {
+        "healthy self-regard": 5,
+        "self-love": 5
+    },
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["healthy self-regard"],
+            "predominantType": "node",
+            "levels": {
+              "4,3": {
+                "experiences": ["healthy self-regard"]
+              },
+              "2,1": {
+                "experiences": ["many"]
+              }
+            }
+        },{
+            "names": ["self-esteem","self-acceptance","self-compassion"],
+            "predominantType": "sensation",
+            "levels": {
+              "4,3": {
+                "experiences": ["self-esteem","self-acceptance"]
+              },
+              "2,1": {
+                "experiences": ["many"]
+              }
+            }
+        },{
+            "names": ["self-respect","self-care"],
+            "predominantType": "action",
+            "levels": {
+              "4,3": {
+                "experiences": ["self-respect","self-care"]
+              },
+              "2,1": {
+                "experiences": ["many"]
+              }
+            }
+        }]
+    }]
+}

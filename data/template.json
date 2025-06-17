@@ -4,6 +4,9 @@
     "updateDate": "20250501",
     "name": "",
     "valence": 1,
+    "timescale": ["unknown"],
+    "rarity": ["unknown"],
+    "frequency": ["unknown"],
     "quote": "",
     "description": "",
     "otherVariations": [],
@@ -23,6 +26,9 @@
     "variations": [{
         "name": "",
         "description": "",
+        "timescale": ["unknown"],
+        "rarity": ["unknown"],
+        "frequency": ["unknown"],
         "links": [],
         "perceptions": [""],
         "desires": [""],
@@ -30,6 +36,7 @@
         "results": [""],
         "personOfInterestExperiences": [""],
         "examples": [],
+        "opposites": [],
         "comparisons": [{
             "links": [],
             "description": ""

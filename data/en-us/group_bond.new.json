@@ -1,0 +1,123 @@
+{
+  "lang": "en/us",
+  "createDate": "20250301",
+  "updateDate": "20250614",
+  "name": "group bond",
+  "valence": 1,
+  "quote": "He's a big fan of the baseball team.",
+  "description": "Positive feelings about others that share in a particular social structure.",
+  "perceptions": ["My experiences with this group of people are consistently positive.","Even if the environment isn't always great, the people make it worthwhile.","I consider myself a member of this group.","I look forward to interacting with group members on our shared interests."],
+  "desires": ["desire for social contact","desire for social status"],
+  "sensations": ["social contact","enthusiasm","pride"],
+  "guidance": [{
+      "description": "Team bonds and connections are the foundation of good team work. Team building activities are an effective way to help groups get to know each other better, have fun and improve collaboration.",
+      "attribution": "James Smart",
+      "references": ["https://www.sessionlab.com/blog/team-building-activities/"]
+  }],
+  "related": ["love"],
+  "opposites": ["group hate"],
+  "examples": ["coworkers", "nationalism"],
+  "variations": [{
+      "name": "team spirit",
+      "description": "Positive feelings towards your group in a friendly competition with other teams.",
+      "perceptions": ["I'm part of a team or a supporter of a team.","Even if the team isn't always great, I'm supposed to support them.","It's ok if other teams win.","People on other teams are like me, just rooting for their team.","The whole thing really isn't that serious."],
+      "desires": ["desire for social contact","desire for social status"],
+      "sensations": ["social contact","enthusiasm","pride"],
+      "guidance": [{
+          "description": "Team spirit can make a group work better together, and may be more fun for individuals as well. There are online references for tips on creating an environment where the team can bond.",
+          "references": ["https://www.culturemonkey.io/employee-engagement/spirit-of-the-team/","https://vocal.media/humans/how-to-build-team-spirit-in-sports-advantages-and-more"]
+      }],
+      "examples": ["sports teams", "hackathon team"]
+  },{
+      "name": "tribalism",
+      "description": "Positive feelings towards your group along with negative feelings towards competing groups.",
+      "perceptions": ["I'm part of a group.","Even if the group isn't always great at something, I must support them.","It's bad if other groups win.","People in other groups are strange and untrustable.","The outcome of group rivalry is serious."],
+      "desires": ["desire for social contact","desire for social status"],
+      "sensations": ["social contact","enthusiasm","pride","contempt"],
+      "guidance": [{
+          "description": "In order to adhere to social norms or to seek social acceptance, we may go along with ideas or activities that contradict our personal values and beliefs. However, we may not realize the price we pay for just going along. Consistently professing to be someone else bleeds into our intrinsic self, and over time, we unconsciously adopt patterns of behavior that alter the way we think and feel.",
+          "attribution": "S. David Wu",
+          "references": ["https://presidentsblog.baruch.cuny.edu/on-tribalism-it-may-or-may-not-be-what-you-think/"]
+      }],
+      "examples": ["culture wars","sports fans fighting after the match","actual tribes"]
+  },{
+      "name": "spiritual bond",
+      "description": "A sense that you are on a path of existential meaning with a like-minded group.",
+      "perceptions": ["I'm on a spiritual journey with a group of people.","My interactions with this group are positive.","We support each other in our understanding and in our lives."],
+      "desires": ["desire for meaning","desire for social contact"],
+      "sensations": ["social contact","meaning"],
+      "guidance": [{
+          "description": "See guidance for 'spiritual friendship'.",
+          "references": ["spiritual friendship"]
+      }],
+      "links": ["spiritual friend"],
+      "examples": ["religious group"]
+  }],
+  "commentaries": [{
+      "quote": "We love belonging to social structures because they provide identity, community, and purpose. You may want to be cautious about joining groups that are bonded mostly by a dislike for other groups."
+  },{
+      "quote": "The human ability to join into groups is one or our superpowers. Well-organized groups can do things that would be impossible alone, from building pyramids to spaceflight."
+  },{
+      "quote": "Find a group of people who challenge and inspire you, spend a lot of time with them, and it will change your life forever.",
+      "attribution": "Amy Poehler"
+  },{
+      "quote": "Coming together is a beginning. Keeping together is progress. Working together is success.",
+      "attribution": "Henry Ford"
+  },{
+      "quote": "If you follow Jesus faithfully, you will be slowly set free from the suspicion, disdain, and hatred that characterize every other tribe, without losing the cohesion, empathy, and solidarity that we all long to experience.",
+      "attribution": "Patrick Miller and Keith Simon in 'Truth Over Tribe'"
+  },{
+      "quote": "Tribes are the magnet that attracts the metal of our craving to belong. They assure us that we’re right and morally superior. They force us into a different reality where it becomes impossible to see—let alone comprehend—another worldview.",
+      "attribution": "Ozan Varol in 'Awaken Your Genius: Escape Conformity, Ignite Creativity, and Become Extraordinary'"
+  },{
+      "quote": "Phrases like 'the team spirit' are always employed to cut across individualism, love and personal loyalties.",
+      "attribution": "Muriel Spark in 'The Prime of Miss Jean Brodie'"
+  }],
+  "spectrum": {"team spirit": 5, "group bond": 5, "tribalism": 8},
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["group bond","team spirit"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2": {
+              "experiences": ["group bond","enthusiasm"]
+            },
+            "1": {
+              "experiences": ["comfort"]
+            }
+          }
+      },{
+          "names": ["tribalism"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2": {
+              "experiences": ["group bond","pride","contempt"]
+            },
+            "1": {
+              "experiences": ["comfort","anxiety"]
+            }
+          }
+      },{
+          "names": ["spiritual bond"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2": {
+              "experiences": ["group bond","meaning"]
+            },
+            "1": {
+              "experiences": ["comfort"]
+            }
+          }
+      }]
+  }]
+}

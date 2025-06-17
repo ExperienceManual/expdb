@@ -4,24 +4,13 @@
   "updateDate": "20250612",
   "name": "love",
   "valence": 1,
-  "description": "A sense that having repeated experiences with a particular person, animal, thing, idea, or sensation will be positive, healthy, and a welcome part of one of your identities.",
+  "description": "A sense that having repeated experiences with a particular person, animal, thing, idea, or sensation will be positive, healthy, and a welcome part of your life.",
   "perceptions": ["This experience is consistently positive.","This person or thing is a part of how I see myself.","This experience is not unhealthy for me.", "I am not being forced to have this experience against my will."],
   "sensations": ["anticipation","delight"],
-  "otherVariations": [ "romantic love", "familial love", "group bond", "companionship", "self-love"],
+  "otherVariations": [ "romantic love", "familial love", "group bond", "companionship", "healthy self-regard"],
   "related": ["desire","appreciation","admiration"],
   "opposites": ["hate"],
   "variations": [{
-        "name": "animal love",
-        "description": "Looking forward to having repeated experiences with a particular animal that you view as an important part of your world.",
-        "perceptions": ["Interacting with this specific creature is always a positive experience.","It's a friend of mine."],
-        "desires": ["desire to be around animals"],
-        "sensations": ["wonder of nature"],
-        "examples": ["pets","horses"],
-        "guidance": [{
-            "description": "Before getting a pet, consider making sure your household is ready for one. See guidance for 'desire to be around animals'.",
-            "references": ["desire to be around animals"]
-        }]
-  },{
       "name": "love this experience",
       "description": "Looking forward to doing a particular activity or experiencing a particular sensory input.",
       "perceptions": ["This experience is consistently positive.","This thing or activity is a part of how I see myself."],
@@ -34,7 +23,7 @@
   },{
       "quote": "'Love' is a ridiculously broad term that applies to everything from your soul mate to your favorite fast-food joint. It can mean 'I like it' or it can mean 'deep and eternal core of my existence'."
   },{
-      "quote": "Classical Greece defined several different types of loves: philautia (self-love), eros (romantic love), storge (familial love), philia (companionship and group bond), agape (universal love)"
+      "quote": "Classical Greece defined several different types of loves: philautia (self-regard), eros (romantic love), storge (familial love), philia (companionship and group bond), agape (universal love)"
   },{
       "quote": "In all relationships involving other people, there's a give-and-take of signaling that reveals interest or disinterest, respect and disrespect. These signals can be obvious or subtle, immediate or slow, conscious or unconscious. They sew us closer together bit by bit or drag us slowly apart."
   }],
@@ -53,7 +42,7 @@
               }
           }
       },{
-          "names": ["animal love","love this experience"],
+          "names": ["love this experience"],
           "predominantType": "sensation",
           "levels": {
               "4,3,2": {

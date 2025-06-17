@@ -55,6 +55,19 @@
           "references": ["https://www.oxford-royale.com/articles/communicate-better-language-and-culture-barriers"]
       }],
       "examples": ["traveling in another country"]
+  },{
+      "name": "utility contact",
+      "description": "Keeping in touch with someone mostly because that relationship brings status or could be beneficial in the future.",
+      "perceptions": ["Experiences with this person are neutral.","They have access to something that could be useful someday.","I'd like to maintain a relationship just in case."],
+      "desires": ["desire for social status"],
+      "guidance": [{
+          "description": "Networking is a valuable skill that can help you advance your career, find new opportunities, and learn from others in your field. But networking is not a one-time event. It requires consistent and strategic follow-up to maintain and strengthen your connections.",
+          "attribution": "LinkedIn",
+          "references": ["https://www.linkedin.com/advice/3/how-often-should-you-follow-up-your-network-skills-networking"]
+      }],
+      "examples": [
+        "She knows about all the job openings in my industry."
+      ]
   }],
   "commentaries": [{
       "quote": "We are deeply social creatures with a nuanced ability to perceive the social situation. Unless you're a psychopath, your social sense is as developed and important as your sense of smell."

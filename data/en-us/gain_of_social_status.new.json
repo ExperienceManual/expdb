@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250216",
-  "updateDate": "20250216",
+  "updateDate": "20250616",
   "name": "gain of social status",
   "valence": 1,
   "quote": "I got the promotion!",
@@ -96,6 +96,9 @@
   },{
       "quote": "Life is like a dogsled race. If you ain't the lead dog, the scenery never changes.",
       "attribution": "Lewis Grizzard"
+  },{
+      "quote": "There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.",
+      "attribution": "Ernest Hemingway"
   }],
   "models": [{
       "version": "em1",

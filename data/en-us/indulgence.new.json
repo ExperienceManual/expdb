@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20241129",
-  "updateDate": "20250513",
+  "updateDate": "20250612",
   "name": "indulgence",
   "valence": 0,
   "quote": "A big piece of chocolate cake please.",
@@ -26,7 +26,7 @@
           "references": ["https://yourlifecounts.org/learning-center/peer-pressure/20-ways-to-avoid-peer-pressure/","https://wholejourneywellness.com/social-pressure-resisting-peer-pressure-and-staying-true-to-yourself-during-the-holidays/"]
       }],
       "links": ["desire for social status"],
-      "examples": ["smoking","drinking","expressing contempt"]
+      "examples": ["smoking","drinking","expressing contempt","everybody's doing it!"]
     },{
       "name": "guilty pleasure",
       "description": "May come with guilt for not being able to resist.",

@@ -1,0 +1,113 @@
+{
+  "lang": "en/us",
+  "createDate": "20250227",
+  "updateDate": "20250614",
+  "name": "romantic love",
+  "valence": 1,
+  "quote": "The old couple held hands on the beach.",
+  "description": "A sense that having repeated experiences with a particular person will be positive, healthy, meaningful, and a major part your life. In addition, you find this person attractive or admirable, want them to have a meaningful positive life, and you believe s/he regards you in the same way.",
+  "perceptions": ["Experiences with this person are consistently positive and healthy.","This person is a major part of how I see myself in the future.","I find this person attractive or admirable.","I care about this person and want them to have a meaningful happy life to the extent possible.","I think this person feels the same way about me."],
+  "desires": ["desire for social contact","desire for order","desire for meaning","desire for sex"],
+  "sensations": ["many"],
+  "results": ["wanting to spend more time with this person","feeling safe around them"],
+  "personOfInterestExperiences": ["ideally the same"],
+  "guidance": [{
+      "description": "How to Tell If You Love Someone — and What to Do",
+      "attribution": "HealthLine.com",
+      "references": ["https://www.healthline.com/health/relationships/how-do-you-know-you-love-someone"]
+  }],
+  "related": [ "love", "companionship", "admiration", "desire for social status" ],
+  "opposites": ["enmity"],
+  "variations": [{
+      "name": "crush",
+      "description": "A perception that your person of interest is so attractive and wonderful that you'd like to be associated with them.",
+      "description": "A sense that having repeated experiences with a particular person would be positive, healthy, and a welcome part of your life. In addition, you find this person attractive or admirable and want them to have a meaningful positive life, but they don't yet feel the same way about you.",
+      "perceptions": ["Experiences with this person would likely be positive and healthy.","This person could be a major part of my future.","I find this person attractive or admirable.","I care about this person and want them to have a meaningful happy life to the extent possible.","I don't think this person feels the same way about me, but if they knew me better, they might."],
+      "desires": ["desire for social contact","desire for social status","desire for meaning","desire for sex"],
+      "sensations": ["many"],
+      "results": ["wanting to spend more time with this person","feeling nervous around them"],
+      "personOfInterestExperiences": ["many"],
+      "guidance": [{
+          "description": "Have a pesky crush? What to do in 4 common scenarios",
+          "attribution": "Mansee Khurana, Sylvie Douglis",
+          "references": ["https://www.npr.org/2022/07/01/1109455525/how-to-deal-with-a-crush"]
+      }],
+      "links": ["physical appreciation", "appreciation signaling"],
+      "examples": ["pinup posters"]
+  },{
+      "name": "new love",
+      "description": "The first period of a romantic relationship where rewarding brain chemicals are plentiful.",
+      "perceptions": ["Experiences with this person are consistently positive and healthy.","This person is a major part of how I see myself in the future.","I find this person incredibly attractive and admirable.","I care about this person and want them to have a meaningful happy life to the extent possible.","This person feels the same way about me.","My brain is flooded with happy juice just thinking about him/her."],
+      "desires": ["desire for social contact","desire for order","desire for meaning","desire for sex"],
+      "sensations": ["many"],
+      "results": ["wanting to spend more time with this person"],
+      "personOfInterestExperiences": ["ideally the same"],
+      "guidance": [{
+          "description": "Enjoy it while it lasts, but it might help to be aware that relationships go through stages.",
+          "references": ["https://glynissherwood.com/how-to-get-past-early-relationship-changes/"]
+      }],
+      "links": ["anticipation"],
+      "examples": ["Is this the one?"]
+  }],
+  "commentaries": [{
+      "quote": "Valentine-style romantic love may be fun, but mostly that's from brain chemicals reacting to the promise of short-term physical and social rewards. Underlying the whole froth, though, is something pretty powerful - we humans have a deep desire to pair bond. The whole experience of pairing up is appealing for some good reasons: the brain likes the stability, the culture encourages it, and it may help reproductive success."
+  },{
+      "quote": "Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs.",
+      "attribution": "Corinthians 13:4-5"
+  },{
+      "quote": "I saw that you were perfect, and so I loved you. Then I saw that you were not perfect and I loved you even more.",
+      "attribution": "Angelita Lim"
+  },{
+      "quote": "I realise that love is much more complicated than I thought. Or at least, the process of finding it is. There is a checklist you have to meet, apps to navigate, there are different stages: from the talking stage, to the going out stage, the situationship phase, making it exclusive, and then, finally after months of all this, is someone officially your partner. It sounds exhausting.",
+      "attribution": "Baneen Talpur"
+  },{
+      "quote": "Dopamine is a central component of romantic love. It is part of the brain’s reward system. Because of this, a person may feel a rush of pleasure when they see, look at pictures of, and recall memories of their beloved. Because of the involvement of the reward system, a person in love may want to constantly spend time with this person because of the pleasure it brings.",
+      "attribution": "medicalnewstoday.com"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["romantic love"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["romantic love"]
+            },
+            "2,1": {
+              "experiences": ["happiness", "comfort"]
+            }
+          }
+      },{
+          "names": ["crush"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["crush"]
+            },
+            "2,1": {
+              "experiences": ["delight", "anxiety"]
+            }
+          }
+      },{
+          "names": ["new love"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["new love"]
+            },
+            "2,1": {
+              "experiences": ["delight", "excitement"]
+            }
+          }
+      }]
+  }]
+}

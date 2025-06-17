@@ -1,0 +1,138 @@
+{
+    "lang": "en/us",
+    "createDate": "20250616",
+    "updateDate": "20250616",
+    "name": "unhealthy self-regard",
+    "valence": -1,
+    "timescale": ["unknown"],
+    "rarity": ["unknown"],
+    "frequency": ["unknown"],
+    "quote": "I'm a waste of space.",
+    "description": "Having a negative or inaccurate view of your role in the world, being unable to stand up for yourself, not accepting perceived shortcomings, or not taking care of yourself.",
+    "perceptions": ["I'm not comfortable with who I am.","I am not ready to defend my interests when necessary.","I don't have time do things for myself.","I don't care about others and account for their interests in my actions when feasible."],
+    "desires": ["desire for order","desire for comfort","desire for meaning"],
+    "sensations": ["anxiety","shame","many negative"],
+    "related": ["hubris","narcissism"],
+    "opposites": ["healthy self-regard"],
+    "comparisons": [{
+        "links": ["self-doubt","timidness","self-condemnation","self-neglect"],
+        "description": "Unhealthy self-regard is defined as a combination of 4 inter-related aspects of your expression in the world. Any of these may create an environment for negative experiences: (1) Self-doubt is a negative externally-focused self-evaluation. (2) Timidness is avoiding externally-focused actions to represent your interests. (3) Self-condemnation is a negative internally-focused self-evaluation. (4) Self-neglect is avoiding action on internally-focused needs."
+    }],
+    "guidance": [{
+        "description": "See guidance for the components of self-regard.",
+        "references": ["self-esteem","self-respect","self-acceptance","self-care"]
+    }],
+    "variations": [{
+        "name": "self-doubt",
+        "description": "A negative evaluation of your external worth.",
+        "timescale": ["unknown"],
+        "rarity": ["unknown"],
+        "frequency": ["unknown"],
+        "opposites": ["self-esteem"],
+        "perceptions": ["I don't have a solid place in the world.","My capabilities are not good enough to do what's needed."],
+        "desires": ["desire for comfort"],
+        "sensations": ["anxiety","many negative"],
+        "guidance": [{
+            "description": "See guidance for self-esteem.",
+            "references": ["self-esteem"]
+        }]
+    },{
+        "name": "timidness",
+        "description": "Not acting on or defending your interests.",
+        "timescale": ["unknown"],
+        "rarity": ["unknown"],
+        "frequency": ["unknown"],
+        "opposites": ["self-respect"],
+        "perceptions": ["I should not represent my preferences in the world.","My capabilities are not good enough to do what's needed."],
+        "desires": ["desire for agency"],
+        "guidance": [{
+            "description": "See guidance for self-respect.",
+            "references": ["self-respect"]
+        }],
+        "comparisons": [{
+            "links": ["self-doubt"],
+            "description": "You might have a negative evaluation of your worth (self-doubt), but not necessarily be timid about expressing yourself."
+        }]
+    },{
+        "name": "self-condemnation",
+        "description": "A negative evaluation of how you align with self-expectations.",
+        "timescale": ["unknown"],
+        "rarity": ["unknown"],
+        "frequency": ["unknown"],
+        "opposites": ["self-acceptance"],
+        "perceptions": ["I'm not comfortable with my flaws.","I'm far from perfect and don't know how to improve things.","I beat myself up a lot."],
+        "desires": ["desire for comfort"],
+        "guidance": [{
+            "description": "See guidance for self-acceptance.",
+            "references": ["self-acceptance"]
+        }]
+    },{
+        "name": "self-neglect",
+        "description": "Not taking time to do things for yourself when needed.",
+        "timescale": ["unknown"],
+        "rarity": ["unknown"],
+        "frequency": ["unknown"],
+        "opposites": ["self-care"],
+        "perceptions": ["It's not ok for me to prioritize my needs before taking care of others."],
+        "desires": ["desire for comfort"],
+        "guidance": [{
+            "description": "See guidance for self-care.",
+            "references": ["self-care"]
+        }],
+        "comparisons": [{
+            "links": ["self-condemnation"],
+            "description": "You might have a unhealthy evaluation of your self-expectations (self-condemnation), but still get enough exercise, hygiene, and sleep."
+        }]
+    }],
+    "commentaries": [{
+        "quote": "There are many overlapping definitions for self-doubt, self-neglect, etc. The definitions here try to respect the important nuances in an understandable way. 'Unhealthy self-regard' as defined here is focused on scenarios where you're disregarding your own situation more than others.",
+        "tags": ["definition footnote"]
+    },{
+        "quote": "It's not my responsibility to be beautiful. I'm not alive for that purpose. My existence is not about how desirable you find me.",
+        "attribution": "Warsan Shire"
+    },{
+        "quote": "You can search throughout the entire universe for someone who is more deserving of your love and affection than you are yourself, and that person is not to be found anywhere.",
+        "attribution": "Sharon Salzberg"
+    }],
+    "spectrum": {
+        "unhealthy self-regard": 4,
+        "self-loathing": 8
+    },
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["unhealthy self-regard"],
+            "predominantType": "node",
+            "levels": {
+              "4,3": {
+                "experiences": ["unhealthy self-regard"]
+              },
+              "2,1": {
+                "experiences": ["many"]
+              }
+            }
+        },{
+            "names": ["self-doubt","self-condemnation"],
+            "predominantType": "sensation",
+            "levels": {
+              "4,3": {
+                "experiences": ["self-doubt","self-condemnation"]
+              },
+              "2,1": {
+                "experiences": ["many"]
+              }
+            }
+        },{
+            "names": ["timidness","self-neglect"],
+            "predominantType": "action",
+            "levels": {
+              "4,3": {
+                "experiences": ["timidness","self-neglect"]
+              },
+              "2,1": {
+                "experiences": ["many"]
+              }
+            }
+        }]
+    }]
+}

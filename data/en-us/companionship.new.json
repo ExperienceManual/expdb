@@ -1,0 +1,120 @@
+{
+  "lang": "en/us",
+  "createDate": "20250228",
+  "updateDate": "20250614",
+  "name": "companionship",
+  "valence": 1,
+  "quote": "I'm going to hang out with a friend tonight.",
+  "description": "A sense that being with a particular person is positive, healthy, and an important part of your life. The relationship includes mutual respect, shared interests, and shared history.",
+  "perceptions": ["Experiences with this person are, on the balance, quite positive.","They are an important part of one of my identities.","We respect each other and have shared interests."],
+  "desires": ["desire for social contact"],
+  "sensations": ["social contact","validation","trust"],
+  "personOfInterestExperiences": ["ideally the same"],
+  "guidance": [{
+      "description": "Online guides to making and maintaining friendships.",
+      "references": ["https://www.succeedsocially.com/sociallife","https://www.asociallifewithfriends.com/p/101-ways-to-make-and-maintain-friendships"]
+  }],
+  "related": ["comfort", "group bond", "trust", "love"],
+  "opposites": ["contempt", "anxiety"],
+  "examples": ["work friends", "hobby friends"],
+  "variations": [{
+      "name": "well-rounded friendship",
+      "description": "A relationship between people who have seen each other in a variety of moods and contexts and still look forward to being around each other.",
+      "perceptions": ["Experiences with this person are, on the balance, quite positive.","They are an important part of many of my identities.","We respect each other and have shared interests."],
+      "desires": ["desire for social contact","desire for meaning"],
+      "sensations": ["social contact","validation","trust"],
+      "personOfInterestExperiences": ["ideally the same"],
+      "guidance": [{
+          "description": "Maintaining friendships takes work.",
+          "references": ["https://befunbekind.com/blog/how-i-keep-old-friends-from-becoming-former-friends/","https://culturalintention.com/tough-times-reveal-true-friends/"]
+      }],
+      "examples": ["spouse", "family member", "college roommate"]
+  },{
+      "name": "spiritual friendship",
+      "description": "A relationship between people who can share deep existential conversations.",
+      "perceptions": ["Experiences with this person are, on the balance, quite positive.","They are an important part of many of my existential identity.","We respect each other and are generally aligned on key philosophies."],
+      "desires": ["desire for social contact","desire for meaning"],
+      "sensations": ["social contact","validation","meaning","trust"],
+      "personOfInterestExperiences": ["ideally the same"],
+      "guidance": [{
+          "description": "In Western Culture’s expanding spiritual horizons, there are more ways to connect with people of all spiritual faiths and disciplines than ever before. This is the gift of technology and the Internet. With all these new opportunities, it is very easy to assume that if someone is spiritual, then they’re spiritual like you.",
+          "attribution": "Jim Tolles",
+          "references": ["https://spiritualawakeningprocess.com/2015/08/choosing-your-spiritual-friends-wisely.html"]
+      }],
+      "links": ["spiritual bond"],
+      "examples": ["religious fellowship", "philosophy club"]
+  },{
+      "name": "hardship-tested ally",
+      "description": "A deeply trusting relationship formed in very difficult circumstances where loyalty and skill were rigorously tested.",
+      "perceptions": ["This person and I have a shared history in an unusually demanding situation.","Based on that experience, they know me better than most people and I can trust them."],
+      "desires": ["desire for social contact","desire for meaning"],
+      "sensations": ["social contact","validation","meaning","trust"],
+      "personOfInterestExperiences": ["ideally the same"],
+      "examples": ["combat veterans", "startup founders"]
+  },{
+      "name": "animal companion",
+        "description": "Looking forward to having repeated experiences with a particular animal that you view as an important part of your world.",
+        "perceptions": ["Interacting with this animal is always a positive experience.","It's a friend of mine.","I find it relaxing to be around this creature.","There's less social pressure." ],
+        "desires": ["desire to be around animals"],
+        "sensations": ["wonder of nature","validation","trust"],
+        "examples": ["pets","horses"],
+        "guidance": [{
+            "description": "Before getting a pet, consider making sure your household is ready for one. See guidance for 'desire to be around animals'.",
+            "references": ["desire to be around animals"]
+        }]
+  }],
+  "commentaries": [{
+      "quote": "It's pretty common for us to work very hard over a long time to get a thumbs-up from friends."
+  },{
+      "quote": "The only way to have a friend is to be one.",
+      "attribution": "Ralph Waldo Emerson"
+  },{
+      "quote": "The bird a nest, the spider a web, man friendship.",
+      "attribution": "William Blake"
+  },{
+      "quote": "The language of friendship is not words but meanings.",
+      "attribution": "Henry David Thoreau"
+  },{
+      "quote": "Friendships reflect who we are, showing both our strengths and flaws. The people we choose to spend time with often reveal where we are in our personal growth.",
+      "attribution": "Faith Achiaa"
+  }],
+  "spectrum": {
+    "acquaintance": 1,
+    "belonging": 2,
+    "friend": 4,
+    "fellowship": 6,
+    "BFFs": 8
+  },
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["companionship","animal companion","well-rounded friendship"],
+          "predominantType": "sensation",
+          "levels": {
+            "1": {
+              "experiences": ["comfort"]
+            },
+            "3,2": {
+              "experiences": ["companionship"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["hardship-tested ally","spiritual friendship"],
+          "predominantType": "sensation",
+          "levels": {
+            "1": {
+              "experiences": ["comfort"]
+            },
+            "3,2": {
+              "experiences": ["companionship","meaning"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      }]
+  }]
+}

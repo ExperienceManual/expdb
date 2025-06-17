@@ -42,6 +42,30 @@
         1
       ]
     },
+    "timescale": {
+      "type": "array",
+      "default": ["unknown"],
+      "items": {
+        "type": "string",
+        "enum": ["unknown","under","seconds","minutes","hours","days","weeks","months","years","lifetime","up"]
+      }
+    },
+    "rarity": {
+      "type": "array",
+      "default": ["unknown"],
+      "items": {
+        "type": "string",
+        "enum": ["unknown","few","half","most","everyone"]
+      }
+    },
+    "frequency": {
+      "type": "array",
+      "default": ["unknown"],
+      "items": {
+        "type": "string",
+        "enum": ["unknown","less","a few times per life","yearly","monthly","weekly","daily","hourly","more","constant"]
+      }
+    },
     "quote": {
       "type": "string"
     },
@@ -161,6 +185,30 @@
           "description": {
             "type": "string"
           },
+          "timescale": {
+            "type": "array",
+            "default": ["unknown"],
+            "items": {
+              "type": "string",
+              "enum": ["unknown","under","seconds","minutes","hours","days","weeks","months","years","lifetime","up"]
+            }
+          },
+          "rarity": {
+            "type": "array",
+            "default": ["unknown"],
+            "items": {
+              "type": "string",
+              "enum": ["unknown","few","half","most","everyone"]
+            }
+          },
+          "frequency": {
+            "type": "array",
+            "default": ["unknown"],
+            "items": {
+              "type": "string",
+              "enum": ["unknown","less","a few times per life","yearly","monthly","weekly","daily","hourly","more","constant"]
+            }
+          },
 	  "perceptions": {
 	      "type": "array",
 	      "default": [],
@@ -204,6 +252,13 @@
             }
           },
           "examples": {
+            "type": "array",
+            "default": [],
+            "items": {
+              "type": "string"
+            }
+          },
+          "opposites": {
             "type": "array",
             "default": [],
             "items": {

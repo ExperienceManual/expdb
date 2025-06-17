@@ -1,0 +1,95 @@
+{
+  "lang": "en/us",
+  "createDate": "20250301",
+  "updateDate": "20250614",
+  "name": "family love",
+  "valence": 1,
+  "quote": "She loved the adopted child as her own.",
+  "description": "A deep acceptance that your very existence is interwoven with that of another person in a positive way. Often this is a person you're related by blood or marriage.",
+  "perceptions": ["I'm traveling with this person on my life journey.","Our interactions are mostly positive.","I implicitly trust and support them, and assume the same in return."],
+  "desires": ["desire for social contact","desire for order"],
+  "sensations": ["many"],
+  "guidance": [{
+      "description": "Work, school, and personal life can quickly get in the way of focusing on special time with loved ones. But really, how often do you spend quality time in the same room with your whole family? How much of that time is spent doing an activity together?",
+      "attribution": "anchorlighttherapy.com",
+      "references": ["https://anchorlighttherapy.com/strengthen-family-bonds/"]
+  }],
+  "related": [ "love", "desire for parenthood", "companionship", "subordination" ],
+  "opposites": ["group hate"],
+  "examples": ["your parents", "your children", "siblings"],
+  "variations": [{
+      "name": "baby love",
+      "description": "A profound sense of joy from interacting with a baby or child that depends on you.",
+      "perceptions": ["Part of my life's journey is to help this little person.","They need my help and they deserve it.","Being with them and helping them is a positive experience for me, even when difficult."],
+      "desires": ["desire to protect","desire for social influence"],
+      "sensations": ["love","delight","meaning","many"],
+      "guidance": [{
+          "description": "Tips for caregivers are helpful for anyone caring for and guiding children as they grow. As a caregiver, you’re often the main source of emotional and physical support for the child you’re looking after, and can greatly shape their development and happiness.",
+          "attribution": "abbycare.org",
+          "references": ["https://www.abbycare.org/blog/tips-for-caregivers"]
+      }],
+      "links": ["pride"],
+      "examples": ["parents", "caregivers"]
+  },{
+      "name": "parent love",
+      "description": "A sense of gratitude and respect for the people that brought you into the world.",
+      "perceptions": ["My parents did their best to raise me.","I am thankful for what they've done.","I trust them and owe them my support.","Experiences with them are, on the balance, positive."],
+      "desires": ["desire for order","desire for social contact"],
+      "sensations": ["gratitude","respect","love","many"],
+      "guidance": [{
+          "description": "If your parents are elderly, they may require your support.",
+          "references": ["https://www.caregiver.org/resource/parenting-your-elderly-parents/","https://www.uchealth.org/today/aging-parents-what-to-do-when-parents-need-more-care-than-you-can-provide/"]
+      }]
+  }],
+  "commentaries": [{
+      "quote": "Family is a unique gift that needs to be appreciated and treasured, even when they're driving you crazy.",
+      "attribution": "Jenna Morasca"
+  },{
+      "quote": "Home is where you are loved the most and act the worst.",
+      "attribution": "Marjorie Pay Hinckley"
+  },{
+      "quote": "Children are not casual guests in our home. They have been loaned to us temporarily for the purpose of loving them and instilling a foundation of values on which their future lives will be built.",
+      "attribution": "James Dobson"
+  },{
+      "quote": "Children make your life important.",
+      "attribution": "Erma Bombeck"
+  },{
+      "quote": "No matter how far we come, our parents are always in us.",
+      "attribution": "Brad Meltzer"
+  },{
+      "quote": "When you grow up in an extended family, or in a stable neighborhood with two or three generations of families who live there, you feel seen. Not just the good things you've done, the stuff you put on your resume. You know they've seen you in your dark times, when you've messed up - but they're still there.",
+      "attribution": "Dean Ornish"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["family love","parent love"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["family love"]
+            },
+            "2,1": {
+              "experiences": ["comfort"]
+            }
+          }
+      },{
+          "names": ["baby love"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["baby love"]
+            },
+            "2,1": {
+              "experiences": ["comfort","delight","meaning"]
+            }
+          }
+      }]
+  }]
+}
