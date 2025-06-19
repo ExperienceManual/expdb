@@ -50,7 +50,7 @@
       "desires": ["desire for social status","desire for wealth","desire for stimulation"],
       "sensations": ["ambition"],
       "results": ["seek a way to win"],
-      "links": ["gaining", "ambition", "vengefulness"]
+      "related": ["gaining", "vengefulness"]
   },{
       "name": "desire for wealth",
       "description": "Access to a valued asset is a sign of social status, whether the asset is money, collectibles, fame, attractiveness, or something else.",
@@ -63,7 +63,7 @@
           "attribution": "Julia D Hur Ph.D.",
           "references": ["https://nickhalaris.medium.com/getting-real-about-money-and-desire-35c1fdc4ae4d","https://www.psychologytoday.com/us/blog/gim-goals-incentives-and-meritocracy/202207/what-makes-us-obsessed-with-money"]
       }],
-      "links": ["wealthy"]
+      "related": ["wealthy"]
   },{
       "name": "desire for existential status",
       "description": "A desire to align with perceived expectations of God, karma, or the Universe.",
@@ -73,7 +73,6 @@
           "description": "Religions and moral systems lay out an existential worldview and a path for how to improve the self within that context.",
           "references": ["https://www.nytimes.com/2025/02/01/opinion/religion-faith-choose.html","https://fathergoodrich.com/4-starting-points-for-choosing-a-religion-or-at-least-exploring-one/"]
       }],
-      "links": ["desire for meaning"],
       "examples": [
         "Modern religious people may strive for goodness, faith, and charity.",
         "Ancient religions may have encouraged aggression and bravery."

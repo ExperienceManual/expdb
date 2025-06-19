@@ -29,7 +29,7 @@
           "attribution": "Laura Dorwart",
           "references": ["https://www.verywellhealth.com/fear-of-strangers-xenophobia-5536959"]
       }],
-      "links": ["group hostility"],
+      "related": ["group hostility"],
       "examples": ["teaching kids to be wary of strangers"]
   },{
       "name": "cultural discomfort",

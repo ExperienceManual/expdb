@@ -20,7 +20,7 @@
       "description": "A desire for social interactions with a specific group of people. Could be driven by a desire to meet someone special or gain the favor of that group.",
       "perceptions": ["I'd like to be amongst people of like mind."],
       "desires": ["desire for validation","desire for stimulation","desire for comfort"],
-      "links": ["desire for social status"]
+      "related": ["desire for social status"]
   },{
       "name": "desire to be around animals",
       "description": "A desire for interactions with animals. These can be simple and satisfying relationships.",

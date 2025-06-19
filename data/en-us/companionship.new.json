@@ -15,7 +15,7 @@
       "references": ["https://www.succeedsocially.com/sociallife","https://www.asociallifewithfriends.com/p/101-ways-to-make-and-maintain-friendships"]
   }],
   "related": ["comfort", "group bond", "trust", "love"],
-  "opposites": ["contempt", "anxiety"],
+  "opposites": ["contempt", "anxiety","enmity"],
   "examples": ["work friends", "hobby friends"],
   "variations": [{
       "name": "well-rounded friendship",
@@ -41,7 +41,7 @@
           "attribution": "Jim Tolles",
           "references": ["https://spiritualawakeningprocess.com/2015/08/choosing-your-spiritual-friends-wisely.html"]
       }],
-      "links": ["spiritual bond"],
+      "related": ["spiritual bond"],
       "examples": ["religious fellowship", "philosophy club"]
   },{
       "name": "hardship-tested ally",

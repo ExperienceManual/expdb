@@ -22,7 +22,7 @@
       "name": "desire for social rest",
       "description": "Social withdrawal driven by a simple need for some downtime. Depending your personality, this may be infrequent or often.",
       "perceptions": ["A social interaction may cost more energy than I have right now."],
-      "links": ["tiredness","overwhelmed","desire for quiet"]
+      "related": ["tiredness","overwhelmed","desire for quiet"]
     },{
       "name": "desire for social recovery",
       "description": "Social withdrawal after negative social experience like anxiety, cynicism, shame, ennui, or contempt.",
@@ -33,8 +33,7 @@
       "description": "Desire to keep certain information from certain people. Some people live their lives on social media, others prefer a smaller circle.",
       "perceptions": ["Concern about what someone may do with a particular piece of information.","Concern about how someone might perceive you if they had this detail."],
       "sensations": ["desire for agency","distrust"],
-      "examples": ["salary","home address","political/tribal affiliation"],
-      "links": ["desire for agency","distrust"]
+      "examples": ["salary","home address","political/tribal affiliation"]
   }],
   "commentaries": [{
       "quote": "It can be hard for us to balance being an individual integrated as part of several groups, some of which we may not be fully aligned with. We like to have a sense of safety and control, and we may sometimes perceive that a social situation causes as much anxiety as joy."

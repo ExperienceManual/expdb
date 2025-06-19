@@ -34,13 +34,13 @@
       "description": "Reduced mental capacity from physical, mental, or emotional exertion beyond normal.",
       "perceptions": ["I'm too sleepy, tired physically, or emotionally exhausted to function normally."],
       "desires": ["desire for comfort"],
+      "sensations": ["confusion","overwhelmed"],
       "results": ["rest","sleep or nap"],
       "guidance": [{
           "description": "When stress from adverse or challenging events in life occur continually, you can find yourself in a state of feeling emotionally worn out and drained. This is called emotional exhaustion. For most people, emotional exhaustion tends to build up slowly over time. Emotional exhaustion includes emotional, physical and performance symptoms.",
           "attribution": "Mayo Clinic",
           "references": ["https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/emotional-exhaustion-during-times-of-unrest"]
-      }],
-      "links": ["confusion","overwhelmed"]
+      }]
   }],
   "commentaries": [{
       "quote": "In some languages there's a distinction between 'sleepy-tired' and 'physically-tired'."

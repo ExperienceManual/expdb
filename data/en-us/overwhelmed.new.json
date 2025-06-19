@@ -24,7 +24,7 @@
       "desires": ["desire for agency","desire for social status","desire for quiet"],
       "sensations": ["dismay","anxiety","frustration","failure"],
       "results": ["seek ways to manage the load or expectations"],
-      "links": ["desire for agency"],
+      "related": ["desire for agency"],
       "examples": ["being a parent of multiple busy kids","crunch time at work"]
   },{
       "name": "too big to handle",

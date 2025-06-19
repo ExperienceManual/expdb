@@ -1,0 +1,80 @@
+{
+  "lang": "en/us",
+  "createDate": "20250301",
+  "updateDate": "20250617",
+  "name": "hate",
+  "valence": -1,
+  "description": "A sense that you would strongly prefer to not experience a particular person, group, animal, thing, idea, or sensation because it would be negative, unhealthy, or an unwelcome part of your life.",
+  "perceptions": ["This experience is likely to be negative.","This person or thing conflicts with part of how I see myself.","This experience is not healthy for me."],
+  "desires": ["desire for comfort","desire for safety"],
+  "sensations": ["dismay","contempt","fear","anger"],
+  "otherVariations": ["enmity", "group hostility","self-loathing","misanthropy"],
+  "guidance": [{
+      "description": "If you'd like to reduce your sense of negativity about someone or something, here are some articles to consider.",
+      "references": ["https://www.psychologytoday.com/us/blog/changepower/202104/how-to-get-things-done-that-you-hate-to-do","https://bodhiheart.com/letting-go/letting-go-of-hate/","https://truthsaves.org/articles/how-to-overcome-hate/"]
+  }],
+  "related": ["aversion","phobia"],
+  "opposites": ["love"],
+  "variations": [{
+      "name": "hate this experience",
+      "description": "Strong dislike about doing a particular activity or experiencing a particular sensory input.",
+      "perceptions": ["This experience is likely to be negative.","This person or thing conflicts with part of how I see myself.","This experience is not healthy for me."],
+      "sensations": ["dismay","contempt","fear","anger"],
+      "examples": ["I hate eating oysters.","I hate cleaning the toilet.","I hate this song"]
+  }],
+  "commentaries": [{
+      "quote": "This definition of hate is just the part that's common across the many relationships and things we strongly dislike. Here's a breakdown of the key components: negative experiences (obviously), unhealthy (damages parts of your life), and unwelcome (it would not be your choice). A common modern usage of 'hate' is a label for stereotyped 'group hostility' against an individual. See the links for more specific definitions.",
+      "tags": ["definition footnote"]
+  },{
+      "quote": "'Hate' is a broad term that superficially applies to everything from your enemy to your least favorite food. Like 'love', it's a much overused word."
+  },{
+      "quote": "In all relationships involving other people, there's a pattern of signaling that reveals interest or disinterest. These signals can be obvious or subtle, immediate or slow, conscious or unconscious. These signals can sew us closer together bit by bit or drag us apart."
+  },{
+      "quote": "Shrink the problem by watching your words. Words like 'hate' or 'dreadful' only added to my bad attitude. Even tweaking 'I hate home repairs' to 'I dislike home repairs' was helpful. Using calmer words made me feel calmer.",
+      "attribution": "Meg Selig"
+  },{
+      "quote": "It is easy to hate and it is difficult to love. This is how the whole scheme of things works. All good things are difficult to achieve; and bad things are very easy to get.",
+      "attribution": "Confucious"
+  },{
+      "quote": "My moms always told me, 'How long you gonna play the victim?' I can say I'm mad and I hate everything, but nothing really changes until I change myself.",
+      "attribution": "Kendrick Lamar"
+  },{
+      "quote": "I hate war as only a soldier who has lived it can, only as one who has seen its brutality, its futility, its stupidity.",
+      "attribution": "Dwight D. Eisenhower"
+  }],
+  "spectrum": {
+    "dislike": 1,
+    "aversion": 3,
+    "scorn": 3,
+    "hate": 5,
+    "despise": 7,
+    "loathe": 8,
+    "disgust": 8
+  },
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["hate"],
+          "predominantType": "node",
+          "levels": {
+              "4,3,2": {
+                  "experiences": ["hate"]
+              },
+              "1": {
+                  "experiences": ["dismay"]
+              }
+          }
+      },{
+          "names": ["hate this experience"],
+          "predominantType": "sensation", 
+          "levels": { 
+              "4,3,2": {
+                  "experiences": ["hate"]
+              },
+              "1": {
+                  "experiences": ["dismay"]
+              }
+          }
+      }]
+  }]
+}

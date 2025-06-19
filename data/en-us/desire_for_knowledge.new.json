@@ -34,7 +34,7 @@
           "attribution": "Kate Vessel, ACC",
           "references": ["https://www.betterup.com/blog/how-to-improve-social-skills"]
       }],
-      "links": ["empathy"]
+      "related": ["empathy"]
   },{
       "name": "third party socializing",
       "description": "Participating in social knowledge transfer about someone not present to further a different relationship. Also known as 'gossip'.",

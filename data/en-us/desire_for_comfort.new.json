@@ -22,7 +22,7 @@
       "examples": ["taking a pill for a headache","watching a movie to distract yourself"]
     },{
       "name": "more comfort is better",
-      "links": ["desire for pure body"],
+      "related": ["desire for pure body"],
       "description": "Wanting to optimize an experience that has no discomfort or pain.",
       "perceptions": ["things could be even better"],
       "desires": ["desire to improve"],

@@ -34,14 +34,14 @@
       "perceptions": ["I've gained standing with a social group that's important to me.","I didn't know this was going to happen."],
       "desires": ["desire for social status"],
       "sensations": ["gaining","happiness","surprise","gratitude"],
-      "links": ["increase in responsibility","increase in power"]
+      "related": ["increase in responsibility","increase in power"]
   },{
       "name": "expected status gain",
       "description": "If you had hoped for or expected the gain in social status, there may be a sense of relief. If it comes with additional responsibilities or power, there may be additional sensations.",
       "perceptions": ["I've gained standing with a social group that's important to me.","I had hoped this was going to happen."],
       "desires": ["desire for social status"],
       "sensations": ["gaining","happiness","relief"],
-      "links": ["increase in responsibility","increase in power"]
+      "related": ["increase in responsibility","increase in power"]
   },{
       "name": "increase in power",
       "description": "If a higher social status comes with decision-making power over others, it may come with a sense of self-worth. Ideally an increase in power comes with an increase in responsibility.",
@@ -53,7 +53,7 @@
           "attribution": "LSA Global",
           "references": ["https://lsaglobal.com/how-to-not-let-power-go-to-your-head-as-a-new-leader/"]
       }],
-      "links": ["increase in responsibility"]
+      "related": ["increase in responsibility"]
   },{
       "name": "too much status",
       "description": "With a gain in social status, if you feel you've been given too much credit you may become anxious that you're undeserving or likely to lose the status soon. Also known as 'impostor syndrome'.",
@@ -65,7 +65,7 @@
           "attribution": "American Psychological Association",
           "references": ["https://www.apa.org/monitor/2021/06/cover-impostor-phenomenon"]
       }],
-      "links": ["humility", "doubt"]
+      "related": ["humility"]
   },{
       "name": "possession of a rarity",
       "description": "Those that have access to a rare and valued asset may been seen as having higher status. For example, owning a shiny or powerful object, or having an inherent talent or beauty.",

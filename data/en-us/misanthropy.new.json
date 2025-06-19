@@ -1,0 +1,60 @@
+{
+    "lang": "en/us",
+    "createDate": "20250617",
+    "updateDate": "20250618",
+    "name": "misanthropy",
+    "valence": -1,
+    "timescale": ["unknown"],
+    "rarity": ["unknown"],
+    "frequency": ["unknown"],
+    "quote": "Humanity is a hopeless mess.",
+    "description": "A strong dislike for the whole human species.",
+    "perceptions": ["Humanity is a lost cause.","I trust almost no one."],
+    "desires": ["desire for agency","desire for safety"],
+    "sensations": ["anxiety","distrust","contempt","cynicism"],
+    "results": ["probably isolation"],
+    "related": ["hate"],
+    "opposites": ["general love"],
+    "guidance": [{
+          "description": "There are some compelling reasons to dislike humanity. If you want to learn to live with this identity, it may help to realize that you're not alone.",
+          "references": ["https://www.reddit.com/r/misanthropy/wiki/frequently-asked-questions-about-misanthropy/","https://www.alonelylife.com/threads/its-okay-to-be-a-misanthrope.28993/"]
+    },{
+          "description": "If you'd like like to be less distrustful of people, or help someone else be less distrustful, consider articles like these.",
+          "references": ["https://mentalzon.com/en/post/1479/how-to-deal-with-misanthropy-understanding-communication-and-overcoming-it","https://naeye.net/13913/opinion/gen-z-and-misanthropy-its-dumb/","https://psychcentral.com/health/i-hate-people"]
+    }],
+    "comparisons": [{
+        "links": ["cynicism"],
+        "description": "Cynicism is about thinking a person or group has selfish intentions. Misanthropy is cynicism about the whole human race."
+    }],
+    "commentaries": [{
+        "quote": "I define misanthropy as the systematic condemnation of the moral character of humankind as it has come to be. For a misanthrope, humankind as it has come to be is morally atrocious. For all sorts of philosophical and psychological reasons, that’s not an attractive thesis for many people.",
+        "attribution": "Ian James Kidd"
+    },{
+        "quote": "I assume the worst... in people, events and so on. I think I do this as a defensive mechanism, to avoid negative surprises. I think that I adopted this perspective due to a series of disappointments from my childhood (fire, divorce, cancer, etc.). I don’t think there’s much I can do about my perspective, but (a) it’s useful to tell it like it is and (b) I can see how my outlook has been changing — slowly — throughout the years, so it’s good to have a baseline. I used to say I was a realist, then I said I was a pessimist, but I think I’ve gone on further — in terms of definitions — to get to misanthrope, which is a really loaded term.",
+        "attribution": "David Zetland"
+    },{
+        "quote": "Misanthropes have some admirable - if paradoxical - virtues. It is no exaggeration to say that we are among the nicest people you are likely to meet. Because good manners build sturdy walls, our distaste for intimacy makes us exceedingly cordial. 'Ships that pass in the night.' As long as you remain a stranger we will be your friend forever.",
+        "attribution": "Florence King"
+    },{
+        "quote": "Regardless of its causes, thoughtlessly blaming the present is a weakness which, even if it is never outlawed, ought to be resisted. Though commonly flaunted as a sign of sophistication, it can be an opportunity for one-upmanship and an excuse for misanthropy, especially against the young.",
+        "attribution": "Steven Pinker"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["misanthropy"],
+            "predominantType": "impulse",
+            "levels": {
+              "4": {
+                "experiences": ["misanthropy"]
+              },
+              "3,2": {
+                "experiences": ["distrust","contempt"]
+              },
+              "1": {
+                "experiences": ["dismay","anxiety"]
+              }
+            }
+        }]
+    }]
+}

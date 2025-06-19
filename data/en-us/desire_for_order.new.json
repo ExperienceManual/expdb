@@ -26,13 +26,13 @@
           "attribution": "Amen Clinics",
           "references": ["https://www.amenclinics.com/blog/10-tips-for-confronting-someone-whos-in-the-wrong/"]
       }],
-      "links": ["desire for safety", "desire for social influence"],
+      "related": ["desire for safety", "desire for social influence"],
       "examples": ["social norms", "law enforcement"]
     },{
       "name": "desire for purity",
       "description": "Many people prioritize some aspect of their life as being extremely important to protect and optimize. Anything short of pure perfection in this area can cause anxiety. It varies from person-to-person, but commonly includes health, reputation, spirituality, knowledge, safety, sexuality, etc.",
       "perceptions": ["It's critical to maintain a certain aspect of life."],
-      "links": ["abstinence","desire for control"],
+      "related": ["abstinence","desire for control"],
       "examples": ["culture of honor","preferring organic food","regular religious attendance"]
     },{
       "name": "desire for clear perception",
@@ -45,7 +45,6 @@
           "description": "There are many guides to spotting misinformation.",
           "references": ["https://www.unicef.org/eca/stories/quick-guide-spotting-misinformation","https://www.apa.org/topics/journalism-facts/misinformation-recommendations","https://www.coe.int/en/web/campaign-free-to-speak-safe-to-learn/dealing-with-propaganda-misinformation-and-fake-news"]
       }],
-      "links": ["desire for knowledge","curiosity"],
       "examples": ["Wanting things to make sense."]
     },{
       "name": "desire for better environment",

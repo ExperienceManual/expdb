@@ -23,9 +23,8 @@
         "description": "Behavior that perpetuates adversarial relations due to past injustice, social cohesion, or identity.",
         "examples": ["Hatfield-McCoy"]
     },{
-        "name": "former friend",
-        "description": "Someone who was once a friend that betrayed you.",
-        "links": ["betrayal"]
+        "name": "misanthropy",
+        "description": "A strong dislike for the whole human species."
     }],
     "commentaries": [{
         "quote": "It may be helpful to consider whether to engage your enemy head-on or attempt to understand their perspective. You'll probably end up fighting either way, but the outcome may differ in the long run."

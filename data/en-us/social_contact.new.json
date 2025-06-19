@@ -18,7 +18,7 @@
       "perceptions": ["I'm interacting with a person or people.","I expect this interaction to be low-stress.","There are certain topics that are in-scope or out-of-scope for this context."],
       "desires": ["first party socializing","third party socializing"],
       "sensations": ["many"],
-      "links": ["group bond", "companionship"],
+      "related": ["group bond", "companionship"],
       "examples": ["family holiday","college friend reunion"]
   },{
       "name": "transactional social contact",
@@ -31,14 +31,13 @@
       "description": "A social encounter with a notable element of tension.",
       "perceptions": ["I'm interacting with a person or people.","This interaction is causing anxiety."],
       "desires": ["desire for safety","desire for social status"],
-      "sensations": ["social tension","defense","anxiety"],
+      "sensations": ["distrust","social tension","defense","anxiety"],
       "results": ["desire to defend yourself","desire to leave this context"],
       "guidance": [{
           "description": "See guidance for social tension",
           "references": ["social tension"]
       }],
-      "examples": ["encounter with someone who has wronged you","someone who makes you feel unsafe","stereotype of someone who might not like your kind of person"],
-      "links": ["distrust"]
+      "examples": ["encounter with someone who has wronged you","someone who makes you feel unsafe","stereotype of someone who might not like your kind of person"]
   },{
       "name": "anonymous social contact",
       "description": "Being amongst others but not explicitly interacting with them. For example, 'people watching' is a kind of social contact even it's just reading body language and cultural signaling.",

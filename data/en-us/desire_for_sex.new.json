@@ -18,19 +18,17 @@
       "name": "biological desire for sex",
       "description": "The purely biological desire for sexual contact is a small part of the story for most of us. If this is causing a problem, consider the guidance under the main section.",
       "perceptions": ["biological desire for sexual contact"],
-      "links": ["desire for parenthood"]
+      "related": ["desire for parenthood"]
     },{
       "name": "validating desire for sex",
       "description": "Being attractive enough to find a partner can fulfill a desire for social validation.",
       "perceptions": ["being sexually active means you're not ugly"],
-      "desires": ["desire for social status"],
-      "links": ["desire for social status"]
+      "desires": ["desire for social status"]
     },{
       "name": "peer pressure desire for sex",
       "description": "Some may feel the need to be sexually active to stay in the graces of a social group.",
       "perceptions": ["being sexually active means you're cool"],
-      "desires": ["desire for social status"],
-      "links": ["desire for social status"]
+      "desires": ["desire for social status"]
   }],
   "commentaries": [{
       "quote": "Conflicting social norms can make any kind of sex complicated. It may help to understand where your own desire is coming from: social pressures, habits, escape, or biology."

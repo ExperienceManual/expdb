@@ -1,15 +1,12 @@
 {
   "lang": "en/us",
   "createDate": "20250215",
-  "updateDate": "20250601",
+  "updateDate": "20250618",
   "name": "pleasure",
   "valence": 1,
   "quote": "That was an excellent meal.",
-  "description": "Tangible positive reward signals from the body. We often use the word 'pleasure' to mean 'a really good thing', but this definition is focused on body-initiated signals.",
-  "perceptions": [""],
-  "desires": [""],
-  "sensations": [""],
-  "results": [""],
+  "description": "Tangible positive reward signals from the body.",
+  "perceptions": ["That feels good."],
   "guidance": [{
       "description": "If you don't feel in control of pleasure-seeking, you might consider looking into ancient Greeks and Roman philosophy. They dealt with the same issues.",
       "references": ["https://thinkersensitive.com/blog-and-podcast/epicurus-hedonism-in-moderation","https://dailystoic.com/stoic-range-virtue-defense-moderation/"]
@@ -25,6 +22,9 @@
   "opposites": ["pain"],
   "examples": ["good food","sugary or high fat foods","good drink","massage","sex"],
   "commentaries": [{
+      "quote": "We often use the word 'pleasure' to mean 'a really good thing', but this definition is focused on body-initiated signals.",
+      "tags": ["definition footnote"]
+  },{
       "quote": "Hedonism is the outlook that seeking pleasure is the way to organize your life. Though the body clearly rewards certain behaviors, it's not clear we were meant to chase them to the extent we often do."
   },{
       "quote": "One of the secrets of a happy life is continuous small treats",

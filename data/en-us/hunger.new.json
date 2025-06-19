@@ -13,7 +13,7 @@
   "variations": [{
       "name": "strong desire",
       "description": "Besides food, 'hunger' can be any kind of desire like a 'hunger for acceptance'.",
-      "links": ["desire"]
+      "related": ["desire"]
   }],
   "spectrum": {
       "hunger": 5,

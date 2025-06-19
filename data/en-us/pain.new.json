@@ -32,7 +32,7 @@
           "attribution": "Mayo Clinic",
           "references": ["https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/mental-health/art-20044098"]
       }],
-      "links": ["mental relief", "dissonance"],
+      "related": ["mental relief", "dissonance"],
       "examples": ["acute stress","social rejection","PTSD"]
   },{
       "name": "chronic pain",
@@ -44,7 +44,7 @@
           "attribution": "Mayo Clinic",
           "references": ["https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/8-tips-for-managing-chronic-pain"]
       }],
-      "links": ["patience", "dissonance"],
+      "related": ["patience", "dissonance"],
       "examples": ["chronic back pain","PTSD"]
   }],
   "commentaries": [{

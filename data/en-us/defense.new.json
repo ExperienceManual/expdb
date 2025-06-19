@@ -15,14 +15,14 @@
       "description": "Effort towards keeping land or other resources whole and within your control. The attacker may be a person, a group, animals, or natural forces.",
       "perceptions": ["Someone or something is trying to degrade or remove something that's mine.","I need to protect these things."],
       "desires": ["desire to protect"],
-      "links": ["desire for territory", "desire for wealth"]
+      "related": ["desire for territory", "desire for wealth"]
   },{
       "name": "defending life and health",
       "description": "Taking steps to keep yourself or someone else safe from perceived threats ranging from minor illness to mortal danger.",
       "perceptions": ["Someone or something is trying to harm me or someone important to me."],
       "desires": ["desire to protect","desire for health","desire for safety"],
       "sensations": ["will to live","family love","group bond"],
-      "links": ["desire for safety", "desire for comfort"]
+      "related": ["desire for safety", "desire for comfort"]
   },{
       "name": "defending reputation",
       "description": "Making effort to prevent a change in social status from perceived threats. These actions may protect yourself or an important other.",
@@ -33,7 +33,7 @@
           "attribution": "Jennifer Bridges",
           "references": ["https://www.reputationdefender.com/blog/social-media/7-smart-ways-to-protect-your-reputation-on-social-media"]
       }],
-      "links": ["desire for social status"]
+      "related": ["desire for social status"]
   }],
   "models": [{
       "version": "em1",

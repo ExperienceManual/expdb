@@ -28,7 +28,7 @@
           "attribution": "Meaghan Rice PsyD., LPC",
           "references": ["https://www.talkspace.com/blog/how-to-stop-being-codependent/"]
       }],
-      "links": ["anxiety"],
+      "related": ["anxiety"],
       "examples": ["They can't bear to be apart for even a day."]
     },{
       "name": "lustful relationship",
@@ -40,8 +40,7 @@
           "description": "Why Do They Keep Having Sex With Me If They’re Not Interested Or Don’t Want The Relationship I Want?",
           "attribution": "Natalie",
           "references": ["https://baggagereclaim.co.uk/why-do-they-keep-having-sex-with-me-if-theyre-not-interested-or-dont-want-the-relationship-i-want/"]
-      }],
-      "links": ["desire for sex"]
+      }]
   },{
       "name": "one-sided relationship",
       "description": "A sense that having repeated experiences with a particular person, animal, thing, idea, or sensation would be positive, healthy, and a welcome part of one of your identities. In addition, you find this person attractive or admirable, but either they don't know you at all or aren't interested in having a relationship with you.",
@@ -55,19 +54,19 @@
           "attribution": "Jodi Clarke, MA, LPC/MHSP",
           "references": ["https://www.verywellmind.com/unrequited-love-4175362"]
       }],
-      "links": ["physical appreciation"],
+      "related": ["physical appreciation"],
       "examples": ["He missed her dearly after she broke up with him."]
   },{
       "name": "family duty",
       "description": "A sense that you need to support a family member even if they don't invoke consistently positive feelings.",
       "perceptions": ["This person is related to me by blood or marriage.","I don't always agree with their actions or outlooks.","They are a part of my life, so I will continue to support them."],
+      "sensations": ["responsibility"],
       "desires": ["desire for order","desire for agency"],
       "guidance": [{
           "description": "7 Strategies to Deal With Difficult Family Members",
           "attribution": "Abigail Brenner M.D.",
           "references": ["https://www.psychologytoday.com/us/blog/in-flux/201802/7-strategies-to-deal-with-difficult-family-members"]
       }],
-      "links": ["responsibility"],
       "examples": ["He still helped his dad despite their differences."]
     },{
       "name": "estranged family",

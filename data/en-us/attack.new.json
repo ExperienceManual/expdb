@@ -22,7 +22,7 @@
       "desires": ["desire for safety","desire for wealth","desire for social status"],
       "sensations": ["anger","excitement","courage","contempt"],
       "personOfInterestExperiences": ["defense"],
-      "links": ["desire for territory", "desire for social status", "stealing"],
+      "related": ["desire for territory", "desire for social status", "stealing"],
       "examples": ["burglary","war"]
   },{
       "name": "attacking life or health of a person",
@@ -31,7 +31,7 @@
       "desires": ["many"],
       "sensations": ["many"],
       "personOfInterestExperiences": ["defense","anger","anxiety","fear"],
-      "links": ["desire for social status", "desire for social influence", "hate", "contempt", "fear", "anger","vengeance"],
+      "related": ["desire for social status", "desire for social influence", "hate", "contempt", "fear", "anger","vengeance"],
       "examples": ["crime","war","torture"]
   },{
       "name": "attacking life or health of a non-person",
@@ -39,7 +39,7 @@
       "perceptions": ["This agent or group, is dangerous to me or has something I need.","A peaceful resolution does not seem possible or desirable."],
       "desires": ["many"],
       "sensations": ["many"],
-      "links": ["desire for food", "desire to improve", "desire for knowledge"],
+      "related": ["desire for food", "desire to improve", "desire for knowledge"],
       "examples": ["hunting","lab experiment"]
   },{
       "name": "attacking reputation",
@@ -47,7 +47,7 @@
       "perceptions": ["This person, or a group they represent, is dangerous to my status or I could benefit from their downgrade."],
       "desires": ["desire for social status","vengeance"],
       "personOfInterestExperiences": ["defense","anger","anxiety","fear"],
-      "links": [ "criticism" ],
+      "related": [ "criticism" ],
       "examples": ["criticism","libel"]
   },{
       "name": "damage for spite",
@@ -55,7 +55,7 @@
       "perceptions": ["A person or group values this thing.","They will be affected negatively if it's damaged or destroyed."],
       "desires": ["vengeance","desire to make your mark"],
       "personOfInterestExperiences": ["defense","anger"],
-      "links": ["anger", "resentment"],
+      "related": ["anger", "resentment"],
       "examples": ["vandalism"]
   }],
   "commentaries": [{

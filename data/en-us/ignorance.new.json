@@ -70,7 +70,7 @@
       "desires": ["desire for knowledge"],
       "sensations": ["many"],
       "results": ["decide to admit ignorance with humility","deny the importance of the event"],
-      "links": ["guilt","shame","denial"],
+      "related": ["guilt","shame","denial"],
       "guidance": [{
           "description": "It can be difficult grappling with the limitations of one tiny human brain against an infinitely complicated world. You have to move forward amidst social pressures and instincts. Good luck.",
           "references": ["https://www.thecrimson.com/article/2022/11/9/glassman-own-ignorance/","https://fs.blog/two-types-of-ignorance","https://blog.blueyonder.com/ignorance-is-not-bliss-its-ignorance/"]

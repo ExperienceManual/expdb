@@ -13,10 +13,9 @@
   "variations": [{
       "name": "willpower",
       "description": "A successful act of mental control after an encounter with something tempting. It may a well-practiced habit of self-control with barely any awareness of the avoided pleasure, or it may be an act that took terrific energy. You may feel pride for the accomplishment or relief that you passed the test.",
-      "links": ["temptation"],
       "perceptions": [ "Something appealing tempts you away from a goal" ],
       "desires": [ "desire to improve", "desire for comfort" ],
-      "sensations": [ "dissonance" ],
+      "sensations": ["temptation", "dissonance"],
       "results": [ "avoid the temptation" ],
       "guidance": [{
           "description": "A great practice to enhance willpower is the '10-minute rule.' If you feel an impulse to indulge in a bad habit, wait 10 minutes. This brief pause allows your rational mind to catch up with your impulses, often leading to better decisions.",

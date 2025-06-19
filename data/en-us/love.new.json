@@ -4,8 +4,9 @@
   "updateDate": "20250612",
   "name": "love",
   "valence": 1,
-  "description": "A sense that having repeated experiences with a particular person, animal, thing, idea, or sensation will be positive, healthy, and a welcome part of your life.",
+  "description": "A sense that having repeated experiences with a particular person, group, animal, thing, idea, or sensation will be positive, healthy, and a welcome part of your life.",
   "perceptions": ["This experience is consistently positive.","This person or thing is a part of how I see myself.","This experience is not unhealthy for me.", "I am not being forced to have this experience against my will."],
+  "desires": ["desire for comfort"],
   "sensations": ["anticipation","delight"],
   "otherVariations": [ "romantic love", "familial love", "group bond", "companionship", "healthy self-regard"],
   "related": ["desire","appreciation","admiration"],
@@ -18,10 +19,10 @@
       "examples": ["I love eating pizza","I love being a teacher","I love this song","Gollum's 'Precious'"]
   }],
   "commentaries": [{
-      "quote": "This definition of love is just the part that's common across the many relationships we cherish. Here's a breakdown of the key components: positive experiences (obviously), repeated (does not get boring), healthy (doesn't damage other parts of your life), and welcome (it is your choice). There are experiences people enjoy that can shift from ok to being unhealthy, from welcome to unwelcome. For instance, it's ok to say you 'love' a glass of wine in the evening, but an addiction to alcohol cannot be considered 'love'. See the links for more specific definitions.",
+      "quote": "This definition of love is just the part that's common across the many relationships and things we cherish. Here's a breakdown of the key components: positive experiences (obviously), repeated (does not get boring), healthy (doesn't damage other parts of your life), and welcome (it is your choice). There are experiences people enjoy that can shift from ok to being unhealthy, from welcome to unwelcome. For instance, it's ok to say you 'love' a glass of wine in the evening, but an addiction to alcohol cannot be considered 'love'. See the links for more specific definitions.",
       "tags": ["definition footnote"]
   },{
-      "quote": "'Love' is a ridiculously broad term that applies to everything from your soul mate to your favorite fast-food joint. It can mean 'I like it' or it can mean 'deep and eternal core of my existence'."
+      "quote": "'Love' is a ridiculously broad term that applies to everything from your soul mate to your favorite fast-food joint. It can mean 'I like it' or it can mean 'deep and eternal affinity of my existence'."
   },{
       "quote": "Classical Greece defined several different types of loves: philautia (self-regard), eros (romantic love), storge (familial love), philia (companionship and group bond), agape (universal love)"
   },{

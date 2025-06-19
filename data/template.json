@@ -29,7 +29,6 @@
         "timescale": ["unknown"],
         "rarity": ["unknown"],
         "frequency": ["unknown"],
-        "links": [],
         "perceptions": [""],
         "desires": [""],
         "sensations": [""],
@@ -37,6 +36,7 @@
         "personOfInterestExperiences": [""],
         "examples": [],
         "opposites": [],
+        "related": [],
         "comparisons": [{
             "links": [],
             "description": ""

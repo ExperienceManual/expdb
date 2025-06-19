@@ -1,0 +1,84 @@
+{
+  "lang": "en/us",
+  "createDate": "20250303",
+  "updateDate": "20250618",
+  "name": "contempt",
+  "valence": -1,
+  "quote": "He's so gutter.",
+  "description": "A feeling of dislike-for and superiority-over another person, group of people, and/or their actions.",
+  "perceptions": ["This person or group is doing, saying, or represents something I disagree with.","This behavior or appearance indicates a lower social or moral status."],
+  "desires": ["desire for social status","desire for order"],
+  "sensations": ["discomfort","certainty","righteousness"],
+  "results": ["say something derogatory","treat them with disrespect"],
+  "guidance": [{
+      "description": "Contempt can be a valid response to certain behaviors. But often, apply contempt more broadly than necessary. If you'd like to explore the root of your contemptuous feelings, here are some articles to consider.",
+      "references": ["https://www.gottman.com/blog/how-to-change-your-own-contempt/","https://www.bc.edu/content/bc-web/centers/church21/publications/c21-resources/c21-resources-articles/Love-Your-Enemies---say-no-to-contempt.html","https://fastercapital.com/content/Contempt--From-Contempt-to-Compassion--Transforming-Perspectives.html"]
+  },{
+      "description": "If you perceive that someone is being contemptuous towards you, this article may be of interest.",
+      "references": ["https://neurolaunch.com/contemptuous-behavior/"]
+  }],
+  "related": ["group hostility", "aversion","misanthropy"],
+  "opposites": ["admiration"],
+  "variations": [{
+      "name": "bullying contempt",
+      "description": "Emphasizing someone else's behavior mainly to raise your status or distract attention about your behavior.",
+      "perceptions": ["That person is being treated as an equal to me.","I'm better than them.","I need to let others know why they're lower status than me."],
+      "desires": ["desire for social status","desire for validation"],
+      "sensations": ["righteousness"],
+      "results": ["say something derogatory","treat them with disrespect"],
+      "guidance": [{
+          "description": "If you started noticing that you are tearing people apart with criticism, frequently point out their minor faults and ridicule them for any mistakes they make, make fun of their flaws it might be a good time to stop and reflect on your actions and their effect of your life and the lives of others.",
+          "attribution": "Alex",
+          "references": ["https://mindfasting.com/how-to-stop-putting-others-down/"]
+      }],
+      "related": ["attacking reputation","unhealthy self regard"]
+  }],
+  "commentaries": [{
+      "quote": "We accuse others of what we cannot accept in ourselves.",
+      "attribution": "Sigmund Freud"
+  },{
+      "quote": "Contempt is a way to signal to someone that we're higher status than them in some characteristic. And it's a way to communicate to everyone listening which characteristics we value."
+  },{
+      "quote": "The experience of contempt is powered by adrenaline, which makes us feel temporarily more confident and self-righteous but at the same time, less humane.",
+      "attribution": "Steven Stosny, Ph.D."
+  },{
+      "quote": "Admit it. It’s fun to feel like others are beneath us. There are only two ways to feel superior: Elevate yourself or demote others. Sneering down is uplifting, especially when we’ve hit a ceiling and can’t elevate ourselves higher. If you can’t get to the top, dissing others is the only other way to feel like you have. Besides, sometimes we’re right. Plenty of people deserve to be taken down a peg, though of course that could include us when we’re sneering.",
+      "attribution": "Jeremy E. Sherman Ph.D."
+  },{
+      "quote": "To argue with a man who has renounced the use and authority of reason, and whose philosophy consists in holding humanity in contempt, is like administering medicine to the dead, or endeavoring to convert an atheist by scripture.",
+      "attribution": "Thomas Paine"
+  }],
+  "spectrum": {"contempt": 2, "group hostility": 5, "tribalism": 8},
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["contempt"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["contempt"]
+            },
+            "2,1": {
+              "experiences": ["dismay", "satisfaction"]
+            }
+          }
+      },{
+          "names": ["bullying contempt"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["bullying contempt","desire for social status"]
+            },
+            "2,1": {
+              "experiences": ["dismay", "satisfaction"]
+            }
+          }
+      }]
+  }]
+}

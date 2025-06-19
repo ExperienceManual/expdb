@@ -42,7 +42,7 @@
           "description": "Western culture says that males should be 'tough' and that admitting to a mental sickness is a sign of weakness. If you or someone you know may feel a stigma for seeking help, consider resources which help you understand that obstacle. You'd go the doctor for an infected wound on your arm, wouldn't you?",
           "references": ["https://www.menningerclinic.org/news-resources/why-men-don-t-get-mental-health-care-and-how-to-help","https://www.mentalhealth.org.uk/explore-mental-health/a-z-topics/men-and-mental-health"]
       }],
-      "links": ["failure sickness", "depression", "confusion"]
+      "related": ["depression", "confusion"]
   },{
       "name": "chronic sickness",
       "description": "Something that regularly causes the body or mind to not operate properly. It may be permanent or happen periodically.",

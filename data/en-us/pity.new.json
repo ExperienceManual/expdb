@@ -30,7 +30,7 @@
       "sensations": ["gaining","justice","sympathy"],
       "results": ["you may feel fortunate relative to the other","try to determine whether to help"],
       "personOfInterestExperiences": ["many negative"],
-      "links": ["compassion"],
+      "related": ["compassion"],
       "examples": [ "I told her not to do that, but didn't know it would be that bad." ]
   },{
       "name": "self-pity",
@@ -39,7 +39,7 @@
       "desires": ["desire for comfort"],
       "sensations": ["frustration","injustice"],
       "results": ["you may complain to get support from others"],
-      "links": ["victim"],
+      "related": ["victim"],
       "guidance": [{
           "description": "Self-pity is a mindset, and mindsets are malleable. Here are eight tips for decreasing your feelings of self-pity",
           "attribution": "Maggie Wooll, MBA",

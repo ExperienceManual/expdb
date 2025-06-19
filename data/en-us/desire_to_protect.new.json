@@ -22,8 +22,7 @@
           "description": "Joining the military can be fulfilling, and it’s an excellent way to develop new skills and form important connections. However, the military isn’t for everybody, and the lifestyle can be undesirable for some people.",
           "attribution": "MLC Secret Squirrel Blog Writer",
           "references": ["https://militaryluggage.com/blog/what-you-should-know-before-joining-the-military"]
-      }],
-      "links": ["group bond", "desire for social status"]
+      }]
   },{
       "name": "desire to protect nature",
       "description": "Being ready to rescue a pet from the shelter, to participate in a neighborhood cleanup, or to devote your life to helping the natural environment.",
@@ -38,7 +37,7 @@
           "attribution": "Four Paws International",
           "references": ["https://www.four-paws.org/our-stories/publications-guides/checklist-what-to-consider-before-adopting-a-pet"]
       }],
-      "links": ["animal companion"]
+      "related": ["animal companion"]
   }],
   "models": [{
       "version": "em1",

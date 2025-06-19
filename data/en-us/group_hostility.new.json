@@ -1,0 +1,114 @@
+{
+  "lang": "en/us",
+  "createDate": "20250302",
+  "updateDate": "20250618",
+  "name": "group hostility",
+  "valence": -1,
+  "quote": "People who wear that kind of clothing are sketchy.",
+  "description": "Strongly negative feelings about members of a particular social structure.",
+  "perceptions": ["This person belongs to a group that conflicts with part of how I see myself.","Any experience with them would be negative.","They've done something I don't like or they don't like me."],
+  "desires": ["desire for comfort","desire for safety","desire for social status"],
+  "sensations": ["dismay","contempt","fear","anger","vengeance","distrust","aversion to strangers"],
+  "results": ["saying bad things about the group","stereotyping individuals with group characteristics"],
+  "guidance": [{
+      "description": "There may be good reason to be hostile to a group. Or maybe you're just perpetuating something that doesn't have to be. See guidance for enmity.",
+      "references": ["enmity"]
+  }],
+  "related": [ "hate", "tribalism" ],
+  "opposites": ["group bond"],
+  "examples": ["rival sports teams", "nations at war", "racism", "anti-semitism"],
+  "variations": [{
+      "name": "group injustice",
+      "description": "Negative feelings about people associated with a group because you feel that group has wronged you in some way.",
+      "perceptions": ["This person belongs to a group that has wrong me or my group.","Any experience with them would be negative.","I don't trust them."],
+      "desires": ["desire for safety","desire for order"],
+      "sensations": ["dismay","contempt","fear","anger","distrust","resentment"],
+      "results": ["saying bad things about the group","stereotyping individuals with group characteristics"],
+      "guidance": [{
+          "description": "It may not be feasible to move beyond this kind of hostility. But if it is, consider the guidance for forgiveness.",
+          "references": ["forgiveness"]
+      }],
+      "related": ["injustice"],
+      "examples": [
+        "Many groups feel anger towards another group that abused them in the past.",
+        "Hatfield-McCoy"
+      ]
+  },{
+      "name": "outsider hostility",
+      "description": "Being aggresively cautious with people perceived as possibly dangerous outsiders as a way to protect the self and important others.",
+      "perceptions": ["This person belongs to a group that is unfamiliar.","They don't belong here.","Any experience with them would be negative.","I don't trust them."],
+      "desires": ["desire for safety","desire for order"],
+      "sensations": ["dismay","contempt","fear","anger","distrust"],
+      "results": ["saying bad things about the group","stereotyping individuals with group characteristics"],
+      "guidance": [{
+          "description": "Distrust for strangers is wired by default into the brain as a safety mechanism. If you care to take the effort to loosen the wiring in yourself or others, there are many online references.",
+          "references": ["https://biasinsideus.si.edu/online-exhibition/the-science-of-bias","https://www.aafp.org/pubs/fpm/blogs/inpractice/entry/implicit_bias.html","https://www.skillcast.com/blog/reduce-workplace-unconscious-bias","https://blogs.hope.edu/getting-race-right/our-context-where-we-are/the-history-we-inhaled/how-do-we-rid-ourselves-of-stereotypes/"]
+      }],
+      "related": ["stranger danger", "desire for social status"],
+      "examples": [
+        "Some people are not comfortable with the presence of 'weird' foreign immigrants around."
+      ]
+  }],
+  "commentaries": [{
+      "quote": "Group hostility is a type of strong contempt, possibly ranging up to hatred, for perceived characteristics of the group rather than of a specific individual.",
+      "tags": ["definition footnote"]
+  },{
+      "quote": "It's understandable to feel awkward around outsiders. What to talk about? What's that weird food they're eating? Why are they dressed differently? You may not want to invest the time into learning anything about them. You may prefer being an expert in your own culture and that learning something about another culture devalues your own culture or pulls you away from your social base."
+  },{
+      "quote": "The brain relies on shortcuts all the time. We use what we’ve learned from our environment to make quick assumptions about whom to trust, how to behave, what to say.",
+      "attribution": "biasinsideus.si.edu"
+  },{
+      "quote": "Implicit bias is a kind of distorting lens that’s a product of both the architecture of our brain and the disparities in our society.",
+      "attribution": "Jennifer L. Eberhardt in 'Biased: Uncovering the Hidden Prejudice That Shapes What We See, Think, and Do'"
+  },{
+      "quote": "Stereotypes lose their power when the world is found to be more complex than the stereotype would suggest. When we learn that individuals do not fit the group stereotype, then it begins to fall apart.",
+      "attribution": "Ed Koch"
+  }],
+  "spectrum": {"contempt": 2, "group hostility": 5, "xenophobia": 5, "tribalism": 8},
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["group hostility"],
+          "predominantType": "impulse",
+          "levels": {
+            "1": {
+              "experiences": ["discomfort", "anxiety"]
+            },
+            "3,2": {
+              "experiences": ["group hostility","contempt"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["group injustice"],
+          "predominantType": "impulse",
+          "levels": {
+            "1": {
+              "experiences": ["discomfort", "anxiety"]
+            },
+            "3,2": {
+              "experiences": ["group injustice","resentment"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["outsider hostility"],
+          "predominantType": "impulse",
+          "levels": {
+            "1": {
+              "experiences": ["discomfort", "anxiety"]
+            },
+            "3,2": {
+              "experiences": ["outsider hostility","distrust"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      }]
+  }]
+}

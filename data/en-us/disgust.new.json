@@ -41,7 +41,7 @@
           "attribution": "Rachel Herz Ph.D.",
           "references": ["https://www.psychologytoday.com/us/blog/smell-life/201202/taking-control-of-disgust"]
       }],
-      "links": ["group bond", "contempt"],
+      "related": ["group bond"],
       "examples": ["incest", "cheating", "public urination"]
   },{
       "name": "existential disgust",

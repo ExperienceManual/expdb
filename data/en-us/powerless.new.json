@@ -20,7 +20,7 @@
       "name": "facing the impossible",
       "description": "The sense that a significant challenge or threat is not possible to overcome and that there will be negative consequences.",
       "perceptions": ["I do not have the ability to change the environment or solve a problem.","There will be negative consequences."],
-      "links": ["hopelessness"],
+      "sensations": ["hopelessness"],
       "guidance": [{
           "description": "I don’t have a nicely packaged set of tips to overcome whatever impossible task you are facing. Unfortunately, it doesn’t work that way. That’s the nature of the impossible task – it’s impossible. I can’t change that for you anymore than I can change it for myself. But what I can do – what I hope to do – is share some of the lessons I’ve learned over the years that have helped me make it through some pretty daunting challenges. And in so doing, I hope I can help make your next impossible challenge a tiny bit less impossible.",
           "attribution": "Brendan Reid",

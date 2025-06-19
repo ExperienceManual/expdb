@@ -1,0 +1,52 @@
+{
+    "lang": "en/us",
+    "createDate": "20250618",
+    "updateDate": "20250618",
+    "name": "self loathing",
+    "valence": -1,
+    "timescale": ["unknown"],
+    "rarity": ["unknown"],
+    "frequency": ["unknown"],
+    "quote": "I'm a complete and utter failure.",
+    "description": "A profound sense of dislike or contempt for oneself.",
+    "perceptions": ["I am ashamed of my actions.","I am not meeting expections about myself.","I don't know if I can improve."],
+    "desires": ["desire for comfort"],
+    "sensations": ["shame"],
+    "results": ["treating yourself poorly","mental health issues","substance abuse"],
+    "related": ["unhealthy self regard"],
+    "opposites": ["healthy self refard"],
+    "guidance": [{
+        "description": "There are some general concepts that can help anyone going through a phase of self-loathing. Even if you don’t go to therapy, these key guidelines can help you stay on track — and stop the recurring, self-hating patterns.",
+        "attribution": "Julian Selemin",
+        "references": ["https://www.webmd.com/mental-health/what-is-self-loathing"]
+    }],
+    "comparisons": [{
+        "links": ["unhealthy self regard"],
+        "description": "'Self-loathing' is the grandaddy of 'unhealthy self regard' - ticking all the boxes of self-doubt, self-neglect, self-condemnation, and timidness."
+    }],
+    "commentaries": [{
+        "quote": "I wanted to kill the me underneath. That fact haunted my days and nights. When you realize you hate yourself so much, when you realize that you cannot stand who you are, and this deep spite has been the motivation behind your behavior for many years, your brain can’t quite deal with it. It will try very hard to avoid that realization; it will try, in a last-ditch effort to keep your remaining parts alive, to remake the rest of you.",
+        "attribution": "Marya Hornbacher in 'Wasted: A Memoir of Anorexia and Bulimia'"
+    },{
+        "quote": "Accomplishments don’t erase shame, hatred, cruelty, silence, ignorance, discrimination, low self-esteem or immorality. It covers it up, with a creative version of pride and ego. Only restitution, forgiving yourself and others, compassion, repentance and living with dignity will ever erase the past.",
+        "attribution": "Shannon L. Alder"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["self-loathing"],
+            "predominantType": "sensation",
+            "levels": {
+              "1": {
+                "experiences": ["anxiety"]
+              },
+              "3,2": {
+                "experiences": ["self-loathing","shame"]
+              },
+              "4": {
+                "experiences": ["narration"]
+              }
+            }
+        }]
+    }]
+}

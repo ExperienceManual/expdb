@@ -29,7 +29,7 @@
           "attribution": "Mayo Clinic",
           "references": ["https://www.mayoclinic.org/diseases-conditions/specific-phobias/diagnosis-treatment/drc-20355162"]
       }],
-      "links": ["paranoia"],
+      "related": ["paranoia"],
       "examples": ["He's afraid to travel by air.","claustrophobia"]
   },{
       "name": "panic attack",
@@ -43,7 +43,7 @@
           "attribution": "UK National Health System",
           "references": ["https://www.nhs.uk/mental-health/conditions/panic-disorder/"]
       }],
-      "links": ["aversion to unpopular creatures", "paranoia"],
+      "related": ["aversion to unpopular creatures", "paranoia"],
       "examples": ["I can't get on that airplane.","I can't give this presentation."]
   }],
   "commentaries": [{

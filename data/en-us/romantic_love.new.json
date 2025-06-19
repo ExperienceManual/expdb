@@ -32,7 +32,7 @@
           "attribution": "Mansee Khurana, Sylvie Douglis",
           "references": ["https://www.npr.org/2022/07/01/1109455525/how-to-deal-with-a-crush"]
       }],
-      "links": ["physical appreciation", "appreciation signaling"],
+      "related": ["physical appreciation", "appreciation signaling"],
       "examples": ["pinup posters"]
   },{
       "name": "new love",
@@ -46,7 +46,7 @@
           "description": "Enjoy it while it lasts, but it might help to be aware that relationships go through stages.",
           "references": ["https://glynissherwood.com/how-to-get-past-early-relationship-changes/"]
       }],
-      "links": ["anticipation"],
+      "related": ["anticipation"],
       "examples": ["Is this the one?"]
   }],
   "commentaries": [{

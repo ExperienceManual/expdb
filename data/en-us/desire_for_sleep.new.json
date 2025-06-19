@@ -17,7 +17,7 @@
       "name": "escape sleep",
       "description": "Sometimes a nap can be triggered more from a desire for a short escape to quiet and comfort than from feeling sleepy.",
       "perceptions": ["sleep would help me relax"],
-      "links": ["desire for comfort", "desire for quiet"]
+      "related": ["desire for comfort", "desire for quiet"]
     }
   ],
   "commentaries": [{

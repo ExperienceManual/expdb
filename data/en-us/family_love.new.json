@@ -28,7 +28,7 @@
           "attribution": "abbycare.org",
           "references": ["https://www.abbycare.org/blog/tips-for-caregivers"]
       }],
-      "links": ["pride"],
+      "related": ["pride"],
       "examples": ["parents", "caregivers"]
   },{
       "name": "parent love",

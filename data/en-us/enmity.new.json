@@ -1,0 +1,92 @@
+{
+  "lang": "en/us",
+  "createDate": "20250302",
+  "updateDate": "20250617",
+  "name": "enmity",
+  "valence": -1,
+  "quote": "That jerk is blocking my career.",
+  "description": "A deep aversion to the beliefs or actions of another person and a sense they are actively working against your interests.",
+  "description": "A sense that your relationship with a particular person is negative, unhealthy, and/or they conflict with an important part of your identity. The relationship is perceived as including mutual disrespect, differing interests, and/or negative history.",
+  "perceptions": ["Experiences with this person are quite negative.","They conflict with an important part of one of my identities.","We disrespect each other and have differing interests."],
+  "desires": ["desire for order","desire for comfort"],
+  "sensations": ["anxiety","aversion"],
+  "results": ["may avoid contact with this person","may actively work against their interests"],
+  "personOfInterestExperiences": ["often the same, but not always"],
+  "guidance": [{
+      "description": "There may be a good reason to consider someone your enemy. But if you suspect that a better relationship is possible, here are some articles to consider.",
+      "references": ["https://www.kenjoneszen.com/everyday-buddhism/everyday_buddhism_miscellaneous_papers/enmity","https://commonhomefarm.org/2018/10/05/embracing-enmity/","https://drzur.com/enmity/"]
+  }],
+  "related": [ "hate", "group hostility", "righteousness", "vengefulness", "fear" ],
+  "opposites": ["love","companionship"],
+  "variations": [{
+      "name": "enemy signaling",
+      "description": "Declaring that someone is your enemy mostly to score points with a social group.",
+      "perceptions": ["This person hasn't really done anything to hurt or insult me.","My social group doesn't them.","I want to keep favor with my group"],
+      "desires": ["desire for social status"],
+      "results": ["saying negative things about them","treating them poorly"],
+      "personOfInterestExperiences": ["they probably don't consider you an enemy"],
+      "guidance": [{
+          "description": "The bandwagon effect is a psychological phenomenon in which people do something primarily because other people are doing it, regardless of their own beliefs, which they may ignore or override. This tendency of people to align their beliefs and behaviors with those of a group is also called a herd mentality.",
+          "attribution": "Investopedia Team",
+          "references": ["https://www.investopedia.com/terms/b/bandwagon-effect.asp"]
+      }],
+      "related": ["subordination"],
+      "examples": [
+        "Everyone in my family roots against that team, so I do too."
+      ]
+  }],
+  "commentaries": [{
+      "quote": "Enmity is a strong aversion to a certain person.",
+      "tags": ["definition footnote"]
+  },{
+      "quote": "It may be helpful to consider whether to engage your enemy head-on or attempt to understand their perspective. You'll probably end up fighting either way, but the outcome may differ in the long run."
+  },{
+      "quote": "People are bound by countless social threads, so cannot change in the short-term. Don't expect your enemy to change simply because you're punishing them with your anger."
+  },{
+      "quote": "Some people like having an enemy because it gives structure to their lives. Others are fearful of non-existent enemies."
+  },{
+      "quote": "Always forgive your enemies; nothing annoys them so much.",
+      "attribution": "Oscar Wilde"
+  },{
+      "quote": "If you don't have enemies, you don't have character.",
+      "attribution": "Paul Newman"
+  },{
+      "quote": "It is easy enough to be friendly to one's friends. But to befriend the one who regards himself as your enemy is the quintessence of true religion. The other is mere business.",
+      "attribution": "Mahatma Ghandi"
+  },{
+      "quote": "Your friends will believe in your potential, your enemies will make you live up to it.",
+      "attribution": "Tim Fargo"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["enmity"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["enmity"]
+            },
+            "2,1": {
+              "experiences": ["anxiety", "dismay"]
+            }
+          }
+      },{
+          "names": ["enmity signaling"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["enmity signaling","desire for social status"]
+            },
+            "2,1": {
+              "experiences": ["anxiety", "dismay"]
+            }
+          }
+      }]
+  }]
+}

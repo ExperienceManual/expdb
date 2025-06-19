@@ -21,20 +21,17 @@
       "name": "clock says hungry",
       "description": "Often in the modern world, we're ready to eat mostly because the clock says it's time for a meal and you're ready for a break from work. Often these breaks are cherished parts of the day.",
       "perceptions": ["Not necessarily hungry, but it's time to eat."],
-      "desires": ["desire for stimulation"],
-      "links": ["desire for stimulation"]
+      "desires": ["desire for stimulation"]
     },{
       "name": "grazing",
       "description": "You can feel a desire for food by watching others eat. For example, watching an advertisement that shows happy people eating your favorite dish.",
       "perceptions": ["Others are eating, that looks enjoyable. I should join them."],
-      "desires": ["desire for social contact","desire for stimulation"],
-      "links": ["desire for social contact","desire for stimulation"]
+      "desires": ["desire for social contact","desire for stimulation"]
     },{
       "name": "comfort snacking",
       "description": "Snacking can be driven by a deep desire for comfort brought about by the sensations and brain chemicals of the actual eating, and of having the economic luxury to do so.",
       "perceptions": ["Would be nice to have a snack and there's no harm in doing so."],
-      "desires": ["desire for stimulation"],
-      "links": ["desire for stimulation"]
+      "desires": ["desire for stimulation"]
   }],
   "commentaries": [{
       "quote": "It may be helpful to be aware of why you're heading to the refrigerator: boredom, anxiety, social bonding, or actual hunger."

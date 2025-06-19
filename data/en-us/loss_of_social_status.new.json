@@ -40,7 +40,7 @@
           "attribution": "Lawrence Robinson and Melinda Smith, M.A.",
           "references": ["https://www.helpguide.org/mental-health/stress/coping-with-financial-stress"]
       }],
-      "links": ["losing an important asset"],
+      "related": ["losing an important asset"],
       "examples": ["losing a job","stock market crash","house burns down"]
   },{
       "name": "exile",

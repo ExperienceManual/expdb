@@ -18,7 +18,7 @@
       "description": "The brain can become quite fond of stimulating chemicals consumed or released during exciting activities.",
       "perceptions": ["The mind wants to feel the stimulation of brain juices."],
       "examples": ["caffeine","dopamine","adrenaline"],
-      "links": ["addiction", "desire for sex"]
+      "related": ["addiction", "desire for sex"]
     },{
       "name": "desire for novelty",
       "description": "Wanting to experience something different than usual. Some people enjoy new situations, others prefer to limit their experiences to the familiar.",

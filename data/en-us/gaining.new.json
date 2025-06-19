@@ -14,7 +14,7 @@
   "examples": ["finding a lost thing", "gaining knowledge", "the world seems to have changed for the better"],
   "variations": [{
       "name": "winning a game or contest",
-      "links": ["challenge"],
+      "related": ["challenge"],
       "description": "Delight caused by winning a game or contest.",
       "perceptions": ["I wanted to be on the winning side in that challenge.","That hope or prediction took place."],
       "desires": ["desire for social status"],
@@ -25,7 +25,7 @@
       }]
   },{
       "name": "winning an important contest you were predicted to lose",
-      "links": ["surprise", "gain of social status"],
+      "related": ["surprise", "gain of social status"],
       "description": "Delight caused by winning a challenge where you or your side were the predicted losers.",
       "perceptions": ["We should have lost this challenge.","We must have done something right, gotten lucky, or are more skillful than given credit."],
       "sensations": ["surprise","pride","gratitude"],
@@ -40,7 +40,7 @@
       "perceptions": ["A new person has entered into the inner circle of my life.","I'm looking forward having experiences life with this person or pet."],
       "desires": ["desire for social contact"],
       "sensations": ["delight","love","anticipation"],
-      "links": ["desire for parenthood", "companionship"],
+      "related": ["desire for parenthood", "companionship"],
       "examples": ["new baby in the family", "new romantic partner", "new pet"]
   },{
       "name": "gaining a very important asset",

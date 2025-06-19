@@ -17,7 +17,7 @@
       "perceptions": ["Visual or audio perception of a cute baby human or animal."],
       "desires": ["desire to possess and squeeze this cute creature"],
       "sensations": ["appreciation"],
-      "links": ["greed"]
+      "related": ["greed"]
   }],
   "spectrum": {
     "cute": 1,

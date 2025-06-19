@@ -20,7 +20,7 @@
           "description": "There are many references to help learn how to teach various things like academics, sports, business skills, self-improvement, etc.",
           "references": ["https://positivecoach.org/resource-zone/16-tips-for-the-first-time-coach/","https://noweducation.co.uk/new-to-teaching-here-are-our-top-10-tips/"]
       }],
-      "links": ["helpfulness"],
+      "related": ["helpfulness"],
       "examples": ["teachers","pundits","self-help industry","missionaries","open source reference projects"]
   },{
       "name": "desire to persuade others",
@@ -43,7 +43,7 @@
           "description": "There are parenting and workplace guides to help think about reasonable consequences.",
           "references": ["https://www.cdc.gov/parenting-toddlers/discipline-consequences/consequences.html","https://www.aihr.com/blog/disciplinary-action/"]
       }],
-      "links": ["powerful"],
+      "related": ["powerful"],
       "examples": ["parenting","managing a business","dictatorship"]
   },{
       "name": "desire to make your mark",
@@ -61,7 +61,7 @@
       "perceptions": ["I think negatively of some person or group.","It would be fun to see them irritated or scared.","My social group will praise me for attacking them."],
       "desires": ["desire for social status","desire for agency","desire for stimulation"],
       "sensations": ["vengefulness","attack"],
-      "links": ["desire to make your mark","commiting a social violation","vengefulness"],
+      "related": ["desire to make your mark","commiting a social violation","vengefulness"],
       "personOfInterestExperiences": ["contempt","fear"],
       "examples": ["graffiti","online trolls","terrorists"],
       "guidance": [{
@@ -73,7 +73,7 @@
       "description": "Wanting to help people.",
       "perceptions": ["A person or group could use some help.","I could help","It could feel good to help."],
       "desires": ["desire for meaning","desire for social status","desire for agency"],
-      "links": ["generosity","desire to make your mark"],
+      "related": ["generosity","desire to make your mark"],
       "personOfInterestExperiences": ["gratitude"],
       "examples": ["volunteers"],
       "guidance": [{

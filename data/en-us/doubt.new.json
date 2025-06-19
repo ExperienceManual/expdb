@@ -18,7 +18,7 @@
       "desires": ["desire for agency"],
       "sensations": ["anxiety","dissonance","social fear"],
       "results": ["try to find a way to obtain the desired outcome"],
-      "links": ["failure","self-condemnation"],
+      "related": ["failure","self-condemnation"],
       "comparisons": [{
           "links": ["self-condemnation"],
           "description": "Condemnation is considering yourself a general failure, while self-doubt may be about a particular area. For instance, you can doubt your skill at helping win an important basketball game, without disliking yourself as a whole."
@@ -41,7 +41,7 @@
           "description": "There are many resources on the internet from religious authorities about how to reconnect to your traditional faith. If that's not going to work for you, there may be stages of grief.",
           "references": ["grief"]
       }],
-      "links": ["loss of social status"]
+      "related": ["loss of social status"]
   },{
       "name": "fear of doubt",
       "description": "A sense that uncertainty is deeply unsettling or even dangerous.",

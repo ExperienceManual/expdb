@@ -8,7 +8,7 @@
   "description": "Judgment that a person or creation process shows unusual quality or skill. Admiration is about the person or process that created something that you appreciate.",
   "perceptions": ["You appreciate that someone or something has unusually good qualities.","You recognize that displaying these characteristics doesn't happen automatically."],
   "desires": ["desire for knowledge"],
-  "sensations": ["delight","appreciation","deduction (recognizing the skill involved)"],
+  "sensations": ["delight","appreciation"],
   "results": ["desire to express this recognition"],
   "related": ["appreciation", "wonder", "love","curiosity"],
   "opposites": ["contempt"],
@@ -28,12 +28,12 @@
           "references": ["https://www.psychologytoday.com/us/blog/science-of-choice/202311/8-tips-for-learning-a-new-skill-effectively"]
         }
       ],
-      "links": ["desire to improve"]
+      "related": ["desire to improve"]
     },
     {
       "name": "admiration of the unusual",
       "description": "A sense that another person is different from others in a good or interesting way. You don't necessarily want to have that trait yourself, but approve of its existence.",
-      "links": ["good weird"]
+      "related": ["good weird"]
     }
   ],
   "spectrum": {

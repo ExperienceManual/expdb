@@ -20,7 +20,7 @@
       "description": "Wanting to defend a particular physical or social space as your own. To have enough resources to safely survive, many animals mark their terrory and are willing to fight to defend it.",
       "perceptions": ["This space is mine.","I need to protect it."],
       "desires": ["desire to protect","desire for agency"],
-      "links": ["defense","desire for agency"],
+      "related": ["defense"],
       "examples": ["physical territory","sales regions","team assignments"]
   }],
   "commentaries": [{

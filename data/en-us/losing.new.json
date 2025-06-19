@@ -14,7 +14,7 @@
   "opposites": ["gaining"],
   "variations": [{
       "name": "losing a game or contest",
-      "links": ["challenge"],
+      "related": ["challenge"],
       "description": "Disappointment caused by losing a game or contest. Most of the time we play a game or enter a contest there's a hope we'll win even if chace is involved. We regret the disappearance of hope and whatever resources were invested.",
       "perceptions": ["I wanted to be on the winning side in that challenge.","That's no longer possible."],
       "desires": ["desire for social status"],
@@ -50,7 +50,7 @@
   },{
       "name": "losing a loved one",
       "description": "See 'grief'.",
-      "links": ["grief"]
+      "related": ["grief"]
   }],
   "commentaries": [{
       "quote": "Phrases like 'losing weight' and 'losing inhibition' are double negatives -- these can be interpreted to mean 'gaining fitness' and 'finding courage'."

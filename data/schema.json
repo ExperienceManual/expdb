@@ -244,7 +244,7 @@
 		"type": "string"
 	      }
 	    },
-          "links": {
+          "related": {
             "type": "array",
             "default": [],
             "items": {
