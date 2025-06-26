@@ -1,0 +1,128 @@
+{
+  "lang": "en/us",
+  "createDate": "20250305",
+  "updateDate": "20250624",
+  "name": "generosity",
+  "valence": 1,
+  "quote": "She gave us her share of the chocolates.",
+  "description": "Giving to others something of more value than is socially expected.",
+  "perceptions": ["The other person needs this more than I need it.","There's no pressure for me to give this.","It makes me feel good to give this."],
+  "desires": ["desire for comfort","desire for meaning","desire for social status"],
+  "sensations": ["satisfaction"],
+  "guidance": [{
+      "description": "There are a number of simple steps that we can take to make generosity more intentional in our lives.",
+      "attribution": "Joshua Becker",
+      "references": ["https://www.becomingminimalist.com/10-simple-ways-to-become-a-more-generous-person/"]
+  }],
+  "related": ["compassion", "social contact", "gratitude", "sacrifice"],
+  "opposites": ["selfishness", "greed"],
+  "examples": ["giving money", "giving attention", "giving help"],
+  "variations": [{
+      "name": "admired generosity",
+      "description": "Perceiving that someone else is giving more of something than is expected by a particular social group with a positive judgment.",
+      "perceptions": ["That person is giving more than their share.","That's nice of them."],
+      "sensations": ["gratitude","appreciation"],
+      "related": ["gratitude"],
+      "opposites": ["greed"],
+      "examples": [ "philanthropy" ]
+  },{
+      "name": "over-generosity",
+      "description": "Perceiving that someone else is giving too much of something,  far in excess of what is expected by a particular social group.",
+      "perceptions": ["That person is giving way more than they should.","I think this creates a dependency or sets up unrealistic future expectations for the rest of us."],
+      "sensations": ["annoyance","contempt"],
+      "personOfInterestExperiences": ["generosity"],
+      "guidance": [{
+          "description": "Giving for the wrong reasons can be detrimental to both your relationship and your self-esteem.",
+          "attribution": "Karen Kleiman MSW, LCSW",
+          "references": ["https://www.psychologytoday.com/us/blog/this-isnt-what-i-expected/201403/are-you-an-over-giver"]
+      }]
+  },{
+      "name": "expected generosity",
+      "description": "Giving gifts can be expected in some situations, so although it may be described as 'generous', sometimes it's an obligation to meet expectations.",
+      "perceptions": ["The social situation requires that I give this."],
+      "desires": ["desire for social status"],
+      "sensations": ["satisfaction","generosity","responsibility","annoyance"],
+      "results": [""],
+      "personOfInterestExperiences": ["gratitude"],
+      "guidance": [{
+          "description": "While every now and then you’ll get a gift that the receiver will love and treasure forever, in many cases that bar is simply too high. It’s much less pressure if we recognize that the real reason to give to give a gift is to show we care about someone. A good gift is one that makes the recipient feel cared for, loved, or appreciated.",
+          "attribution": "Ingrid Fetell Lee",
+          "references": ["https://aestheticsofjoy.com/a-guide-to-joyful-gift-giving/"]
+      }],
+      "examples": ["We brought a gift to the housewarming party."]
+  }],
+  "commentaries": [{
+      "quote": "Money is not the only commodity that is fun to give. We can give time, we can give our expertise, we can give our love, or simply give a smile. What does that cost? The point is, none of us can ever run out of something worthwhile to give.",
+      "attribution": "Steve Goodier"
+  },{
+      "quote": "Real generosity is doing something nice for someone who will never find out.",
+      "attribution": "Frank A. Clark"
+  },{
+      "quote": "Every minute of every hour of every day you are making the world, just as you are making yourself, and you might as well do it with generosity and kindness and style.",
+      "attribution": "Rebecca Solnit"
+  },{
+      "quote": "Let us try to teach generosity and altruism, because we are born selfish.",
+      "attribution": "Richard Dawkins"
+  }],
+  "spectrum": {"charitable": 3, "generous": 5, "lavish": 7, "sacrifice": 9},
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["generosity"],
+          "predominantType": "",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["generosity"]
+            },
+            "2,1": {
+              "experiences": ["satisfaction"]
+            }
+          }
+      },{
+          "names": ["expected generosity"],
+          "predominantType": "",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["expected generosity"]
+            },
+            "2,1": {
+              "experiences": ["satisfaction"]
+            }
+          }
+      },{
+          "names": ["admired generosity"],
+          "predominantType": "",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["admired generosity","appreciation"]
+            },
+            "2,1": {
+              "experiences": ["satisfaction"]
+            }
+          }
+      },{
+          "names": ["over-generosity"],
+          "predominantType": "",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["over-generosity","annoyance"]
+            },
+            "2,1": {
+              "experiences": ["dissatisfaction"]
+            }
+          }
+      }]
+  }]
+}

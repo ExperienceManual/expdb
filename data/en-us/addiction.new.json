@@ -19,8 +19,8 @@
   ],
   "variations": [{
       "name": "something you really like",
-      "description": "In common usage, 'addiction' just mean a 'strong desire' as in being 'addicted' to peanut butter. But when there's nothing psychoactive involved, it's really just a strong desire or appreciation.",
-      "perceptions": ["There's this thing I enjoy.","It's fine in moderation.","I likebeing associated with this thing."],
+      "description": "In some common usage, 'addiction' can just mean a 'strong desire' as in being 'addicted' to peanut butter. But when there's nothing psychoactive involved, it's just a strong desire or appreciation.",
+      "perceptions": ["There's this thing I enjoy.","It's fine in moderation.","I like being associated with this thing."],
       "desires": ["desire for comfort"],
       "sensations": ["appreciation"],
       "results": ["desire to experience the thing"]

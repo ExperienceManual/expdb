@@ -1,0 +1,127 @@
+{
+  "lang": "en/us",
+  "createDate": "20250304",
+  "updateDate": "20250624",
+  "name": "greed",
+  "valence": 0,
+  "quote": "She ate all of our chocolates!",
+  "description": "Perceiving that someone persistently claims more of something than is considered decent by a particular social group.",
+  "perceptions": ["That person often claims more than their share.","It's not fair."],
+  "desires": ["desire for order"],
+  "sensations": ["resentment"],
+  "personOfInterestExperiences": ["desire for comfort","desire for social status","desire for territory","ambition"],
+  "guidance": [{
+      "description": "Greed is a complex emotion, and there are many factors that can contribute to it. Recognizing our own tendencies toward greedy behavior and identifying these traits in others can help us work towards a more generous and compassionate society.",
+      "attribution": "Patricia K. Flanigan",
+      "references": ["https://www.agegracefullyamerica.com/the-psychology-behind-greed-what-makes-greedy-people-greedy/"]
+  }],
+  "related": [ "selfishness", "contempt", "hoarding", "cheating" ],
+  "opposites": ["generosity"],
+  "examples": ["taking an extra slice of pizza when there's not enough","rigging an election"],
+  "comparisons": [{
+      "links": ["selfishness","cheating"],
+      "description": "Greed is a particular kind of selfishness that is a strong desire for more of something than is necessary. It can be considered a form of 'cheating' when rules about social behavior are broken. 'Selfishness' encompasses more than than just material items or social position, including, for instance, attention and actions."
+  }],
+  "variations": [{
+      "name": "realized greed",
+      "description": "Perceiving that others may have considered your actions greedy may come with embarassment or guilt.",
+      "perceptions": ["I took more than my share.","Others may have perceived that action negatively."],
+      "desires": ["desire for comfort","desire for social status"],
+      "sensations": ["embarassment","guilt"],
+      "results": ["perhaps an apology"],
+      "guidance": [{
+          "description": "In moderation, the desire for wealth, power and status can drive positive ambitions and propel people towards their goals. However, when these desires become all-consuming, as seen in Crassus' story, they lead to ruthless and harmful actions. In today's materialistic and capitalistic world, where entitlement and self-centeredness are encouraged, these traits can hinder the pursuit of a meaningful life.",
+          "attribution": "Manfred F. R. Kets de Vries",
+          "references": ["https://knowledge.insead.edu/leadership-organisations/escape-grip-greed-and-envy"]
+      }],
+      "examples": ["So sorry, I didn't know I was only supposed to have one."]
+  },{
+      "name": "push your luck",
+      "description": "Risking the loss of something valuable to get something perceived as even more valuable.",
+      "perceptions": ["I would to get the prize.","In order to get the prize, I need to take a chance on losing something I already have."],
+      "desires": ["desire to win","desire for stimulation"],
+      "sensations": ["excitement"],
+      "opposites": ["aversion to loss"],
+      "guidance": [{
+          "description": "Gambling disorder is identified by a pattern of repeated and ongoing betting and wagering that continues despite creating multiple problems in several areas of an individual’s life.",
+          "attribution": "American Psychiatric Association",
+          "references": ["https://www.psychiatry.org/patients-families/gambling-disorder/what-is-gambling-disorder"]
+      }],
+      "related": ["gaining", "losing"],
+      "examples": [ "gambling" ]
+  },{
+      "name": "stinginess",
+      "description": "A perception that someone gave another something of less value than was socially expected.",
+      "perceptions": ["That person gave something out.","The value of the object or action was less than is expected for the situation."],
+      "desires": ["desire for order"],
+      "sensations": ["contempt"],
+      "personOfInterestExperiences": ["desire for comfort","desire for social status","desire for territory","ambition"],
+      "guidance": [{
+          "description": "Stinginess with money can have negative consequences such as strained relationships, missed opportunities, and an unfulfilling life. While our financial health is important, we also need to weigh the benefits of being generous with ourselves and valuing the people and experiences in our lives.",
+          "attribution": "Chloe Daniels",
+          "references": ["https://clobare.com/why-am-i-so-stingy/"]
+      },{
+          "description": "To make it painfully clear, 'living stingy' involves drastically cutting your spending on things that do not bring you value. It involves being purposeful about your budget and intentionally directing all of your extra money to get out of debt or reach a financial goal. Living stingy can also involve an ungrateful and ungenerous attitude, which should be avoided at all costs.",
+          "attribution": "Ryan Luke",
+          "references": ["https://community.thriveglobal.com/11-simple-living-stingy-tips-to-reach-your-goals/"]
+      }],
+      "examples": ["All dad gave me for my birthday was a pack of gum."]
+  }],
+  "commentaries": [{
+      "quote": "'Greed' is most often a label applied to others. What the 'greedy' person experiences may be ambition to succeed or fear of not having enough for the future.",
+      "tags": ["definition footnote"]
+  },{
+      "quote": "Greed can sometimes be hard to distinguish from ambition. Efficiency in collecting assets is considered a positive motivation in a free-market economy."
+  },{
+      "quote": "Asset accumulation is considered negative when it exceeds societal expectations about how they're supposed to be distributed. For example, grabbing 2 cookies could be considered greedy if everyone was supposed to have only one."
+  },{
+      "quote": "Take care, and be on your guard against all covetousness, for one's life does not consist in the abundance of his possessions.",
+      "attribution": "The Bible, Luke 12:15"
+  },{
+      "quote": "Greed in Buddhism is simply, 'wanting a little bit more', and not being satisfied with what we have, whether it is our salary, our home, our career, or our prestige.  We always wish we had just a little more.  With a little more money, we could buy this or that.  With a little bigger home, we could have our own office or a guest room. Buddhism teaches us that this wish to have just a little more is unending.",
+      "attribution": "Bishop Marvin Harada on buddhistchurchesofamerica.org"
+  },{
+      "quote": "Fear will make you stingy.",
+      "attribution": "Kenneth Copeland"
+  }],
+  "spectrum": {
+    "thirst": 2,
+    "selfish": 3,
+    "stingy": 3,
+    "greedy": 5,
+    "avaricious": 7,
+    "gluttony": 8
+  },
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["greed","stinginess","push your luck"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["greed"]
+            },
+            "2,1": {
+              "experiences": ["desire","fear"]
+            }
+          }
+      },{
+          "names": ["realized greed"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["realized greed","embarassment"]
+            },
+            "2,1": {
+              "experiences": ["desire","fear"]
+            }
+          }
+      }]
+  }]
+}

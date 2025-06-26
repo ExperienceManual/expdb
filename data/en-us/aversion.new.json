@@ -5,14 +5,14 @@
   "name": "aversion",
   "valence": -1,
   "quote": "That painting is ugly as sin.",
-  "description": "Unattractiveness to the senses or sensibilities in purely subjective arena. What puts something into the zone of 'unattractive' depends on culture and individual experiences. You consider it to be a poorly-formed example of that kind of thing.",
+  "description": "Unattractiveness to the senses or sensibilities in purely subjective arena.",
   "perceptions": ["Something brings dismay by being judged as a poorly-formed instance of its type of thing."],
   "results": ["preference to not experience this often"],
   "related": [ "dismay", "disgust", "contempt", "aversion to cheaters", "aversion to strangers", "aversion to dangerous creatures", "hate" ],
   "opposites": ["appreciation", "desire"],
   "comparisons": [{
     "links": ["disgust"],
-    "description": "Disgust is the perception that the target could somehow contaminate you. Aversion is simply not liking the thing while not perceiving that it could taint you somehow."
+    "description": "Disgust is the perception that the target could somehow contaminate you. Aversion is simply not liking the thing without perceiving that it could somehow taint you."
   },{
     "links": ["hate"],
     "description": "You 'hate' things that you never want to experience again. Aversion is weaker - you find the thing 'poorly-formed' but can probably tolerate experiencing it again."
@@ -22,28 +22,33 @@
   }],
   "variations": [{
       "name": "aesthetic aversion",
-      "description": "Something unattractive to the senses or sensibilities in purely subjective arena. For example colors you consider clashing or music from a genre you don't favor.",
+      "description": "Something unattractive to the senses or sensibilities in art or music.",
       "perceptions": ["An artistic representation of something brings dismay by being considered poorly-formed for that kind of thing."],
-      "sensations": ["dismay"]
+      "sensations": ["dismay"],
+      "examples": ["clashing colors","music from a genre you don't favor"]
     },{
       "name": "physical aversion",
-      "description": "A particularly unattractive item, ideal, or person may create a desire to avoid it/him/her. What makes something or someone physically unattractive depends on culture and upbringing.",
+      "description": "A particularly unattractive item, ideal, or person may create a desire to avoid it/him/her.",
       "perceptions": ["A person or item is judged to be poorly-formed."],
       "sensations": ["dismay"]
     },{
       "name": "aversion signaling",
-      "description": "Sometimes we might recognize that a social group expects us to find a certain thing unappealing, which may nudge us into paying closer attention.",
-      "perceptions": ["We think our social group will want us to dislike this thing.","The thing disappoints by being considered poorly-formed."],
+      "description": "Unattractiveness to the senses or sensibilities driven at least in part by a recognition that a social group expects us to find a certain thing unappealing.",
+      "perceptions": ["A social group will want me to dislike this thing.","The thing disappoints because it is poorly-formed."],
       "desires": ["desire for social status"],
       "sensations": ["dismay"],
       "guidance": [{
           "description": "If desired, there are various resources available for how to gently resist social pressure.",
           "references": ["https://yourlifecounts.org/learning-center/peer-pressure/20-ways-to-avoid-peer-pressure/","https://wholejourneywellness.com/social-pressure-resisting-peer-pressure-and-staying-true-to-yourself-during-the-holidays/"]
       }],
-      "related": ["desire for social status"]
+      "related": ["desire for social status"],
+      "examples": ["culture war cooties"]
     }
   ],
   "commentaries": [{
+      "quote": "The factors that you use to determine whether something is unattractive (poorly-formed) depend on culture and individual experience.",
+      "tags": ["definition footnote"]
+  },{
       "quote": "Aesthetic aversion is always subjective. Someone else may appreciate the architecture, singing voice, graffiti, or clashing colors."
   },{
       "quote": "A feeling of aversion or attachment toward something is your clue that there's work to be done.",

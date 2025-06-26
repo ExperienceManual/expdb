@@ -5,7 +5,7 @@
   "name": "abstinence",
   "valence": 0,
   "quote": "Thanks, I don't drink.",
-  "description": "Long term goal of avoiding something that may have brought pleasure or relief. Abstaining from something may come from a desire to improve, a desire to fit in with a social group, or a previous negative experience. Each instance of abstinence may be easy or a very difficult act of willpower.",
+  "description": "Long term goal of avoiding something that may have brought pleasure or relief. Each instance of abstinence may be easy or a very difficult act of willpower.",
   "desires": [ "desire to improve", "desire for social status" ],
   "related": [ "temptation", "sacrifice", "self control", "willpower" ],
   "opposites": [ "indulgence" ],
@@ -14,19 +14,19 @@
       "description": "If you need help abstaining from something addictive, consider finding a support group or professional help.",
       "references": ["https://www.addictioncenter.com/treatment/support-groups/"]
   },{
-      "description": "For general tips, see guidance in 'willpower'.",
+      "description": "For general tips, see guidance on 'willpower'.",
       "references": ["willpower"]
   }],
   "variations": [{
       "name": "hesitant abstinence",
-      "description": "If you're not fully committed to the goal of abstinence, or if there's social pressure to indulge, abstinence may come with some level of regret from missing out on the pleasure.",
-      "perceptions": [ "Something really appealing tempts you away from the goal of abstinence.", "Social pressure from an important person or group tempts you away from the goal of abstinence.", "The goal isn't really that important.", "The downside of abstaining is significant." ],
+      "description": "A dissonant desire to avoid something while also partly wanting to indulge.",
+      "perceptions": [ "Something appealing tempts you away from the goal of abstinence.", "Social pressure from an important person or group tempts you away from the goal of abstinence.", "The goal isn't really that important.", "The downside of abstaining is significant." ],
       "desires": [ "desire for comfort", "desire for social status", "desire to improve" ],
       "sensations": [ "dissonance" ],
       "results": [ "satisfaction","regret" ]
     },{
       "name": "satisfied abstinence",
-      "description": "May come with satisfaction for living up to your own expectations.",
+      "description": "Successfully living up to an avoidance goal may bring satisfaction for living up to your own expectations.",
       "perceptions": [ "Something really appealing tempts you away from the goal of abstinence.", "Social pressure from an important person or group tempts you away from the goal of abstinence.", "The goal is very important.", "There's no downside to abstaining." ],
       "desires": [ "desire for comfort", "desire for social status", "desire to improve" ],
       "sensations": [ "resolve" ],

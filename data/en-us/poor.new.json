@@ -1,0 +1,123 @@
+{
+  "lang": "en/us",
+  "createDate": "20250306",
+  "updateDate": "20250625",
+  "name": "poor",
+  "valence": -1,
+  "quote": "I can't afford to go out tonight.",
+  "description": "A sense that you lack a valued physical, social, or mental asset that many others have.",
+  "perceptions": ["I don't have something that many others have."],
+  "desires": ["desire for comfort","desire for social status"],
+  "sensations": ["dissatisfaction","unhealthy self-regard","envy","anxiety"],
+  "results": [""],
+  "guidance": [{
+      "description": "If you are poor financially and need help, consider checking with your local government or religious institutions.",
+      "references": ["search"]
+  }],
+  "related": ["dismay"],
+  "opposites": ["wealthy"],
+  "variations": [{
+      "name": "caused to be poor",
+      "description": "A sense that someone is blocking you from having more of a scarce valued asset than many others.",
+      "perceptions": ["I don't have something that many others have.","Someone or something is interfering with my ability to improve my situation."],
+      "desires": ["desire for comfort","desire for social status"],
+      "sensations": ["dissatisfaction","anxiety","resentment","injustice"]
+  },{
+      "name": "poor shame",
+      "description": "A sense that you lack a valued physical, social, or mental asset that many others have and that it's your fault.",
+      "perceptions": ["I don't have something that many others have.","This situation is my fault."],
+      "desires": ["desire for comfort"],
+      "sensations": ["unhealthy self-regard","anxiety","shame"],
+      "guidance": [{
+          "description": "How to Cope With Being Broke, Angry, and Ashamed",
+          "attribution": "Charlotte Cowles and Amanda Clayman",
+          "references": ["https://www.thecut.com/2020/05/how-to-cope-with-being-broke-angry-and-ashamed.html"]
+      }]
+  },{
+      "name": "gracefully poor",
+      "description": "A sense that you lack a valued physical, social, or mental asset that many others have but it's ok.",
+      "perceptions": ["I don't have something that many others have.","I'm comfortable with my situation or can fix it."],
+      "desires": ["desire for comfort"],
+      "sensations": ["healthy self-regard","gratitude","ambition"],
+      "results": ["perhaps focus on gratitude","perhaps work towards improving the situation"],
+      "guidance": [{
+          "description": "True poverty is difficult or impossible to handle gracefully. But these articles suggest that a certain perspective shifts might help alleviate some anxiety.",
+          "references": ["https://tribuneonlineng.com/tips-on-living-a-simple-life/","https://www.reddit.com/r/simpleliving/comments/waqrbk/how_does_one_be_poor_but_still_happy"]
+      }]
+  }],
+  "commentaries": [{
+      "quote": "People need all different kinds of stuff. We keep track of who has how much of each kind, and this bookkeeping causes all sorts of emotions: from admiration and inspiration to envy and anger."
+  },{
+      "quote": "We are all poor in something. It may help to know where your assets are unbalanced."
+  },{
+      "quote": "Poverty is not just a lack of money, it is not having the capability to realize one's full potential as a human being.",
+      "attribution": "Amartya Sen"
+  },{
+      "quote": "We think sometimes that poverty is only being hungry, naked and homeless. The poverty of being unwanted, unloved and uncared for is the greatest poverty.",
+      "attribution": "Mother Theresa"
+  },{
+      "quote": "Do you think, because I am poor, obscure, plain and little, I am soulless and heartless? You think wrong!",
+      "attribution": "Charlotte Brontë in 'Jane Eyre'"
+  }],
+  "spectrum": {"poor": 5, "poverty": 7, "destitute": 9},
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["poor"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["poor"]
+            },
+            "2,1": {
+              "experiences": ["dissatisfaction"]
+            }
+          }
+      },{
+          "names": ["caused to be poor"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["caused to be poor","resentment"]
+            },
+            "2,1": {
+              "experiences": ["dissatisfaction"]
+            }
+          }
+      },{
+          "names": ["poor shame"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["poor shame","unhealthy self-regard"]
+            },
+            "2,1": {
+              "experiences": ["dissatisfaction"]
+            }
+          }
+      },{
+          "names": ["gracefully poor"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["gracefully poor","gratitude","healthy self-regard"]
+            },
+            "2,1": {
+              "experiences": ["satisfaction"]
+            }
+          }
+      }]
+  }]
+}

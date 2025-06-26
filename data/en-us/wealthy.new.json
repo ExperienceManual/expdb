@@ -1,0 +1,106 @@
+{
+  "lang": "en/us",
+  "createDate": "20250305",
+  "updateDate": "20250624",
+  "name": "wealthy",
+  "valence": 1,
+  "quote": "I got a new bike!",
+  "description": "Recognition that you have a valued asset that many others may not have.",
+  "perceptions": ["I have something that others would like to have."],
+  "sensations": ["appreciation","gratitude","powerful","healthy self-regard"],
+  "guidance": [{
+      "description": "People with 'enough' money often don't feel wealthy. If you have a solid net worth, this article is worth considering.",
+      "references": ["https://www.whitecoatinvestor.com/10-ways-to-feel-rich/"]
+  },{
+      "description": "Feeling 'wealthy' in something besides money may lead to satisfaction or gratitude. This article has suggestions for 'Choosing Gratitude Over Anxiety'.",
+      "references": ["https://theideallife.com/articles/focus-on-feeling-blessed-not-stressed"]
+  }],
+  "related": ["delight", "desire for social status"],
+  "opposites": ["poor"],
+  "variations": [{
+      "name": "wealthy in a scarce resource",
+      "description": "A sense that you have more of a valued physical asset than many others.",
+      "perceptions": ["I have something that others would like to have.","Not everyone can have this."],
+      "desires": ["desire for territory"],
+      "sensations": ["appreciation","gratitude","powerful"],
+      "examples": ["money", "rare collectibles"],
+      "related": ["generosity","greed"],
+      "commentaries": [{
+          "quote": "'Scarce' means that since you have that item, no one else can.",
+          "tags": ["definition footnote"]
+      }]
+  },{
+      "name": "wealthy in a non-scarce resource",
+      "description": "A sense that you have more of a valued social or mental asset than many others.",
+      "perceptions": ["I have something that others would like to have.","Pretty much everyone could have this if they spent the time and effort."],
+      "sensations": ["appreciation","gratitude","powerful"],
+      "examples": ["knowledge", "health", "patience", "beauty"],
+      "related": ["desire for knowledge","desire for comfort"],
+      "commentaries": [{
+          "quote": "'Non-scarce' means that you having some doesn't keep it from others.",
+          "tags": ["definition footnote"]
+      }]
+  },{
+      "name": "wealth anxiety",
+      "description": "A sense that you have more of a valued social or mental asset than many others, along with anxiety about someone being jealous or trying to take it from you.",
+      "perceptions": ["I have something that others would like to have.","Someone might try to take it from me or they might be jealous of it."],
+      "desires": ["desire for safety","desire for territory"],
+      "sensations": ["anxiety","aversion to loss"],
+      "guidance": [{
+          "description": "Instant fortune can be a huge burden, creating severe financial and emotional challenges. Getting to grips with suddenly having an enormous amount of money may seem like a good problem to have, but it can be the catalyst for a spectrum of psychological health issues.",
+          "attribution": "Claudia M. Elsig, MD",
+          "references": ["https://caldaclinic.com/sudden-wealth-syndrome-impact-of-money-on-mental-health/"]
+      }],
+      "related": ["defensiveness"],
+      "examples": [
+        "He has a great fossil collection, but won't show it to anyone."
+      ]
+  }],
+  "commentaries": [{
+      "quote": "People need all different kinds of stuff. Our brain keeps track of who has how much of each kind, and this bookkeeping causes all sorts of emotions: from admiration and inspiration to envy and anger."
+  },{
+      "quote": "We are all wealthy in something, and could become even more rich in friends, skill, or health."
+  },{
+      "quote": "Health is the greatest gift, contentment the greatest wealth, faithfulness the best relationship.",
+      "attribution": "The Buddha"
+  },{
+      "quote": "Lost wealth may be replaced by industry, lost knowledge by study, lost health by temperance or medicine, but lost time is gone forever.",
+      "attribution": "Samuel Smiles"
+  },{
+      "quote": "It is not the creation of wealth that is wrong, but the love of money for its own sake.",
+      "attribution": "Margaret Thatcher"
+  }],
+  "spectrum": {"wealthy": 5, "fortune": 8},
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["wealthy","wealthy in a scarce resource","wealthy in a non-scarce resource"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["wealthy"]
+            },
+            "2,1": {
+              "experiences": ["satisfaction"]
+            }
+          }
+      },{
+          "names": ["wealth anxiety"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["wealth anxiety"]
+            },
+            "2,1": {
+              "experiences": ["anxiety"]
+            }
+          }
+      }]
+  }]
+}

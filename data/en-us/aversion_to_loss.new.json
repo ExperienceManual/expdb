@@ -34,6 +34,10 @@
         "quote": "Loss aversion plays a significant role in cheating behavior. Players are more likely to cheat to avoid losing progress or status than to gain something new. This mirrors real-world behaviors where people are more likely to cheat on taxes to avoid owing money than to get a bigger refund.",
         "attribution": "sobrief.com review of Jamie Madigan in 'Getting Gamers'"
     }],
+    "spectrum": {
+        "aversion to loss": 5,
+        "risk aversion": 5
+    },
     "models": [{
         "version": "em1",
         "variations": [{

@@ -23,7 +23,10 @@
         "quote": "A man's worth is no greater than his ambitions.",
         "attribution": "Marcus Aurelius"
     },{
-        "quote": "There are lots of inspiring quotes about ambition from lots of great people. But bad people have ambitions too. And distant parents. It may be worth occasionally weighing the price of your action plan against the anticipated outcome."
+        "quote": "There are lots of inspiring quotes about ambition from lots of great people. But bad people have ambitions too. It may be worth occasionally weighing the price of your action plan against the anticipated outcome."
+    },{
+        "quote": "Ambition is the path to success. Persistence is the vehicle you arrive in.",
+        "attribution": "Bill Bradley"
     }],
     "models": [{
         "version": "em1",

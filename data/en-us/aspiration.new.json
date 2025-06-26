@@ -1,0 +1,54 @@
+{
+  "lang": "en/us",
+  "createDate": "20250306",
+  "updateDate": "20250625",
+  "name": "aspiration",
+  "valence": 1,
+  "quote": "Someday I'd like to be a good bowler.",
+  "description": "A desire to achieve a particular state of being someday without a specific plan to reach it.",
+  "perceptions": ["Life would be better if I could reach a certain life situation."],
+  "desires": ["desire for social status","desire for meaning"],
+  "guidance": [{
+      "description": "",
+      "attribution": "",
+      "references": [""]
+  }],
+  "related": ["desire", "ambition"],
+  "examples": ["aspiration to be a doctor", "aspiration to be a homeowner"],
+  "opposites": ["aimlessness"],
+  "comparisons": [{
+      "links": ["ambition"],
+      "description": "'Aspiration' is more about a general state of being while an 'ambition' is more about achieving a specific goal."
+  },{
+      "links": ["inspiration"],
+      "description": "Inspiration is the immediate spark of a new idea or experience that can lead to an aspiration or ambition."
+  }],
+  "commentaries": [{
+      "quote": "To understand the heart and mind of a person, look not at what he has already achieved, but what he aspires to.",
+      "attribution": "Khalil Gibran"
+  },{
+      "quote": "You cannot escape the results of your thoughts. Whatever your present environment may be, you will fall, remain or rise with your thoughts, your vision, your ideal. You will become as small as your controlling desire; as great as your dominant aspiration.",
+      "attribution": "James Lane Allen"
+  },{
+      "quote": "Consider the bloody history of Europe: there was a great aspiration for high culture, yet this very same culture was shaped by brutality and barbarism.",
+      "attribution": "Ori Gersht"
+  },{
+      "quote": "By aiming for paradise, we lose sight of earth. Hope of a beyond and aspiration to an afterlife engender a sense of futility in the present.",
+      "attribution": "Michel Onfray"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["aspiration"],
+          "predominantType": "impulse",
+          "levels": {
+            "4,3": {
+              "experiences": ["aspiration"]
+            },
+            "2,1": {
+              "experiences": ["anticipation"]
+            }
+          }
+      }]
+  }]
+}

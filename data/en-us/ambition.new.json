@@ -1,0 +1,68 @@
+{
+  "lang": "en/us",
+  "createDate": "20250306",
+  "updateDate": "20250625",
+  "name": "ambition",
+  "valence": 0,
+  "quote": "I bowl every day working towards a perfect game.",
+  "description": "A strong desire to achieve a particular goal someday with a specific plan to reach it.",
+  "perceptions": ["I have a goal and plan to reach it."],
+  "desires": ["many"],
+  "guidance": [{
+      "description": "To reach your career goals, you need to be willing to put in the hard work and effort. Having ambition is a big part of feeling determined to work toward your dreams and desires. It can help you stay motivated and focused on what you want to achieve. In this article, we explain what ambition looks like and share how to be ambitious.",
+      "attribution": "Indeed Editorial Team",
+      "references": ["https://www.indeed.com/career-advice/career-development/how-to-be-ambitious"]
+  }],
+  "related": ["desire", "aspiration"],
+  "opposites": ["aimlessness"],
+  "variations": [{
+      "name": "selfish ambition",
+      "description": "A desire to reach a goal that will negatively affect many others.",
+      "perceptions": ["I have a goal and plan to reach it.","Others might not like it.","I'm going ahead anyhow."],
+      "desires": ["desire for social status"],
+      "personOfInterestExperiences": ["selfishness"],
+      "guidance": [{
+          "description": "If you’re like me (and like most people), you find selfishness in other people to be a real turn off. But if we’re honest, very few of us are naturally self-less. Every day, I fight selfishness. If you’re driven and even a little bit ambitious like I am, you have to be doubly careful.",
+          "attribution": "Carey Nieuwhof",
+          "references": ["https://careynieuwhof.com/selfish-ambition/"]
+      }],
+      "related": ["selfishness"],
+      "examples": ["He stepped on a lot of toes in his career."]
+  },{
+      "name": "long-term ambition",
+      "description": "A desire to reach a goal that will take many years of consistent effort to achieve.",
+      "perceptions": ["I have a goal and plan to reach it.","It will take time, but it's important.","I have patience."],
+      "desires": ["many"],
+      "guidance": [{
+          "description": "in this guide, we'll walk you through everything you need to know about setting and reaching your long-term goals.",
+          "attribution": "reclaim.ai",
+          "references": ["https://reclaim.ai/blog/long-term-goals"]
+      }],
+      "related": ["patience"],
+      "examples": ["writing a novel trilogy"]
+  }],
+  "commentaries": [{
+      "quote": "A man's worth is no greater than his ambitions.",
+      "attribution": "Marcus Aurelius"
+  },{
+      "quote": "There are lots of inspiring quotes about ambition from lots of great people. But bad people have ambitions too. It may be worth occasionally weighing the price of your actions against the anticipated outcome."
+  },{
+      "quote": "Ambition is the path to success. Persistence is the vehicle you arrive in.",
+      "attribution": "Bill Bradley"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["ambition","long-term ambition","long-term ambition"],
+          "predominantType": "impulse",
+          "levels": {
+            "4,3": {
+              "experiences": ["ambition"]
+            },
+            "2,1": {
+              "experiences": ["anticipation"]
+            }
+          }
+      }]
+  }]
+}

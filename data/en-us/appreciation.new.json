@@ -1,11 +1,11 @@
 {
   "lang": "en/us",
   "createDate": "20241211",
-  "updateDate": "20250513",
+  "updateDate": "20250625",
   "name": "appreciation",
   "valence": 1,
   "quote": "What a beautiful sunset!",
-  "description": "Attractiveness to the senses or sensibilities in purely subjective arena. What puts something into the zone of 'attractive' depends on culture and individual experiences. You consider it to be a well-formed example of that kind of thing.",
+  "description": "Attractiveness to the senses or sensibilities in purely subjective arena.",
   "alternateDefinitions": ["'Appreciation is often used as another word for gratitude. The underlying connection is that we do find acts of kindness unusual and 'well-formed' enough to find them attractive."],
   "perceptions": ["Something brings delight by being judged as a well-formed instance of its type of thing."],
   "sensations": ["delight","admiration"],
@@ -14,28 +14,31 @@
   "examples": ["appreciation for good architecture","appreciation for nature"],
   "variations": [{
       "name": "natural appreciation",
-      "description": "A peaceful nature scene may invoke wonder. For example, a striking orange sunset.",
+      "description": "Nature's attractiveness to the senses or sensibilities.",
       "perceptions": ["something in nature is considered a well-formed example of it's type"],
-      "sensations": ["delight","wonder"]
+      "sensations": ["delight","wonder"],
+      "examples": ["bright orange sunset","snow-capped mountains"]
     },{
       "name": "aesthetic appreciation",
-      "description": "Bright colors or a musical medley may invoke a sense of beauty - that this work of art compares well to others of its type. For example, a sunlit stained glass window.",
-      "perceptions": ["An artistic representation of something brings delight by being considered well-formed for that kind of thing."],
-      "sensations": ["delight","admiration"]
+      "description": "Attractiveness to the senses or sensibilities in art or music that invokes a sense of beauty.",
+      "perceptions": ["An artistic representation of something brings delight by being considered well-formed for this kind of thing."],
+      "sensations": ["delight","admiration"],
+      "examples": ["a sunlit stained glass window","art","music"]
     },{
       "name": "appreciation signaling",
-      "description": "Sometimes we might recognize that a social group expects us to find a certain thing appealing, which may nudge us into paying closer attention.",
-      "perceptions": ["We think our social group will care that we like this thing.","The thing delights by being considered well-formed."],
+      "description": "Attractiveness to the senses or sensibilities driven at least in part by a recognition that a social group expects us to find a certain thing appealing.",
+      "perceptions": ["A social group will care that I like this thing.","The thing delights by being considered well-formed."],
       "desires": ["desire for social contact"],
       "sensations": ["delight","excitement"],
       "results": ["desire to report the event to the group"],
       "guidance": [{
           "description": "If desired, there are various resources available for how to gently resist social pressure.",
           "references": ["https://yourlifecounts.org/learning-center/peer-pressure/20-ways-to-avoid-peer-pressure/","https://wholejourneywellness.com/social-pressure-resisting-peer-pressure-and-staying-true-to-yourself-during-the-holidays/"]
-      }]
+      }],
+      "examples": ["fashion that fits a group's style"]
     },{
       "name": "physical appreciation",
-      "description": "A particularly attractive item, ideal, or person may create a sense of longing to be more closely associated with it/him/her. What makes something or someone physically attractive depends on culture and upbringing.",
+      "description": "A particularly attractive item, ideal, or person may create a sense of longing to be more closely associated with it/him/her.",
       "perceptions": ["A person or item is judged to be a good example of being well-formed."],
       "sensations": ["delight","admiration","desire for social contact"]
     }
@@ -51,6 +54,9 @@
       "description": "You 'love' things that you find 'well-formed' in the general sense that you would like to experience them repeatedly."
   }],
   "commentaries": [{
+      "quote": "The factors that you use to determine whether something is attractive (well-formed) depend on culture and individual experience.",
+      "tags": ["definition footnote"]
+  },{
       "quote": "Aesthetic appreciation is always subjective. Someone else may not appreciate the architecture, singing voice, sunset, stained glass, or the smell of crayons. They may even have a negative reaction."
   },{
     "quote": "Appreciation is a wonderful thing: It makes what is excellent in others belong to us as well.",

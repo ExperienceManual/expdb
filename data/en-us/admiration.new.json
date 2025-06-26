@@ -14,7 +14,7 @@
   "opposites": ["contempt"],
   "variations": [{
       "name": "admiration of a product",
-      "description": "Recognizing a thing or idea as having an uncommon special formulation. The product may be physical like a shoe or purely mental like a mathematical equation. You might not know the person or group behind the object but you can still admire that it took some level of genius to create it."
+      "description": "Recognizing a thing or idea as having an uncommon special formulation. The product may be physical like a shoe or purely mental like a mathematical equation. You might not know the person or group behind the object, but you can still admire the fact it took some level of genius to create it."
   },{
       "name": "inspirational admiration",
       "description": "Admiring traits that we would like to exhibit ourselves.",
@@ -32,7 +32,7 @@
     },
     {
       "name": "admiration of the unusual",
-      "description": "A sense that another person is different from others in a good or interesting way. You don't necessarily want to have that trait yourself, but approve of its existence.",
+      "description": "A sense that another person is different from others in a good or interesting way. You may not want to possess that trait yourself, but you can appreciate its existence.",
       "related": ["good weird"]
     }
   ],

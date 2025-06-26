@@ -1,0 +1,56 @@
+{
+    "lang": "en/us",
+    "createDate": "20250623",
+    "updateDate": "20250623",
+    "name": "hoarding",
+    "valence": 0,
+    "timescale": ["unknown"],
+    "rarity": ["unknown"],
+    "frequency": ["unknown"],
+    "quote": "I might need that someday.",
+    "description": "Collecting more assets for possible later use than is practical and not being willing to part with the unnecessary.",
+    "perceptions": ["I don't need this thing now, but might need it later.","It's mine, and I don't like to throw things away.","I don't want to give it away."],
+    "desires": ["desire for wealth","desire for safety"],
+    "sensations": ["defending territory and assets","nostalgia"],
+    "results": ["possibly collecting too much stuff"],
+    "related": ["greed"],
+    "guidance": [{
+        "description": "The American Psychiatric Association recognizes 'hoarding disorder' as a condition where someone saves items that other people may see as having no value. Someone with hoarding disorder will typically have problems getting rid of possessions. The result is clutter that can negatively affect their living and working space and their quality of life.",
+        "attribution": "The Recovery Village",
+        "references": ["https://www.therecoveryvillage.com/mental-health/how-to-help-a-friend-with-hoarding-disorder","https://www.mind.org.uk/information-support/types-of-mental-health-problems/hoarding/helping-yourself-with-hoarding/"]
+    }],
+    "comparisons": [{
+        "links": ["greed"],
+        "description": "'Hoarding' can sometimes mean 'greedy' if there's selfishness involved. But sometime hoarding is just being unable to let go of low-value things that are no longer needed."
+    }],
+    "commentaries": [{
+        "quote": "Our homes are not containers for stuff, but rather a place for love and connection.",
+        "attribution": "Courtney Carver"
+    },{
+        "quote": "Possessions originally sold on the promise that they would make life easier and increase leisure time have done just the opposite.",
+        "attribution": "Randy O. Frost"
+    }],
+    "spectrum": {
+        "accumulating": 2,
+        "hoarding": 5,
+        "treasuring": 7
+    },
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["hoarding"],
+            "predominantType": "impulse",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2": {
+                "experiences": ["hoarding"]
+              },
+              "1": {
+                "experiences": ["defending territory and assets"]
+              }
+            }
+        }]
+    }]
+}

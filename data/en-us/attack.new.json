@@ -18,7 +18,7 @@
   "variations": [{
       "name": "attacking territory or assets",
       "description": "Effort towards forcibly trying to obtain land or other resources that are perceived to belong to someone else for your usage.",
-      "perceptions": ["I need or want this particular asset.","The person or entity that currently possesses the asset will not just give it up."],
+      "perceptions": ["I need or want this particular asset.","The person or entity currently possessing the asset will not just give it up."],
       "desires": ["desire for safety","desire for wealth","desire for social status"],
       "sensations": ["anger","excitement","courage","contempt"],
       "personOfInterestExperiences": ["defense"],
@@ -26,7 +26,7 @@
       "examples": ["burglary","war"]
   },{
       "name": "attacking life or health of a person",
-      "description": "Taking action to seriously injure or kill another person. There are many possible motivations for this: reactive, proactive, criminal.",
+      "description": "Taking action to seriously injure or kill another person.",
       "perceptions": ["This person, or a group they represent, is dangerous to me or has something I need.","A peaceful resolution does not seem possible or desirable."],
       "desires": ["many"],
       "sensations": ["many"],
@@ -35,7 +35,7 @@
       "examples": ["crime","war","torture"]
   },{
       "name": "attacking life or health of a non-person",
-      "description": "Taking action to seriously injure or kill someone or something that is not a person, for example an animal or an organization. There are many possible motivations for this: reactive, proactive, criminal.",
+      "description": "Taking action to seriously injure or kill someone or something that is not a person, for example an animal or an organization.",
       "perceptions": ["This agent or group, is dangerous to me or has something I need.","A peaceful resolution does not seem possible or desirable."],
       "desires": ["many"],
       "sensations": ["many"],
