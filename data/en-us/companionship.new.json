@@ -5,7 +5,7 @@
   "name": "companionship",
   "valence": 1,
   "quote": "I'm going to hang out with a friend tonight.",
-  "description": "A sense that being with a particular person is positive, healthy, and an important part of your life. The relationship includes mutual respect, shared interests, and shared history.",
+  "description": "A sense that being with a particular person is positive, healthy, and an important part of your life. The relationship is characterized by mutual respect, shared interests, and shared history.",
   "perceptions": ["Experiences with this person are, on the balance, quite positive.","They are an important part of one of my identities.","We respect each other and have shared interests."],
   "desires": ["desire for social contact"],
   "sensations": ["social contact","validation","trust"],
@@ -32,7 +32,7 @@
   },{
       "name": "spiritual friendship",
       "description": "A relationship between people who can share deep existential conversations.",
-      "perceptions": ["Experiences with this person are, on the balance, quite positive.","They are an important part of many of my existential identity.","We respect each other and are generally aligned on key philosophies."],
+      "perceptions": ["Experiences with this person are, on the balance, quite positive.","They are an important part of many of my existential identity.","We respect each other and generally share the same key philosophies."],
       "desires": ["desire for social contact","desire for meaning"],
       "sensations": ["social contact","validation","meaning","trust"],
       "personOfInterestExperiences": ["ideally the same"],

@@ -30,19 +30,19 @@
       "examples": ["social norms", "law enforcement"]
     },{
       "name": "desire for purity",
-      "description": "Many people prioritize some aspect of their life as being extremely important to protect and optimize. Anything short of pure perfection in this area can cause anxiety. It varies from person-to-person, but commonly includes health, reputation, spirituality, knowledge, safety, sexuality, etc.",
+      "description": "Many people prioritize some aspect of their life as being extremely important to protect and optimize. Anything short of pure perfection in this area can cause anxiety. It varies from person to person, but commonly includes health, reputation, spirituality, knowledge, safety, sexuality, and other aspects.",
       "perceptions": ["It's critical to maintain a certain aspect of life."],
       "related": ["abstinence","desire for control"],
       "examples": ["culture of honor","preferring organic food","regular religious attendance"]
     },{
       "name": "desire for clear perception",
-      "description": "A desire to perceive key parts of the world clearly towards making better decisions. You may get frustrated by things that hinder clarity like errors and misinformation.",
+      "description": "A desire to perceive key parts of the world clearly towards making better decisions. You may get frustrated by things that hinder clarity such as errors and misinformation.",
       "perceptions": ["Having an accurate understanding of things is important."],
       "desires": ["desire for knowledge"],
       "sensations": ["curiosity"],
       "results": ["desire to remove things that inhibit accurate perception"],
       "guidance": [{
-          "description": "There are many guides to spotting misinformation.",
+          "description": "There are many guides to help identify misinformation.",
           "references": ["https://www.unicef.org/eca/stories/quick-guide-spotting-misinformation","https://www.apa.org/topics/journalism-facts/misinformation-recommendations","https://www.coe.int/en/web/campaign-free-to-speak-safe-to-learn/dealing-with-propaganda-misinformation-and-fake-news"]
       }],
       "examples": ["Wanting things to make sense."]
@@ -56,7 +56,7 @@
   ],
   "comparisons": [{
       "links": ["desire for knowledge","desire for agency"],
-      "description": "We want to understand each environment so that we can predict what might happen in various scenarios so that we can influence the outcome. So the desire for agency drives a desire for order, which drives us to put energy into gaining knowledge about the environment."
+      "description": "We want to understand each environment so that we can predict what might happen in various scenarios and influence the outcome. So the desire for agency drives a desire for order, which drives us to put energy into gaining knowledge about the environment."
   }],
   "commentaries": [{
       "quote": "Many of us have ideals that we work hard to live up to. Sometimes we can become obsessive about aligning with an ideal as a way of hoping to control negative things in our lives."

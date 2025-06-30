@@ -15,11 +15,11 @@
     "results": ["Apply similarities from past generalizations as initial guesses about the new situation."]
   },{
     "name": "logical deduction",
-    "description": "Apply only general principles that have been verified as true, either by definition or comprehensive proof. Few things in complex environments like the social world have bullet-proof general principles.",
+    "description": "Identifying an unknown attribute by applying only general principles that have been verified as true, either by definition or comprehensive proof. Few things in complex environments like the social world have bulletproof general principles.",
     "perceptions": ["Need to figure out a new situation.","There's a set of proven patterns and a process for combining them."],
     "desires": ["desire for knowledge"],
     "results": ["Apply proven principles to the new situation."],
-    "examples": ["You know the movie time is noon, but that previews take 10 minutes, you won't be late if you're in a seat at 12:10."]
+    "examples": ["You know the movie starts at noon, but previews take 10 minutes, so you won't be late if you're there at 12:10."]
   }],
   "commentaries": [{
       "quote": "Using mental shortcuts is the only way our simple brains can navigate a world that's more complicated then they are. It may be helpful to have a sense of humility about the quality of the patterns and beliefs you rely on."

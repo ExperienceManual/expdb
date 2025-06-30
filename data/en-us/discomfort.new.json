@@ -1,25 +1,25 @@
 {
   "lang": "en/us",
   "createDate": "20250215",
-  "updateDate": "20250531",
+  "updateDate": "20250629",
   "name": "discomfort",
   "valence": -1,
   "quote": "Public speaking is outside my comfort zone.",
-  "description": "Being outside the tolerable zone of physical, social, or mental expectations such that you have a moderately negative outlook on the situation.",
-  "perceptions": ["There's one or more things not meeting expectations to an extent that the current situation is considered unpleasant."],
+  "description": "Being outside the tolerable zone of physical, social, or mental expectations.",
+  "perceptions": ["The current situation is considered unpleasant in some way."],
   "desires": ["desire to improve"],
   "sensations": ["dissatisfaction"],
   "related": ["desire for comfort", "pain"],
   "opposites": ["comfort"],
   "comparisons": [{
       "links": ["anxiety","fear"],
-      "description": "Discomfort is a negative perception about the situation, but it doesn't always cause anxiety or fear about the situation. For instance, you could be uncomfortable about a social situation, but if you can just walk away and not deal with those people again, you may not have anxiety. On the other hand, discomfort with people you know could cause anxiety from not being sure how to deal with the situation."
+      "description": "Discomfort is a negative perception about the situation, but it doesn't always cause anxiety or fear. For instance, you could be uncomfortable about a social situation, but if you can just walk away and not deal with those people again, you may not have anxiety. On the other hand, discomfort with people you know could cause anxiety from not being sure how to deal with the situation."
   },{
       "links": ["pain"],
-      "description": "Pain is something you'll do a lot to avoid again in the future. Discomfort is an annoyance that may be the price of admission for something you enjoy. For example, some people find a 6-hour drive so mentally painful they would rather fly, while for other people, a 6-hour drive is a minor discomfort that doesn't stop them."
+      "description": "Pain is something you'll do a lot to avoid again in the future. Discomfort is an annoyance that may be the price of admission for something you enjoy. For example, some people find a 6-hour drive so mentally painful they would rather fly, while others find it a minor discomfort that doesn't stop them."
   },{
       "links": ["dissatisfaction"],
-      "description": "'Dissatisfaction' is a limited sensation that something specific did not meet your expectations, while 'discomfort' is a generalized sense that there's something that needs to be improved right now. For instance, you could be dissatisified that you did a good job gluing the handle back on the mug, but just decide to let your spouse re-do it later and not feel discomfort about your overall situation."
+      "description": "'Dissatisfaction' is a limited sensation that something specific did not meet your expectations, while 'discomfort' is a generalized sense that there's something that needs to be improved right now. For instance, you could be dissatisfied about the job you gluing the handle back on the mug, but just decide to let your spouse re-do it later and not feel uncomfortable about the overall situation."
   },{
       "links": ["desire to improve"],
       "description": "'Discomfort' is the sensation that drives an impulse to want to improve it. For example, perhaps you're so dissatisfied about something that you decide it takes you outside your zone what's tolerable. You're now in a perceived state of discomfort, which generally means that a desire will arise to exit that state somehow."
@@ -39,7 +39,7 @@
   },{
       "name": "social discomfort",
       "description": "A perception that the immediate social situation is outside of your tolerable zone or that it could become that way at any moment.",
-      "perceptions": ["Something's happening socially that I view as moderately negative or that this is the kind of situation where something moderately negative could happen."],
+      "perceptions": ["Something's happening socially that I view as moderately negative.","This is the kind of situation where something moderately negative could happen."],
       "desires": ["desire for comfort","desire to improve"],
       "sensations": ["dissatisfaction"],
       "guidance": [{

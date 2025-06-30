@@ -1,0 +1,47 @@
+{
+    "lang": "en/us",
+    "createDate": "20250626",
+    "updateDate": "20250626",
+    "name": "inspiration",
+    "valence": 1,
+    "timescale": ["unknown"],
+    "rarity": ["unknown"],
+    "frequency": ["unknown"],
+    "quote": "I felt compelled to take the picture.",
+    "description": "A realization that prompts you towards an action.",
+    "desires": ["many"],
+    "sensations": ["excitement"],
+    "related": ["epiphany"],
+    "opposites": ["confusion","boredom"],
+    "guidance": [{
+        "description": "Inspiration doesn't always happen on demand, but these articles have suggestions about creating conditions that might help get inspired.",
+        "references": ["https://www.betterup.com/blog/how-to-get-inspired/","https://psychcentral.com/health/how-to-find-inspiration-in-life"]
+    }],
+    "commentaries": [{
+        "quote": "Inspiration can lead to aspiration can lead to ambition."
+    },{
+        "quote": "You never know who or what will inspire you.",
+        "attribution": "Shannon Tipton"
+    },{
+        "quote": "Play. Explore. Stare at strangers. Talk to friends. Go swanning about, looking for inspiration. It’s a crucial part of of our creative process.",
+        "attribution": "Sheryl Garratt"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["inspiration"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["inspiration"]
+              },
+              "2,1": {
+                "experiences": ["delight"]
+              }
+            }
+        }]
+    }]
+}

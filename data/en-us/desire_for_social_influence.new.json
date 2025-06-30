@@ -17,7 +17,7 @@
       "perceptions": ["Others could use help understanding something.","I know this thing well enough to help them understand it.","I may provide social value by helping them."],
       "desires": ["desire for social status","desire for agency","desire for social contact"],
       "guidance": [{
-          "description": "There are many references to help learn how to teach various things like academics, sports, business skills, self-improvement, etc.",
+          "description": "There are many references to help you learn things like academics, sports, business skills, self-improvement, etc.",
           "references": ["https://positivecoach.org/resource-zone/16-tips-for-the-first-time-coach/","https://noweducation.co.uk/new-to-teaching-here-are-our-top-10-tips/"]
       }],
       "related": ["helpfulness"],
@@ -65,7 +65,7 @@
       "personOfInterestExperiences": ["contempt","fear"],
       "examples": ["graffiti","online trolls","terrorists"],
       "guidance": [{
-          "description": "If you're open to considering more pro-social behaviors, there are many resources online. They're probabably more boring than whatever adrenaline-soaked content got you into anti-social behavior, but they may provide a more subtle and longer lasting feeling. This doesn't suggest everyone should be nice. Just less antagonistic and more persuasive.",
+          "description": "If you're open to considering more pro-social behaviors, there are many resources online. They're probably more boring than whatever adrenaline-soaked content got you into antisocial behavior, but they may provide a more subtle and longer-lasting feeling. This doesn't suggest everyone should be nice. Just less antagonistic and more persuasive.",
           "references": ["https://kotaku.com/10-former-internet-trolls-explain-why-they-quit-being-j-1722649439","https://www.verywellmind.com/what-is-prosocial-behavior-2795479","https://www.ipinst.org/wp-content/uploads/publications/a_new_approach_epub.pdf"]
       }]
   },{

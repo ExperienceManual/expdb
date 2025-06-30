@@ -1,31 +1,25 @@
 {
   "lang": "en/us",
   "createDate": "20241201",
-  "updateDate": "20250514",
+  "updateDate": "20250626",
   "name": "epiphany",
   "valence": 1,
   "quote": "Eureka!",
-  "description": "A sudden flash of insight solving a challenging problem that creates excitement or pride.",
+  "description": "A sudden flash of insight solving an important and challenging problem.",
   "alternateDefinitions": ["Christians use the word 'Epiphany' for a religious holiday. The usage is related in the sense of perceived 'profound insight'."],
   "perceptions": ["You were stuck on a problem for an extended period.","A flash of insight provided a perspective that helped solve the problem."],
   "desires": ["desire to solve a problem"],
-  "sensations": ["delight"],
+  "sensations": ["delight","excitement"],
   "results": ["desire to share the insight"],
-  "related": ["triumph", "gain of social status"],
+  "related": ["inspiration", "triumph", "gain of social status"],
   "opposites": ["frustration"],
   "comparisons": [{
     "links": ["triumph"],
     "description": "An epiphany is a special form of mental triumph where the solution comes in a sudden realization."
+  },{
+    "links": ["inspiration"],
+    "description": "An epiphany is a powerful and profound inspiration."
   }],
-  "variations": [{
-      "name": "relieved epiphany",
-      "description": "A flash of insight that solves a problem perceived as urgent.",
-      "perceptions": ["You were stuck on an urgent problem for an extended period.","A flash of insight provided a perspective that helped solve the problem."],
-      "desires": ["desire to solve a problem"],
-      "sensations": ["delight","relief"],
-      "results": ["desire to share the insight"]
-    }
-  ],
   "commentaries": [{
     "quote": "An artist's duty is rather to stay open-minded and in a state where he can receive information and inspiration. You always have to be ready for that little artistic Epiphany.",
     "attribution": "Nick Cave"
@@ -45,10 +39,10 @@
           "predominantType": "sensation",
           "levels": {
             "4": {
-              "experiences": ["epiphany"]
+              "experiences": ["narration"]
             },
             "3": {
-              "experiences": ["triumph"]
+              "experiences": ["epiphany","excitement"]
             },
             "2,1": {
               "experiences": ["delight"]

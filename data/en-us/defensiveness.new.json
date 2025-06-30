@@ -28,7 +28,7 @@
   "commentaries": [{
       "quote": "People apply the 'defensive' label to others. From inside the experience, the reaction often feels like a warranted act of self-protection."
   },{
-      "quote": "It's sometimes difficult from the inside to accurately judge the severity of a threat. It's fair to defend yourself, but it's the manner of the defense against a minor threat that can be critiqued by others as being 'defensive'."
+      "quote": "It's sometimes difficult from the inside to accurately judge the severity of a threat. It's fair to defend yourself, but the manner of the defense against a minor threat that others can critique as being 'defensive'."
   },{
       "quote": "There is a certain degree of satisfaction in having the courage to admit one's errors. It not only clears up the air of guilt and defensiveness, but often helps solve the problem created by the error.",
       "attribution": "Dale Carnegie"
@@ -42,7 +42,7 @@
   },
   "comparisons": [{
       "links": ["defense"],
-      "description": "'Defense' is the effort of protecting yourself from perceived negative effects, while 'defensiveness' is a label applied on someone else who is perceived as overreacting in their defense."
+      "description": "'Defense' refers to the effort of protecting oneself from perceived negative effects, while 'defensiveness' is a label applied to someone who is perceived as overreacting in their defense."
   }],
   "models": [{
       "version": "em1",

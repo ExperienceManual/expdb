@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250120",
-  "updateDate": "20250611",
+  "updateDate": "20250626",
   "name": "desire for social contact",
   "valence": 0,
   "quote": "I need a friendly ear.",
@@ -20,6 +20,12 @@
       "description": "A desire for social interactions with a specific group of people. Could be driven by a desire to meet someone special or gain the favor of that group.",
       "perceptions": ["I'd like to be amongst people of like mind."],
       "desires": ["desire for validation","desire for stimulation","desire for comfort"],
+      "related": ["desire for social status"]
+  },{
+      "name": "desire for pair bond",
+      "description": "A desire to find a person to share your life with.",
+      "perceptions": ["I need to find my life partner."],
+      "desires": ["desire for validation","desire for stimulation","desire for comfort","desire for sex"],
       "related": ["desire for social status"]
   },{
       "name": "desire to be around animals",

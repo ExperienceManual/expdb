@@ -22,11 +22,11 @@
   },
   "comparisons": [{
       "links": ["curiosity"],
-      "description": "Curiosity is noticing something in the world not matching your expecations and wanting for it to make sense. If it doesn't make sense after re-examining, it may prompt a desire for knowledge and a series of activities to figure it out."
+      "description": "Curiosity is noticing something in the world that doesn't match your expecations and wanting it to make sense. If it doesn't make sense after re-examining, it may prompt a desire for knowledge and a series of activities to figure it out."
   }],
   "variations": [{
       "name": "first party socializing",
-      "description": "Talking with someone because you want to better understand them to further the relationship. This can be with an old friend or someone you've never met.",
+      "description": "Talking with someone to better understand them and to further the relationship. This can be with an old friend or someone you've never met.",
       "perceptions": ["It could be interesting, enjoyable, and useful to talk with this person or group."],
       "desires": ["desire for social contact"],
       "guidance": [{
@@ -61,7 +61,7 @@
       "perceptions": ["I like stories because they're a fun social experience where you can learn about life and the social world."],
       "desires": ["desire for social contact","desire for stimulation"],
       "guidance": [{
-          "description": "A big part of engaging with fiction is to be able to share the experience with others, so a good way to find stories is just to ask your friends what they're reading or watching. Web or library searches for you favorite genres is another good way.",
+          "description": "A big part of engaging with fiction is to share the experience with others, so a good way to find stories is to ask your friends what they're reading or watching. Web or library searches for you favorite genres is another good way.",
           "references": ["https://myreadingvintage.com/blogs/vintage-book-addicts-blog-reading-vintage/how-to-know-what-books-you-like-a-simple-guide","https://www.npr.org/2016/06/15/481090485/read-watch-binge-like-this-movie-you-might-also-like"]
       }],
       "examples": ["campfire stories","books","movies"]

@@ -11,10 +11,10 @@
   "opposites": ["laziness"],
   "comparisons": [{
       "links": ["desire for knowledge"],
-      "description": "Gaining knowledge is a special form of improving yourself or your situation. Having a healthy body and mind requires knowledge, but also desire and effort over time."
+      "description": "Gaining knowledge is a special form of improving yourself or your situation. Having a healthy body and mind requires knowledge, desire, and effort over time."
   }],
   "guidance": [{
-      "description": "There's no shortage of guides to help you improve everything: getting in shape, dealing with social problems, fixing machines, handling garden weeds, playing the guitar, stress management, etc.",
+      "description": "There's no shortage of guides to help you improve things: getting in shape, dealing with social problems, fixing machines, handling garden weeds, playing the guitar, stress management, etc.",
       "references": ["https://youtube.com"]
   }],
   "variations": [{
@@ -33,13 +33,13 @@
   },{
       "name": "desire to improve skills",
       "description": "Spending time in practice toward improving skills.",
-      "perceptions": ["It would be good for me to more skilled in this area."],
+      "perceptions": ["It would be good for me to be more skilled in this area."],
       "sensations": ["dissatisfaction"],
       "desires": ["desire for stimulation","desire for social status"],
       "examples": ["learning an instrument","training for a marathon"]
   },{
       "name": "desire to improve existential self",
-      "description": "Engaging in physical exercise, study, meditation, or idealized behavior toward narrowing a perceived gap between your actual and ideal self.",
+      "description": "Engaging in physical exercise, study, meditation, or moral behavior with the goal of narrowing a perceived gap between your actual and ideal self.",
       "perceptions": ["I'm not living in accordance with my highest ideals."],
       "sensations": ["dissatisfaction"],
       "desires": ["desire for meaning"],

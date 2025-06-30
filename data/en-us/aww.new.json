@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20241210",
-  "updateDate": "20250514",
+  "updateDate": "20250625",
   "name": "aww",
   "valence": 1,
   "quote": "So cute!",
@@ -13,10 +13,10 @@
   "opposites": ["aversion"],
   "variations": [{
       "name": "cute aggression",
-      "description": "At its most extreme, aww can become 'cute agression' where it's mixed with a selfish possessive urge to pinch or squeeze it. Perhaps this is a way of releasing the strong sensation.",
+      "description": "At its most extreme, aww can become 'cute agression' where it's mixed with a selfish possessive urge to pinch or squeeze the cute thing.",
       "perceptions": ["Visual or audio perception of a cute baby human or animal."],
       "desires": ["desire to possess and squeeze this cute creature"],
-      "sensations": ["appreciation"],
+      "sensations": ["delight","appreciation"],
       "related": ["greed"]
   }],
   "spectrum": {

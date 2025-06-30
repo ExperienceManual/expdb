@@ -11,7 +11,7 @@
   "sensations": ["discomfort","certainty","righteousness"],
   "results": ["say something derogatory","treat them with disrespect"],
   "guidance": [{
-      "description": "Contempt can be a valid response to certain behaviors. But often, apply contempt more broadly than necessary. If you'd like to explore the root of your contemptuous feelings, here are some articles to consider.",
+      "description": "Contempt can be a valid response to certain behaviors. But often, apply contempt more broadly than necessary. If you'd like to explore the root of contemptuous feelings, here are some articles to consider.",
       "references": ["https://www.gottman.com/blog/how-to-change-your-own-contempt/","https://www.bc.edu/content/bc-web/centers/church21/publications/c21-resources/c21-resources-articles/Love-Your-Enemies---say-no-to-contempt.html","https://fastercapital.com/content/Contempt--From-Contempt-to-Compassion--Transforming-Perspectives.html"]
   },{
       "description": "If you perceive that someone is being contemptuous towards you, this article may be of interest.",
@@ -21,8 +21,8 @@
   "opposites": ["admiration"],
   "variations": [{
       "name": "bullying contempt",
-      "description": "Emphasizing someone else's behavior mainly to raise your status or distract attention about your behavior.",
-      "perceptions": ["That person is being treated as an equal to me.","I'm better than them.","I need to let others know why they're lower status than me."],
+      "description": "A feeling of dislike-for and superiority-over someone mainly to raise your status or distract attention about your behavior.",
+      "perceptions": ["That person is being treated well.","I'm better than them.","I need to let others know why they're lower status than me."],
       "desires": ["desire for social status","desire for validation"],
       "sensations": ["righteousness"],
       "results": ["say something derogatory","treat them with disrespect"],

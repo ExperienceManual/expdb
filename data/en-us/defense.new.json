@@ -12,7 +12,7 @@
   "opposites": ["apathy", "attack"],
   "variations": [{
       "name": "defending territory and assets",
-      "description": "Effort towards keeping land or other resources whole and within your control. The attacker may be a person, a group, animals, or natural forces.",
+      "description": "Effort to maintain land or other resources intact and within your control. The attacker may be a person, a group, animals, or natural forces.",
       "perceptions": ["Someone or something is trying to degrade or remove something that's mine.","I need to protect these things."],
       "desires": ["desire to protect"],
       "related": ["desire for territory", "desire for wealth"]

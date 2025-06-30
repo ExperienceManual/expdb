@@ -20,7 +20,7 @@
   "variations": [{
       "name": "stranger danger",
       "description": "Being distrustful of unknown people in general or of a specific type.",
-      "perceptions": ["This person or group is unknown to me.","They look hostile or they could be dangerous somehow.","I need to be careful."],
+      "perceptions": ["This person or group is unknown to me.","They look hostile or could be dangerous in some way.","I need to be careful."],
       "desires": ["desire for safety","desire for comfort"],
       "sensations": ["distrust","fear"],
       "results": ["desire to remove yourself from the situation safely"],

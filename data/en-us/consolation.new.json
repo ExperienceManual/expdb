@@ -13,7 +13,7 @@
   "related": ["bittersweet"],
   "variations": [{
       "name": "thankful consolation",
-      "description": "If someone provided assistance in the negative situation, it may come with gratitude.",
+      "description": "If someone provided assistance in a negative situation, it may evoke gratitude.",
       "perceptions": ["Something overall negative happened.","Someone did something to help make the outcome not as bad as it could have been."],
       "desires": ["desire for comfort"],
       "sensations": ["losing","gaining","gratitude","dissonance"],

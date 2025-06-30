@@ -1,0 +1,67 @@
+{
+  "lang": "en/us",
+  "createDate": "20250308",
+  "updateDate": "20250629",
+  "name": "happiness",
+  "valence": 1,
+  "quote": "I got that job I really wanted!",
+  "description": "A sense of satisfaction or fullness that paints the future brightly.",
+  "perceptions": ["An event or realization creates a sense that the situation is good.","The good situation should last for a while."],
+  "desires": ["desire for comfort"],
+  "sensations": ["delight","gaining"],
+  "results": ["Hapiness ranges in strength from mild to tears of joy."],
+  "guidance": [{
+      "description": "Consider these articles for tips on how to be happy more often.",
+      "references": ["https://www.healthline.com/health/how-to-be-happy","https://www.nhs.uk/mental-health/self-help/tips-and-support/how-to-be-happier/"]
+  }],
+  "related": ["triumph", "joy"],
+  "opposites": ["sadness"],
+  "examples": ["Landing a big opportunity.","A new friend."],
+  "variations": [{
+      "name": "empathetic happiness",
+      "description": "Connecting with another person or creature's positive experience that creates a vicarious sense of gaining or fullness.",
+      "perceptions": ["I had a physical or mental interaction with another person or creature who is having a positive experience.","I share a sense of delight with them."],
+      "desires": ["many"],
+      "sensations": ["gaining","delight"],
+      "results": ["Happiness ranges in strength from mild to tears of joy."],
+      "personOfInterestExperiences": ["many positive"],
+      "examples": ["Your relative has a string of good luck.","A baby bird flies for the first time.","Watching a happy movie."]
+  }],
+  "comparisons": [{
+      "links": ["delight","joy"],
+      "description": "Delight, Happiness, and Joy are mileposts on the fortunate spectrum. 'Delight' is a relatively short positive experience that happens when things happen just as you would prefer or even better but they don't affect a core identity or future experience. 'Happiness' happens when there's a more significant gain or sense of fullness that positively affects an important identity. 'Joy' is a general positive mood that doesn't depend on a specific event."
+  }],
+  "commentaries": [{
+      "quote": "Happiness may be the opposite of sadness, but the brain chemicals don't last nearly as long. It's much harder to ruminate on happiness to keep it alive like we do for sadness."
+  },{
+      "quote": "It's not necessary for anything to actually change to cause happiness. A shift in perception is enough."
+  },{
+      "quote": "Happiness is not something that you can find, acquire, or achieve directly. You have to get the conditions right and then wait. Some of those conditions are within you, such as coherence among the parts and levels of your personality. Other conditions require relationships to things beyond you: Just as plants need sun, water, and good soil to thrive, people need love, work, and a connection to something larger. It is worth striving to get the right relationships between yourself and others, between yourself and your work, and between yourself and something larger than yourself. If you get these relationships right, a sense of purpose and meaning will emerge.",
+      "attribution": "Jonathan Haidt"
+  },{
+      "quote": "Happiness is not a goal; it is a by-product.",
+      "attribution": "Eleanor Roosevelt"
+  },{
+      "quote": "Happiness is when what you think, what you say, and what you do are in harmony.",
+      "attribution": "Mahatma Ghandi"
+  }],
+  "spectrum": {"delight": 2, "happiness": 5, "elation": 6, "bliss": 8},
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["happiness"],
+          "predominantType": "sensation",
+          "levels": {
+            "1": {
+              "experiences": ["delight"]
+            },
+            "3,2": {
+              "experiences": ["happiness"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      }]
+  }]
+}

@@ -1,0 +1,119 @@
+{
+  "lang": "en/us",
+  "createDate": "20250308",
+  "updateDate": "20250627",
+  "name": "grief",
+  "valence": -1,
+  "quote": "There's a void in my heart where my dog once lived.",
+  "description": "The process of coming to terms with the realization that a very important part of your environment has changed in a way you don't want to experience.",
+  "perceptions": ["Something terrible has happened.","It was something that changes my world in a very negative way.","I don't know how to deal with this change."],
+  "desires": ["desire for comfort","desire for order","desire for meaning"],
+  "sensations": ["losing","dissonance","sadness","anger","nostalgia"],
+  "guidance": [{
+      "description": "Coping with the loss of someone or something you love is one of life’s biggest challenges. You may associate grieving with bereavement, the death of a loved one—which is often the cause of the most intense type of grief—but any loss can cause grief.",
+      "attribution": "Melinda Smith, M.A., Lawrence Robinson and Jeanne Segal, Ph.D.",
+      "references": ["https://www.helpguide.org/mental-health/grief/coping-with-grief-and-loss"]
+  }],
+  "related": ["denial", "negotiation", "depression", "acceptance"],
+  "opposites": ["happiness", "gaining"],
+  "examples": [ "death of a loved one", "losing a sense of safety", "major loss of social status" ],
+  "variations": [{
+      "name": "anticipatory grief",
+      "description": "Processing a prediction perceived as reliable that the environment is about to change in a major way.",
+      "perceptions": ["Something terrible is about to happen.","It will change my world in a very negative way."],
+      "desires": ["desire for comfort","desire for order","desire for meaning"],
+      "sensations": ["fear","anticipation","sadness","anger"],
+      "guidance": [{
+          "description": "When facing a significant loss, such as the death of a loved one, it is natural to feel many strong emotions. It's also normal to think about what your life will be like after they have died and how you will cope. This doesn't mean you have given up on the person or that you don't care for them.",
+          "attribution": "healthdirect.gov.au",
+          "references": ["https://www.healthdirect.gov.au/understanding-anticipatory-grief"]
+      }],
+      "examples": ["Learning that a close relative has a terminal disease."]
+  },{
+      "name": "collective grief",
+      "description": "Processing major environmental change along with many others is still difficult, but is also a bonding experience.",
+      "perceptions": ["Something terrible has happened.","It was something that changes my world in a very negative way.","There are many others who feel as I do."],
+      "desires": ["desire for safety","desire for order","desire for meaning"],
+      "sensations": ["losing","dissonance","sadness","anger","group bond"],
+      "guidance": [{
+          "description": "Our experience of Collective Grief is often accompanied by feeling a lack of control since we could not prevent the tragedy or loss and we feel powerless and helpless as a result. Here are some tips and things you can do to manage your feelings associated with Collective Grief to feel more in control.",
+          "attribution": "Melissa Paulsen, MA, LMFT, RPT-S",
+          "references": ["https://www.risecounselingandconsulting.com/post/grief-loss-collective-grief"]
+      }],
+      "examples": ["A natural disaster destroys the town and kills many people.","A loved celebrity dies"]
+  },{
+      "name": "repressed grief",
+      "description": "Inability or unwillingness to process a major negative environmental change.",
+      "perceptions": ["Something terrible has happened.","It was something that changes my world in a very negative way.","I should be strong enough to deal with it and just move on."],
+      "desires": ["desire for comfort","desire for order"],
+      "sensations": ["losing","dissonance","sadness","anger","endurance"],
+      "guidance": [{
+          "description": "Inhibited grief happens when we unconsciously hold back the natural process of mourning. Sometimes the emotions feel too overwhelming, or there’s pressure—whether from others or ourselves—to 'stay strong' or 'move on.' Recognizing inhibited grief for what it is can be the first, compassionate step toward allowing yourself to heal.",
+          "attribution": "mentallystrong.com",
+          "references": ["https://mentallystrong.com/inhibited-grief"]
+      }],
+      "related": ["repression"],
+      "examples": ["She hid how much the loss affected her."]
+  }],
+  "commentaries": [{
+      "quote": "Grief isn't a simple short term sensation. It's a process of coming to grips with an unfortunate new reality that can take weeks or years, spawning miserable sensations along the way. The famous '5 stages' shouldn't be thought of as a clean linear thing -- you'll shift between them as the old reality writhes under the suffocation of the new reality. The stages are: (1) denial: unwillingness to experience the new situation, (2) anger: blaming someone for it, (3) bargaining: attempting to soften the impact, (4) depression: withdrawing from it all, and (5) acceptance: moving on within the downgraded world."
+  },{
+      "quote": "Grief has its own time frame. It has its own itinerary with you. It has its own power over you, and it will come when it comes.",
+      "attribution": "Elizabeth Gilbert"
+  },{
+      "quote": "The reality is that you will grieve forever. You will not 'get over' the loss of a loved one; you will learn to live with it. You will heal and you will rebuild yourself around the loss you have suffered.",
+      "attribution": "Elisabeth Kubler-Ross"
+  },{
+      "quote": "It is better to have loved and lost than never to have loved at all.",
+      "attribution": "Alfred Lord Tennyson"
+  },{
+      "quote": "Dismay, Sadness, and Grief are mileposts on an unfortunate spectrum. 'Disappointment' is when something happened that's not as you would prefer but it doesn't doesn't affect your core identity or future experiences. 'Sadness' happens when the situation is unpleasant and negatively affects an important sense of identity. 'Grief' is when things get really bad and you're going to be forced to change deeply held patterns of existence."
+  }],
+  "spectrum": {"sorrow": 3, "mourning": 4, "grief": 5, "anguish": 8},
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["grief","anticipatory grief"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2": {
+              "experiences": ["grief"]
+            },
+            "1": {
+              "experiences": ["dismay"]
+            }
+          }
+      },{
+          "names": ["repressed grief"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2": {
+              "experiences": ["sadness","endurance"]
+            },
+            "1": {
+              "experiences": ["dismay"]
+            }
+          }
+      },{
+          "names": ["collective grief"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2": {
+              "experiences": ["grief","group bond"]
+            },
+            "1": {
+              "experiences": ["dismay"]
+            }
+          }
+      }]
+  }]
+}

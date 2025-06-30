@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20241226",
-  "updateDate": "20250514",
+  "updateDate": "20250529",
   "name": "dismay",
   "valence": -1,
   "quote": "Bummer, I just missed the train.",
@@ -10,12 +10,8 @@
   "desires": ["desire for comfort"],
   "related": ["sadness", "gloom", "hate", "satisfaction"],
   "opposites": ["delight"],
-  "comparisons": [{
-    "links": ["sadness","gloom"],
-    "description": "Dismay is a short negative feeling about something minor. Sadness is a longer sensation because something unpleasant happened that negatively affected something important. Gloom is a mood that's generally less intense and much less connected to a specific thing that happened."
-  }],
   "commentaries": [{
-      "quote": "Dismay is the basic deep-down negative experience. There are many complex experiences that create deep-down dismay. For example, at a social level, missing a train may create anxiety about sharing the news with others."
+      "quote": "Dismay is the basic deep-down negative experience. There are many complex experiences that come with a deep sense of loss or regret we call dismay. For example, at a social level, missing the train may create regret about telling others you're going to miss dinner."
   },{
       "quote": "Disappointment is just the initial shock of the universe reminding you that life doesn’t always go according to plan.",
       "attribution": "Sarah Dessen"
