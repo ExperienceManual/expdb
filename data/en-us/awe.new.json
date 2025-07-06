@@ -1,11 +1,11 @@
 {
   "lang": "en/us",
   "createDate": "20250223",
-  "updateDate": "20250611",
+  "updateDate": "20250705",
   "name": "awe",
   "valence": 1,
   "quote": "That is absolutely amazing!.",
-  "description": "A vivid sensation that challenges your inner model of the everyday world in a humbling or even frightening way.",
+  "description": "A vivid sensation that challenges your inner model of the everyday world in a humbling or even frightening way, sometimes diminishing your sense of self for a while.",
   "perceptions": ["This perception makes me realize how big, complex, and powerful the world can be.","I am tiny/huge/complex/simple."],
   "desires": ["desire for agency"],
   "results": ["Sometimes humbling, sometimes inspiring, sometimes scary"],
@@ -30,12 +30,12 @@
   },{
       "name": "awe of nature",
       "description": "A humbling sense of wonder about nature's power, scale, beauty, and destructiveness.",
-      "perceptions": ["This perception makes me realize how complex, clever, and powerful nature can be."],
+      "perceptions": ["This perception makes me realize how complex, clever, and powerful nature can be.","I am small in comparison."],
       "sensations": ["humility","wonder"],
       "guidance": [{
-          "description": "",
-          "attribution": "",
-          "references": [""]
+          "description": "In particular, feelings of awe can come when we are immersed in nature, whether we are at a local park admiring the trees swaying in the breeze or feeling the cool rush of water as we dip our hands in a mountain stream. Nature can put us in a position to look outside of our busy minds and slow down.",
+          "attribution": "Thomas Rowan",
+          "references": ["https://www.mybestself101.org/blog/awe-in-nature"]
       }],
       "examples": ["A hurricane", "The Grand Canyon", "A clear night sky full of stars"]
   },{

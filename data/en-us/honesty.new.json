@@ -1,0 +1,137 @@
+{
+  "lang": "en/us",
+  "createDate": "20250404",
+  "updateDate": "20250705",
+  "name": "honesty",
+  "valence": 0,
+  "quote": "That's not right.",
+  "description": "A sense that you are communicating information that is aligned with all relevant perceptions and free of relevant deception.",
+  "perceptions": ["What I'm communicating is all the truth as I see it that is relevant to the topic.","I am not trying to advance a hidden agenda with this communication."],
+  "desires": ["desire for order","desire for social contact"],
+  "sensations": ["many"],
+  "guidance": [{
+      "description": "There are many reasons why we aren’t open and honest with our partner or ourselves.",
+      "attribution": "Andrew Davidson",
+      "references": ["https://www.andrew-davidson.uk/being-honest/"]
+  }],
+  "related": ["fair contest","integrity"],
+  "opposites": ["cheating"],
+  "examples": ["sales clerk explaining price and warranty information","kids admitting they snuck a cookie from the jar","whistleblowers"],
+  "variations": [{
+      "name": "judging honesty",
+      "description": "You sense a need to evaluate the honesty of someone else's communication. You may look for clues in their demeanor, an inner model of them, your own experiences, and/or an appraisal of their motivations.",
+      "perceptions": ["Someone communicated something that needs to validated."],
+      "desires": ["desire for knowledge"],
+      "sensations": ["many"],
+      "personOfInterestExperiences": ["honesty","lying"],
+      "guidance": [{
+          "description": "Whether you’re dealing with false online threats or dishonest people lying to your face, the question remains: what are the signs that someone is lying?",
+          "attribution": "Jocelyn Blore",
+          "references": ["https://www.forensicscolleges.com/blog/resources/10-signs-someone-is-lying"]
+      }],
+      "related": ["appraisal"]
+  },{
+      "name": "self honesty",
+      "description": "A sense that you are recognizing all of your relevant internal perceptions and facing any relevant self-deception.",
+      "perceptions": ["I'm considering all the relevant internal truths as I see them.","I am not willfully ignoring a subconscious agenda."],
+      "desires": ["desire for knowledge","desire for agency"],
+      "sensations": ["many"],
+      "guidance": [{
+          "description": "We all tell ourselves stories. They explain our emotions. They give meaning to our lives. They tell us how to react to certain situations and give us patterns to fall back on when we’re not sure what to do. The question is: are you telling yourself the full story? Do your stories serve you? Are you able to be honest with yourself, or are you using your stories to cover up your true feelings?",
+          "attribution": "Tony Robbins",
+          "references": ["https://www.tonyrobbins.com/blog/be-honest-with-yourself"]
+      }]
+  },{
+      "name": "shaded honesty",
+      "description": "A sense that you are communicating information that is aligned with most relevant perceptions and while there may be an omission, it's for a good purpose.",
+      "perceptions": ["What I'm communicating is most the truth as I see it that is relevant to the topic.","I am not trying to advance a devious hidden agenda with this communication.","I'm withholding full information for a specific reason."],
+      "desires": ["desire for order","desire for social contact"],
+      "sensations": ["many"],
+      "guidance": [{
+          "description": "11 Times When Being Honest Might Not Be Worth It",
+          "attribution": "Carolyn Steber",
+          "references": ["https://www.bustle.com/p/11-times-when-being-honest-is-almost-never-worth-it-3259097"]
+      }],
+      "examples": ["Not telling a rebellious kid the food they're eating is from their least favorite restaurant."]
+  },{
+      "name": "frankness",
+      "description": "A sense that you are communicating information that is aligned with all relevant perceptions, and that it might be difficult for others to accept, it's for a good purpose.",
+      "perceptions": ["What I'm communicating is the truth as I see it that is relevant to the topic.","It includes truths that others may find uncomfortable.","I am not trying to advance a devious hidden agenda with this communication.","I think others need to hear this."],
+      "desires": ["desire for social contact","desire for social influence"],
+      "sensations": ["many"],
+      "guidance": [{
+          "description": "There's debate about whether in-your-face honesty is always a good thing.",
+          "references": ["https://columbiacommunityconnection.com/the-dalles/column-are-you-frank-or-honest-the-difference-can-be-astounding","https://www.quora.com/Is-being-frank-a-good-thing-or-bad-thing","https://www.youtube.com/watch?v=BESJqphtp2U"]
+      }],
+      "examples": ["Telling a coworker their outfit is inappropriate."]
+  },{
+      "name": "oversharing",
+      "description": "A sense that someone else is communicating more private information than necessary for the current context.",
+      "perceptions": ["Someone has opened up with personal details that are not necessary for this conversation.","It would be better for everyone if some details are left unsaid."],
+      "desires": ["desire for order","desire for social contact"],
+      "sensations": ["embarassment","many"],
+      "guidance": [{
+          "description": "How to know if you’re oversharing: 5 signs and how to stop",
+          "attribution": "Ebby Bowles",
+          "references": ["https://www.betterup.com/blog/how-to-know-if-im-oversharing"]
+      }],
+      "examples": ["Telling a coworker about an intimate experience.","Spreading gossip about the health condition of someone."]
+  }],
+  "commentaries": [{
+      "quote": "Honesty is an accurate transfer of information. 'Communication' includes words and actions. 'Relevant' information is everything the other party needs to know to understand the topic appropriately.",
+      "tags": ["definition footnote"]
+  },{
+      "quote": "How desperately difficult it is to be honest with oneself. It is much easier to be honest with other people.",
+      "attribution": "Edward F. Benson"
+  },{
+      "quote": "'Truth' is a tragically slippery term. It feels like truth when you act in your own primitive self interest. But it's also 'truth' that a world of selfish primates is a world of dumpster fires."
+  },{
+      "quote": "We appreciate honesty in others because trust makes our decisions about a person less doubtful. Most of us have a social contract that encourages speaking honestly in the hope others will do the same and so we don't trap ourselves in a web of lies and half-truths."
+  },{
+      "quote": "There's just some magic in truth and honesty and openness.",
+      "attribution": "Frank Ocean"
+  },{
+      "quote": "Honesty is the cruelest game of all, because not only can you hurt someone - and hurt them to the bone - you can feel self-righteous about it at the same time.",
+      "attribution": "Dave Van Ronk"
+  },{
+      "quote": "In an era where sharing personal stories and emotions has become the norm, many people find themselves oversharing—revealing too much about themselves in social situations. While vulnerability can foster connection, oversharing often leads to discomfort and can even harm relationships.",
+      "attribution": "talktoangel.com"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["honesty","oversharing","judging honesty"],
+          "predominantType": "action",
+          "levels": {
+            "4,3": {
+              "experiences": ["honesty"]
+            },
+            "2,1": {
+              "experiences": ["many"]
+            }
+          }
+      },{
+          "names": ["frankness","shaded honesty"],
+          "predominantType": "action",
+          "levels": {
+            "4,3": {
+              "experiences": ["frankness","desire for social influence"]
+            },
+            "2,1": {
+              "experiences": ["many"]
+            }
+          }
+      },{
+          "names": ["self honesty"],
+          "predominantType": "action",
+          "levels": {
+	    "4,3,2": {
+	      "experiences": ["self honesty"]
+	    },
+	    "1": {
+	      "experiences": ["many"]
+	    }
+          }
+      }]
+  }]
+}

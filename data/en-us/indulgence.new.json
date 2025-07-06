@@ -10,7 +10,7 @@
   "desires": ["desire for comfort","desire for agency"],
   "sensations": ["delight","dissonance"],
   "guidance": [{
-      "description": "If indulgence is the result of failed willpower and you want some tips on practicing, the entry for willpower.",
+      "description": "If indulgence is the result of failed willpower and you want some tips on practicing, see the entry for willpower.",
       "references": ["willpower"]
   }],
   "opposites": ["abstinence"],
@@ -29,13 +29,13 @@
     },{
       "name": "guilty pleasure",
       "description": "May come with guilt for not being able to resist.",
-      "perceptions": ["You are engaging in a pleasurable activity.","You know the activity to be unhealthy and perhaps selfish.","But the activity doesn't break any solid social rules.","Still you know should not be doing it."],
+      "perceptions": ["You are engaging in a pleasurable activity.","You know the activity to be unhealthy and perhaps selfish.","But the activity doesn't break any solid social rules.","Still you know you should not be doing it."],
       "desires": ["desire for comfort"],
       "sensations": ["delight","dissonance","guilt"]
     }
   ],
   "commentaries": [{
-    "quote": "Indulgence is an unsucessful encounter with temptation."
+    "quote": "Indulgence is an unsuccessful encounter with temptation."
   },{
     "quote": "The greatest crimes do not arise from a want of feeling for others but from an over-sensibilit y for ourselves and an over-indulgence to our own desires.",
     "attribution": "Edmund Burke"

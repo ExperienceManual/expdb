@@ -5,12 +5,12 @@
   "name": "group bond",
   "valence": 1,
   "quote": "He's a big fan of the baseball team.",
-  "description": "Positive feelings about others that share in a particular social structure.",
+  "description": "Positive feelings about others that share a particular social structure.",
   "perceptions": ["My experiences with this group of people are consistently positive.","Even if the environment isn't always great, the people make it worthwhile.","I consider myself a member of this group.","I look forward to interacting with group members on our shared interests."],
   "desires": ["desire for social contact","desire for social status"],
   "sensations": ["social contact","enthusiasm","pride"],
   "guidance": [{
-      "description": "Team bonds and connections are the foundation of good team work. Team building activities are an effective way to help groups get to know each other better, have fun and improve collaboration.",
+      "description": "Team bonds and connections are the foundation of good teamwork. Team building activities are an effective way to help groups get to know each other better, have fun and improve collaboration.",
       "attribution": "James Smart",
       "references": ["https://www.sessionlab.com/blog/team-building-activities/"]
   }],
@@ -56,7 +56,7 @@
   "commentaries": [{
       "quote": "We love belonging to social structures because they provide identity, community, and purpose. You may want to be cautious about joining groups that are bonded mostly by a dislike for other groups."
   },{
-      "quote": "The human ability to join into groups is one or our superpowers. Well-organized groups can do things that would be impossible alone, from building pyramids to spaceflight."
+      "quote": "The human ability to join into groups is one of our superpowers. Well-organized groups can do things that would be impossible alone, from building pyramids to spaceflight."
   },{
       "quote": "Find a group of people who challenge and inspire you, spend a lot of time with them, and it will change your life forever.",
       "attribution": "Amy Poehler"

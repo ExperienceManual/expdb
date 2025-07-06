@@ -19,7 +19,7 @@
   "examples": ["your parents", "your children", "siblings"],
   "variations": [{
       "name": "baby love",
-      "description": "A profound sense of joy from interacting with a baby or child that depends on you.",
+      "description": "A profound sense of joy from interacting with a baby or child who depends on you.",
       "perceptions": ["Part of my life's journey is to help this little person.","They need my help and they deserve it.","Being with them and helping them is a positive experience for me, even when difficult."],
       "desires": ["desire to protect","desire for social influence"],
       "sensations": ["love","delight","meaning","many"],
@@ -32,7 +32,7 @@
       "examples": ["parents", "caregivers"]
   },{
       "name": "parent love",
-      "description": "A sense of gratitude and respect for the people that brought you into the world.",
+      "description": "A sense of gratitude and respect for the people who brought you into the world.",
       "perceptions": ["My parents did their best to raise me.","I am thankful for what they've done.","I trust them and owe them my support.","Experiences with them are, on the balance, positive."],
       "desires": ["desire for order","desire for social contact"],
       "sensations": ["gratitude","respect","love","many"],

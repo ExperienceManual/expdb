@@ -6,7 +6,7 @@
   "valence": 1,
   "quote": "Everything is one.",
   "description": "A deep sense that everything and everyone is bound together and worth experiencing even if it's not always positive.",
-  "perceptions": ["Existence and its emergent creations are truly amazing.","I am fortunate to be a part of it all.","Everyone and everything has a part to play even if I don't particularly like it.","I can forgive a person without condoning certain actions."],
+  "perceptions": ["Existence and its emergent creations are truly amazing.","I am fortunate to be a part of it all.","Everyone and everything has a part to play, even if I don't particularly like it.","I can forgive a person without condoning certain actions."],
   "desires": ["desire for order","desire for meaning"],
   "sensations": ["calmness","awe"],
   "guidance": [{
@@ -17,7 +17,7 @@
   "opposites": ["misanthropy","angst"],
   "variations": [{
       "name": "agape",
-      "description": "The Christian concept of unconditional love, representing God's love for humans and the love Christians should strive to have for one another.",
+      "description": "The Christian concept of unconditional love represents God's love for humans and the love Christians should strive to have for one another.",
       "perceptions": ["God made us and loves us even when we aren't perfect.","A main purpose is to improve ourselves in the eyes of God.","I can forgive a person without condoning certain actions."],
       "desires": ["desire for order","desire to improve the self","desire for meaning"],
       "sensations": ["calmness"],

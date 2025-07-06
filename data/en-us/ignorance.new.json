@@ -17,17 +17,17 @@
       "examples": ["advising someone to see a doctor","not weighing in on a topic you're not familiar with"],
       "guidance": [{
           "description": "Making decisions with incomplete information is a common challenge in many situations, such as business, personal, or social. How can you avoid making mistakes or missing opportunities when you don't have all the facts? Here are some tips to help you make better decisions with incomplete information.",
-          "attribution": "Linked In",
+          "attribution": "LinkedIn",
           "references": ["https://www.linkedin.com/advice/3/what-best-way-make-decisions-incomplete-information"]
       }]
   },{
       "name": "innocent ignorance",
       "description": "The sense that someone else doesn't properly understand a certain topic, but you as an external observer don't expect them to know that thing.",
-      "perceptions": ["A sense that someone else just revealed that there's something they don't understand.","A recognition that it's ok for them to know have known."],
+      "perceptions": ["A sense that someone else just revealed that there's something they don't understand.","A recognition that it's ok for them to not have known."],
       "sensations": ["many"],
       "results": ["trying to decide whether to correct the other person's misunderstanding"],
       "personOfInterestExperiences": ["many"],
-      "examples": ["someone asked about your relative that recently passed away","a young child asks an embarassing question"],
+      "examples": ["someone asked about your relative who recently passed away","a young child asks an embarrassing question"],
       "guidance": [{
           "description": "When someone doesn't know something that they can't be expected to know, you should consider gently correcting them.",
           "references": ["tolerance"]
@@ -50,8 +50,8 @@
       }]
   },{
       "name": "willful ignorance",
-      "description": "The awareness that you lack an area of knowledge along with a sense that area is uninmportant or even dangerous and it's fair to disrespect other's knowledge of this area.",
-      "perceptions": ["I know that I don't know this topic well.","I do not want to understand this topic because it's uncomfortable, dangerous, or could be damaging to me socially.","People that claim knowledge of this area are safe to ignore."],
+      "description": "The awareness that you lack an area of knowledge along with a sense that the area is unimportant or even dangerous, and it's fair to disrespect others' knowledge of this area.",
+      "perceptions": ["I know that I don't know this topic well.","I do not want to understand this topic because it's uncomfortable, dangerous, or could be damaging to me socially.","People who claim knowledge of this area are safe to ignore."],
       "desires": ["desire to improve","desire for social order"],
       "sensations": ["desire for safety","desire for social status"],
       "examples": ["dismissing well-supported scientific research","discounting other perspectives","distrust for people who have knowledge of 'inappropriate' topics"],
@@ -61,12 +61,12 @@
       }],
       "comparisons": [{
           "links": ["known ignorance"],
-          "description": "'Willful ignorance' invokes social tension in people who have knowledge of an area. It's fine to avoid knowledge areas that you find inappropriate or disturbing. That could count as 'known ignorance' as long as you don't act as if you understand it. For example, you might not like horror movies, so avoid exposing yourself to them. It is 'willful ignorance' if you make a statement like 'Everyone who enjoys horror movies is a twisted psycho.', since that's reveals a broad-brush sterotype to those people. A statement like 'Horror movies are not for me' will be perceived as ok. If you really wanted to be an activist to convince people to stop watching horror movies, you would have to research the effects and therefore lose the ignorance."
+          "description": "'Willful ignorance' invokes social tension in people who have knowledge of an area. It's fine to avoid knowledge areas that you find inappropriate or disturbing. That could count as 'known ignorance' as long as you don't act as if you understand it. For example, you might not like horror movies, so avoid exposing yourself to them. It is 'willful ignorance' if you make a statement like 'Everyone who enjoys horror movies is a twisted psycho,' since that reveals a broad-brush stereotype to those people. A statement like 'Horror movies are not for me' will be perceived as ok. If you really wanted to be an activist to convince people to stop watching horror movies, you would have to research the effects and therefore lose the ignorance."
       }]
   },{
       "name": "realized ignorance",
-      "description": "An after-the-fact realization that that you had acted out of ignorance or false knowledge. The reaction will depend on the consequences and your personality.",
-      "perceptions": ["I had been acting on false information or failed to learn before acting."],
+      "description": "An after-the-fact realization that you had acted out of ignorance or false knowledge. The reaction will depend on the consequences and your personality.",
+      "perceptions": ["I had been acting on false information or had failed to learn before acting."],
       "desires": ["desire for knowledge"],
       "sensations": ["many"],
       "results": ["decide to admit ignorance with humility","deny the importance of the event"],
@@ -79,7 +79,7 @@
   "commentaries": [{
       "quote": "There's an infinite amount that can be known, so we're all ignorant of a lot. What matters is how we handle acting on doubt and the inevitable revelation of a blank spot."
   },{
-      "quote": "Some of us are so terrified of drowning in ignorance that we become obsessive life-long learners who watch documentaries for fun. Others swim happily in their ignorance. People."
+      "quote": "Some of us are so terrified of drowning in ignorance that we become obsessive lifelong learners who watch documentaries for fun. Others swim happily in their ignorance. People."
   },{
       "quote": "The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge.",
       "attribution": "Daniel J. Boorstin"

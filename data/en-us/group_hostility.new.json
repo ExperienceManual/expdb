@@ -11,7 +11,7 @@
   "sensations": ["dismay","contempt","fear","anger","vengeance","distrust","aversion to strangers"],
   "results": ["saying bad things about the group","stereotyping individuals with group characteristics"],
   "guidance": [{
-      "description": "There may be good reason to be hostile to a group. Or maybe you're just perpetuating something that doesn't have to be. See guidance for enmity.",
+      "description": "There may be a good reason to be hostile to a group. Or maybe you're just perpetuating something that doesn't have to be. See guidance for enmity.",
       "references": ["enmity"]
   }],
   "related": [ "hate", "tribalism" ],
@@ -19,8 +19,8 @@
   "examples": ["rival sports teams", "nations at war", "racism", "anti-semitism"],
   "variations": [{
       "name": "group injustice",
-      "description": "Negative feelings about people associated with a group because you feel that group has wronged you in some way.",
-      "perceptions": ["This person belongs to a group that has wrong me or my group.","Any experience with them would be negative.","I don't trust them."],
+      "description": "Negative feelings about people associated with a group because you feel they have wronged you in some way.",
+      "perceptions": ["This person belongs to a group that has wronged me or my group.","Any experience with them would be negative.","I don't trust them."],
       "desires": ["desire for safety","desire for order"],
       "sensations": ["dismay","contempt","fear","anger","distrust","resentment"],
       "results": ["saying bad things about the group","stereotyping individuals with group characteristics"],
@@ -35,13 +35,13 @@
       ]
   },{
       "name": "outsider hostility",
-      "description": "Being aggresively cautious with people perceived as possibly dangerous outsiders as a way to protect the self and important others.",
+      "description": "Being aggressively cautious with people perceived as possibly dangerous outsiders as a way to protect the self and important others.",
       "perceptions": ["This person belongs to a group that is unfamiliar.","They don't belong here.","Any experience with them would be negative.","I don't trust them."],
       "desires": ["desire for safety","desire for order"],
       "sensations": ["dismay","contempt","fear","anger","distrust"],
       "results": ["saying bad things about the group","stereotyping individuals with group characteristics"],
       "guidance": [{
-          "description": "Distrust for strangers is wired by default into the brain as a safety mechanism. If you care to take the effort to loosen the wiring in yourself or others, there are many online references.",
+          "description": "Distrust for strangers is wired by default into the brain as a safety mechanism. If you care to take the effort to loosen that wiring for yourself or others, there are many online references.",
           "references": ["https://biasinsideus.si.edu/online-exhibition/the-science-of-bias","https://www.aafp.org/pubs/fpm/blogs/inpractice/entry/implicit_bias.html","https://www.skillcast.com/blog/reduce-workplace-unconscious-bias","https://blogs.hope.edu/getting-race-right/our-context-where-we-are/the-history-we-inhaled/how-do-we-rid-ourselves-of-stereotypes/"]
       }],
       "related": ["stranger danger", "desire for social status"],

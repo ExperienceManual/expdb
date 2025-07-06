@@ -1,0 +1,94 @@
+{
+    "lang": "en/us",
+    "createDate": "20250702",
+    "updateDate": "20250702",
+    "name": "choosing",
+    "valence": 0,
+    "timescale": ["unknown"],
+    "rarity": ["unknown"],
+    "frequency": ["unknown"],
+    "quote": "Where should we go for lunch?",
+    "description": "The process of deciding amongst several possible desirable outcomes.",
+    "perceptions": ["There are several possible outcomes from this situation.","I have influence over the result.","It's not immediately clear which outcome I desire."],
+    "desires": ["desire for optimal"],
+    "sensations": ["excitement","anxiety","uncertainty"],
+    "results": ["could be a quick decision, could be a long decison"],
+    "related": ["appraisal"],
+    "examples": ["choosing where to eat","where to go on vacation"],
+    "guidance": [{
+        "description": "Knowing how to make good decisions—like what to wear to a job interview or how to invest your money—could be the key to living your best life. Making those decisions quickly and feeling confident about your decision-making skills could save you a lot of time and hassle.",
+        "attribution": "Amy Morin, LCSW",
+        "references": ["https://www.verywellmind.com/habits-for-better-decision-making-4153045"]
+    }],
+    "variations": [{
+        "name": "indecision",
+        "description": "The sense that you're having trouble deciding amongst several possible desirable outcomes.",
+        "perceptions": ["There are several possible outcomes from this situation.","I have influence over the result.","It's not immediately clear which outcome I desire."],
+        "desires": ["desire for optimal"],
+        "sensations": ["excitement","anxiety","uncertainty","frustration"],
+        "results": ["could be a long decison process"],
+        "examples": ["trouble choosing what to wear","oscillating between which car to buy"],
+        "opposites": ["decisiveness"],
+        "related": ["appraisal"],
+        "guidance": [{
+            "description": "8 Helpful Tips for Making a Decision (Without a Pros and Cons List)",
+            "attribution": "Sam Brodsky",
+            "references": ["https://www.wondermind.com/article/indecisiveness/"]
+        }]
+    },{
+        "name": "decisiveness",
+        "description": "The sense that you have no trouble at all deciding amongst several possible desirable outcomes.",
+        "perceptions": ["There are several possible outcomes from this situation.","I have influence over the result.","It's immediately clear which outcome I desire."],
+        "desires": ["desire for optimal"],
+        "sensations": ["excitement","certainty"],
+        "results": ["a quick decision"],
+        "related": ["appraisal"],
+        "examples": ["quickly determining which route to take"],
+        "opposites": ["indecision"]
+    }],
+    "comparisons": [{
+        "links": ["appraisal"],
+        "description": "Appraisal is understanding what is relevant about a possible outcome. Choosing happens after the appraisal if there are several options that are more-or-less the same value. So appraisal first, then choosing if needed."
+    }],
+    "commentaries": [{
+        "quote": "It is our choices...that show what we truly are, far more than our abilities.",
+        "attribution": "J.K. Rowling in 'Harry Potter and the Chamber of Secrets'"
+    },{
+        "quote": "Life is about choices. Some we regret, some were proud of. Some will haunt us forever.",
+        "attribution": "Graham Brown"
+    },{
+        "quote": "Make bold choices and make mistakes. It's all those things that add up to the person you become.",
+        "attribution": "Angelina Jolie"
+    },{
+        "quote": "Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life. Because almost everything - all external expectations, all pride, all fear of embarrassment or failure - these things just fall away in the face of death, leaving only what is truly important.",
+        "attribution": "Steve Jobs"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["choosing"],
+            "predominantType": "action",
+            "levels": {
+              "4,3,2,1": {
+                "experiences": ["choosing"]
+              }
+            }
+        },{
+            "names": ["indecisive"],
+            "predominantType": "sensation",
+            "levels": {
+              "4,3,2,1": {
+                "experiences": ["choosing","uncertainty"]
+              }
+            }
+        },{
+            "names": ["decisiveness"],
+            "predominantType": "sensation",
+            "levels": {
+              "4,3,2,1": {
+                "experiences": ["choosing","certainty"]
+              }
+            }
+        }]
+    }]
+}

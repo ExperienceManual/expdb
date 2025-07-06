@@ -9,7 +9,7 @@
   "perceptions": ["Something very unpleasant happened or is happening.","This event may cause damage and seems like it could contaminate your mind, a social identity, or your body."],
   "desires": ["desire for comfort","desire for purity"],
   "sensations": ["disgust","fear"],
-  "results": ["desire to revert the event or contain the damage"],
+  "results": ["desire to reverse the event or contain the damage"],
   "guidance": [{
       "description": "If you're having trouble dealing with the memory of something horrible, consider seeking support or professional help.",
       "references": ["https://newsinhealth.nih.gov/2018/06/dealing-trauma"]
@@ -20,7 +20,7 @@
   "variations": [{
       "name": "social horror",
       "description": "If the experience is caused by someone breaking an important social rule, it may come with contempt. You may be worried about the implications of others not following this rule.",
-      "perceptions": ["Someone is breaking an important social rule.","You are unsettled that flauting the rule could contaminate the social environment.","You're worried about the implications of a contaminated environment to your selfself and other important people."],
+      "perceptions": ["Someone is breaking an important social rule.","You are unsettled that flouting the rule could contaminate the social environment.","You're worried about the implications of a contaminated environment to yourself and other important people."],
       "desires": ["desire for order"],
       "sensations": ["contempt","dismay"],
       "results": ["desire to put things back in order"]
@@ -32,12 +32,12 @@
       "sensations": ["guilt"],
       "results": ["desire to make things right"]
     },{
-      "name": "suprised horror",
+      "name": "surprised horror",
       "description": "If the experience was completely unexpected, it may come with shock.",
       "perceptions": ["Something very unpleasant happened or is happening.","The event is unexpected."],
       "desires": ["desire for comfort","desire for order"],
       "sensations": ["disgust","fear","surprise"],
-      "results": ["desire to revert the event or contain the damage"]
+      "results": ["desire to reverse the event or contain the damage"]
     }
   ],
   "comparisons": [{
@@ -45,7 +45,7 @@
       "description": "Horror is fear mixed with disgust or contempt."
     },{
       "links": ["disgust"],
-      "description": "'Horror' is when something happens you that's unavoidable: there's fear from lack of control as well as the fear of being tainted. 'Disgust' is just the fear of being tainted, but with a sense that you can avoid it if needed."
+      "description": "'Horror' is when something happens to you that's unavoidable: there's fear from lack of control as well as the fear of being tainted. 'Disgust' is just the fear of being tainted, but with a sense that you can avoid it if needed."
   }],
   "commentaries": [
     {

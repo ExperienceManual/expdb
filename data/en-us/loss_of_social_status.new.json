@@ -31,7 +31,7 @@
       "examples": ["losing a job","someone close runs into social trouble","politics"]
   },{
       "name": "economic status loss",
-      "description": "If lose an important way of supporting yourself, there may be concern about getting food to the table and survival-based anxiety or panic.",
+      "description": "If you lose an important way of supporting yourself, there may be concern about getting food to the table and survival-based anxiety or panic.",
       "perceptions": ["I've lost standing with a social group that supported me economically.","I don't know how I'm going to be able to obtain food and shelter."],
       "desires": ["will to live"],
       "sensations": ["losing","fear","anxiety"],
@@ -44,10 +44,10 @@
       "examples": ["losing a job","stock market crash","house burns down"]
   },{
       "name": "exile",
-      "description": "Being cast out of a beloved job or social group is likely to trigger shame, fear, or anger. In ancient times, being an outcast would have been been a survival-level problem.",
+      "description": "Being cast out of a beloved job or social group is likely to trigger shame, fear, or anger. In ancient times, being an outcast would have been a survival-level problem.",
       "perceptions": ["I've been cast out of a social group that supported me.","I don't know how I'm going to be able to obtain food and shelter."],
       "desires": ["will to live","desire for social contact"],
-      "sensations": ["losing","fear","anxiety","lonliness"],
+      "sensations": ["losing","fear","anxiety","loneliness"],
       "guidance": [{
           "description": "The life of a refugee or internally displaced person is often filled with many challenges, including those related to their health. However, these struggles do not define who the person is. Successful recovery is more challenging for some than for others—however, with effective management or treatment, a displaced person can successfully manage their mental health.",
           "attribution": "McLean Hospital",

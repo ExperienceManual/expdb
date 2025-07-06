@@ -32,7 +32,7 @@
   },{
       "name": "social disgust",
       "description": "A strong negative reaction to someone breaking a social taboo.",
-      "perceptions": ["That is one of the worst social behaviors.","If I get too close, it could hurt my reputation.","I need to distance myself to stop from being contaminated."],
+      "perceptions": ["That is one of the worst social behaviors.","If I get too close, it could hurt my reputation.","I need to distance myself to avoid being contaminated."],
       "desires": ["desire for social status","desire for safety"],
       "sensations": ["aversion","contempt","anxiety"],
       "results": ["signal your disapproval to distance yourself"],
@@ -46,7 +46,7 @@
   },{
       "name": "existential disgust",
       "description": "A strong aversion to something that is perceived to taint the purity of your soul.",
-      "perceptions": ["This thing could hurt my standing with God/Universe.","I need to distance myself to stop from being contaminated."],
+      "perceptions": ["This thing could hurt my standing with God/Universe.","I need to distance myself to avoid being contaminated."],
       "desires": ["desire for existential status","desire for purity"],
       "sensations": ["aversion","contempt","anxiety"],
       "results": ["signal your disapproval to distance yourself","try to 'fix' the situation"],

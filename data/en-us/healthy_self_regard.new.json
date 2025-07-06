@@ -16,7 +16,7 @@
     "opposites": ["unhealthy self-regard"],
     "comparisons": [{
         "links": ["self-esteem","self-respect","self-acceptance","self-care"],
-        "description": "Healthy self-regard is defined here as a combination of 4 inter-related aspects of your expression in the world: (1) Self-esteem is a positive externally-focused self-evaluation. (2) Self-respect is taking externally-focused actions to represent your interests. (3) Self-acceptance is a positve internally-focused self-evaluation. (4) Self-care is taking action on internally-focused needs."
+        "description": "Healthy self-regard is defined here as a combination of 4 interrelated aspects of your expression in the world: (1) Self-esteem is a positive, externally-focused self-evaluation. (2) Self-respect is taking externally-focused actions to represent your interests. (3) Self-acceptance is a positive internally-focused self-evaluation. (4) Self-care is taking action on internally-focused needs."
     }],
     "guidance": [{
         "description": "See guidance for the components of self-regard.",
@@ -108,7 +108,7 @@
         "attribution": "Carl Jung"
     },{
         "quote": "Respect yourself and others will respect you.",
-        "attribution": "Confucious"
+        "attribution": "Confucius"
     },{
         "quote": "It's not my responsibility to be beautiful. I'm not alive for that purpose. My existence is not about how desirable you find me.",
         "attribution": "Warsan Shire"

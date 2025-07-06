@@ -1,0 +1,128 @@
+{
+  "lang": "en/us",
+  "createDate": "20250309",
+  "updateDate": "20250630",
+  "name": "anger",
+  "valence": -1,
+  "quote": "I can't believe he said that to me!",
+  "description": "Strong negative feeling towards a person or thing caused by a perceived injury and with a desire to deter the undesired behavior.",
+  "perceptions": ["This person or thing has done something I strongly dislike.","It has threatened or damaged the body or reputation of myself or someone close to me.","A display of anger might prevent it from happening again.","A display of anger is an option that won't make the problem worse."],
+  "desires": ["desire for safety","desire for social status"],
+  "sensations": ["resentment","injustice","losing"],
+  "results": ["perhaps a display of anger","perhaps self-control"],
+  "guidance": [{
+      "description": "We all know what anger is, and we’ve all felt it: whether as a fleeting annoyance or as full-fledged rage. Anger is a completely normal, usually healthy, human emotion. But when it gets out of control and turns destructive, it can lead to problems—problems at work, in your personal relationships, and in the overall quality of your life.",
+      "attribution": "American Psychological Association",
+      "references": ["https://www.apa.org/topics/anger/control"]
+  }],
+  "related": ["attack","anxiety","fear"],
+  "opposites": ["gaining"],
+  "comparisons": [{
+      "links": ["fear"],
+      "description": "Fear can cause anger if someone or something has put your in a dangerous situation or your brain thinks anger is an appropriate response. But fear can happen without anger, and you can be angry without being afraid."
+  },{
+      "links": ["annoyance"],
+      "description": "Annoyance is a mild anger - you want a distraction to stop, but any effort may not be worthwhile."
+  },{
+      "links": ["frustration"],
+      "description": "Frustration is the sense of being blocked on a desired outcome, which can lead to anger at whatever or whoever you blame for the failure."
+  }],
+  "variations": [{
+      "name": "suppressed anger",
+      "description": "Strong negative feeling towards a person or thing caused by a perceived injury, but a recognition that a display of anger is likely to make the problem worse.",
+      "perceptions": ["This person or thing has done something I strongly dislike.","It has threatened or damaged my body or reputation.","A display of anger is likely to make the problem worse."],
+      "desires": ["desire for safety","desire for social status"],
+      "sensations": ["resentment","injustice","losing","dissonance","endurance"],
+      "guidance": [{
+          "description": "Anger is a natural human emotion, but when it goes unexpressed or is pushed down, it can start to create hidden challenges in our lives. Repressed anger doesn’t disappear; instead, it often shows up as physical tension, anxiety, mood swings, or self-doubt, affecting both your mental and physical health. Understanding what causes repressed anger and how it manifests can be the first step in bringing it to the surface.",
+          "attribution": "Nicole Arzt, LMFT",
+          "references": ["https://www.choosingtherapy.com/repressed-anger/"]
+      }],
+      "related": ["self-control","fear"],
+      "commentaries": [{
+          "quote": "Here are some ways repressed anger can affect us: Depression, Subjugation, Paranoia, Self-Righteousness, Passive-Aggressiveness.",
+          "attribution": "Imi Lo MA in Psychology Today"
+      }]
+  },{
+      "name": "fearful anger",
+      "description": "Strong negative feeling towards a person or thing caused by a perceived injury and a concern that it could repeat or get worse.",
+      "perceptions": ["This person or thing has done something I strongly dislike.","It has threatened or damaged the body or reputation of myself or someone close to me.","It's likely to keep happening or get worse if I don't do something.","A display of anger might prevent it from happening again.","A display of anger is an option that won't make the problem worse."],
+      "desires": ["desire for safety","desire for social status"],
+      "sensations": ["fear","resentment","injustice","losing"],
+      "results": ["perhaps a display of anger","perhaps self-control"],
+      "guidance": [{
+          "description": "One of the links between [fear and anger] is that they often feel unpleasant and are a response to difficult situations. In addition, people who evoke fear or anger in others may be viewed negatively. It can be helpful to look at their psychological roots to understand these connections in further detail and know how to cope with painful emotions. ",
+          "attribution": "BetterHelp",
+          "references": ["https://www.betterhelp.com/advice/anger/how-fear-leads-to-anger-what-to-do-about-it/"]
+      }]
+  }],
+  "commentaries": [{
+      "quote": "Anger is how we tell others that we seriously want them to change their behavior. It's a threatening sigal that they should back off that behavior or there could be consequences."
+  },{
+      "quote": "It is easy to fly into a passion-anybody can do that-but to be angry with the right person to the right extent and at the right time and with the right object and in the right way-that is not easy, and it is not everyone who can do it.",
+      "attribution": "Aristotle"
+  },{
+      "quote": "Speak when you are angry and you will make the best speech you will ever regret.",
+      "attribution": "Ambrose Bierce"
+  },{
+      "quote": "Do not teach your children never to be angry; teach them how to be angry.",
+      "attribution": "Lyman Abbott"
+  },{
+      "quote": "Love implies anger. The man who is angered by nothing cares about nothing.",
+      "attribution": "Edward Abbey"
+  }],
+  "spectrum": {
+    "annoyance": 1,
+    "irritation": 2,
+    "resentment": 3,
+    "vexation": 4,
+    "anger": 5,
+    "rage": 7
+  },
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["anger"],
+          "predominantType": "impulse",
+          "levels": {
+            "1": {
+              "experiences": ["dismay"]
+            },
+            "3,2": {
+              "experiences": ["anger"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["fearful anger"],
+          "predominantType": "sensation",
+          "levels": {
+            "1": {
+              "experiences": ["dismay","fear"]
+            },
+            "3,2": {
+              "experiences": ["fearful anger"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["suppressed anger"],
+          "predominantType": "sensation",
+          "levels": {
+            "1": {
+              "experiences": ["dismay","fear"]
+            },
+            "3,2": {
+              "experiences": ["suppressed anger","dissonance"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      }]
+  }]
+}

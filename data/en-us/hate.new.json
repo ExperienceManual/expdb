@@ -4,7 +4,7 @@
   "updateDate": "20250617",
   "name": "hate",
   "valence": -1,
-  "description": "A sense that you would strongly prefer to not experience a particular person, group, animal, thing, idea, or sensation because it would be negative, unhealthy, or an unwelcome part of your life.",
+  "description": "A sense that you would strongly prefer not to experience a particular person, group, animal, thing, idea, or sensation because it would be negative, unhealthy, or an unwelcome part of your life.",
   "perceptions": ["This experience is likely to be negative.","This person or thing conflicts with part of how I see myself.","This experience is not healthy for me."],
   "desires": ["desire for comfort","desire for safety"],
   "sensations": ["dismay","contempt","fear","anger"],
@@ -17,7 +17,7 @@
   "opposites": ["love"],
   "variations": [{
       "name": "hate this experience",
-      "description": "Strong dislike about doing a particular activity or experiencing a particular sensory input.",
+      "description": "Strong dislike for doing a particular activity or experiencing a particular sensory input.",
       "perceptions": ["This experience is likely to be negative.","This person or thing conflicts with part of how I see myself.","This experience is not healthy for me."],
       "sensations": ["dismay","contempt","fear","anger"],
       "examples": ["I hate eating oysters.","I hate cleaning the toilet.","I hate this song"]
@@ -34,7 +34,7 @@
       "attribution": "Meg Selig"
   },{
       "quote": "It is easy to hate and it is difficult to love. This is how the whole scheme of things works. All good things are difficult to achieve; and bad things are very easy to get.",
-      "attribution": "Confucious"
+      "attribution": "Confucius"
   },{
       "quote": "My moms always told me, 'How long you gonna play the victim?' I can say I'm mad and I hate everything, but nothing really changes until I change myself.",
       "attribution": "Kendrick Lamar"

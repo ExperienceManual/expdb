@@ -11,7 +11,7 @@
   "results": ["a mental model of what's happening inside and out"],
   "variations": [{
       "name": "inner dialogue",
-      "description": "Being conciously aware of yourself internally reflecting on a situation or just daydreaming. This is more tangible form of narrative sense-making, though research suggests that fewer than half of us have regular language-based inner conversations.",
+      "description": "Being conciously aware of yourself internally reflecting on a situation or just daydreaming. This is a more tangible form of narrative sense-making, though research suggests that fewer than half of us have regular language-based inner conversations.",
       "perceptions": ["I'm internally reflecting on a decision, on my situation, etc."],
       "desires": ["desire for agency","desire for knowledge"],
       "guidance": [{
@@ -25,7 +25,7 @@
       }],
       "comparisons": [{
           "links": ["narration"],
-          "description": "'Narration' is the term used here for the continuous update of the internal models we use to interact with the world. For most of us, this process is unconscious and subconscious, but some people have partial interactive access to it with an 'inner dialogue'. This dialogue can be languaged-based or more visual imagery."
+          "description": "'Narration' is the term used here for the continuous update of the internal models we use to interact with the world. For most of us, this process is unconscious and subconscious, but some people have partial interactive access to it with an 'inner dialogue'. This dialogue can be language-based or more visual imagery."
       }]
   }],
   "commentaries": [{
@@ -35,9 +35,9 @@
       "quote": "Evolution has shaped us with perceptions that allow us to survive. But part of that involves hiding from us the stuff we don’t need to know. And that’s pretty much all of reality, whatever that might be.",
       "attribution": "Donald Hoffman"
   },{
-      "quote": "Honestly trying to summarize what's happening across your 86 billion neurons is a difficult task because much of what's happening is unconcious. There are subtle signs available, but we often find it advantageous to ignore them."
+      "quote": "Honestly trying to summarize what's happening across your 86 billion neurons is a difficult task because much of what's happening is unconscious. There are subtle signs available, but we often find it advantageous to ignore them."
   },{
-      "quote": "Underlying the internal narration is a sense that the story is critical both in content and vibe. We have to know what's going on to be in control. We have to know what's going on to be able to answer to our social groups and to our gods. Sometimes the narration is honest, while other times it's slanted to make yourself look better or worse than your really are. Since this process happens automatically, it may be useful to try and watch how it's happening."
+      "quote": "Underlying the internal narration is a sense that the story is critical both in content and vibe. We have to know what's going on to be in control. We have to know what's going on to be able to answer to our social groups and to our gods. Sometimes the narration is honest, while other times it's slanted to make yourself look better or worse than you really are. Since this process happens automatically, it may be useful to try and watch how it's happening."
   }],
   "models": [{
       "version": "em1",

@@ -1,0 +1,131 @@
+{
+  "lang": "en/us",
+  "createDate": "20250318",
+  "updateDate": "20250702",
+  "name": "challenge",
+  "valence": 0,
+  "quote": "Ok, I can do this.",
+  "description": "In a situation with several possible outcomes, you desire to influence the result towards or away from a particular outcome.",
+  "perceptions": ["This situation has several possible outcomes.","I prefer some of the outcomes or want to prevent some of them.","I have agency to influence the final outcome."],
+  "desires": ["desire for a particular outcome","desire for agency","desire to win"],
+  "sensations": ["anxiety","optimism","pessimism"],
+  "guidance": [{
+      "description": "What goes through your mind when you face a big opportunity or challenge at work – the kind that sits squarely outside your comfort zone?",
+      "attribution": "May Busch",
+      "references": ["https://maybusch.com/ready-next-challenge/"]
+  }],
+  "related": ["gaining", "losing","power","evaluation"],
+  "opposites": ["effortless"],
+  "examples": ["sports","art contest","elections","legal case","soothing a family disagreement"],
+  "variations": [{
+      "name": "physical challenge`",
+      "description": "A low-stakes situation with multiple outcomes where physical strength, dexterity, tools, and/or skill will decide the result.",
+      "perceptions": ["This situation has several possible outcomes.","I prefer some of the outcomes or want to prevent some of them.","I have agency to influence the final outcome."],
+      "desires": ["desire for a particular outcome","desire for stimulation","desire for agency","desire to win","desire for order"],
+      "sensations": ["excitement","anxiety","optimism","pessimism","group bond","physical motion"],
+      "guidance": [{
+          "description": "Mental Training for Athletes: 5 Stages of Preparing for a Challenge",
+          "attribution": "Becki Rupp",
+          "references": ["https://trailblazerwellness.com/conquering-the-5-mental-stages-of-preparing-for-a-challenge/"]
+      }],
+      "examples": ["sports","thumb wrestling","singing contest","dexterity game"]
+  },{
+      "name": "combat",
+      "description": "A high-stakes situation with multiple outcomes where physical strength, dexterity, tools, and/or skill will decide the result.",
+      "perceptions": ["This situation has several possible outcomes.","I have a strong preference for which outcomes are desirable.","I have agency to influence the final outcome."],
+      "desires": ["desire for a particular outcome","desire for agency","desire to win"],
+      "sensations": ["excitement","anxiety","fear","optimism","pessimism","group bond","physical motion","desire for order"],
+      "guidance": [{
+          "description": "Whether you've just enlisted or are getting ready for your next tour of duty, it's critical to prepare a solid mental foundation alongside combat readiness.",
+          "attribution": "diamondhousedetox.com",
+          "references": ["https://diamondhousedetox.com/how-to-mentally-prepare-military/"]
+      }],
+      "examples": ["battle"]
+  },{
+      "name": "social challenge`",
+      "description": "A situation with multiple outcomes where social factors such as wit, appearance, or personality will decide the outcome.",
+      "perceptions": ["This situation has several possible outcomes.","I prefer some of the outcomes or want to prevent some of them.","I have agency to influence the final outcome."],
+      "desires": ["desire for a particular outcome","desire for stimulation","desire for agency","desire to win","desire for social status","desire for order"],
+      "sensations": ["excitement","anxiety","optimism","pessimism"],
+      "examples": ["argument", "trivia contest", "beauty pageant"]
+  },{
+      "name": "chance contest",
+      "description": "A situation with multiple outcomes where luck will decide the outcome.",
+      "perceptions": ["This situation has several possible outcomes.","I prefer some of the outcomes or want to prevent some of them.","It's not clear that I have agency to influence the final outcome since there's a lot of luck involved."],
+      "desires": ["desire for a particular outcome","desire for stimulation","desire for agency","desire to win"],
+      "sensations": ["excitement","anxiety","optimism","pessimism"],
+      "guidance": [{
+          "description": "If gambling is negatively affecting your life, consider the guidance for 'push your luck'.",
+          "references": ["push your luck"]
+      }],
+      "related": ["push your luck"],
+      "examples": ["gambling"]
+  },{
+      "name": "evidence-based challenge`",
+      "description": "A situation with multiple outcomes where the presention of statements based on a specific context of rules will be judged by others to determine the outcome.",
+      "perceptions": ["This situation has several possible outcomes.","I prefer some of the outcomes or want to prevent some of them.","I have agency to influence the final outcome."],
+      "desires": ["desire for a particular outcome","desire for stimulation","desire for agency","desire to win","desire for order"],
+      "sensations": ["excitement","anxiety","optimism","pessimism"],
+      "guidance": [{
+          "description": "Debating is a crucial skill, not just for formal settings but also in everyday life. Whether you’re in a professional environment, a classroom, or even at a family gathering, knowing how to effectively argue your point can set you apart.",
+          "attribution": "Sylvia Lafair",
+          "references": ["https://ceoptions.com/2024/06/mastering-the-art-of-debate/"]
+      }],
+      "examples": ["court of law", "defending a PhD thesis","debate team"]
+  },{
+      "name": "fair contest",
+      "description": "A situation with multiple outcomes where the rules of engagement are followed.",
+      "perceptions": ["This situation has several possible outcomes.","I prefer some of the outcomes or want to prevent some of them.","I have agency to influence the final outcome.","There are rules to this challenge.","The rules are being followed."],
+      "desires": ["desire for a particular outcome","desire for stimulation","desire for agency","desire to win","desire for order"],
+      "sensations": ["excitement","anxiety","optimism","pessimism"],
+      "related": ["honesty"]
+  },{
+      "name": "unfair contest",
+      "description": "A situation with multiple outcomes where one or more contestants goes against the rules of engagement.",
+      "perceptions": ["This situation has several possible outcomes.","I prefer some of the outcomes or want to prevent some of them.","I have agency to influence the final outcome.","There are rules to this challenge.","I don't think the rules are being followed."],
+      "desires": ["desire for a particular outcome","desire for stimulation","desire for agency","desire to win","desire for order"],
+      "sensations": ["anxiety","pessimism","cheating"],
+      "guidance": [{
+          "description": "See guidance for cheating.",
+          "references": ["cheating"]
+      }]
+  },{
+      "name": "subjective challenge`",
+      "description": "A situation with multiple outcomes where rules alone do not determine the results, but also the hidden preferences of a judge.",
+      "perceptions": ["This situation has several possible outcomes.","I prefer some of the outcomes or want to prevent some of them.","I have agency to influence the final outcome.","There are rules and guidelines to this challenge.","Someone will judge which outcome will prevail.","They may have internal state that I cannot influence."],
+      "desires": ["desire for a particular outcome","desire for stimulation","desire for agency","desire to win","desire for order"],
+      "sensations": ["excitement","anxiety","optimism","pessimism","skepticism"],
+      "guidance": [{
+          "description": "Everybody has different contest judging criteria and no two people are able to agree on the same parameters to assess an entry. While there are a lot of challenges that one can face while judging a contest, below, we have listed some criteria for judging a contest in an uncomplicated manner.",
+          "attribution": "Anna Tomakh",
+          "references": ["https://www.judgify.me/l/blog/how-to-judge-a-contest-a-complete-guide/"]
+      }],
+      "related": ["appraisal"]
+  }],
+  "commentaries": [{
+      "quote": "Every life and every good story has tension that comes from not knowing the outcome of the branching future. Striving for a particular branch is the core of the challenge."
+  },{
+      "quote": "Our ability to handle life's challenges is a measure of our strength of character.",
+      "attribution": "Les Brown"
+  },{
+      "quote": "Obstacles don't have to stop you. If you run into a wall, don't turn around and give up. Figure out how to climb it, go through it, or work around it.",
+      "attribution": "Michael Jordan"
+  },{
+      "quote": "If there is no struggle, there is no progress.",
+      "attribution": "Frederick Douglass"
+  },{
+      "quote": "There are many inspiring quotes about self-improvement through competition and in trying to control the future. These have truth and value, but there's also value in knowing when to let the future take care of itself."
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["*"],
+          "predominantType": "",
+          "levels": {
+            "4,3,2,1": {
+                "experiences": ["challenge"]
+            }
+          }
+      }]
+  }]
+}

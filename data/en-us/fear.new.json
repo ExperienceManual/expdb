@@ -11,7 +11,7 @@
   "sensations": ["anxiety"],
   "results": ["may invoke the fight, flight, or freeze response"],
   "guidance": [{
-      "description": "Fear and panic are primal reactions, but they're not always triggered by things will actually harm us. If fear or anxiety are clouding your life, these references may be helpful.",
+      "description": "Fear and panic are primal reactions, but they're not always triggered by things that will actually harm us. If fear or anxiety is clouding your life, these references may be helpful.",
       "references": ["https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anxiety-fear-panic/","https://www.nhsinform.scot/healthy-living/mental-wellbeing/fears-and-phobias/10-ways-to-fight-your-fears/","https://www.youtube.com/@TherapyinaNutshell"]
   }],
   "related": ["horror", "paranoia"],
@@ -19,13 +19,13 @@
   "examples": ["you are being robbed","you are about to give a presentation","your close friend is an accident"],
   "variations": [{
       "name": "phobia",
-      "description": "A recurring strong, often irrational, sense that something specific could be dangerous, when most often is not. Phobias can lead you to take unnecessary action or can interfere with normal activities.",
+      "description": "A recurring strong, often irrational, sense that something specific could be dangerous, when most often is not. Phobias can lead you to take unnecessary action or interfere with normal activities.",
       "perceptions": ["I'm experiencing something that always causes an intense negative reaction.","It probably won't hurt me, but I need to do something about it."],
       "desires": ["desire for safety","desire for social status"],
       "sensations": ["anxiety","aversion to unpopular creatures"],
       "results": ["may invoke the fight, flight, or freeze response"],
       "guidance": [{
-          "description": "The best treatment for specific phobias is a form of therapy called exposure therapy. Sometimes your health care professional also may recommend other therapies or medicine. Knowing the cause of a phobia is less important than focusing on how to treat the avoidance behavior that has developed over time.",
+          "description": "The best treatment for specific phobias is a form of therapy called exposure therapy. Sometimes your health care professional may also recommend other therapies or medicine. Knowing the cause of a phobia is less important than focusing on how to treat the avoidance behavior that has developed over time.",
           "attribution": "Mayo Clinic",
           "references": ["https://www.mayoclinic.org/diseases-conditions/specific-phobias/diagnosis-treatment/drc-20355162"]
       }],
@@ -33,7 +33,7 @@
       "examples": ["He's afraid to travel by air.","claustrophobia"]
   },{
       "name": "panic attack",
-      "description": "Perception that a major negative impact is happening or about to happen to you or someone important to you with an intense physical reaction: racing heart, dizziness, shaking, and other symptoms.",
+      "description": "Perception that a major negative impact is happening or about to happen to you or someone important to you, with an intense physical reaction: racing heart, dizziness, shaking, and other symptoms.",
       "perceptions": ["Something is happening or about to happen that is going to negatively affect me or someone/something I care about.","It's overwhelmed my ability to handle it."],
       "desires": ["desire for safety","desire for social status"],
       "sensations": ["anxiety"],

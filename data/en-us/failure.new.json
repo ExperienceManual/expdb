@@ -19,7 +19,7 @@
   "variations": [{
       "name": "garden variety failure",
       "description": "A perception that it's your fault something valued is gone, along with a perception that you can learn from the event.",
-      "perceptions": ["Something I had valued is gone or not available.","It' my fault that it's gone.","I can learn from this."],
+      "perceptions": ["Something I had valued is gone or not available.","It's my fault that it's gone.","I can learn from this."],
       "desires": ["desire to improve","desire for knowledge"],
       "sensations": ["dismay","losing"],
       "results": ["considering ways to do better next time"],
@@ -27,10 +27,10 @@
   },{
       "name": "repeated failure",
       "description": "A perception that it's your fault something valued is gone, along with a perception that you have had this failure before.",
-      "perceptions": ["Something I had valued is gone or not available.","It' my fault that it's gone.","I've done this more than once and have not yet learned."],
+      "perceptions": ["Something I had valued is gone or not available.","It's my fault that it's gone.","I've done this more than once and have not yet learned."],
       "desires": ["desire to improve","desire for knowledge"],
       "sensations": ["dismay","losing","frustration"],
-      "examples": ["not scoring well multiple homework assignments","repeatedly breaking dishes while washing them"],
+      "examples": ["not scoring well on multiple homework assignments","repeatedly breaking dishes while washing them"],
       "guidance": [{
           "description": "there are so many skills in life that you can only become an expert and some skills you can’t even do until you’ve failed. Repeatedly. Over and over.",
           "attribution": "Zach Francis",
@@ -38,11 +38,11 @@
       }]
   },{
       "name": "failure sickness",
-      "description": "A perception that it's your fault something valued is gone and that this loss brings shame to a social identity.",
-      "perceptions": ["Something I had valued is gone or not available.","It' my fault that it's gone.","This loss is shameful."],
+      "description": "A perception that it's your fault something valued is gone, and that this loss brings shame to a social identity.",
+      "perceptions": ["Something I had valued is gone or not available.","It's my fault that it's gone.","This loss is shameful."],
       "desires": ["desire for social status","desire for comfort"],
       "sensations": ["shame","losing","self-condemnation"],
-      "results": ["long lasting negative feelings about yourself"],
+      "results": ["long-lasting negative feelings about yourself"],
       "guidance": [{
           "description": "See the guidance entry for shame.",
           "references": ["shame"]
@@ -50,7 +50,7 @@
       "examples": ["losing an important competition","being reprimanded at work"]
   },{
       "name": "failure in others",
-      "description": "Disappointment in the actions of others that you had hoped would not lose.",
+      "description": "Disappointment in the actions of others whom you had hoped would not lose.",
       "perceptions": ["Something I had valued is gone or not available.","The person who's responsible for the loss was someone I had hoped would not lose."],
       "desires": ["desire for social status"],
       "sensations": ["dismay","social tension"],
@@ -73,7 +73,7 @@
       "description": "Guilt is when you're hard on yourself for a perceived failure in something socially or morally important, probably in an effort to avoid repeating it."
   },{
       "links": ["shame"],
-      "description": "Shame is the social sense that something deeply, almost morally, wrong with yourself. Failure is an instance of something that didn't go as well as it could have. It may well be that a failure should cause shame. Or it may be that your shame circuits are too sensitive."
+      "description": "Shame is the social sense that something is deeply, almost morally, wrong with yourself. Failure is an instance of something that didn't go as well as it could have. It may well be that a failure should cause shame. Or it may be that your shame circuits are too sensitive."
   }],
   "commentaries": [{
       "quote": "Some of us are all too ready to blame ourselves for small things. Others are unwilling to recognize even big mistakes."

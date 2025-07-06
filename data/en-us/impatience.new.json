@@ -1,0 +1,121 @@
+{
+  "lang": "en/us",
+  "createDate": "20250312",
+  "updateDate": "20250701",
+  "name": "impatience",
+  "valence": -1,
+  "quote": "We've waited long enough.",
+  "description": "A sense of annoyance from the unexpected delay of a desired experience.",
+  "perceptions": ["A desired experience is not happening as soon as I had expected."],
+  "desires": ["desire for the experience","desire for agency"],
+  "sensations": ["annoyance","anxiety"],
+  "results": ["may be come irritable or even angry"],
+  "guidance": [{
+      "description": "Follow these steps to rein in your impatience and create better results from your conversations.",
+      "attribution": "Marcia Reynolds Psy.D.",
+      "references": ["https://www.psychologytoday.com/us/blog/wander-woman/201712/six-steps-to-tame-your-impatience"]
+  },{
+      "description": "Being around an impatient person can make you feel like you are walking in a field of landmines. What’s more, people with little patience often inspire you to lose your own. No matter what you do, you are bound to encounter an impatient person in your work, school, or in a personal relationship. Learn how to react to impatience and not let it get the best of you.",
+      "attribution": "Sarah Schewitz, PsyD",
+      "references": ["https://www.wikihow.com/Cope-With-Impatient-People"]
+  }],
+  "related": ["frustration", "anger"],
+  "opposites": ["patience"],
+  "variations": [{
+      "name": "impatience with people",
+      "description": "A desired experience is being unnecessarily slowed by someone or a group.",
+      "perceptions": ["A desired experience is not happening as soon as I had expected.","The delay is caused by a certain person or group."],
+      "desires": ["desire for the experience","desire for agency"],
+      "sensations": ["annoyance","resentment","anxiety"],
+      "results": ["may be come irritable or even angry"],
+      "related": ["contempt"],
+      "examples": ["The checkout clerk was unbelievably slow."]
+  },{
+      "name": "self impatience",
+      "description": "A sense that there must be something wrong with your own abilities for making such slow progress towards a desired experience.",
+      "perceptions": ["A desired experience is not happening as soon as I had expected.","The delay is my fault."],
+      "desires": ["desire for the experience","desire for agency"],
+      "sensations": ["annoyance","anxiety","self-condemnation"],
+      "results": ["may be come irritable or even angry"],
+      "guidance": [{
+          "description": "I have always held myself to a high standard and expected a lot from myself. And I’m willing to bet that you do something similar since you’re reading this post. Being patient with yourself can be a serious challenge in a world where success is the end goal.",
+          "attribution": "Skye Sauchelli",
+          "references": ["https://www.thrivingandinspiring.com/be-patient-with-yourself/"]
+      }],
+      "examples": ["I'm not getting any better at this task."]
+  },{
+      "name": "impatient endurance",
+      "description": "The sense that you're controlling annoyance and anxiety while waiting for something to happen, but just barely.",
+      "perceptions": ["A desired experience is not happening as soon as I had expected.","I'm aware that impatience is not going to make it happen sooner.","I'm managing the negative sensations, but they keep coming."],
+      "desires": ["desire for the experience","desire for agency"],
+      "sensations": ["annoyance","anxiety"],
+      "results": ["time seems to stretch on forever"],
+      "opposites": ["endurance"],
+      "examples": ["The long ticket line isn't going to move faster because I'm irritated about waiting."]
+  }],
+  "commentaries": [{
+      "quote": "We are prediction machines, so impatience is partly driven by the discomfort of having to face that a prediction was too optimistic."
+  },{
+      "quote": "Impatience can cause wise people to do foolish things.",
+      "attribution": "Janette Oke"
+  },{
+      "quote": "Adopt the pace of nature: her secret is patience.",
+      "attribution": "Ralph Waldo Emerson"
+  },{
+      "quote": "Impatient people are motivated people, and motivated people know how to prioritize. Think of your impatience as you being ready and raring to go in one area or another, whether this refers to starting a new business, beginning a new workout plan, or even something a little more personal, like starting a family.",
+      "attribution": "Benjamin Spall"
+  }],
+  "spectrum": {
+    "annoyance": 1,
+    "irritation": 2,
+    "resentment": 3,
+    "frustration": 3,
+    "impatience": 4,
+    "vexation": 4,
+    "anger": 5,
+    "rage": 7
+  },
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["impatience","impatient endurance"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2,1": {
+              "experiences": ["impatience"]
+            }
+          }
+      },{
+          "names": ["impatience with people"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2": {
+              "experiences": ["impatience with people","resentment"]
+            },
+            "1": {
+              "experiences": ["impatience"]
+            }
+          }
+      },{
+          "names": ["self impatience"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2": {
+              "experiences": ["self impatience","self-condemnation"]
+            },
+            "1": {
+              "experiences": ["impatience"]
+            }
+          }
+      }]
+  }]
+}

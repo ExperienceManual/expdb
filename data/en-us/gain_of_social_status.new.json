@@ -10,7 +10,7 @@
   "desires": ["desire for social status"],
   "sensations": ["gaining","happiness"],
   "guidance": [{
-      "description": "How do I remain down to earth and do not let success get to my head?",
+      "description": "How do I remain down to earth and not let success get to my head?",
       "attribution": "Quora",
       "references": ["https://www.quora.com/How-do-I-remain-down-to-earth-and-do-not-let-success-get-to-my-head"]
   }],
@@ -19,7 +19,7 @@
   "variations": [{
       "name": "increase in responsibility",
       "description": "If a higher social status implies additional responsibility, it may come with a sobering recognition of future challenges.",
-      "perceptions": ["I've gained standing with a social group that's important to me.","The new standing increases expectations on me."],
+      "perceptions": ["I've gained standing with a social group that's important to me.","The new standing increases expectations of me."],
       "desires": ["desire for social status"],
       "sensations": ["gaining","responsibility","resolve","anxiety"],
       "guidance": [{
@@ -44,7 +44,7 @@
       "related": ["increase in responsibility","increase in power"]
   },{
       "name": "increase in power",
-      "description": "If a higher social status comes with decision-making power over others, it may come with a sense of self-worth. Ideally an increase in power comes with an increase in responsibility.",
+      "description": "If a higher social status comes with decision-making power over others, it may come with a sense of self-worth. Ideally, an increase in power comes with an increase in responsibility.",
       "perceptions": ["I've gained standing with a social group that's important to me.","This will put me in a position to make important decisions."],
       "desires": ["desire for social status"],
       "sensations": ["gaining","happiness","powerful"],
@@ -56,7 +56,7 @@
       "related": ["increase in responsibility"]
   },{
       "name": "too much status",
-      "description": "With a gain in social status, if you feel you've been given too much credit you may become anxious that you're undeserving or likely to lose the status soon. Also known as 'impostor syndrome'.",
+      "description": "With a gain in social status, if you feel you've been given too much credit, you may become anxious that you're undeserving or likely to lose the status soon. Also known as 'impostor syndrome'.",
       "perceptions": ["I've gained standing with a social group that's important to me.","I'm not sure I deserve or am ready for this."],
       "desires": ["desire for social status","desire for safety"],
       "sensations": ["gaining","doubt","anxiety"],
@@ -68,7 +68,7 @@
       "related": ["humility"]
   },{
       "name": "possession of a rarity",
-      "description": "Those that have access to a rare and valued asset may been seen as having higher status. For example, owning a shiny or powerful object, or having an inherent talent or beauty.",
+      "description": "Those who have access to a rare and valued asset may be seen as having higher status. For example, owning a shiny or powerful object, or having an inherent talent or beauty.",
       "perceptions": ["I've got a rare object or attribute that grants me standing with a social group that's important to me."],
       "desires": ["desire for social status"],
       "sensations": ["gaining"],
@@ -76,7 +76,7 @@
           "description": "Building an identity around an asset that can be lost carries some risk of future unpleasantness.",
           "references": ["modesty"]
       }],
-      "examples": ["being rich","being beautiful","owning a rare collectable"]
+      "examples": ["being rich","being beautiful","owning a rare collectible"]
   }],
   "comparisons": [{
       "links": ["gaining"],

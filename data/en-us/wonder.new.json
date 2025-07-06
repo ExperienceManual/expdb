@@ -1,0 +1,81 @@
+{
+  "lang": "en/us",
+  "createDate": "20250406",
+  "updateDate": "20250705",
+  "name": "wonder",
+  "valence": 1,
+  "quote": "This cave glows!",
+  "description": "A sense of delight after finding something interesting, beautiful, complex, or mysterious that challenges your inner model of the world.",
+  "perceptions": ["This thing is surprisingly interesting, beautiful, complex, or mysterious.","My view of the world was apparently too small."],
+  "desires": ["desire for knowledge","desire for stimulation","desire for meaning"],
+  "sensations": ["delight"],
+  "results": ["Sometimes wonder wears off with familiarity. Mysterious things may generate wonder for a long time."],
+  "guidance": [{
+      "description": "",
+      "attribution": "",
+      "references": [""]
+  }],
+  "related": ["awe", "delight", "excitement"],
+  "opposites": ["boredom", "ennui"],
+  "comparisons": [{
+      "links": ["awe"],
+      "description": "'Wonder' is a strong sense of fascination and wanting to understand something better. 'Awe' is a more profound form of wonder that can kick you out of your normal perspective by making you feeling small in the universe."
+  }],
+  "variations": [{
+      "name": "wonder of nature",
+      "description": "A sense of fascination about plants, animals, or geologic processes.",
+      "perceptions": ["This natural thing is surprisingly interesting, beautiful, complex, or mysterious.","My view of the world was apparently too small.","Nature is amazing."],
+      "desires": ["desire for knowledge","desire for stimulation","desire for meaning"],
+      "sensations": ["delight"],
+      "results": ["Perhaps learning more about the subject.","Perhaps spending more time in nature."],
+      "guidance": [{
+          "description": "Nature is not a background to our lives — it is the origin of our breath, the rhythm of our mind, the mirror of our soul. Long before modern medicine or digital distractions, humans turned to the forest for stillness, to rivers for reflection, and to animals for sacred storytelling. That relationship continues today, though sometimes we forget how deeply we belong to it.",
+          "attribution": "Robbie George",
+          "references": ["https://www.robbiegeorgephotography.com/blog/blog_posts/nature-the-source-of-awe-and-wonder"]
+      }],
+      "related": ["awe of nature"],
+      "examples": ["ant colonies","cell biology","coral reefs"]
+  },{
+      "name": "inspirational wonder",
+      "description": "An inspiring sense of amazement about something that opens possibilities in your mind.",
+      "perceptions": ["This thing is surprisingly interesting, beautiful, complex, or mysterious.","My view of the world was apparently too small.","I'm inspired by it to create or learn."],
+      "desires": ["desire for knowledge","desire for stimulation","desire for meaning"],
+      "sensations": ["delight"],
+      "results": ["Perhaps learning more about the subject.","Perhaps starting a project."],
+      "guidance": [{
+          "description": "Did all of art, poetry, beauty, and everything made originate from wonder directed at cosmic patterns and incongruous forms?",
+          "attribution": "Ellen Vrana",
+          "references": ["https://theexaminedlife.org/a-sense-of-wonder"]
+      }],
+      "related": ["inspirational admiration", "epiphany"],
+      "examples": ["I had no idea that was possible!"]
+  }],
+  "commentaries": [{
+      "quote": "Nature and history are infinitely layered tapestries of wonder and terror."
+  },{
+      "quote": "Wisdom begins in wonder.",
+      "attribution": "Socrates"
+  },{
+      "quote": "If our religion is based on salvation, our chief emotions will be fear and trembling. If our religion is based on wonder, our chief emotion will be gratitude.",
+      "attribution": "Carl Jung"
+  },{
+      "quote": "The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself.",
+      "attribution": "Henry Miller"
+  }],
+  "spectrum": {"wonder": 2, "awe": 5, "stupifying": 8},
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["wonder","wonder of nature","inspirational wonder"],
+          "predominantType": "sensation",
+          "levels": {
+            "4,3": {
+              "experiences": ["wonder"]
+            },
+            "2,1": {
+              "experiences": ["delight"]
+            }
+          }
+      }]
+  }]
+}

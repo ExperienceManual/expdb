@@ -29,7 +29,7 @@
       "examples": ["I should go to the gym, but I'm tired today.","I'm sure I know how to do that yet."],
       "comparisons": [{
           "links": ["laziness"],
-          "description": "In a state of laziness you really don't want to do the task. A procrastinator would like to do the task, but they find reasons not to."
+          "description": "In a state of laziness, you really don't want to do the task. A procrastinator would like to do the task, but they find reasons not to."
       }]
   },{
       "name": "socially motivated laziness",
@@ -39,11 +39,11 @@
       "sensations": ["dissatisfaction","resistance"],
       "results": ["find a way to minimize or eliminate effort"],
       "guidance": [{
-          "description": "Social loafing can be limited by establishing individual accountability, minimizing free riding, encouraging team loyalty, and by assigning distinct responsibilities for each team member.",
+          "description": "Social loafing can be limited by establishing individual accountability, minimizing free riding, encouraging team loyalty, and assigning distinct responsibilities for each team member.",
           "attribution": "Donelson Forsyth as quoted in simplypsychology.org",
           "references": ["https://www.simplypsychology.org/social-loafing.html#Reducing-Social-Loafing"]
       }],
-      "examples": ["There a lot of people doing this task, my effort doesn't matter since it won't get recognized."]
+      "examples": ["There are a lot of people doing this task, my effort doesn't matter since it won't get recognized."]
   }],
   "commentaries": [{
       "quote": "Not all 'laziness' is bad. Wisdom is about being right more often than not about what actions are best in which context."

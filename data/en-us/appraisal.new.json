@@ -1,0 +1,84 @@
+{
+    "lang": "en/us",
+    "createDate": "20250702",
+    "updateDate": "20250702",
+    "name": "appraisal",
+    "valence": 0,
+    "timescale": ["unknown"],
+    "rarity": ["unknown"],
+    "frequency": ["unknown"],
+    "quote": "Is that shirt appropriate for this occasion?",
+    "description": "The process of assigning characteristics and/or value to something or someone for a specific purpose.",
+    "perceptions": ["I need to know how to interact with this person or thing for a specific purpose.","Based on limited time and information, I need to apply a score of the relevant characteristics for this particular situation."],
+    "desires": ["desire for agency"],
+    "related": ["generalization","deduction"],
+    "opposites": ["confusion"],
+    "examples": ["deciding if a particular restaurant is appropriate for a meeting","determining if you have enough gas in the car to complete the errand"],
+    "comparisons": [{
+        "links": ["choosing"],
+        "description": "Evaluation happens first, then choosing between outcomes that are not obviously ruled out. For example, evaluating which restaurants are quick and healthy and then choosing between those."
+    },{
+        "links": ["evaluation","judging"],
+        "description": "'Appraisal' is defined here as the general act of figuring out what you think about something. The normal process we use to do this is fast and intuitive, but can be biased. We call this process 'judging', and it's gained some negative connotation, but it's the brain's default way of appraising something. Another process of appraising is a slower and more careful 'evaluation'. This may produce better results, but is harder and less satisfying."
+    }],
+    "variations": [{
+        "name": "evaluation",
+        "description": "A careful process of assigning characteristics and/or value to something or someone for a specific purpose. The process is meant to be fair and unbiased.",
+        "perceptions": ["I need to know how to interact with this person or thing for a specific purpose.","Based on limited time and information, I need to apply a score of the relevant characteristics for this particular situation.","I need to be fair and careful about the process for accurate results."],
+        "desires": ["desire for agency"],
+        "related": ["generalization","deduction"],
+        "opposites": ["confusion"],
+        "examples": ["an interview","a date"],
+        "guidance": [{
+            "description": "Johns-Hopkins has a guide on how to evaluate information.",
+            "references": ["https://guides.library.jhu.edu/evaluate/home"]
+        },{
+            "description": "Understanding how companies evaluate employee performance may be helpful outside of the corporate world.",
+            "references": ["https://chrodaily.com/qa/6-best-practices-for-ensuring-an-objective-and-fair-performance-management-framework/","https://www.small-improvements.com/resources/performance-reviews/"]
+        }]
+    },{
+        "name": "judging",
+        "description": "An intuitive process of assigning characteristics and/or value to something or someone for a specific purpose. The process is quick and possibly biased.",
+        "perceptions": ["I need to know how to interact with this person or thing for a specific purpose.","Based on limited time and information, I need to apply a score of the relevant characteristics for this particular situation.","I need a fast answer and the accuracy of the results are not critical."],
+        "desires": ["desire for agency"],
+        "related": ["generalization","deduction"],
+        "opposites": ["confusion"],
+        "examples": ["deciding on your favorite french fries","picking a team member for a sport"],
+        "guidance": [{
+            "description": "Have you ever stopped to think about how many times a day you make judgments about people, situations, or events? It's a common habit that we all engage in. However, it's important to remember there's a big difference between making judgments and being judgmental.",
+            "attribution": "Sanjana Gupta",
+            "references": ["https://www.verywellmind.com/how-to-be-less-judgmental-7104645"]
+        }]
+    }],
+    "commentaries": [{
+        "quote": "The natural response to evaluation is to feel judged. We have to mature to a place where we respond to it with gratitude, and love feedback.",
+        "attribution": "Henry Cloud"
+    },{
+        "quote": "True genius resides in the capacity for evaluation of uncertain, hazardous, and conflicting information.",
+        "attribution": "Winston Churchill"
+    },{
+        "quote": "When considering the truth of a proposition, one is either engaged in an honest appraisal of the evidence and logical arguments, or one isn't.",
+        "attribution": "Sam Harris"
+    },{
+        "quote": "A word of advice is, when you judge someone, it doesn't define the person that you're judging. It defines you.",
+        "attribution": "Tulisa"
+    },{
+        "quote": "Statistics are no substitute for judgment.",
+        "attribution": "Henry Clay"
+    },{
+        "quote": "Thinking too much leads to paralysis by analysis. It's important to think things through, but many use thinking as a means of avoiding action.",
+        "attribution": "Robert Herjavec in 'The Will To Win: Leading, Competing, Succeeding'"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["appraisal","evaluation","judging"],
+            "predominantType": "action",
+            "levels": {
+              "4,3,2,1": {
+                "experiences": ["appraisal"]
+              }
+            }
+        }]
+    }]
+}

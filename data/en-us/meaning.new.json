@@ -1,0 +1,59 @@
+{
+  "lang": "en/us",
+  "createDate": "20250402",
+  "updateDate": "20250703",
+  "name": "meaning",
+  "valence": 1,
+  "quote": "I know where I belong and what I'm supposed to do.",
+  "description": "A sense that you are aligned in situation, feeling, and action with important values.",
+  "perceptions": ["I know where I belong and what I'm supposed to do."],
+  "desires": ["desire for meaning"],
+  "sensations": ["satisfaction","joy"],
+  "guidance": [{
+      "description": "If you've found meaning, congratulations. If you're still looking for meaning, consider the guidance in 'desire for meaning'.",
+      "references": ["desire for meaning"]
+  }],
+  "related": ["home", "healthy self-regard", "faith"],
+  "opposites": ["desire for meaning","doubt","low self-regard"],
+  "variations": [{
+      "name": "everyday meaning",
+      "description": "Finding satisfaction in your family, friends, job, and/or hobbies.",
+      "perceptions": ["I know where I belong and what I'm supposed to do.","The normal things are good for me."],
+      "desires": ["desire for meaning","desire for social contact"],
+      "sensations": ["satisfaction"],
+      "guidance": [{
+          "description": "Three Steps for Finding Purpose in the Everyday",
+          "attribution": "Beth Kurland Ph.D.",
+          "references": ["https://www.psychologytoday.com/us/blog/the-well-being-toolkit/202007/three-steps-finding-purpose-in-the-everyday"]
+      }]
+  }],
+  "commentaries": [{
+      "quote": "Don't undervalue the sense of value you can get from doing many small things well. Even jobs that seem unimportant can be fulfilling. Raising kids is a life accomplishment. Long-term friends are a treasure."
+  },{
+      "quote": "We can discover this meaning in life in three different ways: (1) by creating a work or doing a deed; (2) by experiencing something or encountering someone; and (3) by the attitude we take toward unavoidable suffering.",
+      "attribution": "Viktor Frankl"
+  },{
+      "quote": "Happiness is GeneticBaseline + Conditions + Work + Love + SenseOfLargerPurpose",
+      "attribution": "Jonathan Haidt, The Happiness Hypothesis"
+  },{
+      "quote": "Both sides of the war find meaning in battle."
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["meaning","everyday meaning"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2": {
+              "experiences": ["meaning"]
+            },
+            "1": {
+              "experiences": ["satisfaction"]
+            }
+          }
+      }]
+  }]
+}

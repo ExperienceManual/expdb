@@ -6,17 +6,17 @@
   "valence": 0,
   "quote": "The kids at the party were running around happily.",
   "description": "A heightened state of energy in response to participating in or considering a positive or negative experience.",
-  "perceptions": ["Something is happening or is going to happen.","It's going to be very positive or very negative.","My energy level is high to be able to properly participate in the event."],
+  "perceptions": ["Something is happening or is going to happen.","It's going to be very positive or very negative.","My energy level is high enough to be able to properly participate in the event."],
   "desires": ["desire for stimulation","desire for safety"],
   "sensations": ["delight","dismay"],
   "results": ["A state of physiological arousal – increased heart rate, adrenaline, heightened awareness."],
   "related": [ "enthusiasm", "defensiveness", "triumph", "anticipation", "fear", "anger", "surprise" ],
   "opposites": ["calmness"],
   "guidance": [{
-      "description": "Emotions are contagious. An excited high-energy state, whether enthusiasm or anger, has a pull on everyone in the area. It may be helpful to understand this so you can affect others positively and resist being pulled in directions you're not comfortable with.",
+      "description": "Emotions are contagious. An excited, high-energy state, whether enthusiasm or anger, has a pull on everyone in the area. It may be helpful to understand this so you can affect others positively and resist being pulled in directions you're not comfortable with.",
       "references": ["https://www.psychologytoday.com/us/blog/overcoming-destructive-anger/202201/how-immune-are-you-to-contagious-anger","https://bhma.org/emotions-are-contagious/"]
   }],
-  "examples": ["She was excited to go to the amusement park.","The speaker stirred the crowd into a frenzy with his provacative statements."],
+  "examples": ["She was excited to go to the amusement park.","The speaker stirred the crowd into a frenzy with his provocative statements."],
   "commentaries": [{
       "quote": "In English, 'excitement' usually refers to something positive, but it can be used more generally to mean a vigorous response. For example, someone who's really angry could be considered 'excited'."
   },{
@@ -27,7 +27,7 @@
       "attribution": "Rupert Murdoch"
   },{
       "quote": "Character is the ability to carry out a good resolution long after the excitement of the moment has passed.",
-      "attribution": "Cavett Robert"
+      "attribution": "Robert Cavett"
   }],
   "spectrum": {"stimulation": 3, "excitement": 5, "frenzied": 8},
   "models": [{

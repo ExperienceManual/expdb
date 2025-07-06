@@ -1,0 +1,59 @@
+{
+  "lang": "en/us",
+  "createDate": "20250323",
+  "updateDate": "20250703",
+  "name": "effortless",
+  "valence": 1,
+  "quote": "No problem.",
+  "description": "An implicit sense that a preferred state will be easy to achieve in a situation with several possible outcomes.",
+  "perceptions": ["This situation has several possible outcomes.","I prefer some of the outcomes or want to prevent some of them.","Obtaining my desired outcome will be very easy."],
+  "desires": ["desire for a particular outcome"],
+  "results": ["we don't even normally think about all the things we do effortlessly"],
+  "related": ["gaining", "delight"],
+  "opposites": ["challenge"],
+  "variations": [{
+      "name": "effortless again",
+      "description": "An injury or pain is better so normal effortless activities are easy again.",
+      "perceptions": ["This situation has several possible outcomes.","I prefer some of the outcomes or want to prevent some of them.","Obtaining my desired outcome will be very easy.","It was recently not easy due to a constraint."],
+      "desires": ["desire for a particular outcome"],
+      "results": ["more likely to appreciate things we do effortlessly for a while"],
+      "related": ["gaining", "delight"],
+      "opposites": ["challenge"],
+      "sensations": ["gratitude"]
+  }],
+  "commentaries": [{
+      "quote": "Most of what we do every day is automatic and effortless. The only time we might actually think about our capabilities is when challenged by another or after healing from an injury."
+  },{
+      "quote": "Ask any ice-skater or ballet dancer or show jumper, anyone who lives by beautiful moving things: nothing takes as much work as effortlessness.",
+      "attribution": "Tana French"
+  },{
+      "quote": "Love is effortless attention.",
+      "attribution": "Guy Finley"
+  },{
+      "quote": "It is not human nature to enjoy what we get with no effort.",
+      "attribution": "Sri Chinmoy"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["effortless"],
+          "predominantType": "",
+          "levels": {
+            "4,3,2,1": {
+                "experiences": ["effortless"]
+            }
+          }
+       },{
+          "names": ["effortless again"],
+          "predominantType": "",
+          "levels": {
+            "4,3": {
+                "experiences": ["effortless again","gratitude"]
+            },
+            "2,1": {
+                "experiences": ["effortless"]
+            }
+          }
+      }]
+  }]
+}

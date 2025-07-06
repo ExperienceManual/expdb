@@ -1,0 +1,94 @@
+{
+    "lang": "en/us",
+    "createDate": "20250501",
+    "updateDate": "20250703",
+    "name": "defiance",
+    "valence": 0,
+    "timescale": ["unknown"],
+    "rarity": ["unknown"],
+    "frequency": ["unknown"],
+    "quote": "I don't care, I'm going anyway.",
+    "description": "Openly taking an action (or inaction) despite knowing that it's against the desires of a particular person or group.",
+    "perceptions": ["A person or group wants me to do or not do something.","I'm going to do it anyway.","I'm not going to hide that I'm doing it."],
+    "desires": ["desire for agency","many"],
+    "sensations": ["social tension"],
+    "related": ["group hostility","dissonance"],
+    "opposites": ["subordination"],
+    "examples": ["The teenager texted her mom from the mall despite being told not to go."],
+    "guidance": [{
+        "description": "Defiance, which can look like resistance or outright disobedience, is an exaggerated expression of independence or differentiation from the family. By pushing against something, adolescents and young adults are trying to figure out who they are and define themselves in their own identity.",
+        "attribution": "Jonathan Mitchell",
+        "references": ["https://www.openskywilderness.com/defiant-behavior"]
+    }],
+    "variations": [{
+        "name": "disobedience",
+        "description": "Action or inaction against the desires of a particular person or group, whether on purpose or not.",
+        "perceptions": ["A person or group wants me to do or not do something.","I forgot about it, or I'm going to do it anyway.","I just won't tell them."],
+        "desires": ["desire for agency","many"],
+        "sensations": ["social tension"],
+        "related": ["group hostility","dissonance"],
+        "opposites": ["subordination"],
+        "examples": ["The teenager snuck off to the mall despite being told not to go."]
+    },{
+        "name": "insubordination",
+        "description": "Action or inaction against the desires of a particular person of higher rank than you.",
+        "perceptions": ["A person or group with more authority wants me to do or not do something.","I'm going to do it anyway."],
+        "desires": ["desire for agency","many"],
+        "sensations": ["social tension"],
+        "related": ["group hostility","dissonance"],
+        "opposites": ["subordination"],
+        "examples": ["The employee took a long lunch despite being told by the manager to work through lunch."],
+        "guidance": [{
+            "description": "5 Examples of Insubordination in the Workplace (With Tips)",
+            "attribution": "Indeed Editorial Team",
+            "references": ["https://www.indeed.com/career-advice/career-development/insubordination-in-workplace-examples"]
+        }]
+    }],
+    "comparisons": [{
+        "links": ["insubordination","disobedience"],
+        "description": "The differences between these three are subtle and they're often used interchangeably. 'Disobedience' is the general term for not following a rule or request. It can be willful or accidental. 'Defiance' is an bold and open form of disobedience. 'Insubordination' is disobeying a rule or request from a higher ranked person in a hierarchy."
+    }],
+    "commentaries": [{
+        "quote": "Insubordination may only be the evidence of a strong mind.",
+        "attribution": "Napoleon Bonaparte"
+    },{
+        "quote": "Insubordination goes beyond mere disagreement — it’s a willful defiance that can affect team morale, productivity, and trust in leadership.",
+        "attribution": "Wellhub Editorial Team"
+    },{
+        "quote": "Defiance is beautiful. The defiance of power, especially great or overwhelming power, exalts and glorifies the rebel.",
+        "attribution": "Edward Abbey"
+    },{
+        "quote": "I am no longer accepting the things I cannot change.",
+        "attribution": "Angela Davis"
+    },{
+        "quote": "Do a search for quotes about disobediance. The sheer volume of people extolling the virtues of defiance says a lot. And it suggests that Pandora is here to stay."
+    },{
+        "quote": "The nail that sticks out gets hammered down.",
+        "attribution": "Japanese saying"
+    }],
+    "spectrum": {
+        "disrespect": 3,
+        "defiance": 5,
+        "disobedience": 5,
+        "insubordination": 5,
+        "rebellion": 8
+    },
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["defiance","disobedience","insubordination"],
+            "predominantType": "impulse",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2": {
+                "experiences": ["defiance"]
+              },
+              "1": {
+                "experiences": ["dissonance","satisfaction","anxiety"]
+              }
+            }
+        }]
+    }]
+}

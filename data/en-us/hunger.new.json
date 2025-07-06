@@ -6,7 +6,7 @@
   "valence": -1,
   "quote": "When's dinner?",
   "description": "Physical need to eat or drink. Of course we often desire food when we're not actually hungry.",
-  "perceptions": ["I have a hungry feeling in my stomach or feel light headed from lack of food."],
+  "perceptions": ["I have a hungry feeling in my stomach or feel lightheaded from lack of food."],
   "desires": ["desire for comfort","will to live"],
   "results": ["find a way to get some food"],
   "related": ["desire for food"],

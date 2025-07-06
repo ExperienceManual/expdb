@@ -1,0 +1,140 @@
+{
+  "lang": "en/us",
+  "createDate": "20250312",
+  "updateDate": "20250630",
+  "name": "frustration",
+  "valence": -1,
+  "quote": "I can't figure out how to solve it!",
+  "description": "The sense that you've been repeatedly blocked from reaching a desired outcome and anxiety that failure may be near.",
+  "perceptions": ["So far I've been unable to complete this outcome.","I've tried several things and nothing's working."],
+  "desires": ["desire for a particular outcome"],
+  "sensations": ["anxiety","impatience"],
+  "guidance": [{
+      "description": "If you have a low tolerance for frustration, there are strategies you can use to improve the way you respond. Seeking professional treatment is also a good option, especially if you're experiencing an underlying condition or your low tolerance is causing negative consequences in your life.",
+      "attribution": "Elizabeth Scott, PhD",
+      "references": ["https://www.verywellmind.com/feel-less-frustrated-when-stressed-3145200"]
+  }],
+  "related": ["annoyance", "discouragement", "failure","anger"],
+  "opposites": ["calmness", "triumph"],
+  "comparisons": [{
+      "links": ["annoyance"],
+      "description": "An annoyance is a minor distraction that may slow but doesn't stop progress towards a goal. Frustration is the sense that you're blocked and not making any progress."
+  },{
+      "links": ["discouragement"],
+      "description": "As the frustration of being blocked continues, you may start to feel discouraged that the outcome is not possible or that you are unable to reach it."
+  }],
+  "variations": [{
+      "name": "social frustration",
+      "description": "The sense that a social goal is being blocked by someone.",
+      "perceptions": ["So far I've been unable to complete this outcome.","I've tried several things and nothing's working.","Someone is stopping me from reaching this outcome."],
+      "desires": ["desire for a particular outcome"],
+      "sensations": ["anxiety","impatience","resentment"],
+      "related": ["losing","failure","contempt","enmity"],
+      "examples": [
+        "I think I deserve employee of the month, but my boss doesn't like me."
+      ]
+  },{
+      "name": "self frustration",
+      "description": "A sense that there must be something wrong with your own abilities for not being able to achieve the outcome.",
+      "perceptions": ["So far I've been unable to complete this outcome.","I've tried several things and nothing's working.","Perhaps the problem is with me."],
+      "desires": ["desire for a particular outcome"],
+      "sensations": ["anxiety","impatience","self-condemnation"],
+      "guidance": [{
+          "description": "One of the most common things I see in people who write to me is something we all share: disappointment in ourselves.",
+          "attribution": "Leo Babauta",
+          "references": ["https://zenhabits.net/disappointed/"]
+      }],
+      "examples": ["unable to win a sports contest","unable to figure out what's wrong with the spreadsheet"]
+  },{
+      "name": "bad luck frustration",
+      "description": "A sense of injustice that you keep getting blocked from a certain outcome by chance events.",
+      "perceptions": ["So far I've been unable to complete this outcome.","I've tried several times and nothing's working.","I've had terrible luck."],
+      "desires": ["desire for a particular outcome"],
+      "sensations": ["anxiety","impatience","injustice"],
+      "guidance": [{
+          "description": "'Some people have all the luck.' Have you ever had this thought? It’s time to get rid of it once and for all. Those people aren’t blessed by luck – they have made conscious decisions to do these nine things.",
+          "attribution": "Tony Robbins",
+          "references": ["https://www.tonyrobbins.com/blog/why-bad-luck"]
+      }],
+      "examples": ["This is the fourth time I've had to reschedule the picnic!"]
+  }],
+  "commentaries": [{
+      "quote": "Frustration is proportional to the fear of failure."
+  },{
+      "quote": "It is hardly possible to build anything if frustration, bitterness, and a mood of helplessness prevail.",
+      "attribution": "Lech Walesa"
+  },{
+      "quote": "To conquer frustration, one must remain intensely focused on the outcome, not the obstacles.",
+      "attribution": "T.F. Hodge"
+  },{
+      "quote": "Our fatigue is often caused not by work, but by worry, frustration and resentment.",
+      "attribution": "Dale Carnegie"
+  }],
+  "spectrum": {
+    "annoyance": 1,
+    "irritation": 2,
+    "resentment": 3,
+    "frustration": 3,
+    "impatience": 4,
+    "vexation": 4,
+    "anger": 5,
+    "rage": 7
+  },
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["frustration"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2,1": {
+              "experiences": ["frustration"]
+            }
+          }
+      },{
+          "names": ["self frustration"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["self frustration","self-condemnation"]
+            },
+            "2,1": {
+              "experiences": ["frustration"]
+            }
+          }
+      },{
+          "names": ["social frustration"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2": {
+              "experiences": ["social frustration","resentment"]
+            },
+            "1": {
+              "experiences": ["frustration"]
+            }
+          }
+      },{
+          "names": ["bad luck frustration"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2": {
+              "experiences": ["bad luck frustration","injustice"]
+            },
+            "1": {
+              "experiences": ["frustration"]
+            }
+          }
+      }]
+  }]
+}

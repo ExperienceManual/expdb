@@ -1,11 +1,11 @@
 {
   "lang": "en/us",
   "createDate": "20250223",
-  "updateDate": "20250611",
+  "updateDate": "20250701",
   "name": "surprise",
   "valence": 0,
   "quote": "I didn't expect you to be there!",
-  "description": "A perception that an experience happened that was directly counter to expectations in some way. The tone and strength of the surprise depend on the context.",
+  "description": "A perception that what just happened that was counter to expectations in some way. Whether the surprise is positive or negative depends on the context.",
   "perceptions": ["Something happened that directly conflicts with an expectation."],
   "desires": ["desire for order"],
   "sensations": ["many"],
@@ -21,6 +21,14 @@
       "description": "Surprise is a violation of your prediction. The relevance of the violation may lead to the higher energy level of excitement."
   }],
   "examples": [ "The kids knocked the vase off the shelf, which crashed loudly.", "I'd expected the trip to be good, but not that good." ],
+  "variations": [{
+      "name": "novelty",
+      "description": "A perception that what just happened was new a type of experience where there weren't previouslty expectations. Whether the novelty is positive or negative depends on the context.",
+  "perceptions": ["Something happened where I didn't have a definite expectation."],     
+  "desires": ["desire for order","desire for stimulation"],
+  "sensations": ["many"],
+  "results": ["Novelty will quickly change into some other experience such as delight or disgust. It may raise your energy level into excitement, or maybe not."]
+  }],
   "commentaries": [{
       "quote": "When the unexpected happens, there's generally a moment of confusion while you try to figure out what happened. In a very short time, you can go from surprise to fear to relief to joy."
   },{
@@ -35,12 +43,15 @@
   },{
       "quote": "The moments of happiness we enjoy take us by surprise. It is not that we seize them, but that they seize us.",
       "attribution": "Ashley Montagu"
+  },{
+      "quote": "Men desire novelty to such an extent that those who are doing well wish for a change as much as those who are doing badly.",
+      "attribution": "Niccolò Machiavelli"
   }],
   "spectrum": {"kick": 3, "surprise": 5, "shock": 8},
   "models": [{
       "version": "em1",
       "variations": [{
-          "names": ["surprise"],
+          "names": ["surprise","novelty"],
           "predominantType": "capacity",
           "levels": {
             "1": {

@@ -10,7 +10,7 @@
   "sensations": ["delight"],
   "results": ["desire to smile or laugh"],
   "guidance": [{
-      "description": "Every person likes to stay around people who make them laugh. Being funny is one of the greatest sought after qualities.",
+      "description": "Every person likes to stay around people who make them laugh. Being funny is one of the most sought-after qualities.",
       "attribution": "Canadian Institute of International Business",
       "references": ["https://www.scienceofpeople.com/how-to-be-funny/","https://ciib.org/blog/how-to-be-funny/"]
   }],
@@ -19,7 +19,7 @@
   "variations": [
     {
       "name": "slapstick humor",
-      "description": "Slapstick humor is physical, e.g. someone tripping but not hurt.",
+      "description": "Slapstick humor is physical, e.g. someone tripping but not getting hurt.",
       "perceptions": ["A physical accident or minor attack happened to cause unusual tension.","The event is considered clever or harmless."],
       "examples": ["The Three Stooges","Road Runner cartoons"]
     },{

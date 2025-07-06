@@ -1,0 +1,117 @@
+{
+  "lang": "en/us",
+  "createDate": "20250315",
+  "updateDate": "20250703",
+  "name": "not belonging",
+  "valence": -1,
+  "quote": "I have nowhere to go.",
+  "description": "A desire to belong somewhere, but the sense that your situation is uncomfortable and/or unwelcoming, but you have nowhere else to go.",
+  "perceptions": ["I don't seem to belong anywhere.","I don't have a place in society to call my own."],
+  "desires": ["desire for agency","desire for territory","desire for meaning","desire for validation"],
+  "sensations": ["discomfort","doubt","disorientation","low self-regard","anxiety"],
+  "results": ["Depending on the situation, you may have negative feelings about others or youself."],
+  "guidance": [{
+      "description": "How to Create More Belonging for Yourself and Others -- There are small things we can do in our everyday lives to feel accepted and valued, and to help others feel the same.",
+      "attribution": "Geoffrey Cohen",
+      "references": ["https://greatergood.berkeley.edu/article/item/how_to_create_more_belonging_for_yourself_and_others"]
+  }],
+  "related": ["injustice","envy"],
+  "opposites": ["home","meaning"],
+  "examples": ["couch surfing at a friends place"],
+  "variations": [{
+      "name": "homeless",
+      "description": "Having no space that you can call your own, return to often, or keep your stuff.",
+      "perceptions": ["I don't seem to belong anywhere.","I don't have a physical place to call my own.","Survival is not easy."],
+      "desires": ["desire for agency","desire for territory","desire for validation"],
+      "sensations": ["discomfort","doubt","disorientation","low self-regard","anxiety"],
+      "results": ["You may have negative feelings about others and/or youself."],
+      "guidance": [{
+          "description": "If you're interested in helping homeless people in your area, consider a local web search.",
+          "references": ["search"]
+      }],
+      "examples": ["living in a homeless shelter"]
+  },{
+      "name": "spiritually homeless",
+      "description": "Desiring a situation that speaks to your deepest existential self, but sensing that you lack such a space.",
+      "perceptions": ["I can't find a spiritual community I'm comfortable with.","I think there should be a group that would fit."],
+      "desires": ["desire for meaning"],
+      "sensations": ["discomfort","doubt"],
+      "guidance": [{
+          "description": "As Americans leave organized religion, alternatives on the rise",
+          "attribution": "Marc Ramirez",
+          "references": ["https://www.pressreader.com/usa/usa-today-us-edition/20240904/281479281775315?srsltid=AfmBOoo41H_Pc_89XcFUPY5C8Bbb9wDd_poMCNRgxrDBfGJDyu04KbiT"]
+      }]
+  },{
+      "name": "culturally homeless",
+      "description": "A sense that you don't fully belong in any particular place, being unaligned with others on language, food, manners, beliefs, or other social aspects.",
+      "perceptions": ["I sort of belong to multiple different cultural spaces.","But I'm not strongly aligned with any of them.","I don't have a place in society that is a clear fit."],
+      "desires": ["desire for agency","desire for territory","desire for validation"],
+      "sensations": ["discomfort","doubt","disorientation","anxiety"],
+      "results": ["Depending on the situation, you may have negative feelings about others or youself."],
+      "guidance": [{
+          "description": "A Simple Way To Find Out Where You Really Belong",
+          "attribution": "Dilip Chetan",
+          "references": ["https://medium.com/@dchetan/a-simple-way-to-find-out-where-you-really-belong-f4e655c5890a"]
+      }],
+      "related": ["foreign place"],
+      "examples": ["immigrants", "children of immigrants"]
+  }],
+  "commentaries": [{
+      "quote": "When you've never felt like you really belonged somewhere, it's almost impossible to know what it will feel like to finally feel at home.",
+      "attribution": "Sarah McBride"
+  },{
+      "quote": "They are so caught up in their happiness that they don't realize I'm not really a part of it. I am wandering along the periphery.",
+      "attribution": "David Levithan"
+  },{
+      "quote": "Nomadic people have a broader view of 'home' than those of us that put roots down in one place for a long time. They feel welcome across a much bigger landscape"
+  },{
+      "quote": "People who are homeless are not social inadequates. They are people without homes.",
+      "attribution": "Sheila McKechnie"
+  },{
+      "quote": "Sometimes we feel we straddle two cultures; at other times, that we fall between two stools.",
+      "attribution": "Salman Rushdie"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["not belonging","homeless"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2,1": {
+              "experiences": ["not belonging"]
+            }
+          }
+      },{
+          "names": ["spiritually homeless"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["spiritually homeless"]
+            },
+            "2,1": {
+              "experiences": ["anxiety"]
+            }
+          }
+      },{
+          "names": ["culturally homeless"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["culturally homeless"]
+            },
+            "2,1": {
+              "experiences": ["anxiety"]
+            }
+          }
+      }]
+  }]
+}

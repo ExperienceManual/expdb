@@ -1,0 +1,190 @@
+{
+  "lang": "en/us",
+  "createDate": "20250315",
+  "updateDate": "20250701",
+  "name": "home",
+  "valence": 1,
+  "quote": "There's no place like home.",
+  "description": "A sense that you are in an environment where things are comfortable, familiar, safe, and that in some sense you 'belong' there.",
+  "perceptions": ["This environment is familiar and comfortable to me.","It's a part of an important identity."],
+  "desires": ["desire for comfort","desire for safety","desire for territory"],
+  "sensations": ["comfort","calm"],
+  "related": ["desire for meaning" ],
+  "opposites": ["disorientation","not belonging"],
+  "examples": ["your house","your social group","your lifestyle","your normal frame of mind"],
+  "variations": [{
+      "name": "home space",
+      "description": "A space that you call your own, return to often, have many memories, and keep your favorite stuff.",
+      "perceptions": ["This place is mine as much as it is anyone else's.","It's familiar and comfortable.","It's where my life is centered."],
+      "desires": ["desire for comfort","desire for safety","desire for territory"],
+      "sensations": ["calm"],
+      "guidance": [{
+          "description": "Optimizing your space to improve your mental health is something that anyone can benefit from.",
+          "attribution": "Mental Health America",
+          "references": ["https://mhanational.org/resources/creating-a-healthy-home-environment/"]
+      }],
+      "examples": ["house", "apartment", "dorm room", "RV"]
+  },{
+      "name": "former home",
+      "description": "A place where you once lived and felt comfortable but can no longer visit.",
+      "perceptions": ["This place was once mine as much as it was anyone else's.","It was familiar and comfortable.","I can no longer visit it."],
+      "desires": ["desire for comfort","desire for safety","desire for territory"],
+      "sensations": ["nostalgia","sadness","exile"],
+      "guidance": [{
+          "description": "The loss of a place that was once a part of your life can create a range of responses from nostalgia to grief. In most cases people are able to move on with some sadness, but it's ok to check out the references for grief if needed. ",
+          "references": ["grief"]
+      }],
+      "examples": ["a refugee from their country","a childhood house owned by someone else","your high school building was demolished and rebuilt","a favorite work environment long gone"]
+  },{
+      "name": "temporary home",
+      "description": "A place that's not your main home but where you currently come back to frequently to rest and keep your stuff.",
+      "perceptions": ["This place is where I'm centering this phase of my journey.","It's not necessarily familiar and comfortable.","I'm keeping my stuff here until the next phase."],
+      "desires": ["desire for comfort","desire for safety"],
+      "guidance": [{
+          "description": "As much as we all love exploring the world, living out of a suitcase for too long can leave us feeling a little bit homesick. Sometimes it helps to bring a piece of home with us to turn any hotel room into our personal space.",
+          "attribution": "Barbara Keller",
+          "references": ["https://numastays.com/blog/5-simple-tricks-to-make-any-hotel-room-feel-like-home"]
+      }],
+      "examples": ["hotel", "tent"]
+  },{
+      "name": "beloved place",
+      "description": "A place you've visited many times where you've had positive experiences.",
+      "perceptions": ["This place is familiar and comfortable.","I've had many good experiences here.","It's part of my identity."],
+      "desires": ["desire for comfort","desire for safety"],
+      "sensations": ["calm","nostalgia"],
+      "examples": ["grandparent's home", "family vacation spot","favorite spot in the park"]
+  },{
+      "name": "spiritual home",
+      "description": "A place that speaks to your deepest existential self.",
+      "perceptions": ["This place is familiar and comfortable.","I've had good and profound experiences here.","It's part of my identity."],
+      "desires": ["desire for comfort","desire for safety","desire for meaning"],
+      "sensations": ["meaning","calm","nostalgia"],
+      "examples": ["religious building", "natural wonder", "night sky"]
+  },{
+      "name": "activity home",
+      "description": "A sense that you're participating in a familiar activity where you're competent and know what's expected.",
+      "perceptions": ["This activity is familiar and comfortable.","I'm competent in it.","I've had many good experiences with it.","It's part of my identity."],
+      "desires": ["desire for stimulation","desire for social contact","desire for social status"],
+      "sensations": ["many"],
+      "guidance": [{
+          "description": "",
+          "attribution": "",
+          "references": [""]
+      }],
+      "related": ["flow"],
+      "examples": [ "favorite sport", "workplace for a job you like", "longtime hobby", "favorite academic topic" ]
+  },{
+      "name": "cultural home",
+      "description": "A sense that the current environment fits your preferences for language, food, manners, beliefs, architecture, or other social aspects.",
+      "perceptions": ["This cultural setting is familiar and comfortable.","I'm competent in it.","I've had many good experiences with it.","It's part of my identity."],
+      "desires": ["desire for comfort","desire for social status"],
+      "sensations": ["many"],
+      "related": ["xenophobia"],
+      "examples": ["preference for your culture's food"],
+      "opposites": ["foreign place"]
+  },{
+      "name": "mindset home",
+      "description": "A state of mind where you spend a lot of time and sense that, on balance, it keeps you safe or comfortable.",
+      "perceptions": ["This particular way of seeing and interacting with the world is familiar and comfortable.","I'm competent in it.","It's helped my social position and keeps me safe.","It's part of my identity."],
+      "desires": ["desire for comfort","desire for safety","desire for social status"],
+      "sensations": ["many"],
+      "guidance": [{
+          "description": "Your mindset is a set of beliefs that shape how you make sense of the world and yourself. It influences how you think, feel, and behave in any given situation. It means that what you believe about yourself impacts your success or failure.",
+          "attribution": "Kendra Cherry, MSEd",
+          "references": ["https://www.verywellmind.com/what-is-a-mindset-2795025"]
+      }],
+      "examples": [ "distraction seeking", "anxious", "skeptical", "organizing", "mindful" ]
+  }],
+  "commentaries": [{
+      "quote": "The feeling of home is two parts: familiarity and belonging. If surroundings are not familiar, there's probably disorientation. If you don't feel welcome in a place, you may feel social tension. For a while, a friend's house may feel familiar and comfortable, but once the welcome wears out, it will start to feel awkward."
+  },{
+      "quote": "There's no place like home.",
+      "attribution": "L. Frank Baum in 'The Wizard of Oz'"
+  },{
+      "quote": "Nomadic people have a broader view of 'home' than those of us that put roots down in one place for a long time. They feel welcome across a much bigger landscape."
+  },{
+      "quote": "Home shapes us as we shape our home. Is it bustling or quiet? Organized or chaotic? How does it display and shape our identity?"
+  },{
+      "quote": "Living in a traditional culture is a gift. So is living in a multi-cultural environment. You can have two houses, but only one at a time is home."
+  },{
+      "quote": "The value of a home can’t be measured.  It is subjective and not quantifiable.  The appraised value may seem completely irrelevant because it doesn’t account for the emotional attachment.",
+      "attribution": "Ann Gold Buscho, Ph.D."
+  },{
+      "quote": "For the two of us, home isn't a place. It is a person. And we are finally home.",
+      "attribution": "Stephanie Perkins in 'Anna and the French Kiss'"
+  },{
+      "quote": "Home is the place where, when you have to go there, they have to take you in.",
+      "attribution": "Robert Frost"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["home","home space","activity home","beloved place"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2,1": {
+              "experiences": ["home","comfort"]
+            }
+          }
+      },{
+          "names": ["mindset home"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2": {
+              "experiences": ["mindset home"]
+            },
+            "1": {
+              "experiences": ["agency"]
+            }
+          }
+      },{
+          "names": ["temporary home","cultural home"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2": {
+              "experiences": ["home"]
+            },
+            "1": {
+              "experiences": ["satisfaction"]
+            }
+          }
+      },{
+          "names": ["spiritual home"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["spiritual home","meaning"]
+            },
+            "2,1": {
+              "experiences": ["satisfaction"]
+            }
+          }
+      },{
+          "names": ["former home"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["former home","nostalgia"]
+            },
+            "2,1": {
+              "experiences": ["satisfaction","sadness"]
+            }
+          }
+      }]
+  }]
+}

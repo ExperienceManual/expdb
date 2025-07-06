@@ -16,7 +16,7 @@
   }],
   "related": ["playful","love"],
   "opposites": ["boredom", "ennui"],
-  "examples": ["a new album from a favored artist","a trip to the amusement park","trying a new restuarant"],
+  "examples": ["a new album from a favored artist","a trip to the amusement park","trying a new restaurant"],
   "comparisons": [{
       "links": ["excitement"],
       "description": "'Excitement' is arousal that can be either positive or negative. 'Enthusiasm' is positive arousal."
@@ -24,7 +24,7 @@
   "variations": [{
       "name": "social enthusiasm",
       "description": "A desire to experience something in large part due to social factors.",
-      "perceptions": ["Something is happening or going to happen with a person or group.","I expect it will be fun to share with it them."],
+      "perceptions": ["Something is happening or going to happen with a person or group.","I expect it will be fun to share it with them."],
       "desires": ["desire for stimulation","desire for social contact"],
       "sensations": ["anticipation","excitement"],
       "guidance": [{

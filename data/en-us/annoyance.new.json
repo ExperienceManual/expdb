@@ -1,0 +1,66 @@
+{
+  "lang": "en/us",
+  "createDate": "20250311",
+  "updateDate": "20250630",
+  "name": "annoyance",
+  "valence": -1,
+  "quote": "Our walk was nice except for the mosquitos.",
+  "description": "A desire to stop a repeated unwanted mild experience from intruding on a preferred experience.",
+  "perceptions": ["There's a minor neutral or negative experience intruding on my larger experience.","It would be better if that unwanted minor thing went away."],
+  "desires": ["desire to resolve the annoyance"],
+  "sensations": ["endurance","dissonance"],
+  "guidance": [{
+      "description": "What causes irritability and 7 strategies to cope",
+      "attribution": "Cleveland Clinic",
+      "references": ["https://health.clevelandclinic.org/irritability"]
+  }],
+  "related": ["frustration", "impatience"],
+  "opposites": ["calmness"],
+  "examples": ["buzzing insects","loud phone conversation on the train"],
+  "variations": [{
+      "name": "pet peeve",
+      "description": "A particular unwanted minor experience that you have a personal distaste for but might not bother others.",
+      "perceptions": ["There's a minor neutral or negative experience intruding on my larger experience.","This bothers me more than it does other people.","It would be better if that unwanted minor thing went away."],
+      "desires": ["desire to resolve the annoyance"],
+      "sensations": ["endurance","dissonance"],
+      "guidance": [{
+          "description": "If your pet peeve is barking too often, these articles may be of interest.",
+          "references": ["https://www.psychologytoday.com/us/blog/be-the-sun-not-the-salt/202412/why-little-things-drive-us-crazy","https://hammondpsychology.com/how-to-cope-with-pet-peeves/"]
+      }],
+      "examples": ["I don't like it when people leave dishes in the sink."]
+  }],
+  "commentaries": [{
+      "quote": "Annoyance is a mild form of anger - the goal is to stop the repeated unwanted experience even though it's not really stopping you from other things. If the source is human, words or body language may be enough. If the source is something else, you may swat at it, try to fix it, or attempt to ignore it."
+  },{
+      "quote": "Everything that irritates us about others can lead us to an understanding of ourselves.",
+      "attribution": "Carl Gustav Jung"
+  },{
+      "quote": "My annoyance became frustration, which became anger, which became hate, and hate is a long-burning fuel.",
+      "attribution": "Hank Green"
+  }],
+  "spectrum": {
+    "annoyance": 1,
+    "irritation": 2,
+    "resentment": 3,
+    "frustration": 3,
+    "impatience": 4,
+    "vexation": 4,
+    "anger": 5,
+    "rage": 7
+  },
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["annoyance","pet peeve"],
+          "predominantType": "impulse",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2,1": {
+              "experiences": ["annoyance"]
+            }
+          }
+      }]
+  }]
+}

@@ -1,0 +1,114 @@
+{
+  "lang": "en/us",
+  "createDate": "20250316",
+  "updateDate": "20250701",
+  "name": "disorientation",
+  "valence": -1,
+  "quote": "Where am I?",
+  "description": "A sense that you are in a strange environment where things are unpredictable.",
+  "alternateDefinitions": ["There's a medical condition of chronic disorientation that can be caused by brain problems. The usage here is intended as the minor short-lived disorientation we can feel when plunged into something new."],
+  "perceptions": ["This environment is new and foreign to me.","I don't know what to expect or how to behave."],
+  "desires": ["desire for comfort","desire for safety"],
+  "sensations": ["confusion","anxiety","distrust"],
+  "guidance": [{
+      "description": "If someone you know is experiencing chronic medical disorientation, consider seeking professional help.",
+      "references": ["https://www.healthline.com/health/disorientation","https://alzheimer.ca/en/help-support/im-caring-person-living-dementia/understanding-symptoms/disorientation-losing-ones-way"]
+  }],
+  "opposites": ["home"],
+  "variations": [{
+      "name": "foreign place",
+      "description": "A sense that the current environment does not fit your preferences for language, food, manners, beliefs, architecture, or other social aspects.",
+      "perceptions": ["This environment is new and foreign to me.","I don't know what to expect or how to behave.","I don't speak the language."],
+      "desires": ["desire for comfort","desire for safety"],
+      "sensations": ["stimulation","novelty","confusion","anxiety","distrust"],
+      "guidance": [{
+          "description": "Feeling homesick in a foreign country? Moving abroad in no way means that you need to forget where you came from! In fact, staying in touch with your roots can make you feel more at home when abroad. So, here are some ways to bring a touch of home to your expat lifestyle.",
+          "attribution": "Adriana Stein",
+          "references": ["https://www.lingoda.com/blog/en/how-to-feel-at-home-when-abroad/"]
+      }],
+      "examples": ["visiting a very different country"],
+      "opposites": ["cultural home"]
+  },{
+      "name": "social disorientation",
+      "description": "Something fundamental has changed in social surroundings and you're not used to it yet.",
+      "perceptions": ["Part of the social environment is new and different.","I'm not sure what to expect or how to behave."],
+      "desires": ["desire for comfort","desire for safety","desire for social status"],
+      "sensations": ["stimulation","novelty","confusion","anxiety","distrust"],
+      "guidance": [{
+          "description": "Learn how to adjust to a new boss with a different leadership style using effective communication, taking the initiative, staying observant and flexible, and viewing this new shift as an opportunity.",
+          "attribution": "Liz Carmack",
+          "references": ["https://itsyourcareer.blog/new-boss-with-a-new-leadership-style-how-to-cope/"]
+      }],
+      "examples": ["It's so weird that she's gone.","Your company gets a new CEO."]
+  },{
+      "name": "unfamiliar activity",
+      "description": "A sense that you're participating in an activity where you're not competent and don't know what's expected.",
+      "perceptions": ["This activity is new to me.","I'm not sure what to expect or how to behave."],
+      "desires": ["desire for social status"],
+      "sensations": ["stimulation","novelty","confusion","anxiety"],
+      "guidance": [{
+          "description": "Practicing a new and challenging activity is a good bet for building and maintaining cognitive skills.",
+          "attribution": "Harvard Health Publishing",
+          "references": ["https://www.health.harvard.edu/mind-and-mood/train-your-brain"]
+      }],
+      "examples": ["new sport", "new workplace"]
+  },{
+      "name": "unfamiliar mindset",
+      "description": "A sense that there's something unfamiliar coming from somewhere deep.",
+      "perceptions": ["This way of seeing the world is new to me.","I'm not sure what to expect or how to behave."],
+      "desires": ["desire for social status"],
+      "sensations": ["stimulation","novelty","confusion","anxiety"],
+      "guidance": [{
+          "description": "It can be difficult to figure out what's going on inside. Consider guidance for mediation and prayer.",
+          "references": ["meditation","prayer"]
+      }],
+      "examples": ["falling in love", "not knowing why you're angry","becoming a manager for the first time"]
+  }],
+  "comparisons": [{
+      "links": ["confusion"],
+      "description": "Confusion can disappear when you shift perceptions. With disorientation, there may be nothing wrong with your perception -- it's your expectations that may need to shift."
+  }],
+  "commentaries": [{
+      "quote": "Future shock is the shattering stress and disorientation that we induce in individuals by subjecting them to too much change in too short a time.",
+      "attribution": "Alvin Toffler"
+  },{
+      "quote": "Change is always tough. Even for those who see themselves as agents of change, the process of starting a new thing can cause times of disorientation, uncertainty and insecurity.",
+      "attribution": "Joyce Meyer"
+  },{
+      "quote": "Transition is the natural process of disorientation and reorientation that marks the turning points in the path of growth...transitions are key times in the natural process of self-renewal.",
+      "attribution": "William Bridges"
+  },{
+      "quote": "The web: yet another total disorientation that becomes status quo without anyone realizing it.",
+      "attribution": "Richard Powers"
+  }],
+  "spectrum": {"confusion": 3, "disorientation": 5, "future shock": 8},
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["disorientation","unfamiliar activity","foreign place"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2,1": {
+              "experiences": ["disorientation"]
+            }
+          }
+      },{
+          "names": ["unfamiliar mindset","social disorientation"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2": {
+              "experiences": ["disorientation"]
+            },
+            "1": {
+              "experiences": ["confusion"]
+            }
+          }
+      }]
+  }]
+}

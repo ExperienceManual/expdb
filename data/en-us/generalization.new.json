@@ -9,10 +9,10 @@
   "desires": ["desire for knowledge"],
   "results": ["notice a similarity, establish a pattern to be used in the future"],
   "related": ["problem solving", "deduction", "learning","epiphany"],
-  "examples": ["Everytime I'm around that cat I sneeze."],
+  "examples": ["Every time I'm around that cat, I sneeze."],
   "variations": [{
       "name": "stereotyping",
-      "description": "Predicting that every member of a group share all characteristics perceived to be common within the group.",
+      "description": "Predicting that every member of a groups share all characteristics perceived to be common within the group.",
       "perceptions": ["This person, place, or thing is similar in some ways to something I've experienced before."],
       "desires": ["desire for knowledge"],
       "results": ["assume that the person, place, or thing shares other characteristics"],
@@ -23,7 +23,7 @@
   }],
   "commentaries": [
     {
-      "quote": "'Generalization' as used here is just the thing that neurons do in the brain - the create patterns of connections that reflect some aspect of the world.  This might be similar in concept to 'inductive reasoning', but there's no feedback loop -- even a fish can link patterns togther: repeat things that worked well, avoid things that hurt."
+      "quote": "'Generalization' as used here is just the thing that neurons do in the brain - they create patterns of connections that reflect some aspect of the world.  This might be similar in concept to 'inductive reasoning', but there's no feedback loop -- even a fish can link patterns together: repeat things that worked well, avoid things that hurt."
     },{
       "quote": "Just linking perceptions to results often leads to errors. A rain dance does not always bring rain. Stereotypes are what the brain does, but it can be helpful to re-evaluate established patterns."
     }
