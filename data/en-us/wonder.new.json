@@ -62,7 +62,7 @@
       "quote": "The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself.",
       "attribution": "Henry Miller"
   }],
-  "spectrum": {"wonder": 2, "awe": 5, "stupifying": 8},
+  "spectrum": {"wonder": 2, "awe": 5, "stupefying": 8},
   "models": [{
       "version": "em1",
       "variations": [{

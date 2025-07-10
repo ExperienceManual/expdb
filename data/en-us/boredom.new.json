@@ -19,7 +19,7 @@
   "opposites": ["desire for quiet", "overwhelmed"],
   "variations": [{
       "name": "bored with inactivity",
-      "description": "A perception that you need more mental or physical stimlulation.",
+      "description": "A perception that you need more mental or physical stimulation.",
       "perceptions": ["I need to do something."],
       "desires": ["desire for stimulation"],
       "results": ["try to find something to do"],

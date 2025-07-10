@@ -6,7 +6,7 @@
   "valence": 0,
   "quote": "Dad, I'm not a little kid anymore.",
   "description": "A desire to be involved in the decisions about your actions and experiences in life or a part of life.",
-  "perceptions": ["I should be involved in making this decison that affects me."],
+  "perceptions": ["I should be involved in making this decision that affects me."],
   "desires": ["desire for social influence","desire to improve"],
   "guidance": [{
       "description": "Taking control of your life means cutting through all the noise, finding emotional and physical balance, thinking more clearly, and advocating for yourself.",
@@ -31,7 +31,7 @@
     },{
       "name": "desire for control",
       "description": "Wanting to choose which experiences you have, including perhaps on behalf of others. Wanting 'control' is stronger than wanting agency.",
-      "perceptions": ["I'm capable of decisions on this topic.","I should be allowed to make decisons."],
+      "perceptions": ["I'm capable of decisions on this topic.","I should be allowed to make decisions."],
       "desires": ["want to have things come out in a certain way"],
       "sensations": ["confidence"],
       "examples": ["I'm going to drive"],
@@ -43,7 +43,7 @@
   },{
       "name": "desire to ditch constraints",
       "description": "A desire to ignore some of the social constraints are limiting your agency.",
-      "perceptions": ["All these social rules and expecations block my desires.","It would be nice to be free of them."],
+      "perceptions": ["All these social rules and expectations block my desires.","It would be nice to be free of them."],
       "sensations": ["frustration"],
       "results": ["bending rules","anti-social behavior"],
       "guidance": [{
@@ -52,7 +52,7 @@
       }],
       "examples": ["rebel without a cause","wild west"],
       "commentaries": [{
-          "quote": "Frustration at being bound by societal rules is at the root of why many people are attracted to the bad guys: the Dark Lord, Rebel, Outlaw, Pirate. These people are exercising their selfish agency without regard for who they hurt or whether they will get in trouble. Yeah, and an apocolypse would suck, but at least you wouldn't have to think about short-term capital gains. Thank goodness fantasy outlets are enough for most of us."
+          "quote": "Frustration at being bound by societal rules is at the root of why many people are attracted to the bad guys: the Dark Lord, Rebel, Outlaw, Pirate. These people are exercising their selfish agency without regard for who they hurt or whether they will get in trouble. Yeah, and an apocalypse would suck, but at least you wouldn't have to think about short-term capital gains. Thank goodness fantasy outlets are enough for most of us."
       }]
   }],
   "commentaries": [{

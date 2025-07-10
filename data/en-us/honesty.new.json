@@ -69,7 +69,7 @@
       "description": "A sense that someone else is communicating more private information than necessary for the current context.",
       "perceptions": ["Someone has opened up with personal details that are not necessary for this conversation.","It would be better for everyone if some details are left unsaid."],
       "desires": ["desire for order","desire for social contact"],
-      "sensations": ["embarassment","many"],
+      "sensations": ["embarrassment","many"],
       "guidance": [{
           "description": "How to know if you’re oversharing: 5 signs and how to stop",
           "attribution": "Ebby Bowles",

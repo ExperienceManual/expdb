@@ -24,10 +24,10 @@
   }],
   "variations": [{
       "name": "realized greed",
-      "description": "Perceiving that others may have considered your actions greedy may come with embarassment or guilt.",
+      "description": "Perceiving that others may have considered your actions greedy may come with embarrassment or guilt.",
       "perceptions": ["I took more than my share.","Others may have perceived that action negatively."],
       "desires": ["desire for comfort","desire for social status"],
-      "sensations": ["embarassment","guilt"],
+      "sensations": ["embarrassment","guilt"],
       "results": ["perhaps an apology"],
       "guidance": [{
           "description": "In moderation, the desire for wealth, power and status can drive positive ambitions and propel people towards their goals. However, when these desires become all-consuming, as seen in Crassus' story, they lead to ruthless and harmful actions. In today's materialistic and capitalistic world, where entitlement and self-centeredness are encouraged, these traits can hinder the pursuit of a meaningful life.",
@@ -116,7 +116,7 @@
               "experiences": ["narration"]
             },
             "3": {
-              "experiences": ["realized greed","embarassment"]
+              "experiences": ["realized greed","embarrassment"]
             },
             "2,1": {
               "experiences": ["desire","fear"]

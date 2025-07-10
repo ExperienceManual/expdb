@@ -6,7 +6,7 @@
   "valence": -1,
   "quote": "He's very touchy about that subject.",
   "description": "A negative perception that someone else is being unnecessarily vigorous about denying wrongdoing or defending themselves physically or socially. The person in question likely feels justified in defending themselves.",
-  "perceptions": ["Someone is reacting with more energy than necessary to defend themslves.","They were not attacked as strongly as they're making it out to be."],
+  "perceptions": ["Someone is reacting with more energy than necessary to defend themselves.","They were not attacked as strongly as they're making it out to be."],
   "sensations": ["empathy","discomfort","annoyance","contempt","frustration","confusion"],
   "results": ["depends on the context and your relation to the person"],
   "personOfInterestExperiences": ["defense"],
@@ -19,10 +19,10 @@
   "opposites": ["calmness", "introspection"],
   "variations": [{
       "name": "realized defensiveness",
-      "description": "If you recognize that you've been pushing away valid feedback, you may experience embarassment or humility.",
+      "description": "If you recognize that you've been pushing away valid feedback, you may experience embarrassment or humility.",
       "perceptions": ["I probably didn't need to react so strongly."],
       "desires": ["desire to be perceived a certain way"],
-      "sensations": ["humility","embarassment"],
+      "sensations": ["humility","embarrassment"],
       "results": ["perhaps an inclination to apologize"]
   }],
   "commentaries": [{
@@ -68,7 +68,7 @@
               "experiences": ["dismay"]
             },
             "3": {
-              "experiences": ["defensiveness","humility","embarassment"]
+              "experiences": ["defensiveness","humility","embarrassment"]
             },
             "4": {
               "experiences": ["narration"]

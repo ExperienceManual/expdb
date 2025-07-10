@@ -13,7 +13,7 @@
   "opposites": ["aversion"],
   "variations": [{
       "name": "cute aggression",
-      "description": "At its most extreme, aww can become 'cute agression' where it's mixed with a selfish possessive urge to pinch or squeeze the cute thing.",
+      "description": "At its most extreme, aww can become 'cute aggression' where it's mixed with a selfish possessive urge to pinch or squeeze the cute thing.",
       "perceptions": ["Visual or audio perception of a cute baby human or animal."],
       "desires": ["desire to possess and squeeze this cute creature"],
       "sensations": ["delight","appreciation"],
@@ -23,7 +23,7 @@
     "cute": 1,
     "aww": 5,
     "squee": 7,
-    "cute agression": 10
+    "cute aggression": 10
   },
   "commentaries": [{
     "quote": "This protective reaction is probably rooted in an ancient part of the brain that picks up on subtle cues for babies like the relative size of the eyes to the head."

@@ -12,7 +12,7 @@
     "perceptions": ["There are several possible outcomes from this situation.","I have influence over the result.","It's not immediately clear which outcome I desire."],
     "desires": ["desire for optimal"],
     "sensations": ["excitement","anxiety","uncertainty"],
-    "results": ["could be a quick decision, could be a long decison"],
+    "results": ["could be a quick decision, could be a long decision"],
     "related": ["appraisal"],
     "examples": ["choosing where to eat","where to go on vacation"],
     "guidance": [{
@@ -26,7 +26,7 @@
         "perceptions": ["There are several possible outcomes from this situation.","I have influence over the result.","It's not immediately clear which outcome I desire."],
         "desires": ["desire for optimal"],
         "sensations": ["excitement","anxiety","uncertainty","frustration"],
-        "results": ["could be a long decison process"],
+        "results": ["could be a long decision process"],
         "examples": ["trouble choosing what to wear","oscillating between which car to buy"],
         "opposites": ["decisiveness"],
         "related": ["appraisal"],

@@ -22,12 +22,12 @@
       "description": "If you recognize that recent actions have been more pushy than necessary or unfairly ignoring others' interests, you may feel some regret.",
       "perceptions": ["I probably didn't need to push my agenda in that way.","I may have changed perceptions in a way not intended."],
       "desires": ["desire to be perceived a certain way"],
-      "sensations": ["regret","humility","embarassment"],
+      "sensations": ["regret","humility","embarrassment"],
       "results": ["perhaps an inclination to apologize"]
   }],
   "comparisons": [{
       "links": ["attack"],
-      "description": "'Attack' is the action taken to forcibly advance an agenda, while 'aggressiveness' is a label applied to someone who is perceived as negatively affecting ohers."
+      "description": "'Attack' is the action taken to forcibly advance an agenda, while 'aggressiveness' is a label applied to someone who is perceived as negatively affecting others."
   }],
   "commentaries": [{
       "quote": "Some types of aggressiveness can be good. If it's seen that the intended target of your actions is beneficial and that the impact to others' interests is collateral damage, it may be forgiven. But if aggressiveness is aimed specifically at degrading others' interests, they may perceive it negatively."

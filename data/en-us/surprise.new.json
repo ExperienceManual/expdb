@@ -23,7 +23,7 @@
   "examples": [ "The kids knocked the vase off the shelf, which crashed loudly.", "I'd expected the trip to be good, but not that good." ],
   "variations": [{
       "name": "novelty",
-      "description": "A perception that what just happened was new a type of experience where there weren't previouslty expectations. Whether the novelty is positive or negative depends on the context.",
+      "description": "A perception that what just happened was new a type of experience where there weren't previously expectations. Whether the novelty is positive or negative depends on the context.",
   "perceptions": ["Something happened where I didn't have a definite expectation."],     
   "desires": ["desire for order","desire for stimulation"],
   "sensations": ["many"],

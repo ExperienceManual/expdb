@@ -4,7 +4,7 @@
   "updateDate": "20250524",
   "name": "desire for territory",
   "valence": 0,
-  "quote": "No tresspassing.",
+  "quote": "No trespassing.",
   "description": "Wanting to reserve physical or social assets for yourself or important others. You may plan to do this through trade or by force.",
   "perceptions": ["I need a certain type of asset to be safe and satisfied."],
   "desires": ["desire for safety","desire for social status"],
@@ -17,7 +17,7 @@
   }],
   "variations": [{
       "name": "defending home territory",
-      "description": "Wanting to defend a particular physical or social space as your own. To have enough resources to safely survive, many animals mark their terrory and are willing to fight to defend it.",
+      "description": "Wanting to defend a particular physical or social space as your own. To have enough resources to safely survive, many animals mark their territory and are willing to fight to defend it.",
       "perceptions": ["This space is mine.","I need to protect it."],
       "desires": ["desire to protect","desire for agency"],
       "related": ["defense"],

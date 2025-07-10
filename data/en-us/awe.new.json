@@ -66,7 +66,7 @@
     "quote": "In some respects, science has far surpassed religion in delivering awe. How is it that hardly any major religion has looked at science and concluded, 'This is better than we thought! The Universe is much bigger than our prophets said, grander, more subtle, more elegant. God must be even greater than we dreamed'? Instead they say, 'No, no, no! My god is a little god, and I want him to stay that way.' A religion old or new, that stressed the magnificence of the universe as revealed by modern science, might be able to draw forth reserves of reverence and awe hardly tapped by the conventional faiths. Sooner or later such a religion will emerge.",
     "attribution": "Carl Sagan"
   }],
-  "spectrum": {"wonder": 2, "awe": 5, "stupifying": 8},
+  "spectrum": {"wonder": 2, "awe": 5, "stupefying": 8},
   "models": [{
       "version": "em1",
       "variations": [{

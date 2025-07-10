@@ -16,7 +16,7 @@
         "references": ["https://www.healthline.com/health/how-to-save-a-relationship"]
     }],
     "variations": [{
-      "name": "dependant relationship",
+      "name": "dependent relationship",
       "description": "A sense that you may have lost agency because you have to sacrifice a lot to maintain a relationship that is critical to you. This relationship may have once been great, and you may still admire this person, but you may feel trapped between feeding the relationship, your own priorities, and being deeply afraid of the person leaving.",
       "perceptions": ["An important part of my life depends on this person.","We had good times and I still often admire them.","The relationship takes a fair amount of maintenance.","I lose agency when around this person."],
       "desires": ["desire for social contact","desire for order","desire for meaning","desire for sex"],
@@ -32,7 +32,7 @@
       "examples": ["They can't bear to be apart for even a day."]
     },{
       "name": "lustful relationship",
-      "description": "A sense that the relationsip is based mostly on the sex. Experiences with this person outside of the physical are either not important or often negative.",
+      "description": "A sense that the relationship is based mostly on the sex. Experiences with this person outside of the physical are either not important or often negative.",
       "perceptions": ["Mostly what I like about this relationship is the sex.","Beyond that, we don't often have positive experiences."],
       "desires": ["desire for sex"],
       "personOfInterestExperiences": ["maybe the same, maybe not"],
@@ -44,7 +44,7 @@
   },{
       "name": "one-sided relationship",
       "description": "A sense that having repeated experiences with a particular person, animal, thing, idea, or sensation would be positive, healthy, and a welcome part of one of your identities. In addition, you find this person attractive or admirable, but either they don't know you at all or aren't interested in having a relationship with you.",
-      "perceptions": ["Experiencies with this person would be positive and healthy.","This person could be a major part of how I see myself in the future.","I find this person attractive or admirable.","I think this person could feel the same way about me if I could find a way to connect."],
+      "perceptions": ["Experiences with this person would be positive and healthy.","This person could be a major part of how I see myself in the future.","I find this person attractive or admirable.","I think this person could feel the same way about me if I could find a way to connect."],
       "desires": ["desire for social contact","desire for order","desire for meaning","desire for sex"],
       "sensations": ["many"],
       "results": ["try to get the person's attention","admire from a distance"],
@@ -71,7 +71,7 @@
     },{
       "name": "estranged family",
       "description": "Family members who you're no longer talking to because they create more negative feelings than positive.",
-      "perceptions": ["This person is related by blood or marriage.","Interactions with them are almost always stressful and negative.", "I prefer to not have to deal with them.","They probaby feel the same about me."],
+      "perceptions": ["This person is related by blood or marriage.","Interactions with them are almost always stressful and negative.", "I prefer to not have to deal with them.","They probably feel the same about me."],
       "desires": ["desire for comfort"],
       "sensations": ["sadness"],
       "guidance": [{

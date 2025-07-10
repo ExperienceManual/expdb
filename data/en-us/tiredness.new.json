@@ -5,7 +5,7 @@
   "name": "tiredness",
   "valence": -1,
   "quote": "I slept until noon after a crazy week.",
-  "description": "State of physical weakness or mental wearniess resulting from excessive stress or over-stimulation.",
+  "description": "State of physical weakness or mental weariness resulting from excessive stress or over-stimulation.",
   "perceptions": ["My body or mind needs rest."],
   "desires": ["desire for comfort","desire for sleep"],
   "sensations": ["discomfort"],

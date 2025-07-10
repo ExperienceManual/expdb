@@ -27,7 +27,7 @@
     },{
       "name": "desire to escape social threat",
       "description": "Your social safety is threatened when your status and reputation are perceived as being attacked. This may come with anger or other negative social experiences like shame.",
-      "perceptions": ["An important social identity is threatenened."],
+      "perceptions": ["An important social identity is threatened."],
       "desires": ["desire for social status"],
       "sensations": ["fear","anxiety","anger","shame"],
       "results": ["desire to remove or escape the perceived threat"],
