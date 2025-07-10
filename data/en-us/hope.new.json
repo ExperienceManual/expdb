@@ -1,0 +1,56 @@
+{
+  "lang": "en/us",
+  "createDate": "20250409",
+  "updateDate": "20250707",
+  "name": "hope",
+  "valence": 1,
+  "quote": "I'm pretty sure she's going to be ok.",
+  "description": "Tentative positivity coming from a sense that a particular desired outcome is possible, even if not certain.",
+  "perceptions": ["An outcome I prefer is a possibility.","That would be positive for me or someone important to me."],
+  "desires": ["desire to improve","many"],
+  "sensations": ["anticipation","optimism","dissonance","happiness","doubt"],
+  "guidance": [{
+      "description": "Eight Ways You Can Feel More Hopeful—Even in Dark Times",
+      "attribution": "Jill Suttie",
+      "references": ["https://greatergood.berkeley.edu/article/item/eight_ways_you_can_feel_more_hopeful_even_in_dark_times"]
+  }],
+  "related": ["faith"],
+  "opposites": ["hopelessness", "anxiety", "pessimism"],
+  "examples": ["relief that you'll probably feel better before the trip","excitement that your kid will do well at the competition","gambling"],
+  "comparisons": [{
+      "links": ["optimism","faith"],
+      "description": "'Optimism' is the recognition that a desired outcome is still possible. 'Hope' is the mild anticipated happiness that comes from imagining the desired outcome, but mixed with a recognized doubt that it might not happen. 'Faith' is hope without doubt."
+  }],
+  "commentaries": [{
+      "quote": "Hope borrows against possible future happiness."
+  },{
+      "quote": "Hope is the thing with feathers that perches in the soul and sings the tune without the words and never stops at all",
+      "attribution": "Emily Dickinson"
+  },{
+      "quote": "Hope might be considered a master virtue. It is a positive orientation of mind and heart toward your own future or that of the world at large.",
+      "attribution": "William Miller"
+  },{
+      "quote": "People who feel hopeful are good problem-solvers, more resilient and persistent, more engaged and productive at work, more creative and adaptable, and better at recovering from adversity.",
+      "attribution": "Jill Suttie"
+  },{
+      "quote": "For some, a tempting path to hope is in suffocating the dreams of others. It may be worth considering the oscillations that could set in motion."
+  },{
+      "quote": "We share the experience of hope with all of our fellow creatures. Every living thing makes simple predictions and does what they can conceive to encourage optimal outcomes. My cat eagerly tries to get me to play. A fish chooses a spot to wait for its dinner to float by."
+  }],
+  "spectrum": {"optimism": 1, "hope": 3, "dream": 5, "wish": 7},
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["hope"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2,1": {
+              "experiences": ["hope"]
+            }
+          }
+      }]
+  }]
+}

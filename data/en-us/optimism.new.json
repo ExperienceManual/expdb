@@ -1,0 +1,74 @@
+{
+  "lang": "en/us",
+  "createDate": "20250412",
+  "updateDate": "20250707",
+  "name": "optimism",
+  "valence": 1,
+  "quote": "I think we're going to win.",
+  "description": "A prediction that a particular desired outcome is possible, even if not certain.",
+  "perceptions": ["An outcome I prefer is a possibility."],
+  "desires": ["desire to improve"],
+  "sensations": ["anticipation","doubt"],
+  "guidance": [{
+      "description": "Literally hundreds of studies show that pessimists give up more easily and get depressed more often. These experiments also show that optimists do much better in school and college, at work and on the playing field. They regularly exceed the predictions of aptitude tests. When optimists run for office, they are more apt to be elected than pessimists are. Their health is unusually good. They age well, much freer than most of us from the usual physical ills of middle age. Evidence suggests they may even live longer.",
+      "attribution": "Dr. Martin Seligman",
+      "references": ["https://www.jodymichael.com/blog/10-ways-to-cultivate-optimism/"]
+  }],
+  "related": ["hope", "trust", "faith"],
+  "opposites": ["pessimism", "anxiety"],
+  "examples": ["We can make a comeback.","No way will it rain out the picnic."],
+  "variations": [{
+      "name": "optimistic mindset",
+      "description": "A general pattern of positive predictions -- that most things will work out just fine.",
+      "perceptions": ["I can live with most outcomes.","Things generally turn out ok in the end."]
+  },{
+      "name": "encouraging optimism",
+      "description": "Focusing someone's attention on a potential positive outcome.",
+      "perceptions": [ "This person or group would prefer a certain outcome.", "I might be able to improve their mood by helping them see that outcome as a possibility." ],
+      "desires": ["desire to impact positively"],
+      "sensations": ["empathy"],
+      "personOfInterestExperiences": ["many negative"],
+      "examples": ["sports pep talk"]
+  }],
+  "comparisons": [{
+      "links": ["pessimism", "cynicism", "skepticism"],
+      "description": "'Optimism' is seeing the glass as half-full. 'Pessimism' is seeing the glass as half-empty. 'Cynicism' is suspecting that someone already drank half the glass. 'Skepticism' is not being sure what's in the glass is drinkable."
+  }],
+  "commentaries": [{
+      "quote": "Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.",
+      "attribution": "Helen Keller"
+  },{
+      "quote": "We are all in the gutter, but some of us are looking at the stars.",
+      "attribution": "Oscar Wilde"
+  },{
+      "quote": "We can complain because rose bushes have thorns, or rejoice because thorns have roses.",
+      "attribution": "Alphonse Karr in 'A Tour Round My Garden'"
+  }],
+  "spectrum": {"optimism": 1, "hope": 3, "dream": 5, "wish": 7},
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["optimism","optimistic mindset"],
+          "predominantType": "sensation",
+          "levels": {
+            "4,3": {
+              "experiences": ["optimism"]
+            },
+            "2,1": {
+              "experiences": ["satisfaction"]
+            }
+          }
+      },{
+          "names": ["encouraging optimism"],
+          "predominantType": "action",
+          "levels": {
+            "4,3": {
+              "experiences": ["optimism","empathy"]
+            },
+            "2,1": {
+              "experiences": ["satisfaction"]
+            }
+          }
+      }]
+  }]
+}

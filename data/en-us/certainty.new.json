@@ -1,0 +1,64 @@
+{
+  "lang": "en/us",
+  "createDate": "20250424",
+  "updateDate": "20250709",
+  "name": "certainty",
+  "valence": 0,
+  "quote": "I'm 100% sure that's what happened.",
+  "description": "Having strong trust in an explanation or prediction based on evidence or reasoning.",
+  "perceptions": ["I trust this explanation or prediction.","My reasons to trust it are based on experience or logic."],
+  "desires": ["desire for knowledge"],
+  "results": [""],
+  "guidance": [{
+      "description": "6 steps to creating certainty in uncertain times",
+      "attribution": "Pecan Partnership",
+      "references": ["https://pecanpartnership.co.uk/insights/creating-certainty-during-uncertain-times/"]
+  },{
+      "description": "After decades of getting people to trust their gut, build confidence in themselves, and stand up for what they think, the world of psychology has a new message: Don’t Be So Sure. In fact, the more certain you are, the less likely it is that you’re correct.",
+      "attribution": "Gary Trosclair",
+      "references": ["https://thehealthycompulsive.com/science-research/want-to-be-certain-dont-be-so-sure/"]
+  },{
+      "description": "Obsessive-Compulsive Disorder thrives on doubt, making the search for certainty a never-ending cycle.",
+      "attribution": "Joshua Fletcher MSc, PGCert",
+      "references": ["https://www.psychologytoday.com/us/blog/and-how-does-that-make-you-feel/202502/ocd-and-the-paradox-of-doubt"]
+  }],
+  "examples": ["She's never late -- she'll be here.","The deer will eat our shrubs this winter."],
+  "related": ["trust", "faith", "deduction", "desire for certainty"],
+  "opposites": ["doubt"],
+  "variations": [{
+      "name": "certainty of memory",
+      "description": "Solid trust in your memory that something happened in the past.",
+      "perceptions": ["I trust this explanation.","I remember it happening."],
+      "desires": ["desire for agency"],
+      "guidance": [{
+          "description": "Most of the time, most of us can trust our memories. It may help to be aware that false memories are a thing.",
+          "references": ["https://www.verywellmind.com/how-do-false-memories-form-2795349"]
+      }],
+      "examples": ["Yes, I closed the garage door."]
+  }],
+  "comparisons": [{
+      "links": ["faith"],
+      "description": "Faith is a form of certainty based on belief rather than experience or logic."
+  },{
+      "links": ["optimism"],
+      "description": "Certainty is not necessarily about positive things. For example, you could be certain that the volcano will destroy the town someday. An optimist would focus on the best outcomes within that certain scenario, for example that there's enough warning to evacuate the people."
+  }],
+  "commentaries": [{
+      "quote": "The longing for certainty...is in every human mind. But certainty is generally illusion.",
+      "attribution": "Justice Oliver Wendell Holmes"
+  },{
+      "quote": "Here's the story that many of us inhabit: life is dangerous. Survival requires control. Control requires certainty. Certainty requires simplicity. Complexity and doubt are dangerous."
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["certainty","certainty of memory"],
+          "predominantType": "impulse",
+          "levels": {
+            "4,3,2,1": {
+                "experiences": ["certainty"]
+            }
+          }
+      }]
+  }]
+}

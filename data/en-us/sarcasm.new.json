@@ -1,0 +1,83 @@
+{
+  "lang": "en/us",
+  "createDate": "20250417",
+  "updateDate": "20250709",
+  "name": "sarcasm",
+  "valence": 0,
+  "quote": "That's a top-performing organization, I tell you.",
+  "description": "A statement that is intended to mean the opposite of the literal meaning, signaling negativity about something with attempted humor.",
+  "perceptions": ["Saying the negative thing I want to say in a direct way would sound boring or be ineffective.","Perhaps others would appreciate if I made the comment in an indirect way.","Perhaps the target of the barb will find the comment witty."],
+  "desires": ["desire for agency","desire for social influence"],
+  "sensations": ["dissatisfaction","annoyance","cynicism"],
+  "results": ["Some people find sarcasm amusing and witty if done well. Others do not."],
+  "personOfInterestExperiences": ["perceived sarcasm"],
+  "guidance": [{
+      "description": "If that’s what sarcasm looks like, I don’t want any part of it. 10 reasons to put the sarcasm aside.",
+      "attribution": "Anne Bogel",
+      "references": ["https://modernmrsdarcy.com/you-can-kick-the-sarcastic-habit/"]
+  },{
+      "description": "How to Enhance Your Sarcasm Skills",
+      "attribution": "Seth Hall",
+      "references": ["https://www.wikihow.com/Enhance-Your-Sarcasm-Skills"]
+  }],
+  "related": ["humor", "annoyance", "ill will", "contempt"],
+  "opposites": ["honesty"],
+  "variations": [{
+      "name": "perceived sarcasm",
+      "description": "Detecting sarcasm involves physical perceptions like tone of voice, comparing the literal meaning of words within their context, and perhaps knowing something of the speaker's habits and beliefs.",
+      "perceptions": ["Someone said something that doesn't make sense if taken literally.","They must be using sarcasm."],
+      "desires": ["desire for social contact"],
+      "sensations": [""],
+      "results": ["You may react to perceived sarcasm with experiences including humor, annoyance, contempt, or anger depending on the context and perceptions about the speakers intentions."],
+      "guidance": [{
+          "description": "Sarcastic people can be hilarious. But when their barbs are pointed at you, they can be annoying or even hurtful. Here's how to deal.",
+          "attribution": "Jade Wu, PhD",
+          "references": ["https://www.quickanddirtytips.com/articles/how-to-deal-with-mean-sarcasm/"]
+      }]
+  }],
+  "comparisons": [{
+      "links": ["verbal irony"],
+      "description": "Sarcasm and irony both point out something that's the opposite of what's expected, but sarcasm always carries a negative editorial message."
+  }],
+  "commentaries": [{
+      "quote": "Sarcasm is verbal irony that carries a negative message.",
+      "tags": ["definition footnote"],
+  },{
+      "quote": "Sarcasm helps me overcome the harshness of the reality we live, eases the pain of scars and makes people smile.",
+      "attribution": "Mahmoud Darwish"
+  },{
+      "quote": "Sarcasm I now see to be, in general, the language of the Devil; for which reason I have, long since, as good as renounced it.",
+      "attribution": "Thomas Carlyle"
+  },{
+      "quote": "The subconscious doesn't distinguish sarcasm and jokes. It just accepts what it hears. That's the power of words.",
+      "attribution": "India Arie"
+  },{
+      "quote": "Enjoyment of sarcasm may be driven by a sense of disappointment with the world, boredom, and/or the novelty perceived from a witty statement."
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["sarcasm"],
+          "predominantType": "action",
+          "levels": {
+            "4,3": {
+                "experiences": ["sarcasm"]
+            },
+            "2,1": {
+                "experiences": ["annoyance"]
+            }
+          }
+      },{
+          "names": ["perceived sarcasm"],
+          "predominantType": "action",
+          "levels": {
+            "4,3": {
+                "experiences": ["perceived sarcasm"]
+            },
+            "2,1": {
+                "experiences": ["annoyance","delight"]
+            }
+          }
+      }]
+  }]
+}

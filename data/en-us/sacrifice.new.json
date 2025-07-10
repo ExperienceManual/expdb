@@ -1,0 +1,96 @@
+{
+  "lang": "en/us",
+  "createDate": "20250408",
+  "updateDate": "20250706",
+  "name": "sacrifice",
+  "valence": 0,
+  "quote": "Please, I want you to have this.",
+  "description": "Giving away something you value highly to a person or group you perceive as needing it, without your expectation of repayment of any kind.",
+  "perceptions": ["Someone really needs something.","I can help by giving away something I value: time, effort, money, or possessions."],
+  "desires": ["desire for meaning","desire to impact positively"],
+  "sensations": ["healthy self-regard"],
+  "guidance": [{
+      "description": "Here are some reasons that sacrifice is important in everyday life: Personal Growth, Resilience, Empathy, Community Building, Ethical Integrity, Long-term Success, Sense of Purpose",
+      "attribution": "Joe Domaleski",
+      "references": ["https://thecitizen.com/2024/05/27/the-importance-of-sacrifice-in-everyday-life/"]
+  }],
+  "related": ["generosity", "desire for meaning"],
+  "opposites": ["selfishness", "greed"],
+  "examples": ["donating a sentimental collection", "spending your weekend volunteering rather than on the beach", "combat veteran"],
+  "variations": [{
+      "name": "existential sacrifice",
+      "description": "Someone gave their life to protect a person or group without expectation of repayment in this life.",
+      "perceptions": ["Someone risked and gave their life to protect an important person or group who was in trouble."],
+      "desires": ["desire for meaning"],
+      "sensations": ["gratitude","admiration","group bond","contempt","fear"],
+      "results": ["How we feel about an existential sacrifice may depend on what side of the battle we're on."],
+      "personOfInterestExperiences": ["death"],
+      "examples": ["killed in action","martyrdom"]
+  },{
+      "name": "resentful sacrifice",
+      "description": "You gave away something you value highly to a person or group you perceive as needing it, but they did not benefit from or appreciate the action.",
+      "perceptions": ["Someone really needed something.","I helped them by giving away something I value.","They did not benefit from this action or they did not appreciate it.","They don't recognize how difficult it was."],
+      "desires": ["desire for meaning","desire to impact positively"],
+      "sensations": ["resentment"],
+      "examples": ["Spending your weekend preparing for a surprise party that was not appreciated.","Disabled veteran feels unappreciated."]
+  }],
+  "commentaries": [{
+      "quote": "When ancient people sacrificed animals to their gods, it was enough for them to imagine that the gods wanted the animal spirits. Giving away the animal may have hurt some, but they gained a sense of control. The real sacrifice, of course, belonged to the animals."
+  },{
+      "quote": "In a world that often values self-interest and personal gain, it’s important to remember the power of sacrifice and selflessness. Sacrifice is the ultimate act of love and compassion, demonstrating our willingness to put others before ourselves. Whether it’s giving up our time, resources, or even our own desires, sacrifice has the ability to inspire and encourage those around us.",
+      "attribution": "The Blinkist Team, blinkist.com"
+  },{
+      "quote": "We make small and large sacrifices when we try to adhere to the ideals of key identities and heroes. What would a good friend do? What kind of parent do I want to be? What would my spiritual hero do?"
+  },{
+      "quote": "A sacrifice is not expected. It's got to hurt at least a little and it cannot be for show. It does not expect repayment, even in bragging rights. The recipient should need the sacrifice in some way. The payoff is a sense of self-worth and perhaps a quiet hope that it will increase a social bank account, whether in this life or the next. Is it a sacrifice for a rich person to give a car to his kid as a birthday gift? No. Is it a sacrifice for an average person to give his car to a stranger who needs it to get to work? Yes."
+  },{
+      "quote": "One person's martyr is another's terrorist."
+  }],
+  "spectrum": {"charitable": 3, "generous": 5, "lavish": 7, "sacrifice": 9},
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["sacrifice"],
+          "predominantType": "action",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["sacrifice"]
+            },
+            "2,1": {
+              "experiences": ["satisfaction", "dismay"]
+            }
+          }
+      },{
+          "names": ["resentful sacrifice"],
+          "predominantType": "action",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["resentful sacrifice","resentment"]
+            },
+            "2,1": {
+              "experiences": ["dismay"]
+            }
+          }
+      },{
+          "names": ["existential sacrifice"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["existential sacrifice","gratitude","contempt"]
+            },
+            "2,1": {
+              "experiences": ["satisfaction", "dismay"]
+            }
+          }
+      }]
+  }]
+}

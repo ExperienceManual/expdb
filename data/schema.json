@@ -35,6 +35,20 @@
     "name": {
       "type": "string"
     },
+    "alternateNames": {
+      "type": "array",
+      "default": [],
+      "items": {
+        "type": "string"
+      }
+    },
+    "tags": {
+      "type": "array",
+      "default": [],
+      "items": {
+        "type": "string"
+      }
+    },
     "valence": {
       "type": "integer",
       "default": 0,
@@ -181,6 +195,20 @@
         "properties": {
           "name": {
             "type": "string"
+          },
+          "alternateNames": {
+            "type": "array",
+            "default": [],
+            "items": {
+              "type": "string"
+            }
+          },
+          "tags": {
+            "type": "array",
+            "default": [],
+            "items": {
+              "type": "string"
+            }
           },
           "description": {
             "type": "string"

@@ -36,14 +36,19 @@
       "examples": ["culture of honor","preferring organic food","regular religious attendance"]
     },{
       "name": "desire for clear perception",
-      "description": "A desire to perceive key parts of the world clearly towards making better decisions. You may get frustrated by things that hinder clarity such as errors and misinformation.",
+      "alternateNames": ["desire for simplicity","desire for certainty"],
+      "description": "A desire to perceive key parts of the world clearly towards making better decisions. You may get frustrated by things that hinder clarity such as complexity, errors, and misinformation.",
       "perceptions": ["Having an accurate understanding of things is important."],
       "desires": ["desire for knowledge"],
       "sensations": ["curiosity"],
-      "results": ["desire to remove things that inhibit accurate perception"],
+      "results": ["wanting things to be simple","desire to remove things that inhibit accurate perception"],
       "guidance": [{
           "description": "There are many guides to help identify misinformation.",
           "references": ["https://www.unicef.org/eca/stories/quick-guide-spotting-misinformation","https://www.apa.org/topics/journalism-facts/misinformation-recommendations","https://www.coe.int/en/web/campaign-free-to-speak-safe-to-learn/dealing-with-propaganda-misinformation-and-fake-news"]
+      },{
+          "description": "Ten Tips For Dealing With Complex Predicaments",
+          "attribution": "Dave Pollard",
+          "references": ["https://howtosavetheworld.ca/2020/10/09/ten-tips-for-dealing-with-complex-predicaments/"]
       }],
       "examples": ["Wanting things to make sense."]
     },{

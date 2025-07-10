@@ -1,0 +1,54 @@
+{
+  "lang": "en/us",
+  "createDate": "20250412",
+  "updateDate": "20250707",
+  "name": "pessimism",
+  "valence": -1,
+  "quote": "There's no way we're going to win.",
+  "description": "A sense that a desired outcome is so unlikely as to be impossible.",
+  "perceptions": ["An outcome I prefer is not a real possibility."],
+  "desires": ["many"],
+  "sensations": ["doubt"],
+  "guidance": [{
+      "description": "It’s common for people to focus on the negative elements of a situation first, before considering potentially positive aspects. Our minds are designed to identify potential dangers and pitfalls, but when you’re always looking at the worst-case scenario, that innate skepticism can harden into cynicism and a bleak outlook that is hard to lose. However, the mind can be trained to see things from a more optimistic point of view, and learning how to see the glass as half full rather than half empty can have lasting benefits.",
+      "attribution": "Forbes",
+      "references": ["https://www.forbes.com/councils/forbescoachescouncil/2022/06/22/15-hacks-for-pessimists-to-switch-to-a-more-positive-point-of-view/"]
+  },{
+      "description": "Why We Find Pessimists to be More Intelligent -- By seeming rather oblivious to risks that a pessimist would hurry to point out, optimists can end up looking less intelligent by default.",
+      "attribution": "Devrupa Rakshit",
+      "references": ["https://www.theswaddle.com/why-we-find-pessimists-to-be-more-intelligent"]
+  }],
+  "related": ["hopelessness", "anticipation"],
+  "opposites": ["optimism"],
+  "variations": [{
+      "name": "pessimistic mindset",
+      "description": "A general pattern of negative predictions -- that most things will turn out bad.",
+      "perceptions": ["I can't trust in most outcomes I want.","Things generally turn out poor in the end."]
+  }],
+  "commentaries": [{
+      "quote": "A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.",
+      "attribution": "Winston Churchill"
+  },{
+      "quote": "The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.",
+      "attribution": "William Arthur Ward"
+  },{
+      "quote": "The nice part about being a pessimist is that you are constantly being either proven right or pleasantly surprised.",
+      "attribution": "George Will"
+  }],
+  "spectrum": {"pessimism": 1, "hopelessness": 5, "depression": 7},
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["pessimism","pessimistic mindset"],
+          "predominantType": "sensation",
+          "levels": {
+            "4,3": {
+              "experiences": ["pessimism"]
+            },
+            "2,1": {
+              "experiences": ["dissatisfaction"]
+            }
+          }
+      }]
+  }]
+}

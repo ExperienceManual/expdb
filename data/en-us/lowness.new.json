@@ -1,0 +1,52 @@
+{
+  "lang": "en/us",
+  "createDate": "20250408",
+  "updateDate": "20250706",
+  "name": "lowness",
+  "valence": -1,
+  "quote": "I wish my co-worker would grow up some.",
+  "description": "Perception that someone's behavior is harmless, but outside the bounds of normal thought or behavior in a gross or silly way to the point of risking their status as a serious person.",
+  "perceptions": ["That person is not taking this situation serious enough.","They are silly or gross.","They're harmless, but it's annoying.","They'd be better off acting their age."],
+  "desires": ["desire for order"],
+  "sensations": ["aversion"],
+  "results": ["Perhaps eye-rolling, gossip, or just avoiding them."],
+  "personOfInterestExperiences": ["silly humor","gross humor","attention-seeking weird","desire to impact negatively"],
+  "guidance": [{
+      "description": "Navigating inappropriate jokes can be tricky, and the decision to respond or let it go depends on several factors, including context, audience, and your own comfort level.",
+      "attribution": "talkingpointsforlife.com",
+      "references": ["https://www.talkingpointsforlife.com/p/inappropriatejoke"]
+  }],
+  "related": ["playful", "silly humor","gross humor","childish"],
+  "opposites": ["dignity"],
+  "commentaries": [{
+      "quote": "Most of the time we carefully curate the dignity of important identities. Sometimes a dash of silliness can be a part of that equation."
+  },{
+      "quote": "Children have one kind of silliness, as you know, and grown-ups have another kind.",
+      "attribution": "C.S. Lewis"
+  }],
+  "spectrum": {
+      "silly": 3,
+      "gross": 4,
+      "lowness": 5,
+      "childish": 6,
+      "absurd": 8
+  },
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["lowness"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["lowness"]
+            },
+            "2,1": {
+              "experiences": ["dissatisfaction"]
+            }
+          }
+      }]
+  }]
+}

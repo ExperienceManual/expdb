@@ -1,0 +1,56 @@
+{
+  "lang": "en/us",
+  "createDate": "20250415",
+  "updateDate": "20250708",
+  "name": "cynicism",
+  "valence": -1,
+  "quote": "I don't think he's doing that just to be nice.",
+  "description": "A sense that someone is acting from hidden selfish intentions.",
+  "perceptions": ["That person's stated intentions are one thing.","I think their real unspoken intentions are more selfish than what they're showing."],
+  "desires": ["desire for order"],
+  "sensations": ["distrust","doubt"],
+  "results": ["May assume hidden agendas.","Perhaps attracted to conspiracy theories."],
+  "guidance": [{
+      "description": "5 Ways to Overcome Cynicism and Stay Hopeful About Humanity",
+      "attribution": "Luke Whelan",
+      "references": ["https://rightasrain.uwmedicine.org/mind/well-being/cynicism-hope-resilience"]
+  }],
+  "related": ["skepticism", "contrarian", "cheating","misanthropy"],
+  "opposites": ["faith", "goodwill"],
+  "comparisons": [{
+      "links": ["cheating"],
+      "description": "Cynicism is a tentative prediction that someone is cheating, or not being fully honest."
+  }],
+  "variations": [{
+      "name": "cynical mindset",
+      "description": "A pattern of belief that people generally act out of selfish intentions.",
+      "perceptions": ["Everyone's real unspoken intentions are more selfish than what they show."],
+      "desires": ["desire for order"],
+      "sensations": ["distrust","doubt"]
+  }],
+  "commentaries": [{
+      "quote": "Cynicism masquerades as wisdom, but it is the farthest thing from it. Because cynics don't learn anything. Because cynicism is a self-imposed blindness, a rejection of the world because we are afraid it will hurt us or disappoint us.",
+      "attribution": "Steven Colbert"
+  },{
+      "quote": "A cynical habit of thought and speech, a readiness to criticize work which the critic himself never tries to perform, an intellectual aloofness which will not accept contact with life’s realities — all these are marks, not as the possessor would fain to think, of superiority but of weakness.",
+      "attribution": "Theodore Roosevelt"
+  },{
+      "quote": "The power of accurate observation is commonly called cynicism by those who have not got it.",
+      "attribution": "George Bernard Shaw"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["cynicism","cynical mindset"],
+          "predominantType": "",
+          "levels": {
+            "4,3": {
+                "experiences": ["cynicism"]
+            },
+            "2,1": {
+                "experiences": ["doubt","distrust"]
+            }
+          }
+      }]
+  }]
+}

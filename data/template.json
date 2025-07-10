@@ -3,6 +3,7 @@
     "createDate": "20250501",
     "updateDate": "20250501",
     "name": "",
+    "alternateNames": [""],
     "valence": 1,
     "timescale": ["unknown"],
     "rarity": ["unknown"],
@@ -25,6 +26,7 @@
     }],
     "variations": [{
         "name": "",
+        "alternateNames": [""],
         "description": "",
         "timescale": ["unknown"],
         "rarity": ["unknown"],

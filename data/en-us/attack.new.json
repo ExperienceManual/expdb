@@ -9,7 +9,7 @@
   "perceptions": ["The state of things would be better for me in a certain way.","Someone or something else may resist changing things."],
   "sensations": ["many"],
   "desires": ["desire for territory","desire for social status","desire for wealth","desire to improve","desire for stimulation"],
-  "related": [ "anger", "desire for social status", "courage", "contempt", "desire for territory", "desire for trade" ],
+  "related": [ "anger", "desire for social status", "courage", "ill will", "contempt", "desire for territory", "desire for trade" ],
   "opposites": ["defense", "respect", "compassion"],
   "spectrum": {
       "attack": 5,
@@ -20,7 +20,7 @@
       "description": "Effort towards forcibly trying to obtain land or other resources that are perceived to belong to someone else for your usage.",
       "perceptions": ["I need or want this particular asset.","The person or entity currently possessing the asset will not just give it up."],
       "desires": ["desire for safety","desire for wealth","desire for social status"],
-      "sensations": ["anger","excitement","courage","contempt"],
+      "sensations": ["anger","excitement","courage","ill will", "contempt"],
       "personOfInterestExperiences": ["defense"],
       "related": ["desire for territory", "desire for social status", "stealing"],
       "examples": ["burglary","war"]
@@ -31,7 +31,7 @@
       "desires": ["many"],
       "sensations": ["many"],
       "personOfInterestExperiences": ["defense","anger","anxiety","fear"],
-      "related": ["desire for social status", "desire for social influence", "hate", "contempt", "fear", "anger","vengeance"],
+      "related": ["desire for social status", "desire for social influence", "hate", "ill will", "contempt", "fear", "anger","vengeance"],
       "examples": ["crime","war","torture"]
   },{
       "name": "attacking life or health of a non-person",

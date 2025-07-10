@@ -1,0 +1,63 @@
+{
+  "lang": "en/us",
+  "createDate": "20250424",
+  "updateDate": "20250709",
+  "name": "confirmation",
+  "alternateNames": ["verification"],
+  "valence": 0,
+  "quote": "That's just what thought it would do.",
+  "description": "Verifying that one's inner prediction model aligns with what's perceived.",
+  "perceptions": ["What I perceived matches the expectation."],
+  "desires": ["desire for clear perception"],
+  "sensations": ["satisfaction","dissatisfaction"],
+  "results": ["Most of the time confirming unconcious expectations creates no sensation.","If there was doubt, then we may actually notice something."],
+  "related": ["certainty", "skepticism", "validation"],
+  "opposites": ["doubt", "anticipation"],
+  "examples": ["getting the birthday present you'd hoped for","a sniffle turned into a flu"],
+  "comparisons": [{
+      "links": ["certainty"],
+      "description": "When working through something unknown, confirming various parts is progress, but you may not be _certain_ about the entire outcome until all pieces are seen clearly."
+  },{
+      "links": ["validation"],
+      "description": "'Validation' is form of social confirmation. In general, 'confirmation' can be about anything."
+  }],
+  "variations": [{
+      "name": "confirmation bias",
+      "description": "The brain's tendency to favor perceptions that support existing expectations while ignoring perceptions that conflict with expectations.",
+      "perceptions": ["The nature of biases is that you will only perceive them after being confronted with something direct."],
+      "desires": ["desire for order","desire for control"],
+      "results": ["If your expectations are shown to be wrong, then you're not going to have the level of control and agency desired. So your brain may hide some prediction errors."],
+      "tags": ["cognitive bias"],
+      "related": ["certainty"],
+      "guidance": [{
+          "description": "Confirmation bias can be reduced with interventions that range from simple decision strategies to more intensive training interventions. A simple strategy one can apply immediately is when testing a hypothesis, make sure to test if alternatives or its negative are true.",
+          "attribution": "Carey Morewedge",
+          "references": ["https://journalistsresource.org/home/confirmation-bias-strategies-to-avoid-it/"]
+      }],
+      "examples": ["Some aspect of events confirm your political views, while other aspects are conveniently ignored."]
+  }],
+  "commentaries": [{
+      "quote": "We unconciously confirm thousands of little expectations every day: the car is in the driveway, the morning is hectic, traffic is bad, coffee is good, etc. Most of the time we only notice when something is not confirmed." 
+  },{
+      "quote": "Ignoring contradicting evidence is a key aspect of confirmation bias, but why do we do it? There are several potential reasons: cognitive discomfort, social conformity, wishful thinking, a desire for simplicity, threat to self-identity.",
+      "attribution": "Health for Life Counseling"
+  },{
+      "quote": "The man of science has learned to believe in justification, not by faith, but by verification.",
+      "attribution": "Thomas Huxley"
+  },{
+      "quote": "The doctrine of waiting for confirmation is one of the greatest time killers.",
+      "attribution": "Sunday Adelaja"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["confirmation","confirmation bias"],
+          "predominantType": "capacity",
+          "levels": {
+            "4,3,2,1": {
+                "experiences": ["confirmation"]
+            }
+          }
+      }]
+  }]
+}

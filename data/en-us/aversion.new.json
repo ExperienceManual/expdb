@@ -1,14 +1,14 @@
 {
   "lang": "en/us",
   "createDate": "20241211",
-  "updateDate": "20250514",
+  "updateDate": "20250708",
   "name": "aversion",
   "valence": -1,
   "quote": "That painting is ugly as sin.",
   "description": "Unattractiveness to the senses or sensibilities in purely subjective arena.",
   "perceptions": ["Something brings dismay by being judged as a poorly-formed instance of its type of thing."],
   "results": ["preference to not experience this often"],
-  "related": [ "dismay", "disgust", "contempt", "aversion to cheaters", "aversion to strangers", "aversion to dangerous creatures", "hate" ],
+  "related": [ "dismay", "disgust", "ill will", "contempt", "aversion to cheaters", "aversion to strangers", "aversion to dangerous creatures", "hate" ],
   "opposites": ["appreciation", "desire"],
   "comparisons": [{
     "links": ["disgust"],
@@ -19,6 +19,9 @@
   },{
     "links": ["contempt"],
     "description": "You can have an aversion to a specific trait or thing without necessarily feeling superior to the person showing it. Contempt involves a more fundamental judgment about the other person's inherent worth or capabilities, leading to a sense of superiority."
+  },{
+    "links": ["ill will"],
+    "description": "You can have an aversion to something or someone without necessarily having a sense of 'ill will'. You may just want the punk rocker to change their greasy hair style while not wishing them negativity."
   }],
   "variations": [{
       "name": "aesthetic aversion",

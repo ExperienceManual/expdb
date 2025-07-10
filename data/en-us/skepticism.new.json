@@ -1,0 +1,61 @@
+{
+  "lang": "en/us",
+  "createDate": "20250414",
+  "updateDate": "20250708",
+  "name": "skepticism",
+  "valence": 0,
+  "quote": "I'll believe that statement when you can back it up.",
+  "description": "A desire for validating evidence before establishing the accuracy of a proposal or explanation.",
+  "perceptions": ["Someone has made a claim about something.","I need compelling evidence before accepting that claim."],
+  "desires": ["desire for knowledge","desire for clear perception"],
+  "sensations": ["doubt","distrust"],
+  "guidance": [{
+      "description": "These tips on cultivating a skeptical mindset may be of use beyond the world of financial accounting.",
+      "references": ["https://financialaccountant.co.uk/features/5-tips-to-cultivate-a-sceptical-mindset/"]
+  }],
+  "related": ["cynicism", "contrarian","deduction","generalization"],
+  "opposites": ["faith"],
+  "variations": [{
+      "name": "skeptical mindset",
+      "description": "A general habit of requiring validation of information before admitting it for deeper consideration.",
+      "perceptions": ["Someone has made a claim about something.","I always need compelling evidence before accepting that claim."],
+      "desires": ["desire for knowledge","desire for clear perception"],
+      "sensations": ["doubt","distrust"]
+  }],
+  "comparisons": [{
+      "links": ["doubt", "faith"],
+      "description": "Doubt is the sensation of not knowing whether to believe something. Skepticism is one solution to that doubt: a process for evaluating whether to believe that thing based on evidence. Faith is a different solution to doubt that doesn't require evidence."
+  },{
+      "links": ["cynicism"],
+      "description": "Cynicism assumes people always act out of self-interested intentions. Skepticism doesn't assumes bad intentions, but that confusion and mistakes are common."
+  },{
+      "links": ["contrarian"],
+      "description": "A contrarian is likely to take the non-mainstream view on many topics. A skeptic is fine with a mainstream view as long as there's appropriate evidence for it."
+  }],
+  "commentaries": [{
+      "quote": "The world is full of unhealthy and poisonous information. Skepticism is the desire to validate the purity an unknown statement before consuming it into your pattern pile: identify the quality, confirm that others have consumed it without unwanted side effects, and then perhaps taking a small bite to test it."
+  },{
+      "quote": "If skepticism means anything it means skepticism about the things you WANT to be true. It's easy to be a skeptic about others' views.",
+      "attribution": "Angus Johnston"
+  },{
+      "quote": "Be curious. A skeptic is a wanderer. If you’re using skepticism as a reason not to read something, not to think about something, not to learn something new, you’re not a good skeptic.",
+      "attribution": "Timothy Burke"
+  },{
+      "quote": "Some thinkers have suggested that faith can be made stronger by subjecting inherited beliefs to skepticism. Other people think that skepticism leads one away from faith. Many of us will wind up wherever our social circle would approve of."
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["skepticism","skeptical mindset"],
+          "predominantType": "impulse",
+          "levels": {
+            "4,3": {
+                "experiences": ["skepticism"]
+            },
+            "2,1": {
+                "experiences": ["doubt","distrust"]
+            }
+          }
+      }]
+  }]
+}

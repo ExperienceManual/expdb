@@ -10,12 +10,13 @@
     "opposites": ["pessimism","anxiety"],
     "variations": [{
         "name": "optimistic mindset",
-        "description": "A pattern of generally positive predictions, that most things wil work out just fine."
+        "description": "A pattern of generally positive predictions, that most things will work out just fine."
+    },{
+      "name": "encouraging optimism",
+      "description": "Focusing someone's attention on a potential positive outcome.",
+      "perceptions": ["This person or group would prefer a certain outcome.","I might be able to improve their mood by helping them see that outcome as a possibility."]
     }],
     "comparisons": [{
-        "links": ["hope"],
-        "description": "'Optimism' is more mental than 'hope' - not as emotionally invested."
-    },{
         "links": ["pessimism","cynicism","skepticism"],
         "description": "Optimism is seeing the glass as half-full. Pessimism is seeing the glass as half-empty. Cynicism is suspecting that someone drank half the glass. Skepticism is not being sure it's really water in the glass."
     }],

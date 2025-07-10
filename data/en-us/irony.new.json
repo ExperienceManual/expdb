@@ -1,0 +1,99 @@
+{
+  "lang": "en/us",
+  "createDate": "20250423",
+  "updateDate": "20250709",
+  "name": "irony",
+  "valence": 0,
+  "quote": "I got the very thing I was trying to avoid.",
+  "description": "Communication involving a contrast between expectation and reality.",
+  "guidance": [{
+      "description": "You'll probably encounter irony very often in real life: a 2011 study [...] found that ironic statements make up 8% of adult conversation. To help you make heads or tails of this technique, this article will dig into the three common types of irony.",
+      "attribution": "Reedsy Editorial Team",
+      "references": ["https://blog.reedsy.com/guide/irony/"]
+  }],
+  "variations": [{
+      "name": "verbal irony",
+      "description": "Saying one thing but meaning the opposite, generally to understate or overstate the situation",
+      "perceptions": ["My message will be enhanced, or at least less boring, if make a statement that's the opposite of what's intended."],
+      "desires": ["desire for stimulation","desire for social influence"],
+      "sensations": ["dissonance","novelty"],
+      "examples": [ "Clear as mud.","Fun like a bee sting."]
+  },{
+      "name": "situational irony",
+      "description": "The sense that what happened is the opposite of what's expected.",
+      "perceptions": ["Something happened that was counter to expectations.","There's a lesson or something amusing in that prediction error."],
+      "desires": ["desire for order","desire for knowledge"],
+      "sensations": ["dissatisfaction","dismay","humor","humility","dissonance","novelty"],
+      "examples": [ "The Titanic was said to be unsinkable, but sank on its first trip.", "My dog ate his new certificate of obedience."]
+  },{
+      "name": "dramatic irony",
+      "description": "The extra layer of perception you get as an observer who knows something the people involved don't.",
+      "perceptions": ["I'm aware of something relevant that someone else isn't aware of."],
+      "desires": ["desire for order","desire for knowledge"],
+      "sensations": ["dissonance","novelty"],
+      "examples": [ "Character in a movie believes something the audience knows isn't true."]
+  },{
+      "name": "socratic irony",
+      "description": "You pretend ignorance in order to get another to admit to something or reveal gaps in knowledge.",
+      "perceptions": ["By acting ignorant, I can reveal gaps in the other person's story or understanding."],
+      "desires": ["desire for knowledge"],
+      "examples": [ "Teacher asks students a simple-seeming question about a complex thing they just learned." ]
+  }],
+  "related": ["surprise", "generalization"],
+  "comparisons": [{
+      "links": ["surprise"],
+      "description": "There may be an element of 'surprise' in an ironic statement, but the focus of irony is primarily on what this unexpected event might mean in a larger context."
+  }],
+  "commentaries": [{
+      "quote": "There are four types of irony related by there being a perceived contrast between expectation and reality.",
+      "tags": ["definition footnote"]
+  },{
+      "quote": "Situational irony makes a statement about reality from an event. On one hand, this is good - trying to find patterns in the world is what people do. On the other hand, a single event doesn't prove a more general pattern."
+  },{
+      "quote": "An ironic understatement creates contrast by undermining the impact of something, though the thing itself will be rather substantial or severe. On the other hand, an ironic overstatement makes something minor sound like a much bigger deal to emphasize a quality it lacks.",
+      "attribution": "Reedsy Editorial Team on reedsy.com"
+  },{
+      "quote": "The great thing about irony is that it splits things apart, gets up above them so we can see the flaws and hypocrisies and duplicates.",
+      "attribution": "David Foster Wallace"
+  },{
+      "quote": "At a time like this, scorching irony, not convincing argument, is needed.",
+      "attribution": "Frederick Douglass"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["irony"],
+          "predominantType": "node",
+          "levels": {
+            "4,3": {
+                "experiences": ["irony"]
+            },
+            "2,1": {
+                "experiences": ["dissonance"]
+            }
+          }
+      },{
+          "names": ["verbal irony","socratic irony"],
+          "predominantType": "action",
+          "levels": {
+            "4,3": {
+                "experiences": ["irony"]
+            },
+            "2,1": {
+                "experiences": ["dissonance"]
+            }
+          }
+      },{
+          "names": ["situational irony","dramatic irony"],
+          "predominantType": "sensation",
+          "levels": {
+            "4,3": {
+                "experiences": ["irony"]
+            },
+            "2,1": {
+                "experiences": ["dissonance"]
+            }
+          }
+      }]
+  }]
+}

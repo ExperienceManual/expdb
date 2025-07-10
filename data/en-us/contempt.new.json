@@ -17,7 +17,7 @@
       "description": "If you perceive that someone is being contemptuous towards you, this article may be of interest.",
       "references": ["https://neurolaunch.com/contemptuous-behavior/"]
   }],
-  "related": ["group hostility", "aversion","misanthropy"],
+  "related": ["group hostility", "aversion","misanthropy","lowness"],
   "opposites": ["admiration"],
   "variations": [{
       "name": "bullying contempt",
@@ -32,6 +32,19 @@
           "references": ["https://mindfasting.com/how-to-stop-putting-others-down/"]
       }],
       "related": ["attacking reputation","unhealthy self regard"]
+  },{
+      "name": "contempt for the childish",
+      "description": "A feeling of dislike-for and superiority-over someone due to a judgment that their behavior is silly or not age-appropriate for the context.",
+      "perceptions": ["That person is not taking this situation serious enough.","I'm better than them."],
+      "desires": ["desire for social contact","desire for order"],
+      "sensations": ["silly weird","righteousness"],
+      "results": ["Perhaps roll your eyes.","Perhaps say something derogatory.","Perhaps treat them with disrespect."],
+      "guidance": [{
+          "description": "Whether we like it or not, we will all eventually meet, perhaps in a work or volunteer situation, an impossibly immature person.",
+          "attribution": "Trudi Griffin",
+          "references": ["https://www.wikihow.com/Deal-With-an-Overly-Immature-Person"]
+      }],
+      "opposites": ["dignity"]
   }],
   "commentaries": [{
       "quote": "We accuse others of what we cannot accept in ourselves.",
@@ -48,7 +61,7 @@
       "quote": "To argue with a man who has renounced the use and authority of reason, and whose philosophy consists in holding humanity in contempt, is like administering medicine to the dead, or endeavoring to convert an atheist by scripture.",
       "attribution": "Thomas Paine"
   }],
-  "spectrum": {"contempt": 2, "group hostility": 5, "tribalism": 8},
+  "spectrum": {"ill will": 2, "contempt": 5, "enmity": 6, "group hostility": 6, "tribalism": 8},
   "models": [{
       "version": "em1",
       "variations": [{

@@ -1,0 +1,97 @@
+{
+  "lang": "en/us",
+  "createDate": "20250708",
+  "updateDate": "20250708",
+  "name": "ill will",
+  "valence": 0,
+  "quote": "I hope he fails.",
+  "description": "A desire to see a person or group experience something negative.",
+  "perceptions": ["I have an aversion to this person or group.","It would feel righteous if they experienced something negative."],
+  "desires": ["desire for order"],
+  "sensations": ["aversion"],
+  "results": ["You may keep the ill will to yourself, or you may act aggressively towards them."],
+  "guidance": [{
+      "description": "My recent posts have highlighted two very powerful, yet opposing forces in the human heart: in a traditional metaphor, we each have a wolf of love and a wolf of hate inside us, and it all depends on which one we feed every day.",
+      "attribution": "Rick Hanson Ph.D.",
+      "references": ["https://www.psychologytoday.com/us/blog/your-wise-brain/201003/21-ways-to-turn-ill-will-to-good-will"]
+  }],
+  "opposites": ["empathy", "faith", "compassion", "generosity"],
+  "related": ["cynicism", "pessimism","enmity"],
+  "examples": ["wishing a sports star would get injured so your team can win"],
+  "comparisons": [{
+      "links": ["enmity"],
+      "description": "You certainly have ill will towards anyone you consider an enemy, but with 'enmity', you have a sense this person or group is working against your interests. You may have ill-will towards someone without a sense that they're working against you."
+  },{
+      "links": ["contempt"],
+      "description": "You certainly have ill will towards anyone you contempt, but contempt includes a sense of moral superiority. May can have ill-will towards someone without feeling their morally inferior."
+  }],
+  "variations": [{
+      "name": "ill will mindset",
+      "description": "A pattern of belief that many people deserve negative experiences.",
+      "perceptions": ["Most people deserve their suffering."],
+      "desires": ["desire to impact negatively"],
+      "sensations": ["pessimism"],
+      "related": ["cynicism","misanthropy"],
+      "guidance": [{
+          "description": "See guidance for misanthropy.",
+          "references": ["misanthropy"]
+      }]
+  },{
+      "name": "account of ill will",
+      "description": "We may keep an internal tally of how much a person or group has earned or spent our negativity towards them.",
+      "perceptions": ["My desire to show negativity to someone is not unlimited.","At some point, they may earn my respect."],
+      "desires": ["desire for order"],
+      "sensations": ["anticipation","pessimism"]
+  }],
+  "commentaries": [{
+      "quote": "The life I touch for good or ill will touch another life, and in turn another, until who knows where the trembling stops or in what far place my touch will be felt.",
+      "attribution": "Frederick Buechner"
+  },{
+      "quote": "It is a strangely irrational notion that there is something in the very flow of time that will inevitably cure all ills. Actually time is neutral. It can be used either destructively or constructively. I am coming to feel that the people of ill will have used time much more effectively than the people of good will.",
+      "attribution": "Martin Luther King, Jr."
+  },{
+      "quote": "Begin each day by telling yourself: Today I shall be meeting with interference, ingratitude, insolence, disloyalty, ill-will, and selfishness – all of them due to the offenders’ ignorance of what is good or evil.",
+      "attribution": "Marcus Aurelius"
+  }],
+  "spectrum": {
+      "ill will": 2,
+      "contempt": 5,
+      "enmity": 6,
+      "group hostility": 6,
+      "xenophobia": 8,
+      "tribalism": 8
+  },
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["ill will","ill will mindset"],
+          "predominantType": "impulse",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2": {
+              "experiences": ["ill will"]
+            },
+            "1": {
+              "experiences": ["dissatisfaction"]
+            }
+          }
+      },{
+          "names": ["account of ill will"],
+          "predominantType": "impulse",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2": {
+              "experiences": ["account of ill will"]
+            },
+            "1": {
+              "experiences": ["anticipation"]
+            }
+          }
+
+      }]
+  }]
+}

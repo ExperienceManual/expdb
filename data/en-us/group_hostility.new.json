@@ -64,7 +64,14 @@
       "quote": "Stereotypes lose their power when the world is found to be more complex than the stereotype would suggest. When we learn that individuals do not fit the group stereotype, then it begins to fall apart.",
       "attribution": "Ed Koch"
   }],
-  "spectrum": {"contempt": 2, "group hostility": 5, "xenophobia": 5, "tribalism": 8},
+  "spectrum": {
+      "ill will": 2,
+      "contempt": 5,
+      "enmity": 6, 
+      "group hostility": 6,
+      "xenophobia": 8,
+      "tribalism": 8
+  },        
   "models": [{
       "version": "em1",
       "variations": [{

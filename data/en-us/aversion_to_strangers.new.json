@@ -15,7 +15,7 @@
       "attribution": "Williamsburg Therapy Group",
       "references": ["https://williamsburgtherapygroup.com/blog/why-am-i-nervous-around-strangers-identifying-and-treating-social-anxiety-disorder"]
   }],
-  "related": ["distrust", "criticism", "aversion", "contempt", "anxiety"],
+  "related": ["distrust", "criticism", "aversion", "ill will", "contempt", "anxiety"],
   "opposites": ["admiration", "desire for novelty"],
   "variations": [{
       "name": "stranger danger",
@@ -36,7 +36,7 @@
       "description": "Being uncomfortable with people who's looks, ideas, language, or customs are different than what you're familiar with.",
       "perceptions": ["This person or group is unknown to me.","They have unfamiliar customs or language.","I don't know what to expect or how to behave."],
       "desires": ["desire for comfort","desire for social status"],
-      "sensations": ["anxiety","discomfort","distrust","contempt"],
+      "sensations": ["anxiety","discomfort","distrust","ill will", "contempt"],
       "results": ["desire to leave the unfamiliar context"],
       "guidance": [{
           "description": "Because social acceptance is so important to us, being amongst people with different outlooks and customs can be stressful. If you're going to travel or care to explore your reactions, here are some interesting references.",
@@ -89,7 +89,7 @@
               "experiences": ["narration"]
             },
             "3": {
-              "experiences": ["cultural discomfort","contempt"]
+              "experiences": ["cultural discomfort","ill will"]
             },
             "2": {
               "experiences": ["anxiety"]

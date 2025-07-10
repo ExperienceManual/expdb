@@ -1,0 +1,54 @@
+{
+  "lang": "en/us",
+  "createDate": "20250411",
+  "updateDate": "20250707",
+  "name": "hopelessness",
+  "valence": -1,
+  "quote": "There's no way she's going to be ok.",
+  "description": "Tentative negativity from a sense that a particular desired outcome is practically impossible.",
+  "perceptions": ["An outcome I prefer is no longer a viable possibility.","That is negative for me or someone important to me."],
+  "desires": ["desire for comfort"],
+  "sensations": ["anticipation","pessimism","dissonance","sadness","doubt"],
+  "guidance": [{
+      "description": "We can’t always avoid situations that can make us feel hopeless, such as the death of a loved one, the loss of a job, or financial stress. We can, however, work on how we react to stressors. Below are some helpful ways to deal with feelings of hopelessness when you’re faced with a difficult event or situation.",
+      "attribution": "Jed Foundation",
+      "references": ["https://jedfoundation.org/resource/how-to-stop-feeling-hopeless/"]
+  },{
+      "description": "If you're feeling chronically hopeless to where it's affecting your life, you should consider seeing a therapist.",
+      "references": ["__THERAPY_LINKS__"]
+  }],
+  "related": ["anxiety"],
+  "opposites": ["hope", "optimism"],
+  "comparisons": [{
+      "links": ["pessimism"],
+      "description": "'Pessimism' is the sense that a desired outcome is not likely to happen. 'Hopelessness' is the anticipated sadness that comes from imagining the world without the desired outcome."
+  }],
+  "commentaries": [{
+      "quote": "Hopelessness is a really toxic and dangerous state.",
+      "attribution": "Cory Booker"
+  },{
+      "quote": "Hopelessness is a feeling. It's not a fact.",
+      "attribution": "Anohni"
+  },{
+      "quote": "It may be worth examining the threshold for what you view as 'unlikely'. If your chance of getting that reward 20%? 2%? Or is it really zero? Do you identify as the kind of person who's going to give up when there's still a non-zero chance?"
+  },{
+      "quote": "Do not let your fire go out, spark by irreplaceable spark in the hopeless swamps of the not-quite, the not-yet, and the not-at-all.",
+      "attribution": "F. Scott Fitzgerald"
+  }],
+  "spectrum": {"pessimism": 1, "hopelessness": 5, "depression": 7},
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["hopelessness"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2,1": {
+              "experiences": ["hopelessness"]
+            }
+          }
+      }]
+  }]
+}

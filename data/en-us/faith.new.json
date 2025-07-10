@@ -1,0 +1,60 @@
+{
+  "lang": "en/us",
+  "createDate": "20250412",
+  "updateDate": "20250707",
+  "name": "faith",
+  "valence": 1,
+  "quote": "My hearts says she's going to be ok.",
+  "description": "Confidence in the accuracy of a belief about something or someone not based on rational proof or experience.",
+  "perceptions": ["An outcome I prefer is going to happen.","There are other things that could happen, but I'm sure my preferred outcome will be the one."],
+  "desires": ["many"],
+  "sensations": ["certainty","anticipation"],
+  "guidance": [{
+      "description": "There are many resources for cultivating faith. A key theme is trusting that it’s going to be okay in the long run regardless of what’s currently happening.",
+      "references": ["https://www.lettinghislightshine.com/5-simple-ways-to-strengthen-your-faith/","https://tinybuddha.com/blog/learning-to-have-faith-that-all-is-well/"]
+  }],
+  "opposites": ["skepticism","doubt"],
+  "related": ["optimism","hope"],
+  "variations": [{
+      "name": "existential faith",
+      "description": "Believing without evidence in the accuracy of a framework of statements and predictions about reality.",
+      "perceptions": ["I trust that certain things to be true about existence.","There are other things that could happen, but if so, I'm sure there's a reason for it."],
+      "desires": ["many"],
+      "examples": [ "Cheaters always get what they deserve.", "My religion will guide me to a better afterlife." ]
+  }],
+  "comparisons": [{
+      "links": ["certainty"],
+      "description": "If someone is certain from their faith, the source of that certainty is not justifiable from experience or logic -- it's a form of trust. On the other hand, when if you're _mentally_ certain about something, the source is not based on an external trust, but it's from past experience or logic."
+  }],
+  "commentaries": [{
+      "quote": "Faith is believing that the outcome will be what it should be, no matter what it is.",
+      "attribution": "Colette Baron-Reid"
+  },{
+      "quote": "Faith is not something to grasp, it is a state to grow into.",
+      "attribution": "Mohandas Gandhi"
+  },{
+      "quote": "Faith is taking the first step even when you don't see the whole staircase.",
+      "attribution": "Martin Luther King Jr."
+  },{
+      "quote": "Faith is not belief without proof, but trust without reservation.",
+      "attribution": "D. Elton Trueblood"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["faith","existential faith"],
+          "predominantType": "",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["faith"]
+            },
+            "2,1": {
+              "experiences": ["calmness"]
+            }
+          }
+      }]
+  }]
+}

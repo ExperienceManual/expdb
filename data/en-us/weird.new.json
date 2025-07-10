@@ -1,0 +1,120 @@
+{
+  "lang": "en/us",
+  "createDate": "20250407",
+  "updateDate": "20250407",
+  "name": "weird",
+  "valence": 0,
+  "quote": "What was that crazy loud sound?",
+  "description": "Something perceived as out of the ordinary, neither harmful nor disgusting, but you're not sure it's something you want to experience often.",
+  "perceptions": ["There's an aspect of that person, group, or thing that's unusual.","The aspect is neither admirable nor disgusting."],
+  "desires": ["desire for order"],
+  "sensations": ["curiosity","aversion","dissonance","doubt"],
+  "guidance": [{
+      "description": "That's Weird! Being Curious Instead of Critical",
+      "attribution": "Mr. Brown",
+      "references": ["https://www.youtube.com/watch?v=liygbub1O60"]
+  }],
+  "variations": [{
+      "name": "attention-seeking weird",
+      "description": "A person or group you perceive as trying to be unusual in order to get attention for some reason.",
+      "perceptions": ["There's an aspect of that person, group, or thing that's unusual.","The aspect is neither admirable nor disgusting.","They're doing it just to stand out."],
+      "desires": ["desire for order"],
+      "sensations": ["curiosity","aversion","admiration","contempt","dissonance"],
+      "related": ["trying to be weird"],
+      "examples": ["show-business entertainers"]
+  },{
+      "name": "silly weird",
+      "description": "A person or group you perceive as trying to be funny, but instead seem more immature than appropriate.",
+      "perceptions": ["There's an aspect of that person, group, or thing that's unusual.","The aspect is childlike or less serious than the situation calls for.","They're doing it to be funny.", "It's not very funny."],
+      "desires": ["desire for order"],
+      "sensations": ["curiosity","aversion","admiration","contempt"],
+      "related": ["silly humor"]
+  },{
+      "name": "good weird",
+      "description": "Perception of something or someone unusual in a way you admire.",
+      "perceptions": ["There's an aspect of that person, group, or thing that's unusual.","The aspect is somewhat admirable.","Not sure I want to copy them, but I'm glad they're that way."],
+      "desires": ["desire for stimulation"],
+      "sensations": ["curiosity","admiration for the unusual"],
+      "examples": ["an unusual outfit on a movie star that you appreciate"],
+      "guidance": [{
+          "description": "Too often we hide or supress our weirdness because people don’t understand it. Don’t do this! To be more creative, to do brilliant work, you need to be prepared to be odd.",
+          "attribution": "Nina Pearse",
+          "references": ["https://www.creativitywakeup.com/blog/be-weird"]
+      }]
+  },{
+      "name": "bad weird",
+      "description": "Perception of something unusual that you would prefer to avoid experiencing again if possible",
+      "perceptions": ["There's an aspect of that person, group, or thing that's unusual.","The aspect is pretty annoying.","It would be nice if they were just normal."],
+      "desires": ["desire for order"],
+      "sensations": ["curiosity","contempt for the unusual"],
+      "examples": ["an unusual outfit on a movie star that you dislike","a bad hallucination"]
+  },{
+      "name": "provocative weird",
+      "description": "A desire to draw attention to yourself or align yourself with a group by adopting an unusual appearance or behavior that's neither traditionally admirable nor terrible.",
+      "perceptions": ["Being normal is boring.","I'm better off signaling that I'm not a normal boring person."],
+      "desires": ["desire for social influence","desire for stimulation","desire to make your mark","desire to impact negatively"],
+      "sensations": ["contempt","excitement","dissonance"],
+      "related": ["social signaling","attention-seeking weird"],
+      "examples": ["pink hair","odd piercings","wearing a dress made of meat"]
+  }],
+  "commentaries": [{
+      "quote": "People who have a taste for novelty probably like 'weird' more than those that have more constrained preferences."
+  },{
+      "quote": "Whether you try too hard to fit in or you try too hard to stand out, it is of equal consequence: you exhaust your significance.",
+      "attribution": "Criss Jami"
+  },{
+      "quote": "There many inspiring quotes praising 'good weird'. Being a little unusual is pretty normal, but it's hard to tell how various social groups will judge your particular idiosyncracy over time."
+  },{
+      "quote": "We all want to be extraordinary and we all just want to fit in.",
+      "attribution": "Sebastyne Young"
+  }],
+  "spectrum": {"odd": 2, "strange": 3, "weird": 4, "bizarre": 6},
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["weird","silly weird","attention-seeking weird"],
+          "predominantType": "sensation",
+          "levels": {
+            "4,3": {
+              "experiences": ["weird"]
+            },
+            "2,1": {
+              "experiences": ["dissonance"]
+            }
+          }
+      },{
+          "names": ["good weird"],
+          "predominantType": "sensation",
+          "levels": {
+            "4,3": {
+              "experiences": ["good weird","admiration"]
+            },
+            "2,1": {
+              "experiences": ["dissonance"]
+            }
+          }
+      },{
+          "names": ["bad weird"],
+          "predominantType": "sensation",
+          "levels": {
+            "4,3": {
+              "experiences": ["bad weird","contempt"]
+            },
+            "2,1": {
+              "experiences": ["dissatisfaction"]
+            }
+          }
+      },{
+          "names": ["provocative weird"],
+          "predominantType": "impulse",
+          "levels": {
+            "4,3": {
+              "experiences": ["provacative weird","contempt"]
+            },
+            "2,1": {
+              "experiences": ["dissonance","excitement"]
+            }
+          }
+      }]
+  }]
+}
