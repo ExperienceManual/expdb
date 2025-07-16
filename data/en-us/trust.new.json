@@ -1,0 +1,115 @@
+{
+  "lang": "en/us",
+  "createDate": "20250425",
+  "updateDate": "20250710",
+  "name": "trust",
+  "valence": 0,
+  "quote": "She's been through this before and will do fine.",
+  "description": "A solid sense that someone or something has a high likelihood of conforming to a particular prediction.",
+  "perceptions": ["I expect this person, group, idea, or tool to behave in a certain way.","The odds of this prediction are so high that I'm willing to base my actions on it."],
+  "desires": ["many"],
+  "sensations": ["satisfaction"],
+  "results": ["The predicted outcome may occur or it might not. Either way, future prediction patterns may change."],
+  "guidance": [{
+      "description": "If you'd like to improve your ability to trust others, here are some references.",
+      "references": ["https://www.verywellmind.com/why-you-may-have-trust-issues-and-how-to-overcome-them-5215390","https://www.harleytherapy.co.uk/counselling/trusting-others-hard.htm"]
+  },{
+      "description": "If you think you're too trusting in the wrong people, here are some references.",
+      "references": ["https://www.forbes.com/sites/kathycaprino/2018/07/22/5-core-reasons-you-continually-trust-the-wrong-people-and-how-to-stop/","https://www.wellandgood.com/health/too-trusting-others"]
+  }],
+  "related": ["optimism", "goodwill", "certainty", "faith"],
+  "opposites": ["doubt","distrust", "pessimism"],
+  "examples": ["My car has never failed to get me work before.","My kid will finish the homework.","My trusty screwdriver can fix it.","He trusts the free market to be efficient."],
+  "comparisons": [{
+      "links": ["faith"],
+      "description": "It is 'faith' if the basis of a predicted outcome doesn't have the evidence of experience or logic."
+  },{
+      "links": ["goodwill"],
+      "description": "'Goodwill' is when a positive prediction about a person's behavior is not earned by past experience. Goodwill can be a form of faith or a social strategy."
+  },{
+      "links": ["certainty"],
+      "description": "You do not have to be certain about something in order to make decisions assuming a positive outcome. For instance, you might give your neighbor a house key is so they can feed the fish when you're away. You're not 100% certain they won't snoop in your stuff, but you are certain the fish will die if they don't get fed."
+  },{
+      "links": ["optimism","pessimism"],
+      "description": "'Optimism' is a prediction of a positive outcome. 'Pessimism' is a prediction of a negative outcome. Trust is neither positive nor negative; it's feeling a certain outcome is so likely that you're willing to base your decisions on it."
+  }],
+  "variations": [{
+      "name": "naivety",
+      "alternateNames": ["overly trusting","gullible"],
+      "description": "The sense that someone is trusting in an outcome that is much less likely than they believe.",
+      "perceptions": ["That person is relying on something to be true.","My sense is that the odds are against the outcome they're predicting."],
+      "sensations": ["negative judgment"],
+      "results": ["You may find naivety to be cute or dangerous. It depends on your relationship to the person and the perceived outcomes."],
+      "personOfInterestExperiences": ["trust"],
+      "examples": ["The kid took candy from a stranger.","He dropped off his phone for repair without a receipt.","She believed the political candidate's promise."],
+      "opposites": ["paranoia"],
+      "related": ["ignorance"],
+      "guidance": [{
+          "description": "Why you should be gentle correcting naive people",
+          "attribution": "kletische.com",
+          "references": ["https://kletische.com/gentle-naive-people/"]
+      },{
+          "description": "Positivity in face of adversity is not naiveté. It is leadership. Positivity is a choice, an eagerness, and an intention—to succeed—no matter what.",
+          "attribution": "Barnil Bhattacharjee",
+          "references": ["https://theamericangenius.com/positivity-is-not-naivete/"]
+      }]
+  },{
+      "name": "realized naivety",
+      "description": "The sense that you had misjudged the likelihood of a particular outcome and the result was negative.",
+      "perceptions": ["I had relied on something to be true.","It turns out my understanding of the outcomes was not correct."],
+      "sensations": ["failure","shame"],
+      "results": ["Depends on the negativity of the actual outcome."],
+      "examples": ["I shouldn't have trusted him to shop for the picnic.","That product did not work as advertised."],
+      "guidance": [{
+          "description": "To not be over-trusting, you should objectively evaluate what is happening, the events, and the situations. It supports minimizing prejudice or subjectivity and gives space for intelligent decision-making. Turn on your critical thinking, as well as nurture your cognitive power. Also, trust only verified facts, always use several sources of information, and do not rely on one opinion. Don’t be guided only by your feelings, and don’t allow your emotions to prevail. Here are more tips on how to stop being naive that can promote your self-growth",
+          "attribution": "Jonas von Essen",
+          "references": ["https://memoryos.com/article/how-to-stop-being-naive-is-there-a-cure-for-naivety"]
+      }]
+  }],
+  "commentaries": [{
+      "quote": "We have an inner models that predict how specific people, systems, and ideas behave in the world. We 'trust' one of these predictions When we are willing to rely on it in making decisions. We can trust our friends to be supportive, and we can trust our enemies to interfere with our interests."
+  },{
+      "quote": "Trust takes years to build, seconds to break, and forever to repair.",
+      "attribution": "Dhar Mann"
+  },{
+      "quote": "In a high-trust relationship, you can say the wrong thing, and people will still get your meaning. In a low-trust relationship, you can be very measured, even precise, and they’ll still misinterpret you.",
+      "attribution": "Stephen M. R. Covey"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["trust"],
+          "predominantType": "capacity",
+          "levels": {
+            "1": {
+              "experiences": ["satisfaction"]
+            },
+            "4,3,2": {
+              "experiences": ["trust"]
+            }
+          }
+      },{
+          "names": ["naivety"],
+          "predominantType": "sensation",
+          "levels": {
+            "2,1": {
+              "experiences": ["dissatisfaction"]
+            },
+            "4,3": {
+              "experiences": ["naivety"]
+            }
+          }
+      },{
+          "names": ["realized naivety"],
+          "predominantType": "sensation",
+          "levels": {
+            "2,1": {
+              "experiences": ["dissatisfaction"]
+            },
+            "4,3": {
+              "experiences": ["realized naivety","failure"]
+            }
+          }
+      }]
+  }]
+}

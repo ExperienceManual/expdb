@@ -1,0 +1,68 @@
+{
+  "lang": "en/us",
+  "createDate": "20250502",
+  "updateDate": "20250711",
+  "name": "conspiracy minded",
+  "valence": 0,
+  "quote": "The pandemic was created in a lab to rid the world of old people.",
+  "description": "A pattern of believing that important aspects of the world are controlled by hidden agents with selfish agendas.",
+  "perceptions": ["Bad things happening in the world are controlled by powerful or bad people."],
+  "desires": ["desire for order","desire for knowledge"],
+  "sensations": ["anxiety","cynicism","distrust"],
+  "guidance": [{
+      "description": "How should you talk to friends and relatives who believe conspiracy theories?",
+      "attribution": "Marianna Spring",
+      "references": ["https://www.bbc.com/news/blogs-trending-55350794"]
+  }],
+  "related": ["paranoia"],
+  "opposites": ["trust"],
+  "examples": ["flat earthers","anti-vaxers","the moon landing was a fake"],
+  "variations": [{
+      "name": "paranoid conspiracy",
+      "description": "A pattern of believing that hidden agents with selfish agendas are actively working against you personally.",
+      "perceptions": ["Bad things are happening to me, controlled by powerful or bad people."],
+      "desires": ["desire for safety","desire for knowledge"],
+      "sensations": ["fear","cynicism","distrust"],
+      "guidance": [{
+          "description": "See guidance for paranoia.",
+          "references": ["paranoia"]
+      }],
+      "examples": [ "using a tinfoil hat to prevent aliens from reading your mind" ]
+  }],
+  "comparisons": [{
+      "links": ["cynical mindset"],
+      "description": "Cynicism is a general distain for the less pleasant aspects of human nature like ignorance and selfishness. Conspiracy theorists assume shadowy groups are actively controlling the world for their own benefit."
+  }],
+  "commentaries": [{
+      "quote": "Why do we love the idea that people might be secretly working together to control and organise the world? Because we don't like to face the fact that our world runs on a combination of chaos, incompetence and confusion.",
+      "attribution": "Jonathan Cainer"
+  },{
+      "quote": "Sure, there have been actual conspiracies in history, like Watergate. But that doesn't mean the world is full of them. Why did it take so long for women to get the vote? (a) Was it a 2500-year conspiracy? or (b) Was it unfortunate cultural intertia? It may be worth considering ignorance and habit before assuming worse."
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["conspiracy minded"],
+          "predominantType": "impulse",
+          "levels": {
+            "4,3": {
+              "experiences": ["conspiracy minded"]
+            },
+            "2,1": {
+              "experiences": ["anxiety","distrust"]
+            }
+          }
+      },{
+          "names": ["paranoid conspiracy"],
+          "predominantType": "impulse",
+          "levels": {
+            "4,3": {
+              "experiences": ["paranoid conspiracy"]
+            },
+            "2,1": {
+              "experiences": ["fear"]
+            }
+          }
+      }]
+  }]
+}

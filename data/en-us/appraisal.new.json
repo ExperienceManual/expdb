@@ -38,6 +38,7 @@
         }]
     },{
         "name": "judging",
+        "alternateNames": ["judgment"],
         "description": "An intuitive process of assigning characteristics and/or value to something or someone for a specific purpose. The process is quick and possibly biased.",
         "perceptions": ["I need to know how to interact with this person or thing for a specific purpose.","Based on limited time and information, I need to apply a score of the relevant characteristics for this particular situation.","I need a fast answer and the accuracy of the results are not critical."],
         "desires": ["desire for agency"],

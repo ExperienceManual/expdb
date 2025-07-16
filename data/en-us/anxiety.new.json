@@ -1,0 +1,75 @@
+{
+  "lang": "en/us",
+  "createDate": "20250504",
+  "updateDate": "20250712",
+  "name": "anxiety",
+  "valence": -1,
+  "quote": "I'm nervous about tomorrow's presentation.",
+  "description": "Your brain is sending a mild threat signal it wants you to resolve. The threat may be triggered by something real, imagined, traumatic memories, or biological sensitivy.",
+  "perceptions": ["My brain is telling me that there's a threat.","I ought to try avoiding the threat somehow.","I'm uncertain how to resolve it even if I understand the source."],
+  "desires": ["desire for comfort","desire for control"],
+  "sensations": ["anticipation","doubt"],
+  "guidance": [{
+      "description": "How to Stop Feeling Anxious Right Now -- Everyone feels anxious from time to time. Occasional anxiety is a normal reaction to uncertainty about what’s going to happen next, whether that’s in the next few minutes, days, or months.",
+      "attribution": "Emily Delzell",
+      "references": ["https://www.webmd.com/mental-health/features/ways-to-reduce-anxiety"]
+  }],
+  "related": ["fear", "paranoia", "desire for agency", "desire for safety"],
+  "opposites": ["calmness", "optimism"],
+  "examples": ["walking alone at night","a vidid traumatic memory"],
+  "variations": [{
+      "name": "performance anxiety",
+      "description": "Something important is going to happen where you will be expected to perform an action where you're not sure you'll be able to succeed. This causes your brain to send a mild threat signal.",
+      "perceptions": ["Something is going to happen that's important.","I'm expected to do something in this event.","I'm not sure that I'll be able to meet expectations."],
+      "desires": ["desire for social status","desire for comfort"],
+      "sensations": ["anticipation","doubt"],
+      "guidance": [{
+          "description": "Performance anxiety and stage fright are outsized stress responses that can creep up when you’re put on the spot",
+          "attribution": "Cleveland Clinic",
+          "references": ["https://health.clevelandclinic.org/performance-anxiety-stage-fright"]
+      }],
+      "examples": ["public speaking", "sports championship","paying the bills when short on money"]
+  }],
+  "comparisons": [{
+      "links": ["fear"],
+      "description": "Anxiety and fear are sometimes used interchangably. Fear is major anxiety driven by something that could significantly affect your body or identity that floods the brain with fight-or-flight chemicals."
+  },{
+      "links": ["doubt"],
+      "description": "'Doubt' means that you're not sure about something. 'Anxiety' is the physical stress caused by sensing that this uncertainty could potentially cause a problem."
+  }],
+  "commentaries": [{
+      "quote": "Anxiety is the dizziness of freedom.",
+      "attribution": "Soren Kierkegaard"
+  },{
+      "quote": "Worrying is like paying a debt you don’t owe.",
+      "attribution": "Mark Twain"
+  },{
+      "quote": "Anxiety can cause inaction, which is, in its most basic sense, a loss of freedom. What is possible may never actualize and one may lose the present by tending to an imagined future. One becomes immobilized and unable to meet needs and realize goals and aspirations.",
+      "attribution": "Peg O'Connor, 'Anxiety Is a Part of Human Nature'"
+  },{
+      "quote": "The modern world overflows with anxiety-causing shadows, pushing us to endless and exhausting control."
+  }],
+  "spectrum": {
+    "concern": 1,
+    "worry": 1,
+    "anxiety": 2,
+    "apprehension": 3,
+    "fear": 4,
+    "dread": 5,
+    "horror": 6,
+    "terror": 7,
+    "panic": 9
+  },
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["anxiety","performance anxiety"],
+          "predominantType": "sensation",
+          "levels": {
+            "4,3,2,1": {
+                "experiences": ["anxiety"]
+            }
+          }
+      }]
+  }]
+}

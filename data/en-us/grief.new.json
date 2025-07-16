@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250308",
-  "updateDate": "20250627",
+  "updateDate": "20250715",
   "name": "grief",
   "valence": -1,
   "quote": "There's a void in my heart where my dog once lived.",
@@ -54,6 +54,18 @@
       }],
       "related": ["repression"],
       "examples": ["She hid how much the loss affected her."]
+  },{
+      "name": "ecological grief",
+      "description": "Sadness from perceiving a negative environmental outcome that's not any one person's fault.",
+      "perceptions": ["There's something negative about the world.","It's no one person's fault.","It would be difficult or impossible to control."],
+      "desires": ["desire for comfort"],
+      "sensations": ["sadness","losing"],
+      "guidance": [{
+          "description": "If you want to function in the world and make it a better place, you need to take care of yourself—and then find ways to help however you can.",
+          "attribution": "Mental Health America",
+          "references": ["https://screening.mhanational.org/content/how-can-i-be-ok-when-world-terrible/"]
+      }],
+      "examples": ["I wish society didn't create so much plastic garbage.","It would be better if we could switch to renewable energy sources.","I wish we could better control that disease."]
   }],
   "commentaries": [{
       "quote": "Grief isn't a simple short term sensation. It's a process of coming to grips with an unfortunate new reality that can take weeks or years, spawning miserable sensations along the way. The famous '5 stages' shouldn't be thought of as a clean linear thing -- you'll shift between them as the old reality writhes under the suffocation of the new reality. The stages are: (1) denial: unwillingness to experience the new situation, (2) anger: blaming someone for it, (3) bargaining: attempting to soften the impact, (4) depression: withdrawing from it all, and (5) acceptance: moving on within the downgraded world."

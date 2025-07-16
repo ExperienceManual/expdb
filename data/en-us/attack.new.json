@@ -9,7 +9,7 @@
   "perceptions": ["The state of things would be better for me in a certain way.","Someone or something else may resist changing things."],
   "sensations": ["many"],
   "desires": ["desire for territory","desire for social status","desire for wealth","desire to improve","desire for stimulation"],
-  "related": [ "anger", "desire for social status", "courage", "ill will", "contempt", "desire for territory", "desire for trade" ],
+  "related": [ "anger", "desire for social status", "courage", "ill will", "contempt", "desire for territory", "desire for trade", "conspiratorial" ],
   "opposites": ["defense", "respect", "compassion"],
   "spectrum": {
       "attack": 5,

@@ -1,12 +1,12 @@
 {
   "lang": "en/us",
   "createDate": "20250208",
-  "updateDate": "20250528",
+  "updateDate": "20250714",
   "name": "failure",
   "valence": -1,
   "quote": "It's all my fault.",
-  "description": "Dismay caused by something you had valued being taken from you and the loss is perceived as being due to your own actions.",
-  "perceptions": ["Something I had valued is gone or not available.","It' my fault that it's gone."],
+  "description": "Dismay caused by a sense that you were not able to achieve a desired outcome after making a mistake of action or inaction.",
+  "perceptions": ["An outcome I had desired did not happen.","It's my fault that it didn't happen."],
   "desires": ["desire for social status","desire for social contact","desire for comfort","desire to improve"],
   "sensations": ["dismay","self-condemnation"],
   "guidance": [{
@@ -18,7 +18,7 @@
   "opposites": ["gaining", "triumph"],
   "variations": [{
       "name": "garden variety failure",
-      "description": "A perception that it's your fault something valued is gone, along with a perception that you can learn from the event.",
+      "description": "A perception that it's your fault a desired outcome did not happen, along with a perception that you can learn from the event.",
       "perceptions": ["Something I had valued is gone or not available.","It's my fault that it's gone.","I can learn from this."],
       "desires": ["desire to improve","desire for knowledge"],
       "sensations": ["dismay","losing"],
@@ -26,7 +26,7 @@
       "examples": ["not scoring well on the homework assignment","breaking a favorite cup while washing it"]
   },{
       "name": "repeated failure",
-      "description": "A perception that it's your fault something valued is gone, along with a perception that you have had this failure before.",
+      "description": "A perception that it's your fault an outcome did not happen, along with a perception that you have had this failure before.",
       "perceptions": ["Something I had valued is gone or not available.","It's my fault that it's gone.","I've done this more than once and have not yet learned."],
       "desires": ["desire to improve","desire for knowledge"],
       "sensations": ["dismay","losing","frustration"],
@@ -38,7 +38,7 @@
       }]
   },{
       "name": "failure sickness",
-      "description": "A perception that it's your fault something valued is gone, and that this loss brings shame to a social identity.",
+      "description": "A perception that it's your fault a desired outcome did not happen, and that this loss brings shame to a social identity.",
       "perceptions": ["Something I had valued is gone or not available.","It's my fault that it's gone.","This loss is shameful."],
       "desires": ["desire for social status","desire for comfort"],
       "sensations": ["shame","losing","self-condemnation"],

@@ -1,0 +1,100 @@
+{
+  "lang": "en/us",
+  "createDate": "20250505",
+  "updateDate": "20250715",
+  "name": "regret",
+  "valence": -1,
+  "quote": "I should have chosen a different model.",
+  "description": "A sense of sadness and loss from realizing that having chosen a different outcome or acting sooner could have resulted in a much better situation.",
+  "perceptions": ["A different outcome would have been much better.","I bear some or all responsibility for the original outcome, either by inaction or by making a poor choice."],
+  "desires": ["desire for comfort"],
+  "sensations": ["sadness","losing"],
+  "results": ["The experience may inform future choices."],
+  "guidance": [{
+      "description": "While you can’t avoid regret, there are things that you can do to minimize these feelings. Or take the negativity out of these feelings and turn your regrets into opportunities for growth and change.",
+      "attribution": "Kendra Cherry, MSEd",
+      "references": ["https://www.verywellmind.com/how-to-cope-with-regret-5218665"]
+  }],
+  "comparisons": [{
+      "links": ["guilt","shame"],
+      "description": "'Guilt', 'shame', and 'regret' are all driven by negative outcomes and can all happen at the same time. 'Regret' is a sense of failure in having made a wrong decision or having missed an opportunity. 'Guilt' is a sense of having broken your own personal or social ethical code. 'Shame' is a perception that an important social group has found you deficient in some way."
+  },{
+      "links": ["embarrassment"],
+      "description": "Regret about an action or inaction is likely a result of an embarrassing social situation, but there are many other things that can cause regret."
+  },{
+      "links": ["failure"],
+      "description": "A sense of 'failure' is when a desired outcome was not acheived. You may regret the failure immediately, but regret can also happen after you achieved the desired outcome, only to feel later on that a different outcome would have been better."
+  }],
+  "related": ["sadness", "losing", "failure"],
+  "opposites": ["happiness", "gaining"],
+  "examples": ["The concert was an unfortunate waste of time.","It's a bummer I ost touch with an old friend."],
+  "variations": [{
+      "name": "fear of missing out",
+      "alternateNames": ["fomo"],
+      "description": "A prediction of regret about not being involved in a particular social interaction.",
+      "perceptions": ["There's a social activity that's going to happen.","If I'm not involved, I might be excluded from important information or weaken a group bond."],
+      "desires": ["desire for social contact","desire for social status"],
+      "sensations": ["anxiety","losing"],
+      "guidance": [{
+          "description": "If it feels like FOMO and social media have taken over your life, know that there are ways to regain control. It starts with developing a better understanding of yourself, including your feelings, motives, and values. Then, you can cut down on worry and rumination by developing mindfulness, managing anxiety, and limiting your social media usage.",
+          "attribution": "Sheldon Reid and Casey Clark",
+          "references": ["https://www.helpguide.org/mental-health/wellbeing/fear-of-missing-out-fomo"]
+      }],
+      "examples": ["Feeling left out of a work event while on vacation."]
+  },{
+      "name": "long-term regret",
+      "description": "Sadness from perceiving that an important aspect of your life has not gone as well as you think it could have.",
+      "perceptions": ["Thinking back on my life, a different outcome would probably have been better.","I bear some or all responsibility for the original outcome, either by inaction or by making a poor choice."],
+      "desires": ["desire for comfort"],
+      "sensations": ["sadness","losing"],
+      "guidance": [{
+          "description": "As with other negative emotions, it doesn’t work to avoid, deny or try to squash regret. In the long run, these tactics only increase negative feelings and prolong the time you suffer with them. Rather than stay stuck, people can manage these emotions in four steps: First, accept the fact that you are feeling them; determine why you are feeling them; allow yourself to learn from them; and finally, release them and move forward.",
+          "attribution": "J. Kim Penberthy",
+          "references": ["https://news.virginia.edu/content/regret-can-be-all-consuming-psychologist-explains-how-overcome-it"]
+      }],
+      "examples": [ "I shouldn't have gone into this career.", "I should have started saving for retirement earlier." ]
+  }],
+  "commentaries": [{
+      "quote": "I haven't lived a perfect life. I have regrets. But that's from a lifetime of taking chances, making decisions, and trying not to be frozen. The only thing that I can do with my regrets is understand them.",
+      "attribution": "Kevin Costner"
+  },{
+      "quote": "I have made it a rule of my life never to regret and never to look back. Regret is an appalling waste of energy, and no one who intends to become a writer can afford to indulge in it. You can't get it into shape; you can't build on it; it's only good for wallowing in.",
+      "attribution": "Katherine Mansfield"
+  },{
+      "quote": "We must all suffer from one of two pains: the pain of discipline or the pain of regret. The difference is discipline weighs ounces while regret weighs tons.",
+      "attribution": "Jim Rohn"
+  }],
+  "spectrum": {
+      "regret": 5,
+      "remorse": 6
+  },
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["regret","fear of missing out"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["regret"]
+            },
+            "2,1": {
+              "experiences": ["sadness","loss"]
+            }
+          }
+      },{
+          "names": ["long-term regret"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["regret"]
+            },
+            "3,2,1": {
+              "experiences": ["sadness","loss"]
+            }
+          }
+      }]
+  }]
+}

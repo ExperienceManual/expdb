@@ -1,0 +1,45 @@
+{
+  "lang": "en/us",
+  "createDate": "20250426",
+  "updateDate": "20250710",
+  "name": "distrust",
+  "valence": -1,
+  "quote": "They've screwed up my order too often.",
+  "description": "A solid sense that someone or something has a low likelihood of conforming to a particular prediction.",
+  "perceptions": ["This person, group, idea, or tool is supposed behave in a certain way.","My sense is that the odds of this outcome are so low that I'm not willing to base my actions on it."],
+  "desires": ["desire for agency","desire for control"],
+  "sensations": ["dissatisfaction","doubt"],
+  "results": ["The predicted outcome may occur or it might not. Either way, future prediction patterns may change."],
+  "guidance": [{
+      "description": "See guidance for 'trust'.",
+      "references": ["trust"]
+  }],
+  "related": ["pessimism","ill will","cynicism","skeptical","paranoia"],
+  "opposites": ["trust", "optimism"],
+  "examples": ["assuming your kid will waste too much time with video games", "not trusting the government agency to finish the permit on time", "I don't think that low tire is going to make it to the service station." ],
+  "comparisons": [{
+      "links": ["pessimism"],
+      "description": "Pessimism focuses more on the general outcome, for example, that you're probably going to lose the game. Distrust is about specific things, for instance, that you have bad luck or that your opponent is probably going to cheat."
+  }],
+  "commentaries": [{
+      "quote": "Trust and distrust in new area is based on generalizing characteristics from something similar we do have experience with. Yes, this is basically stereotyping, and it's the way the brain handles the unknown. What matters is the manner of how we approach someone that is not initially trusted."
+  },{
+      "quote": "Low trust is the greatest cost in life and in organizations, including families. Low trust creates hidden agendas, politics, interpersonal conflict, interdepartmental rivalries, win-lose thinking, defensive and protective communication.",
+      "attribution": "Stephen M. R. Covey"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["distrust"],
+          "predominantType": "capacity",
+          "levels": {
+            "1": {
+              "experiences": ["dissatisfaction"]
+            },
+            "4,3,2": {
+              "experiences": ["distrust"]
+            }
+          }
+      }]
+  }]
+}

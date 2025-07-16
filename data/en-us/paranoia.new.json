@@ -1,0 +1,63 @@
+{
+  "lang": "en/us",
+  "createDate": "20250503",
+  "updateDate": "20250711",
+  "name": "paranoia",
+  "valence": -1,
+  "quote": "I'm afraid a poisonous spider will bite me at night.",
+  "description": "A prediction not supported by evidence that a significant problem is likely to happen, causing stress and a desire to avoid the problem.",
+  "perceptions": ["I'm in danger.","There's no evidence, but I'm sure of it."],
+  "desires": ["desire for safety","desire for control"],
+  "sensations": ["fear"],
+  "guidance": [{
+      "description": "If you're experiencing paranoid thoughts, there are things you can do to help yourself cope. You may choose to try them on their own, or alongside treatment.",
+      "attribution": "mind.org.uk",
+      "references": ["https://www.mind.org.uk/information-support/types-of-mental-health-problems/paranoia/self-care-and-support-for-paranoia/"]
+  }],
+  "related": ["anxiety"],
+  "opposites": ["calmness", "optimism"],
+  "examples": ["irrational fear of germs"],
+  "variations": [{
+      "name": "debilitating paranoia",
+      "description": "Your life experience is significantly degraded by avoiding common activities due to fear of trouble not based on credible evidence.",
+      "perceptions": ["I'm in danger.","There's no evidence, but I'm sure of it.","I need to be more careful than others."],
+      "desires": ["desire for safety","desire for control"],
+      "sensations": ["fear"],
+      "guidance": [{
+          "description": "You should consider professional attention.",
+          "references": ["__THERAPY_LINKS__"]
+      }],
+      "examples": ["He's so afraid of accidents, he won't leave the house"]
+  }],
+  "comparisons": [{
+      "links": ["anxiety"],
+      "description": "People sometimes use the term 'paranoia' to just mean 'very anxious'. Anxiety is similar, but less stressful: you can be anxious when alert to a potential problem without losing sleep. Paranoia is amped up anxiety not warranted by the situation that drives inconvenient defensive actions."
+  },{
+      "links": ["paranoid conspiracy"],
+      "description": "Paranoia is more general, not always assuming that a shadowy group is going to cause a problem."
+  },{
+      "links": ["phobia"],
+      "description": "A 'phobia' is a fear of being exposed to something. Being 'paranoid' means you're constantly worried that the thing you fear is right around the corner. For example, you may have a phobia of spiders, but might not be paranoid about spiders getting in your luggage."
+  }],
+  "commentaries": [{
+      "quote": "Success breeds complacency. Complacency breeds failure. Only the paranoid survive.",
+      "attribution": "Andy Grove"
+  },{
+      "quote": "Many people defend 'paranoia' as being a motivator in business and life that encourages awareness and control. But what proponents are probably talking about is low-grade anxiety exaggerated to make a point. Paranoia is higher-grade anxiety that can't be turned off."
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["*"],
+          "predominantType": "sensation",
+          "levels": {
+            "4,3": {
+              "experiences": ["paranoia"]
+            },
+            "2,1": {
+              "experiences": ["fear"]
+            }
+          }
+      }]
+  }]
+}

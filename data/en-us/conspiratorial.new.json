@@ -1,0 +1,44 @@
+{
+  "lang": "en/us",
+  "createDate": "20250428",
+  "updateDate": "20250710",
+  "name": "conspiratorial",
+  "valence": 0,
+  "quote": "We're planning to get people to boycott that business.",
+  "description": "Being part of a group that is considering or implementing a surprise action affecting someone or something. The target of the action may find it postive or negative.",
+  "perceptions": ["This group is going to surprise someone with a secret."],
+  "desires": ["desire for agency","desire to impact positively","desire to impact negatively"],
+  "sensations": ["group bond","anticipation","excitement","keeping a secret","attack","generosity"],
+  "results": ["The secret surprise may be positive or negative in nature, and may succeed or fail.","If the objective is to create a negative experience for the target, it's an attack.","If the objective is to create a positive experience for the target, it may be generous."],
+  "related": ["surprise"],
+  "opposites": ["openness"],
+  "examples": ["planning a big surprise party for someone","rigging an election"],
+  "comparisons": [{
+      "links": ["conspiracy minded"],
+      "description": "'Conspiratorial' is the experience of carrying out an actual conspiracy, while 'conspiracy minded' is the perception that conspiracies are afoot."
+  }],
+  "commentaries": [{
+      "quote": "Being involved in any kind of hidden aggression is going to bond you close to some people and anger others. It might be worth considering whether the cost of social trust is worth the desired new status quo."
+  },{
+      "quote": "The trouble with conspiracies is that they rot internally.",
+      "attribution": "Robert A. Heinlein in 'The Moon Is a Harsh Mistress'"
+  },{
+      "quote": "Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.",
+      "attribution": "Margaret Mead"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["conspiratorial"],
+          "predominantType": "sensation",
+          "levels": {
+            "4,3": {
+              "experiences": ["conspiratorial"]
+            },
+            "2,1": {
+              "experiences": ["excitement", "anxiety"]
+            }
+          }
+      }]
+  }]
+}
