@@ -1,0 +1,52 @@
+{
+    "lang": "en/us",
+    "createDate": "20250717",
+    "updateDate": "20250717",
+    "name": "inappropriate",
+    "valence": -1,
+    "quote": "Watch the language, please.",
+    "description": "A sense that someone's actions are not aligned with proper behavior in a particular social context.",
+    "perceptions": ["A person has said or done something that breaks a minor social rule.","It might be acceptable in other situations, but not this one."],
+    "desires": ["desire for order"],
+    "sensations": ["judging","dissatisfaction"],
+    "personOfInterestExperiences": ["ignorance","forgetfulness","desire to impact negatively"],
+    "related": ["appraisal","contempt","dismay"],
+    "examples": ["Swearing around young kids.","Sharing lewd pictures at work.","Gossiping about someone else's deeply personal topics."],
+    "guidance": [{
+        "description": "Here some guides for handling inappropriate behavior.",
+        "references": ["https://greatergood.berkeley.edu/article/item/six_tips_for_speaking_up_against_bad_behavior","https://www.ksl-training.co.uk/free-resources/customer-service/dealing-with-difficult-behaviour/","https://englishwithkim.com/handle-uncomfortable-questions/"]
+    }],
+    "commentaries": [{
+        "quote": "You've got to change incentives for good behavior as opposed to just disincentivizing bad behavior.",
+        "attribution": "Gavin Newsom"
+    },{
+        "quote": "Knowledge is no guarantee of good behavior, but ignorance is a virtual guarantee of bad behavior.",
+        "attribution": "Martha C. Nussbaum"
+    },{
+        "quote": "When you don't respond to bad behavior, you get more of it.",
+        "attribution": "Carly Fiorina"
+    }],
+    "spectrum": {
+        "unfortunate": 1,
+        "inappropriate": 3,
+        "unacceptable": 5
+    },
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["inappropriate"],
+            "predominantType": "sensation about another",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["inappropriate"]
+              },
+              "2,1": {
+                "experiences": ["dissatisfied"]
+              }
+            }
+        }]
+    }]
+}

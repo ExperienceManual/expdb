@@ -20,14 +20,14 @@
       "description": "'Guilt', 'shame', and 'regret' are all driven by negative outcomes and can all happen at the same time. 'Regret' is a sense of failure in having made a wrong decision or having missed an opportunity. 'Guilt' is a sense of having broken your own personal or social ethical code. 'Shame' is a perception that an important social group has found you deficient in some way."
   },{
       "links": ["embarrassment"],
-      "description": "Regret about an action or inaction is likely a result of an embarrassing social situation, but there are many other things that can cause regret."
+      "description": "Regret about an action or inaction can be a result of an embarrassing social situation, but there are many other things that can cause regret."
   },{
       "links": ["failure"],
-      "description": "A sense of 'failure' is when a desired outcome was not acheived. You may regret the failure immediately, but regret can also happen after you achieved the desired outcome, only to feel later on that a different outcome would have been better."
+      "description": "A sense of 'failure' is when a desired outcome was not achieved. You may regret the failure immediately, but regret can also happen after you achieved the desired outcome, only to feel later on that a different outcome would have been better."
   }],
   "related": ["sadness", "losing", "failure"],
   "opposites": ["happiness", "gaining"],
-  "examples": ["The concert was an unfortunate waste of time.","It's a bummer I ost touch with an old friend."],
+  "examples": ["The concert was an unfortunate waste of time.","It's a bummer I lost touch with an old friend."],
   "variations": [{
       "name": "fear of missing out",
       "alternateNames": ["fomo"],

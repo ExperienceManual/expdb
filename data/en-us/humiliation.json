@@ -1,0 +1,98 @@
+{
+    "lang": "en/us",
+    "createDate": "20250717",
+    "updateDate": "20250717",
+    "name": "humiliation",
+    "valence": -1,
+    "quote": "She called me out in front of class.",
+    "description": "Dismay caused by a negative social judgment and status loss perceived as unwarranted, unfair, or unnecessary.",
+    "perceptions": ["Someone criticized me in front of others.","The criticism was unwarranted, unfair, or unnecessary.","It has damaged my reputation.","I can't properly defend myself."],
+    "desires": ["desire for social status","desire for order"],
+    "sensations": ["dismay","resentment","injustice","defense"],
+    "related": ["shame"],
+    "opposites": ["dignity","pride"],
+    "examples": ["playground taunting","dunce cap","being the subject of rumors"],
+    "guidance": [{
+        "description": "Humiliation can feel so intensely painful and debilitating that advice for dealing with it may seem futile. Maybe in those early moments, it is hard to do anything but wallow in your own distress, but there are some useful tips out there.",
+        "attribution": "Bella DePaulo Ph.D.",
+        "references": ["https://www.psychologytoday.com/us/blog/living-single/201402/10-steps-for-getting-over-humiliation"]
+    },{
+        "description": "The experience of humiliation can have severe and lasting consequences for mental health, particularly for individuals with pre-existing vulnerabilities.",
+        "attribution": "Joni E Johnston Psy.D.",
+        "references": ["https://www.psychologytoday.com/us/blog/the-human-equation/202406/the-anatomy-of-public-humiliation-at-work"]
+    }],
+    "variations": [{
+        "name": "humiliating",
+        "description": "Publicly taking action to talk about or punish an aspect of someone perceived as negative even though it doesn't break a rule.",
+        "perceptions": ["That person needs to learn a lesson or needs to be lowered in status.","There's an aspect of them I could use to criticize."],
+        "desires": ["desire for social status"],
+        "sensations": ["judgment","righteousness","attack"],
+        "personOfInterestExperiences": ["humilation"],
+        "examples": ["Telling an embarrassing story about someone in front of an important audience."],
+        "related": ["shaming"],
+        "opposites": ["appreciation","encouragement"],
+        "comparisons": [{
+            "links": ["shaming"],
+            "description": "With 'shaming', there's an accusation of breaking an important social rule. 'Humiliating' someone is a general attack on their status and self-worth even when no rule was broken."
+        }],
+        "guidance": [{
+            "description": "3 Psychological Reasons Even The Nicest People Are Willing To Be Cruel Sometimes: (1) We enjoy belonging to the (supposedly) superior group. (2) We feel safe from attack when we join a group humiliating others. (3) We use funny hit-and-run remarks to express contempt, dissatisfaction, and anger.",
+            "attribution": "Rhoberta Shaler, PhD",
+            "references": ["https://www.yourtango.com/self/psychological-reasons-even-nice-people-cruel-sometimes"]
+        }]
+    }],
+    "comparisons": [{
+        "links": ["shame"],
+        "description": "'Shame' is a lowered sense of self-worth from a perception that your actions reveal something negative about you. With 'humiliation', someone is attacking you socially for something that seems unfair or unnecessary and you're not allowed to defend yourself."
+    }],
+    "commentaries": [{
+        "quote": "Oh, humiliation is poisonous. It's one of the deepest pains of being human.",
+        "attribution": "Pierce Brosnan"
+    },{
+        "quote": "We learn humility through accepting humiliations cheerfully.",
+        "attribution": "Mother Theresa"
+    },{
+        "quote": "As a forensic psychologist and workplace investigator, I have witnessed the profound and lasting impact that public humiliation can have on an individual's mental health and well-being. It is a deeply painful emotion that strikes at the core of a person's identity and sense of self-worth. It goes far beyond mere embarrassment or shame, as it involves a public rejection or invalidation of one's social status or desired identity.",
+        "attribution": "Joni E Johnston Psy.D."
+    },{
+        "quote": "Don't ever humiliate a man. If you're gonna have to dress him out, you take him aside and do it that way.",
+        "attribution": "Rip Torn"
+    }],
+    "spectrum": {
+        "embarrassment": 2,
+        "humiliation": 5,
+        "degraded": 8
+    },
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["humilation"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2": {
+                "experiences": ["humiliation"]
+              },
+              "2,1": {
+                "experiences": ["dismay"]
+              }
+            }
+        },{
+            "names": ["humilating"],
+            "predominantType": "action",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2": {
+                "experiences": ["humilating"]
+              }, 
+              "2,1": { 
+                "experiences": ["dismay"]
+              }
+            }
+        }]
+    }]
+}

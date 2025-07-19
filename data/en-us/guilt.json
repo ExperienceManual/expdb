@@ -21,8 +21,8 @@
       "links": ["shame"],
       "description": "Guilt is a self-recognition of a mistaken behavior while shame is when there's a perceived external message that you're not meeting expectations."
   },{
-      "links": ["embarassment"],
-      "description": "Embarassment is a relatively minor discomfort about failing to meet social expectations. Guilt is a more significant experience from failing to meet one your own important standards."
+      "links": ["embarrassment"],
+      "description": "Embarrassment is a relatively minor discomfort about failing to meet social expectations. Guilt is a more significant experience from failing to meet one your own important standards."
   }],
   "commentaries": [{
       "quote": "I'm just going to say it: I'm pro-guilt. Guilt is good. Guilt helps us stay on track because it's about our behavior. It occurs when we compare something we've done—or failed to do—with our values.",
@@ -31,9 +31,9 @@
       "quote": "Guilt upon the conscience, like rust upon iron, both defiles and consumes it, gnawing and creeping into it, as that does which at last eats out the very heart and substance of the metal.",
       "attribution": "Bishop Robert South"
   },{
-      "quote": "Habitual guilt points to where you expect yourself to be pure and perfect. It seems to be an unconcious way of doing penance in hopes of being forgiven by existence."
+      "quote": "Habitual guilt points to where you expect yourself to be pure and perfect. It seems to be an unconscious way of doing penance in hopes of being forgiven by existence."
   }],
-  "spectrum": {"embarassment": 2, "guilt": 5, "remorse": 7},
+  "spectrum": {"guilt": 5, "remorse": 7},
   "models": [{
       "version": "em1",
       "variations": [{

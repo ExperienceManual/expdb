@@ -1,0 +1,86 @@
+{
+    "lang": "en/us",
+    "createDate": "20250718",
+    "updateDate": "20250718",
+    "name": "awkwardness",
+    "valence": -1,
+    "quote": "Um, maybe we could, er, dance a little?",
+    "description": "Social tension from making a minor social mistake or not knowing what to do or say next.",
+    "perceptions": ["I made a minor social mistake.","I'm not sure what to do next.","I'm concerned about my social image."],
+    "desires": ["desire for social contact","desire for social status"],
+    "sensations": ["anxiety","uncertainty","social tension","inappropriate"],
+    "related": ["humor"],
+    "opposites": ["grace"],
+    "examples": ["Saying something slightly inappropriate.","Physical or verbal stumbling in front of others."],
+    "guidance": [{
+        "description": "You can work on being less awkward by connecting with empathy, practicing social interactions, and learning to read social cues. We’ll dive into these practical tips, but first, let’s step back and look at this nerve-wracking topic from a broader POV.",
+        "attribution": "Matt Lurie",
+        "references": ["https://www.ruby.com/blog/how-to-be-less-awkward/"]
+    }],
+    "comparisons": [{
+        "links": ["social anxiety"],
+        "description": "'Awkwardness' is more about not knowing what to do or say in a certain situation while 'social anxiety' is frequent awkwardness and the fear of being judged. Awkwardness may be a part of an overall social anxiety, or it could just be a short pause in the conversation after someone says something unusual."
+    }],
+    "variations": [{
+        "name": "awkwardness in others",
+        "description": "Social tension from someone else making a minor social mistake or not knowing what to do or say next.",
+        "perceptions": ["Someone made a minor social mistake.","I'm uncertain how to respond."],
+        "desires": ["desire for social contact","desire for social status"],
+        "sensations": ["anxiety","uncertainty","social tension","inappropriate","humor"],
+        "examples": ["Pause in the conversation after someone says something personal.","Someone stumbles physically or verbally."],
+        "related": ["judging"],
+        "personOfInterestExperiences": ["awkwardness"],
+        "guidance": [{
+            "description": "This article will help with awkward situations. Instead of getting caught by awkwardness like a deer in headlights, understand how you can master these situations instead.",
+            "attribution": "Gil",
+            "references": ["https://medium.com/@thinking-in-english/handling-awkwardness-in-conversations-ff77f6bcc77f"]
+        }]
+    }],
+    "commentaries": [{
+        "quote": "Awkwardness is a more real disadvantage than it is generally thought to be; it often occasions ridicule, it always lessens dignity.",
+        "attribution": "Lord Chesterfield"
+    },{
+        "quote": "Awkwardness is such a gold mine for comedy.",
+        "attribution": "Paul Rudd"
+    },{
+        "quote": "Sometimes there is such beauty in awkwardness.",
+        "attribution": "Ruta Sepetys"
+    },{
+        "quote": "God may forgive sins, he said, but awkwardness has no forgiveness in heaven or earth.",
+        "attribution": "Ralph Waldo Emerson"
+    }],
+    "spectrum": {
+    },
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["awkwardness"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["awkwardness"]
+              },
+              "2,1": {
+                "experiences": ["anxiety","uncertainty"]
+              }
+            }
+        },{
+            "names": ["awkwardness in others"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["awkwardness in others"]
+              },
+              "2,1": {
+                "experiences": ["anxiety","uncertainty"]
+              }
+            }
+        }]
+    }]
+}

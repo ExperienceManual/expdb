@@ -1,11 +1,11 @@
 {
   "lang": "en/us",
   "createDate": "20250504",
-  "updateDate": "20250712",
+  "updateDate": "20250718",
   "name": "anxiety",
   "valence": -1,
   "quote": "I'm nervous about tomorrow's presentation.",
-  "description": "Your brain is sending a mild threat signal it wants you to resolve. The threat may be triggered by something real, imagined, traumatic memories, or biological sensitivy.",
+  "description": "Your brain is sending a mild threat signal it wants you to resolve. The threat may be triggered by something real, imagined, traumatic memories, or biological sensitivity.",
   "perceptions": ["My brain is telling me that there's a threat.","I ought to try avoiding the threat somehow.","I'm uncertain how to resolve it even if I understand the source."],
   "desires": ["desire for comfort","desire for control"],
   "sensations": ["anticipation","doubt"],
@@ -29,10 +29,25 @@
           "references": ["https://health.clevelandclinic.org/performance-anxiety-stage-fright"]
       }],
       "examples": ["public speaking", "sports championship","paying the bills when short on money"]
+    },{
+      "name": "social anxiety",
+      "description": "Fear of negative judgment or appraisal in social situations.",
+      "perceptions": ["I don't know how to handle this social interaction."],
+      "desires": ["desire for social status","desire for comfort"],
+      "sensations": ["anticipation","doubt","awkwardness","low self-regard"],
+      "guidance": [{
+          "description": "Strategies for overcoming social anxiety depend both on your individual personality and how much the disorder is affecting your life.",
+          "attribution": "Cleveland Clinic",
+          "references": ["https://health.clevelandclinic.org/how-to-overcome-social-anxiety"]
+      },{
+          "description": "If your anxiety is affecting the quality of your life, you might consider seeing a professional.",
+          "references": ["https://www.mayoclinic.org/diseases-conditions/social-anxiety-disorder/diagnosis-treatment/drc-20353567"]
+      }],
+      "examples": ["Stress going to a party where you don't know anyone.","Feeling overwhelmed in a crowd."]
   }],
   "comparisons": [{
       "links": ["fear"],
-      "description": "Anxiety and fear are sometimes used interchangably. Fear is major anxiety driven by something that could significantly affect your body or identity that floods the brain with fight-or-flight chemicals."
+      "description": "Anxiety and fear are sometimes used interchangeably. Fear is major anxiety driven by something that could significantly affect your body or identity that floods the brain with fight-or-flight chemicals."
   },{
       "links": ["doubt"],
       "description": "'Doubt' means that you're not sure about something. 'Anxiety' is the physical stress caused by sensing that this uncertainty could potentially cause a problem."

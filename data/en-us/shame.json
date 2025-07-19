@@ -1,0 +1,112 @@
+{
+    "lang": "en/us",
+    "createDate": "20250716",
+    "updateDate": "20250717",
+    "name": "shame",
+    "valence": -1,
+    "quote": "I'm so mortified.",
+    "description": "Dismay about how an action may have brought unwanted negative judgment from others, a lower sense of self-worth, and a prediction of a long-term loss of social status.",
+    "perceptions": ["I did something to bring major negative attention to myself.","I did not want this type of attention.","I may lose status in a social relationship from this.","I feel badly about myself."],
+    "desires": ["desire for social status"],
+    "sensations": ["dismay","regret","unhealthy self-regard"],
+    "related": ["shame","guilt","failure sickness"],
+    "opposites": ["attention-seeking weird","apathy"],
+    "examples": ["I forgot my best friend's birthday and she's irritated about it."],
+    "guidance": [{
+        "description": "Many people experience a pattern of shame that is enduring and pervasive. Learning to meet shame with self-compassion is key to altering this pattern.",
+        "attribution": "Michaela B Swee and Susan Murray",
+        "references": ["https://psyche.co/guides/how-to-cope-with-shame-by-understanding-where-it-comes-from"]
+    }],
+    "variations": [{
+        "name": "shaming",
+        "description": "Pointing out negative aspects of someone's behavior as breaking an important social rule.",
+        "perceptions": ["That person is not following an important social rule.","They don't seem to recognize the gravity of this.","Someone needs to enforce that rule."],
+        "desires": ["desire for order","desire for social status"],
+        "sensations": ["dismay","judgment","righteousness","attack"],
+        "results": ["Taking an action to remind someone about the rule."],
+        "personOfInterestExperiences": ["shame","unwarranted shame","embarrassment"],
+        "examples": ["Name calling","public shaming"],
+        "opposites": ["encouragement"],
+        "related": ["criticism","humiliation"],
+        "guidance": [{
+            "description": "Using shame to get others to do what we want is easy, but damaging.",
+            "attribution": "Melissa Kirk",
+            "references": ["https://www.psychologytoday.com/us/blog/test-case/201106/shame-you-do-you-use-shame-control-others"]
+        }]
+    },{
+        "name": "unwarranted shame",
+        "description": "A sense that someone is trying to reduce your social status for something minor or something you didn't do.",
+        "perceptions": ["Someone is claiming that I broke an important rule.","I did not, or don't agree the supposed infraction was important."],
+        "desires": ["desire for order"],
+        "sensations": ["resentment","injustice"],
+        "related": ["contempt","group hostility"],
+        "guidance": [{
+            "description": "Unjustified public shaming shouldn't make you question your self-worth.",
+            "attribution": "Jennifer L Keluskar Ph.D.",
+            "references": ["https://www.psychologytoday.com/us/blog/alone-together/202412/coping-with-unjustified-public-shaming"]
+        }]
+    }],
+    "commentaries": [{
+        "quote": "Shame is the most powerful, master emotion. It's the fear that we're not good enough.",
+        "attribution": "Brené Brown"
+    },{
+        "quote": "Whatever is begun in anger, ends in shame.",
+        "attribution": "Benjamin Franklin"
+    },{
+        "quote": "Heightened self-consciousness, apartness, an inability to join in, physical shame and self-loathing—they are not all bad. Those devils have been my angels. Without them I would never have disappeared into language, literature, the mind, laughter and all the mad intensities that made and unmade me.",
+        "attribution": "Stephen Fry"
+    },{
+        "quote": "Patriotism demands the ability to feel shame as much as to feel pride.",
+        "attribution": "Anne-Marie Slaughter"
+    }],
+    "spectrum": {
+        "embarrassment": 5,
+        "shame": 8
+    },
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["shame"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2": {
+                "experiences": ["shame"]
+              },
+              "2,1": {
+                "experiences": ["dismay"]
+              }
+            }
+        },{
+            "names": ["shaming"],
+            "predominantType": "action",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2": {
+                "experiences": ["shaming"]
+              },
+              "2,1": {
+                "experiences": ["dismay"]
+              }
+            }
+        },{
+            "names": ["unwarranted shame"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2": {
+                "experiences": ["injustice"]
+              },
+              "2,1": {
+                "experiences": ["dismay"]
+              }
+            }
+        }]
+    }]
+}

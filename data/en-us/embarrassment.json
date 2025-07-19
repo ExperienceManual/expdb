@@ -1,0 +1,59 @@
+{
+    "lang": "en/us",
+    "createDate": "20250716",
+    "updateDate": "20250716",
+    "name": "embarrassment",
+    "valence": -1,
+    "quote": "I spilled the drink on my date.",
+    "description": "Dismay about how an action may have brought unwanted negative attention from others with a prediction of a short-term loss of social status.",
+    "perceptions": ["I did something to bring minor negative attention to myself.","I did not want this type of attention.","The impact is uncomfortable but should be relatively short-lived."],
+    "desires": ["desire for social status"],
+    "sensations": ["dismay","regret"],
+    "related": ["shame","guilt"],
+    "opposites": ["attention-seeking weird","apathy"],
+    "examples": ["Wearing casual clothes to an important formal event."],
+    "guidance": [{
+        "description": "Nearly everyone experiences embarrassment from time to time. Whether you’ve said something you didn’t mean, made a mistake, or had an awkward social moment, you aren’t alone. Embarrassment can make you feel self-conscious and often involves feeling out of place, shameful, or uncomfortable in a social situation. Although you may not be able to avoid embarrassing situations entirely, there are tips you can follow to help move on from embarrassing moments.",
+        "attribution": "Marissa Moore",
+        "references": ["https://psychcentral.com/blog/how-to-overcome-embarrassment"]
+    }],
+    "comparisons": [{
+        "links": ["shame"],
+        "description": "'Embarrassment' is a sense that you've broken a minor rule that you did not want to break, while 'shame' is a more intense feeling that you've broken an important major rule."
+    }],
+    "commentaries": [{
+        "quote": "Embarrassment is a form of social pain.",
+        "attribution": "Christine Harris"
+    },{
+        "quote": "When we get embarrassed, we want to hide. Just crawl into a hole. The fear of judgment and rejection can eat away at our psyche until isolation seems like the only option.",
+        "attribution": "Stephanie Cox MS"
+    },{
+        "quote": "Being embarrassed means that you're human, and we like you better for it.",
+        "attribution": "Nick Morgan"
+    },{
+        "quote": "The best way to handle awkward moments is to gracefully move on, and, if possible, try to find humor in the situation.",
+        "attribution": "Diane Domeyer"
+    }],
+    "spectrum": {
+        "embarrassment": 5,
+        "shame": 8
+    },
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["embarrassment"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2": {
+                "experiences": ["embarrassment"]
+              },
+              "1": {
+                "experiences": ["dismay"]
+              }
+            }
+        }]
+    }]
+}

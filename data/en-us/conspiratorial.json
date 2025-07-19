@@ -5,7 +5,7 @@
   "name": "conspiratorial",
   "valence": 0,
   "quote": "We're planning to get people to boycott that business.",
-  "description": "Being part of a group that is considering or implementing a surprise action affecting someone or something. The target of the action may find it postive or negative.",
+  "description": "Being part of a group that is considering or implementing a surprise action affecting someone or something. The target of the action may find it positive or negative.",
   "perceptions": ["This group is going to surprise someone with a secret."],
   "desires": ["desire for agency","desire to impact positively","desire to impact negatively"],
   "sensations": ["group bond","anticipation","excitement","keeping a secret","attack","generosity"],
