@@ -76,6 +76,7 @@ Here are some guiding assumptions:
 - **Thousand year rule** - we won't take a specific perspective other than to encourage things that our descendants 1,000 years in the future will care about. We need to let society decide which experiences to encourage and which to discourage.
 - **No Center** - The mind is an complicated emergent system with no single component or concern at the center. Just as Jerusalem was dethroned as the center of a flat earth, no particular part of the mind (ego, soul, amygdala, etc) is a keystone.
 - **Architect for multiple perspectives** - We need to allow for multiple underlying explanations for experiences as long as they're coherent and illuminating.
+- **Global** - The initial collection is in English, so it's expected that commentaries and perspectives will be centered on the English-speaking world, but the goal is to cover as much of the human condition as feasible.
 - **Living Manual** - for those who might want to consider best practices, we should strive to keep up with being a hub pointing to reputable and well-considered resources.
 - **Be responsible** - We need to deal carefully with mental health problems. This collection is not a self-help replacement for the DSM and professional therapy.
 - **Don't forget to smile** - yes, we should do our best, but the future will smile at our ignorance no matter what. Our job is to inch forward and be well-adjusted people.

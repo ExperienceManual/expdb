@@ -8,7 +8,7 @@
     "description": "Social tension from making a minor social mistake or not knowing what to do or say next.",
     "perceptions": ["I made a minor social mistake.","I'm not sure what to do next.","I'm concerned about my social image."],
     "desires": ["desire for social contact","desire for social status"],
-    "sensations": ["anxiety","uncertainty","social tension","inappropriate"],
+    "sensations": ["anxiety","uncertainty","social tension","inappropriate","shyness"],
     "related": ["humor"],
     "opposites": ["grace"],
     "examples": ["Saying something slightly inappropriate.","Physical or verbal stumbling in front of others."],
@@ -50,6 +50,9 @@
         "attribution": "Ralph Waldo Emerson"
     }],
     "spectrum": {
+        "clumsiness": 4,
+        "awkwardness": 5,
+        "geeky": 5
     },
     "models": [{
         "version": "em1",

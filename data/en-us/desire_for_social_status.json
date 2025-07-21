@@ -38,7 +38,8 @@
       "description": "Wanting to have your social value confirmed.",
       "perceptions": ["I'm not sure where I stand with a particular social group.","I would like to confirm that my standing is still positive."],
       "sensations": ["anxiety"],
-      "results": ["seek a way to confirm others approval"],
+      "results": ["seek a way to confirm approval from others"],
+      "related": ["unhealthy self-regard"],
       "guidance": [{
           "description": "If you find yourself seeking validation more often than healthy, consider seeking support resources.",
           "references": ["https://psychcentral.com/health/steps-to-stop-seeking-approval-from-others","https://hbr.org/2023/12/overcoming-your-need-for-constant-validation-at-work"]

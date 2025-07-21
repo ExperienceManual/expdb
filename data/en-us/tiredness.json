@@ -1,8 +1,9 @@
 {
   "lang": "en/us",
   "createDate": "20250209",
-  "updateDate": "20250530",
+  "updateDate": "20250719",
   "name": "tiredness",
+  "alternateNames": ["exhaustion"],
   "valence": -1,
   "quote": "I slept until noon after a crazy week.",
   "description": "State of physical weakness or mental weariness resulting from excessive stress or over-stimulation.",

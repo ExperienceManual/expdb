@@ -1,0 +1,126 @@
+{
+  "lang": "en/us",
+  "createDate": "20250217",
+  "updateDate": "20250720",
+  "name": "disadvantaged",
+  "valence": -1,
+  "quote": "I don't know how to solve this problem.",
+  "description": "The sense that your cannot influence the shared environment as much as you need to, or as much as others can. ",
+  "perceptions": ["I do not have as much ability to change the environment or solve a problem as much as others."],
+  "desires": ["desire for agency","desire to improve"],
+  "sensations": ["pessimism","resentment","frustration"],
+  "guidance": [{
+      "description": "Sometimes the disadvantage is real and you're just going to have to work at getting better. Other times, your influence may still matter.",
+      "references": ["https://www.peaksports.com/sports-psychology-blog/athletes-who-intimidate-themselves-before-competing/","https://thecyberguild.org/blog-posts/6-tips-to-manage-more-experienced-employees/"]
+  }],
+  "related": ["agency"],
+  "opposites": ["advantaged"],
+  "variations": [{
+      "name": "facing the impossible",
+      "alternateNames": ["powerless"],
+      "description": "The sense that a significant challenge or threat is not possible to overcome and that there will be negative consequences.",
+      "perceptions": ["I do not have the ability to change the environment or solve a problem.","There will be negative consequences."],
+      "sensations": ["hopelessness"],
+      "guidance": [{
+          "description": "I don’t have a nicely packaged set of tips to overcome whatever impossible task you are facing. Unfortunately, it doesn’t work that way. That’s the nature of the impossible task – it’s impossible. I can’t change that for you anymore than I can change it for myself. But what I can do – what I hope to do – is share some of the lessons I’ve learned over the years that have helped me make it through some pretty daunting challenges. And in so doing, I hope I can help make your next impossible challenge a tiny bit less impossible.",
+          "attribution": "Brendan Reid",
+          "references": ["https://brendanreid.com/blog/how-to-overcome-an-impossible-task/"]
+      }],
+      "examples": ["saving everyone in a natural disaster","saving someone from an incurable disease"]
+  },{
+      "name": "socially disadvantaged",
+      "description": "A perception that you have relatively little influence on the social environment.",
+      "perceptions": ["I do not have much ability to change the social environment or solve a social problem.","Others have the ability to do this.","I don't fully trust them or I'm not sure whether I can trust them."],
+      "desires": ["desire for social influence","desire to improve"],
+      "sensations": ["resentment","frustration"],
+      "guidance": [{
+          "description": "See guidance for social influence.",
+          "references": ["social influence"]
+      }],
+      "examples": ["oppressed minority","women in a patriarchal society"]
+  },{
+      "name": "physically disadvantaged",
+      "description": "The sense that your are less able than most to be able to shape the physical environment for the benefit of you or your social group.",
+      "perceptions": ["I lack the ability to change the physical environment in particular way.","Other people would have more success than me."],
+      "desires": ["desire to improve","desire for social influence"],
+      "guidance": [{
+          "description": "See guidance for 'physically advantaged'.",
+          "references": ["physically advantaged"]
+      }],
+      "examples": ["a disability","being out of shape","inexperienced at a physical task"]
+  },{
+      "name": "knowledge disadvantage",
+      "description": "The sense that you are less able than most to be able to resolve problems in the world of ideas.",
+      "perceptions": ["I lack the ability to resolve problems in the idea environment.","Other people would have more success than me."],
+      "desires": ["desire to improve","desire for social influence"],
+      "guidance": [{
+          "description": "See guidance for 'mentally advantaged'.",
+          "references": ["mentally advantaged"]
+      }],
+      "examples": ["having done poorly in school","not seeking to learn"],
+      "commentaries": [{
+          "quote": "This covers people with 'normal' brains who have chosen to not exercise them in particular ways. It does not cover the experience of being 'mentally disadvantaged' as in a medical diagnosis.",
+          "tags": ["definition footnote"]
+      }]
+  },{
+      "name": "inferiority",
+      "description": "The sense that you have a general disadvantage over another because you're a worse person than they are.",
+      "perceptions": ["I do not have as much ability to change the environment or solve a problem as much as others.","This is because I am a worse person than they are."],
+      "desires": ["desire for agency","desire to improve"],
+      "sensations": ["unhealthy self-regard","pessimism","resentment","frustration"],
+      "guidance": [{
+          "description": "It’s normal to experience feelings of inadequacy or inferiority in certain circumstances, like failing a test, getting passed over for a promotion, or being dumped by a partner. But if you have an inferiority complex, these feelings are strong and persistent despite the situation.",
+          "attribution": "Julie Lynn Marks and Christine Byrne, MPH, RD, LDN",
+          "references": ["https://www.everydayhealth.com/inferiority-complexhow-to-treat-inferiority-complex-therapy-medication-and-more/"]
+      }],
+      "examples": ["buying into messages of sexism, racism, elitism, etc."]
+  }],
+  "spectrum": {
+      "incompetent": 3,
+      "insignificance": 3,
+      "disadvantaged": 5,
+      "weakness": 8
+  },
+  "commentaries": [{
+      "quote": "Disadvantages can help propel you to see your situation from different perspectives and find approaches to succeed that you might not otherwise have found. Advantages can blind you from the necessity to keep searching for better ways to pursue success.",
+      "attribution": "Dan Coughlin"
+  },{
+      "quote": "The most common reason we stumble into the delusion of powerlessness is that we're afraid of what other people would do or say or feel if we were to act as we wanted.",
+      "attribution": "Martha Beck"
+  },{
+      "quote": "Many people with autism struggle with reading nonverbal cues and acting on them. When you lose that ability to understand and process nonverbal cues, you're at a huge disadvantage socially.",
+      "attribution": "Rana el Kaliouby"
+  },{
+      "quote": "It seems to be a law of design that for every advantage introduced through redesign, there is an accompanying unintended disadvantage.",
+      "attribution": "Henry Petroski"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["disadvantaged","physically disadvantaged"],
+          "predominantType": "node",
+          "levels": {
+            "3,2,1": {
+              "experiences": ["disadvantaged"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["socially disadvantaged","mentally disadvantaged","facing the impossible"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2": {
+              "experiences": ["disadvantaged"]
+            },
+            "1": {
+              "experiences": ["dissatisfaction"]
+            }
+          }
+      }]
+  }]
+}

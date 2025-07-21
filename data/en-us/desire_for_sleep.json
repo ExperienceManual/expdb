@@ -11,7 +11,7 @@
       "description": "If you're having trouble with sleep, consider researching on your own or seeking help.",
       "references": ["https://medlineplus.gov/sleepdisorders.html","https://www.sleepfoundation.org/sleep-hygiene"]
   }],
-  "related": ["tiredness", "exhaustion"],
+  "related": ["tiredness"],
   "opposites": ["desire for stimulation"],
   "variations": [{
       "name": "escape sleep",

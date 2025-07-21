@@ -1,0 +1,80 @@
+{
+    "lang": "en/us",
+    "createDate": "20250720",
+    "updateDate": "20250720",
+    "name": "fairness",
+    "valence": 1,
+    "quote": "You get one, I get one.",
+    "description": "A perception that an outcome was as balanced as it could be.",
+    "perceptions": ["An outcome occurred where people got appropriate proportions of something."],
+    "desires": ["desire for order"],
+    "sensations": ["satisfaction"],
+    "related": ["trust","appraisal"],
+    "opposites": ["unfairness"],
+    "examples": ["Everyone gets the same amount.","People get an amount that depends on their effort."],
+    "guidance": [{
+        "description": "Fairness is a subjective concept meaning a just or appropriate action. Being fair is seen as a difficult and exceptional quality in leaders and in relationships as well. Although the world may not be seen in black and white, or right and wrong, in all situations, you can increase your chances of being fair by giving other people the time and consideration they deserve.",
+        "attribution": "WikiHow",
+        "references": ["https://www.wikihow.com/Be-Fair"]
+    },{
+        "description": "Do you know how to be fair to yourself? Most people never think about themselves when it comes to fairness. Yet, self-fairness is essential.",
+        "attribution": "Suzanne Kane",
+        "references": ["https://www.linkedin.com/pulse/how-fair-yourself-best-powerful-tips-suzanne-kane-mbw2c"]
+    }],
+    "variations": [{
+        "name": "justice",
+        "description": "A perception that the outcome or process of a social judgement was aligned with deeply important rules.",
+        "perceptions": ["Someone chose an outcome that affects me.","I agree with the outcome.","They adhered to the moral rules as they should have."],
+        "desires": ["desire for justice"],
+        "sensations": ["satisfaction"],
+        "related": ["trust"],
+        "opposites": ["injustice"],
+        "examples": ["Guilty person goes to prison.","A bad person has a bad thing happen to them."],
+        "comparisons": [{
+            "links": ["fairness"],
+            "description": "Justice is a type of fairness where there's a moral or legal aspect."
+        }],
+        "guidance": [{
+            "description": "Just societies realize human rights, leaving no one behind. That’s the central promise of the Sustainable Development Goals. Everyone should have enough food, and quality health care and education. All kinds of discrimination must end. Daily life is where a just society begins. In all you do, be fair. Be kind. Be generous.",
+            "attribution": "United Nations",
+            "references": ["https://www.un.org/en/actnow/ten-actions-just-society"]
+        }]
+    }],
+    "commentaries": [{
+        "quote": "When you consider a solution to a problem, several options or approaches likely come to mind. Fairness should be considered when weighing the pros and cons of each possible solution. However, it’s often not. Other considerations include expedience, return on investment, recognition, catapulting to the top, or beating the competition. Ask yourself, is that fair?",
+        "attribution": "Suzanne Kane"
+    },{
+        "quote": "Live so that when your children think of fairness, caring, and integrity, they think of you.",
+        "attribution": "H. Jackson Brown, Jr."
+    },{
+        "quote": "Fairness is not an attitude. It's a professional skill that must be developed and exercised.",
+        "attribution": "Brit Hume"
+    },{
+        "quote": "Death is the fairest thing in the world. No one's ever gotten out of it. The earth takes everyone - the kind, the cruel, the sinners. Aside from that, there's no fairness on earth.",
+        "attribution": "Svetlana Aleksievich"
+    },{
+        "quote": "Being good is easy, what is difficult is being just.",
+        "attribution": "Victor Hugo"
+    },{
+        "quote": "What's fair ain't necessarily right.",
+        "attribution": "Toni Morrison"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["fairness","justice"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["fairness"]
+              },
+              "2,1": {
+                "experiences": ["satisfaction"]
+              }
+            }
+        }]
+    }]
+}

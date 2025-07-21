@@ -47,7 +47,7 @@
       "description": "If a higher social status comes with decision-making power over others, it may come with a sense of self-worth. Ideally, an increase in power comes with an increase in responsibility.",
       "perceptions": ["I've gained standing with a social group that's important to me.","This will put me in a position to make important decisions."],
       "desires": ["desire for social status"],
-      "sensations": ["gaining","happiness","powerful"],
+      "sensations": ["gaining","happiness","advantaged"],
       "guidance": [{
           "description": "Gaining power at work without sufficient preparation can undermine the ability to effectively lead, manage, and coach teams. Three Remedies to Not Let Power Go to Your Head as a New Leader: Showing Authentic Vulnerability, Having Routine 'Level-with-me' Conversations, Always Listening for Subtext.",
           "attribution": "LSA Global",
@@ -166,7 +166,7 @@
               "experiences": ["narration"]
             },
             "3,2": {
-              "experiences": ["gain of social status","powerful"]
+              "experiences": ["gain of social status","advantaged"]
             },
             "1": {
               "experiences": ["delight"]

@@ -7,7 +7,7 @@
   "quote": "I got a new bike!",
   "description": "Recognition that you have a valued asset that many others may not have.",
   "perceptions": ["I have something that others would like to have."],
-  "sensations": ["appreciation","gratitude","powerful","healthy self-regard"],
+  "sensations": ["appreciation","gratitude","advantaged","healthy self-regard"],
   "guidance": [{
       "description": "People with 'enough' money often don't feel wealthy. If you have a solid net worth, this article is worth considering.",
       "references": ["https://www.whitecoatinvestor.com/10-ways-to-feel-rich/"]
@@ -22,7 +22,7 @@
       "description": "A sense that you have more of a valued physical asset than many others.",
       "perceptions": ["I have something that others would like to have.","Not everyone can have this."],
       "desires": ["desire for territory"],
-      "sensations": ["appreciation","gratitude","powerful"],
+      "sensations": ["appreciation","gratitude","advantaged"],
       "examples": ["money", "rare collectibles"],
       "related": ["generosity","greed"],
       "commentaries": [{
@@ -33,7 +33,7 @@
       "name": "wealthy in a non-scarce resource",
       "description": "A sense that you have more of a valued social or mental asset than many others.",
       "perceptions": ["I have something that others would like to have.","Pretty much everyone could have this if they spent the time and effort."],
-      "sensations": ["appreciation","gratitude","powerful"],
+      "sensations": ["appreciation","gratitude","advantaged"],
       "examples": ["knowledge", "health", "patience", "beauty"],
       "related": ["desire for knowledge","desire for comfort"],
       "commentaries": [{

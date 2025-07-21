@@ -1,0 +1,48 @@
+{
+  "lang": "en/us",
+  "createDate": "20250720",
+  "updateDate": "20250720",
+  "name": "validation",
+  "valence": 1,
+  "quote": "She agreed with me.",
+  "description": "A perception that someone is confirming some aspect of your social value.",
+  "perceptions": ["A person or group has indicated that they find value in something I did, said, or represent.","They might have not perceived value, so it's good that they did."],
+  "desires": ["desire for validation"],
+  "sensations": ["satisfaction","delight"],
+  "related": ["desire for social status","healthy self-regard","justice"],
+  "opposites": ["doubt", "anticipation"],
+  "examples": ["Getting invited to an exclusive party.","Getting an award.","Being told 'I love you'."],
+  "guidance": [{
+      "description": "If you find yourself regularly seeking too much validation from others to the point where it begins to hurt you and interfere with your daily functioning, there are ways you can manage this behavior.",
+      "attribution": "Shahida Arabi, MA",
+      "references": ["https://psychcentral.com/health/steps-to-stop-seeking-approval-from-others"]
+  }],
+  "commentaries": [{
+      "quote": "If you're finding yourself constantly in search of praise or approval from others, it's important to recognize that you may be caught in a toxic and draining cycle of dissatisfaction. Reliance on external validation leaves us vulnerable to the opinions and judgments of others, eroding our self-esteem and hindering our ability to develop a strong sense of self-worth.",
+      "attribution": "Laura Embry, CLC"
+  },{
+      "quote": "The most important progress and success can't be seen. If you can validate yourself internally, then external validation becomes a byproduct.",
+      "attribution": "Brittany Burgunder"
+  },{
+      "quote": "Stop trying to get validation from people who can't or won't acknowledge your feelings. This reflects their inability to empathize. It's a failure on their part and has nothing to do with you.",
+      "attribution": "Jacqueline Simon Gunn"
+  },{
+      "quote": "Just like children, emotions heal when they are heard and validated.",
+      "attribution": "Jill Bolte Taylor"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["validation"],
+          "predominantType": "capacity",
+          "levels": {
+            "4,3,2,1": {
+                "experiences": ["validation"]
+            },
+            "1": {
+                "experiences": ["satisfaction"]
+            }
+          }
+      }]
+  }]
+}

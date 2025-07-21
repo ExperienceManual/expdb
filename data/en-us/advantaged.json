@@ -1,22 +1,26 @@
 {
   "lang": "en/us",
   "createDate": "20250217",
-  "updateDate": "20250604",
-  "name": "powerful",
+  "updateDate": "20250720",
+  "name": "advantaged",
+  "alternateNames": ["powerful"],
   "valence": 0,
   "quote": "I know how to solve this problem.",
-  "description": "The sense that you have an ability to influence the shared environment more than others. We all have an ability to change our environment, but don't make much of it unless we perceive ourselves much better or worse at it than other people.",
+  "description": "The sense that you have an ability to influence an aspect of the shared environment more than others. This sense is based on a perception of a relative advantage in skill, characteristics, or other assets.",
   "perceptions": ["I have the ability to change the environment or solve a problem.","I can do this better than many other people."],
-  "desires": ["desire to improve","desire for social influence"],
-  "sensations": ["pride","responsibility","self-confidence"],
+  "desires": ["desire for a particular outcome","desire for social influence"],
+  "sensations": ["pride","responsibility","self-confidence","optimism"],
   "related": ["agency"],
-  "opposites": ["powerless"],
+  "opposites": ["disadvantaged"],
   "comparisons": [{
       "links": ["agency"],
       "description": "'Agency' is the lack of constraint for doing something while 'power' is the actual ability to get something done, whether it's your will or not."
+  },{
+      "links": ["optimism"],
+      "description": "A sense of being 'advantaged' often comes with being optimistic about a particular outcome, but not always. For example, if you're a star sports player, the other team may emphasize working against you."
   }],
   "variations": [{
-      "name": "socially powerful",
+      "name": "socially advantaged",
       "description": "Also known as 'politics', this is having the authority to decide who's right, how different kinds of people interact with other, and what the group should value.",
       "perceptions": ["I have the ability to change the social environment or solve a social problem.","I can do this more effectively than many other people."],
       "desires": ["desire to improve","desire for social influence"],
@@ -27,7 +31,7 @@
       }],
       "examples": ["mediator","mayor","prime minister"]
   },{
-      "name": "physically powerful",
+      "name": "physically advantaged",
       "description": "The sense that your are more able than most to be able to shape the physical environment for the benefit of you or your social group.",
       "perceptions": ["I have the ability to change the physical environment.","I can do this more effectively than many other people."],
       "desires": ["desire to improve","desire for social influence"],
@@ -38,7 +42,7 @@
       }],
       "examples": ["physical strength","access to a tool"]
   },{
-      "name": "mentally powerful",
+      "name": "mentally advantaged",
       "description": "The sense that you are more able than most to be able to resolve problems in the world of ideas.",
       "perceptions": ["I have the ability to resolve problems in the idea environment.","I can do this more effectively than many other people."],
       "desires": ["desire to improve","desire for social influence"],
@@ -54,19 +58,34 @@
       }],
       "examples": ["being smart","being wise"]
   },{
-      "name": "average power",
+      "name": "average effectiveness",
       "description": "We all have the ability to change our environment in small and average ways. But we tend to take everyday abilities for granted.",
       "perceptions": ["I have the ability to change the environment or solve a problem.","My ability to do this is not higher or lower than most other people."],
       "comparisons": [{
-          "links": ["powerful","powerlessness"],
-          "description": "Most adults have the power to dig a hole or solve a simple math problem. But we know that our ability for these things is average so doing them does not provide much sensation. You only feel 'powerful' if you have a backhoe to dig the hole or are able to solve complex math problems. Likewise, you may feel 'powerless' if your arthritis prevents you from digging a hole or a brain injury causes you to forget addition."
+          "links": ["advantaged","disadvantaged"],
+          "description": "Most adults have the power to dig a hole or solve a simple math problem. But we know that our ability for these things is average so doing them does not provide much sensation. You only feel a sense of 'advantage' if you have a backhoe to dig the hole or are able to solve complex math problems. Likewise, you may feel 'disadvantaged' if your arthritis prevents you from digging a hole or a brain injury causes you to forget math."
       }]
+  },{
+      "name": "superiority",
+      "description": "The sense that you have a general advantage over another because you're a better person than they are.",
+      "perceptions": ["I have the ability to change the environment or solve a problem.","I can do this better than many other people.","This is because I'm a better person than they are."],
+      "desires": ["desire for a particular outcome","desire for social influence"],
+      "sensations": ["pride","responsibility","healthy self-regard","optimism","contempt"],
+      "related": ["agency","hubris","unhealthy self-regard"],
+      "opposites": ["inferiority"],
+      "guidance": [{
+          "description": "A superiority complex is a belief that your abilities or accomplishments are somehow dramatically better than other people’s. People with a superiority complex may be condescending, smug, or mean to other people who don’t agree with them. Here’s everything you need to know about superiority complexes and how they affect people.",
+          "attribution": "WebMD",
+          "references": ["https://www.webmd.com/mental-health/what-is-a-superiority-complex"]
+      }],
+      "examples": ["racism","elitism"]
   }],
   "spectrum": {
       "competent": 3,
       "influential": 3,
       "significance": 3,
-      "powerful": 5,
+      "advantaged": 5,
+      "powerful": 7,
       "greatness": 8,
       "super powered": 8
   },
@@ -74,15 +93,17 @@
       "quote": "With great power comes great responsibility.",
       "attribution": "Uncle Ben from Spiderman"
   },{
-      "quote": "On physical power: if you've never chopped down a tree or dug a big hole, it may be hard for you to understand why our ancestors valued physical strength so much. It's difficult work and we humans really like our wood and our holes."
-  },{
-      "quote": "On mental power: if you've never balanced a spreadsheet, your new business is likely to fail. If you've never solved an equation, your bridge is probably going to collapse. Ideas are important in shaping a complex environment."
-  },{
-      "quote": "[The founders of the United States] were insightful students of human nature. They feared the abuse of power because they understood that every human being has not only 'better angels' in his nature, but also an innate vulnerability to temptation — especially the temptation to abuse power over others.",
-      "attribution": "Al Gore, Address at New York University 2004"
-  },{
       "quote": "Nothing discloses real character like the use of power. It is easy for the weak to be gentle. Most people can bear adversity. But if you wish to know what a man really is, give him power. This is the supreme test. It is the glory of Lincoln that, having almost absolute power, he never abused it, except on the side of mercy.",
       "attribution": "Robert G. Ingersoll"
+  },{
+      "quote": "Sometimes, idealistic people are put off the whole business of networking as something tainted by flattery and the pursuit of selfish advantage. But virtue in obscurity is rewarded only in Heaven. To succeed in this world you have to be known to people.",
+      "attribution": "Sonia Sotomayor"
+  },{
+      "quote": "A person who won't read has no advantage over one who can't read.",
+      "attribution": "Mark Twain"
+  },{
+      "quote": "To be an effective leader, you have to have a manipulative streak - you have to figure out the people working for you and give each tasks that will take advantage of his strength.",
+      "attribution": "Norman Schwarzkopf"
   },{
       "quote": "It's good to be the king.",
       "attribution": "Mel Brooks"
@@ -90,36 +111,36 @@
   "models": [{
       "version": "em1",
       "variations": [{
-          "names": ["powerful","physically powerful"],
+          "names": ["advantaged","physically advantaged"],
           "predominantType": "node",
           "levels": {
             "3,2,1": {
-              "experiences": ["powerful"]
+              "experiences": ["advantaged"]
             },
             "4": {
               "experiences": ["narration"]
             }
           }
       },{
-          "names": ["socially powerful","mentally powerful"],
+          "names": ["socially advantaged","mentally advantaged"],
           "predominantType": "sensation",
           "levels": {
             "4": {
               "experiences": ["narration"]
             },
             "3,2": {
-              "experiences": ["powerful"]
+              "experiences": ["advantaged"]
             },
             "1": {
               "experiences": ["satisfaction"]
             }
           }
       },{
-          "names": ["average power"],
+          "names": ["average effectiveness"],
           "predominantType": "action",
           "levels": {
             "3,2,1": {
-              "experiences": ["average power"]
+              "experiences": ["average effectiveness"]
             },
             "4": {
               "experiences": ["narration"]

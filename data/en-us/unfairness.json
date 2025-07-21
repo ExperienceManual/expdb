@@ -1,0 +1,94 @@
+{
+    "lang": "en/us",
+    "createDate": "20250719",
+    "updateDate": "20250719",
+    "name": "unfairness",
+    "valence": -1,
+    "quote": "I never win!",
+    "description": "A perception that an outcome was not balanced as it should be.",
+    "perceptions": ["An outcome occurred where some people got more or less of something than they deserved."],
+    "desires": ["desire for order"],
+    "sensations": ["dismay","someone else cheating","anxiety","anger","sadness"],
+    "related": ["distrust","cynicism","appraisal"],
+    "opposites": ["fairness"],
+    "examples": ["One person gets a bigger piece of pie."],
+    "guidance": [{
+        "description": "What Should You Do When Life is Unfair? Dealing with Unfairness",
+        "attribution": "Julie Coraccio",
+        "references": ["https://reawakenyourbrilliance.com/what-should-you-do-when-life-is-unfair-how-to-deal-with-unfairness/"]
+    }],
+    "variations": [{
+        "name": "injustice",
+        "description": "A perception that the outcome or process of a social judgement was not aligned with deeply important rules.",
+        "perceptions": ["Someone chose an outcome that affects me.","I don't agree with the outcome.","They did not adhere to the moral rules as they should have."],
+        "desires": ["desire for justice"],
+        "sensations": ["dismay","someone else cheating","anxiety","anger","sadness","fear"],
+        "related": ["distrust","cynicism"],
+        "opposites": ["justice"],
+        "examples": ["A false accusation wrongly lands someone in prison.","A good person has a bad thing happen to them."],
+        "comparisons": [{
+            "links": ["unfairness"],
+            "description": "An injustice is a type of unfairness where there's a moral or legal aspect."
+        }],
+        "guidance": [{
+            "description": "Persistent anger and feelings of injustice—directed toward a particular person, circumstance, or yourself—come with a steep price tag: They rob you of happiness in the moment and have negative impacts on your health. Here’s what you can do to begin to gain control so you have a better outcome. After all, you can't change what happened in the past. The only thing you can alter is your present experience.",
+            "attribution": "Beth Darnall PhD",
+            "references": ["https://www.psychologytoday.com/us/blog/empowered-relief/201412/9-tips-stop-anger-and-injustice-hurting-you"]
+        }]
+    },{
+        "name": "unfairness of nature",
+        "description": "A perception that the natural world is attacking people, animals, or plants.",
+        "perceptions": ["Nature is not always fair to people, animal, and plant individuals."],
+        "desires": ["desire for order"],
+        "sensations": ["empathy"],
+        "examples": ["natural disasters","birth defects","orcas eating a whale's calf","vines smothering a tree"],
+        "guidance": [{
+            "description": "Since life is not a symphony of fairness, but a jazz improvisation of asymmetries, the first step towards acceptance  is to acknowledge this inherent randomness, this inherent unfairness. It is not an enemy to be defeated, but a dance partner to be embraced.",
+            "attribution": "Aaron Gray",
+            "references": ["https://www.the-invisibleman.com/life/why-is-life-so-unfair"]
+        }]
+    }],
+    "comparisons": [{
+        "links": ["losing","cheating"],
+        "description": "Losing can feel unfair if you suspect someone cheated to win. But you may also recognize a loss as having been fair."
+    }],
+    "commentaries": [{
+        "quote": "'Fairness' can depend on context that's not always immediately visible. Maybe the kid who got the bigger piece of pie worked all day for it and the other kids did nothing."
+    },{
+        "quote": "He who commits injustice is ever made more wretched than he who suffers it.",
+        "attribution": "Plato"
+    },{
+        "quote": "The ultimate tragedy is not the oppression and cruelty by the bad people but the silence over that by the good people.",
+        "attribution": "Martin Luther King Jr."
+    },{
+        "quote": "I always write about war, love, death, and injustice. There's plenty of that around, so I never run out of ideas.",
+        "attribution": "Lemmy"
+    },{
+        "quote": "If something seems unfair, just prove yourself by working twice as hard and being twice as good.",
+        "attribution": "Amy Chua"
+    },{
+        "quote": "We're all glad that we aren’t bad people until we wake up one morning and say, 'What have I done?' Our brains are hard-wired toward self-serving bias. A whole slew of psychological biases facilitates our bad behavior, helping us justify, rationalize, selectively forget and attribute in ways that are self-serving.",
+        "attribution": "Lamar Pierce"
+    },{
+        "quote": "Nature was neither fair nor unfair. Those terms belonged to the world of men.",
+        "attribution": "Carsten Jensen"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["unfairness","injustice","unfairness of nature"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["unfairness"]
+              },
+              "2,1": {
+                "experiences": ["dismay"]
+              }
+            }
+        }]
+    }]
+}

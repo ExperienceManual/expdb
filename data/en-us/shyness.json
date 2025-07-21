@@ -1,0 +1,71 @@
+{
+    "lang": "en/us",
+    "createDate": "20250720",
+    "updateDate": "20250720",
+    "name": "shyness",
+    "alternateNames": ["bashfulness"],
+    "valence": 0,
+    "quote": "I won't be comfortable at a party with so many people.",
+    "description": "Discomfort when interacting socially with an unfamiliar person or group.",
+    "perceptions": ["I don't know this person or group.","I'm concerned they might find something wrong with me, or I might make a mistake.","I'm not confident in my social skills."],
+    "desires": ["desire for quiet","desire for social status"],
+    "sensations": ["discomfort","awkwardness","social anxiety","humility"],
+    "results": ["You might prefer to avoid the social interaction.","You might remain quiet during the encounter.","You might warm up to the interaction and be fine."],
+    "related": ["timidness","unhealthy self-regard"],
+    "opposites": ["outgoing"],
+    "examples": ["Being quiet around strangers.","Avoiding meeting new people."],
+    "guidance": [{
+        "description": "Maybe the thought of meeting new people leaves you shaky, sweaty, and nauseous. You doubt other people have any interest in you, and, during conversations, you worry what the other person thinks about you. Shyness usually doesn’t disappear on its own, but the 12 strategies below can help you take steps toward feeling more comfortable around others and with yourself.",
+        "attribution": "Crystal Raypole",
+        "references": ["https://www.healthline.com/health/mental-health/how-to-stop-being-shy"]
+    },{
+        "description": "If you're shy, insecure, or socially anxious you're likely operating under some common counterproductive beliefs and worries, even if you're not conscious of all of them. Many of these thoughts have various cognitive distortions at their hearts. They also have a general unifying theme of feeling every social interaction must go well or something bad will happen.",
+        "attribution": "Chris MacLeod, MSW",
+        "references": ["https://www.succeedsocially.com/shyworries"]
+    },{
+        "description": "10 Good Things About Shyness That You Can Use To Your Advantage",
+        "attribution": "Arlin Cuncic, MA",
+        "references": ["https://www.verywellmind.com/advantages-of-being-shy-3024704"]
+    }],
+    "comparisons": [{
+        "links": ["awkwardness"],
+        "description": "Shyness is an often self-fulfilling anxiety about the possibility of feeling awkward around new people. Rather than risking making a social mistake, a shy person may avoid some social interactions or just handle them with minimal interaction. The feeling of awkwardness comes after a perceived mistake."
+    },{
+        "links": ["timidness"],
+        "description": "Shyness is about social interactions. Timidness is a lack of courage that can also apply beyond social situations."
+    }],
+    "commentaries": [{
+        "quote": "My shyness probably defined the first 30 years of my life, really. It's a crippling thing. It can be very lonely knowing that you've got things to say, but you daren't say them.",
+        "attribution": "Bob Mortimer"
+    },{
+        "quote": "I can be very shy...but when I'm around people I know, I can be extremely loud.",
+        "attribution": "Avril Lavigne"
+    },{
+        "quote": "If you are shy or socially anxious you probably tend to look before you leap. This trait can be helpful when it comes to many life decisions.",
+        "attribution": "Arlin Cuncic, MA"
+    },{
+        "quote": "At the root of the shy temperament is a deep fear of social judgment, one so severe it can sometimes be crippling.",
+        "attribution": "Jeffrey Kluger"
+    },{
+        "quote": "Don't try to be what you're not. If you're nervous, be nervous. If you're shy, be shy. It's cute.",
+        "attribution": "Adriana Lima"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["shyness"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2": {
+                "experiences": ["shyness"]
+              },
+              "1": {
+                "experiences": ["anxiety"]
+              }
+            }
+        }]
+    }]
+}

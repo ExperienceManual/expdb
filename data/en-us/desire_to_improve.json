@@ -1,8 +1,9 @@
 {
   "lang": "en/us",
   "createDate": "20250202",
-  "updateDate": "20250527",
+  "updateDate": "20250719",
   "name": "desire to improve",
+  "alternateNames": ["desire for a particular outcome"],
   "valence": 0,
   "quote": "Practice makes perfect.",
   "description": "Wanting to make yourself or the situation better in a particular way.",

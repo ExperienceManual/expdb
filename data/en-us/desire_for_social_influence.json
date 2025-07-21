@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250120",
-  "updateDate": "20250522",
+  "updateDate": "20250719",
   "name": "desire for social influence",
   "valence": 0,
   "quote": "Listen up people...",
@@ -43,7 +43,7 @@
           "description": "There are parenting and workplace guides to help think about reasonable consequences.",
           "references": ["https://www.cdc.gov/parenting-toddlers/discipline-consequences/consequences.html","https://www.aihr.com/blog/disciplinary-action/"]
       }],
-      "related": ["powerful"],
+      "related": ["advantaged"],
       "examples": ["parenting","managing a business","dictatorship"]
   },{
       "name": "desire to make your mark",
@@ -80,6 +80,12 @@
           "description": "There are many ways to volunteer in your community.",
           "references": ["https://www.volunteermatch.org/","https://www.indeed.com/career-advice/finding-a-job/how-to-find-a-volunteer-opportunity"]
       }]
+  },{
+      "name": "desire for justice",
+      "description": "A preference for an outcome that is perceived to be aligned with important rules.",
+      "perceptions": ["A person or group is going to influence the outcome of an event.","I want them to abide by important rules for making this decision."],
+      "desires": ["desire for order"],
+      "examples": ["Wanting an apology from someone.","Wanting a court case to go a certain way."]
   }],
   "commentaries": [{
       "quote": "If you would persuade, you must appeal to interest rather than intellect.",
@@ -158,7 +164,7 @@
               "experiences": ["narration"]
             },
             "3,2": {
-              "experiences": ["desire for social influence","desire for social status","desire for agency","annoyance","powerful"]
+              "experiences": ["desire for social influence","desire for social status","desire for agency","annoyance","advantaged"]
             },
             "1": {
               "experiences": ["desire for stimulation","desire for safety"]

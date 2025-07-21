@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250412",
-  "updateDate": "20250707",
+  "updateDate": "20250719",
   "name": "optimism",
   "valence": 1,
   "quote": "I think we're going to win.",
@@ -13,6 +13,10 @@
       "description": "Literally hundreds of studies show that pessimists give up more easily and get depressed more often. These experiments also show that optimists do much better in school and college, at work and on the playing field. They regularly exceed the predictions of aptitude tests. When optimists run for office, they are more apt to be elected than pessimists are. Their health is unusually good. They age well, much freer than most of us from the usual physical ills of middle age. Evidence suggests they may even live longer.",
       "attribution": "Dr. Martin Seligman",
       "references": ["https://www.jodymichael.com/blog/10-ways-to-cultivate-optimism/"]
+  },{
+      "description": "Eight ways to give yourself a pep talk when you feel stuck",
+      "attribution": "Rachel Goldsmith Turow",
+      "references": ["https://psyche.co/guides/eight-ways-to-give-yourself-a-pep-talk-when-you-feel-stuck"]
   }],
   "related": ["hope", "trust", "faith"],
   "opposites": ["pessimism", "anxiety"],
@@ -22,13 +26,26 @@
       "description": "A general pattern of positive predictions -- that most things will work out just fine.",
       "perceptions": ["I can live with most outcomes.","Things generally turn out ok in the end."]
   },{
-      "name": "encouraging optimism",
+      "name": "encouraged by others",
+      "description": "Someone's words or actions provide hope that a desired outcome is possible or progressing.",
+      "perceptions": [ "There's a particular outcome I prefer.","Someone has focused my attention on the possibility of this outcome still happening."],
+      "desires": ["desire for a particular outcome"],
+      "sensations": ["hope"],
+      "examples": ["listening to a sports pep talk"]
+  },{
+      "name": "encouraging others",
+      "alternateNames": ["encouragement"],
       "description": "Focusing someone's attention on a potential positive outcome.",
       "perceptions": [ "This person or group would prefer a certain outcome.", "I might be able to improve their mood by helping them see that outcome as a possibility." ],
       "desires": ["desire to impact positively"],
       "sensations": ["empathy"],
       "personOfInterestExperiences": ["many negative"],
-      "examples": ["sports pep talk"]
+      "examples": ["giving a sports pep talk"],
+      "guidance": [{
+          "description": "As a leader, a major part of your responsibility is to influence the thinking and behavior of other people. And sooner or later you’ll be standing in front of a group who need to hear a “pep” talk to motivate them to achieve something special, something beyond their self-limiting beliefs.",
+          "attribution": "John Millen",
+          "references": ["https://www.johnmillen.com/blog/how-to-give-a-winning-pep-talk"]
+      }]
   }],
   "comparisons": [{
       "links": ["pessimism", "cynicism", "skepticism"],
