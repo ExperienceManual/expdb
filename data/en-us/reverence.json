@@ -1,0 +1,57 @@
+{
+    "lang": "en/us",
+    "createDate": "20250723",
+    "updateDate": "20250723",
+    "name": "reverence",
+    "alternateNames": ["sacred"],
+    "valence": 1,
+    "timescale": ["unknown"],
+    "rarity": ["unknown"],
+    "frequency": ["unknown"],
+    "quote": "Our pastor's quiet wisdom is humbling.",
+    "description": "A feeling of existential respect for someone or something tinged with wonder or awe.",
+    "perceptions": ["This thing or person is deeply aligned with an important existential pattern.","This thing or person inspires me to be a better person."],
+    "desires": ["desire for meaning"],
+    "sensations": ["wonder","awe"],
+    "opposites": ["contempt"],
+    "examples": ["A religious figure.","Your country's national anthem at the Olympics.","A meaningful holiday.","Being in a favorite natural place."],
+    "guidance": [{
+        "description": "Reverence is a fundamental spiritual quality that enables us to connect with the divine and experience a sense of awe and wonder in the world around us. The way we practice reverence is shaped by cultural norms and our inherited value set. It can vary widely across different peoples, cultures and traditions. There are many ways to model reverence in the home.",
+        "attribution": "Meagan Rose Wilson",
+        "references": ["https://meaganrosewilson.com/2023/03/cultivating-a-sense-of-reverence-in-your-family-home/"]
+    }],
+    "commentaries": [{
+        "quote": "Let parents then bequeath to their children not riches but the spirit of reverence.",
+        "attribution": "Plato"
+    },{
+        "quote": "Your footprints are a tale of reverence or a record of ignorance.",
+        "attribution": "Craig D. Lounsbrough"
+    },{
+        "quote": "Science enhances the moral value of life, because it furthers a love of truth and reverence...",
+        "attribution": "Max Planck"
+    },{
+        "quote": "By having a reverence for life, we enter into a spiritual relation with the world By practicing reverence for life we become good, deep, and alive.",
+        "attribution": "Albert Schweitzer"
+    },{
+        "quote": "The more reverence we have for the Word of God, the more joy we shall find in it.",
+        "attribution": "Matthew Henry"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["reverence"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["reverence"]
+              },
+              "2,1": {
+                "experiences": ["delight"]
+              }
+            }
+        }]
+    }]
+}

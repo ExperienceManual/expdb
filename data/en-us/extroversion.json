@@ -1,0 +1,57 @@
+{
+    "lang": "en/us",
+    "createDate": "20250721",
+    "updateDate": "20250722",
+    "name": "extroversion",
+    "alternateNames": ["extraversion"],
+    "valence": 0,
+    "quote": "I need a break, let's socialize.",
+    "description": "A preference for a balance of socially-driven stimulation more than internally-driven stimulation.",
+    "perceptions": ["Being with people enriches my world.","Being alone can be nice, but my preference is for more socially-driven experiences."],
+    "desires": ["desire for stimulation","desire for social contact"],
+    "related": ["social ease"],
+    "opposites": ["introversion"],
+    "comparisons": [{
+        "links": ["social contact"],
+        "description": "'Social contact' is the immediate sensation of interacting with people. 'Extroversion' is the general enjoyment of these sensations and confidence in those interactions."
+    }],
+    "guidance": [{
+        "description": "A Guide for Extroverts Living or Working with an Introvert",
+        "attribution": "Devon Cornelius",
+        "references": ["https://introvertdear.com/news/introvert-guide-extroverts/"]
+    }],
+    "commentaries": [{
+        "quote": "You can think of introversion and extroversion as a single personality trait that exists on a spectrum. Total introversion is on one end. Total extroversion is on the other. Most of us have personality traits and display behaviors that fall somewhere in between. We just typically lean more heavily in one direction than the other.",
+        "attribution": "Katie Nave"
+    },{
+        "quote": "People with high extroversion tend to relate well to others, and are often well-liked in their teams and offices. They form quick and easy friendships, and their outgoing nature leads to effective group-work.",
+        "attribution": "Nick Lyon"
+    },{
+        "quote": "In a way, education by its nature favours the extrovert because you are taking kids and putting them into a big classroom, which is automatically going to be a high-stimulation environment.",
+        "attribution": "Susan Cain"
+    },{
+        "quote": "Leave an extrovert alone for two minutes and he will reach for his cell phone.",
+        "attribution": "Jonathan Rauch"
+    },{
+        "quote": "There are a lot of people out there who are exactly half extrovert and half introvert and they love to be extroverts as long as they have enough time to go off and figure it all out.",
+        "attribution": "Dar Williams"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["extroversion"],
+            "predominantType": "pattern",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2": {
+                "experiences": ["extroversion"]
+              },
+              "1": {
+                "experiences": ["many"]
+              }
+            }
+        }]
+    }]
+}

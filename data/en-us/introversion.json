@@ -1,0 +1,60 @@
+{
+    "lang": "en/us",
+    "createDate": "20250721",
+    "updateDate": "20250722",
+    "name": "introversion",
+    "valence": 0,
+    "quote": "I need a break from socializing.",
+    "description": "A preference for a balance of internally-driven mental stimulation more than socially-driven stimulation.",
+    "perceptions": ["My inner experiences are stimulating and rich enough.","Being with people can be nice, but my preference is for more internally-driven experiences."],
+    "related": ["shyness","solitude"],
+    "opposites": ["extroversion"],
+    "comparisons": [{
+        "links": ["solitude"],
+        "description": "'Solitude' is a particular experience, while introversion and extroversion are preferences. An introverted person probably seeks solitude more often than an extroverted person."
+    },{
+        "links": ["introspection"],
+        "description": "'Introspection' is an activity, while introversion and extraversion are preferences. An introverted person probably introspects more often than an extroverted person."
+    },{
+        "links": ["extroversion"],
+        "description": "We each have a mental comfort zone. We can engage outside of that zone, but it can take willpower and feel like work. Inside of that zone, we're at home. For introverts, the mental comfort zone is more internal and involves less social engagement. For extroverts it's the opposite: social time is more comfortable than self-driven experiences."
+    }],
+    "guidance": [{
+        "description": "If you're an introvert but need to socialize for any reason, there are resources that may help. Here are a few.",
+        "references": ["https://www.ableto.com/self-care/introverts-guide-to-socializing/","https://www.youtube.com/watch?v=6NcSt3CiHoA&t=117","https://hopeaboveall.com/the-introverts-practical-approach-to-social-events/"]
+    }],
+    "commentaries": [{
+        "quote": "You can think of introversion and extroversion as a single personality trait that exists on a spectrum. Total introversion is on one end. Total extroversion is on the other. Most of us have personality traits and display behaviors that fall somewhere in between. We just typically lean more heavily in one direction than the other.",
+        "attribution": "Katie Nave"
+    },{
+        "quote": "Introverts may feel more comfortable in smaller groups because these take less of a hit on their energy level. Smaller groups may also allow for more in-depth conversations, which introverts tend to favor.",
+        "attribution": "Victoria Prasad"
+    },{
+        "quote": "Be a loner. That gives you time to wonder, to search for the truth. Have holy curiosity. Make your life worth living.",
+        "attribution": "Albert Einstein"
+    },{
+        "quote": "Don’t think of introversion as something that needs to be cured… Spend your free time the way you like, not the way you think you’re supposed to.",
+        "attribution": "Susan Cain"
+    },{
+        "quote": "Introverts are viewed negatively at times because their quiet nature is sometimes read as haughty, standoffish, or some kind of character flaw.",
+        "attribution": "Tiffany Carter"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["introversion"],
+            "predominantType": "pattern",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2": {
+                "experiences": ["introversion"]
+              },
+              "1": {
+                "experiences": ["many"]
+              }
+            }
+        }]
+    }]
+}

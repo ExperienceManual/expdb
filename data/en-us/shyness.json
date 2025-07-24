@@ -32,7 +32,10 @@
         "description": "Shyness is an often self-fulfilling anxiety about the possibility of feeling awkward around new people. Rather than risking making a social mistake, a shy person may avoid some social interactions or just handle them with minimal interaction. The feeling of awkwardness comes after a perceived mistake."
     },{
         "links": ["timidness"],
-        "description": "Shyness is about social interactions. Timidness is a lack of courage that can also apply beyond social situations."
+        "description": "Shyness is specifically about social interactions. Timidness is a lack of courage that also applies beyond social situations."
+    },{
+        "links": ["introversion"],
+        "description": "It's sometimes thought that introverted people are always shy, and while many are, this isn't always the case. Some introverts can be comfortable socially, but they expend energy to do so and need alone time to 'recharge'".
     }],
     "commentaries": [{
         "quote": "My shyness probably defined the first 30 years of my life, really. It's a crippling thing. It can be very lonely knowing that you've got things to say, but you daren't say them.",
@@ -49,6 +52,9 @@
     },{
         "quote": "Don't try to be what you're not. If you're nervous, be nervous. If you're shy, be shy. It's cute.",
         "attribution": "Adriana Lima"
+    },{
+        "quote": "I believe you learn social skills by mixing with people.",
+        "attribution": "Joe Morgan"
     }],
     "models": [{
         "version": "em1",

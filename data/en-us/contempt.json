@@ -18,7 +18,7 @@
       "references": ["https://neurolaunch.com/contemptuous-behavior/"]
   }],
   "related": ["group hostility", "aversion","misanthropy","lowness"],
-  "opposites": ["admiration"],
+  "opposites": ["admiration","reverence"],
   "variations": [{
       "name": "bullying contempt",
       "description": "A feeling of dislike-for and superiority-over someone mainly to raise your status or distract attention about your behavior.",
@@ -61,7 +61,7 @@
       "quote": "To argue with a man who has renounced the use and authority of reason, and whose philosophy consists in holding humanity in contempt, is like administering medicine to the dead, or endeavoring to convert an atheist by scripture.",
       "attribution": "Thomas Paine"
   }],
-  "spectrum": {"ill will": 2, "contempt": 5, "enmity": 6, "group hostility": 6, "tribalism": 8},
+  "spectrum": {"ill will": 2, "contempt": 5, "enmity": 6, "group hostility": 6, "scorn": 7, "tribalism": 8},
   "models": [{
       "version": "em1",
       "variations": [{

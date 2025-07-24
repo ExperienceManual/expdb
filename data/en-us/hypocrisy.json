@@ -1,0 +1,90 @@
+{
+    "lang": "en/us",
+    "createDate": "20250723",
+    "updateDate": "20250723",
+    "name": "hypocrisy",
+    "alternateNames": ["observed hypocrisy"],
+    "valence": -1,
+    "timescale": ["unknown"],
+    "rarity": ["unknown"],
+    "frequency": ["unknown"],
+    "quote": "",
+    "description": "A perception that someone uses one set of standards to judge themslves but a different set to judge others.",
+    "perceptions": ["That person said one thing but is doing another."],
+    "desires": ["desire for order"],
+    "sensations": ["dissatisfaction","cynicism","distrust","someone else cheating"],
+    "personOfInterestExperiences": ["desire for optimal","conscious hypocrisy","desire for social status","dissonance"],
+    "related": ["cheating"],
+    "opposites": ["integrity"],
+    "examples": ["holier-than-thou person having an affair","boss checking social media during work after telling employees not to"],
+    "guidance": [{
+        "description": "It's not easy to know what to do when confronted with hypocrisy. Here are some references.",
+        "references": ["https://www.wikihow.com/Deal-with-Hypocrites","https://www.betterhelp.com/advice/how-to/posers-hypocrites-and-conmen-how-to-deal-with-fake-people/"]
+    }],
+    "variations": [{
+        "name": "conscious hypocrisy",
+        "description": "Being aware that you're acting in a way you've told others not to act.",
+        "perceptions": ["I told others not to do this.","I need to do it anyway."],
+        "desires": ["desire for optimal","desire for social status"],
+        "sensations": ["dissonance","denial"],
+        "examples": ["A teacher who cheats on a test","A politician who votes with his party against his personal principles."],
+        "opposites": ["integrity"],
+        "related": ["cheating"],
+        "guidance": [{
+            "description": "If you want to avoid hypocrisy in your own life, and maintain the trust you’ve worked so hard to build, then you’re in luck because much research tells us that there are at least nine different things you can do keep hypocrisy at bay as you navigate the often turbulent waters of life.",
+            "attribution": "Tyler Tervooren",
+            "references": ["https://www.riskology.co/hypocrisy/"]
+        }]
+    }],
+    "comparisons": [{
+        "links": ["cheating"],
+        "description": "Outside observers will likely interpret a hypocritical act as form of cheating. It will erode their trust in that person."
+    }],
+    "commentaries": [{
+        "quote": "Hypocrite people have a public and a private face. They use different masks depending on the situation. They pretend to be what they aren’t, generally to take advantage, receive social approval or place themselves above the others.",
+        "attribution": "Jennifer Delgado"
+    },{
+        "quote": "The true hypocrite is the one who ceases to perceive his deception, the one who lies with sincerity",
+        "attribution": "Imam Ali"
+    },{
+        "quote": "Hypocrites in the Church? Yes, and in the lodge and at the home. Don't hunt through the Church for a hypocrite. Go home and look in the mirror.",
+        "attribution": "Billy Sunday"
+    },{
+        "quote": "Being unable to live up to a difficult ideal is garden-variety hypocrisy. The thing that makes others upset is manipulative, duplicative, self-beneficial behavior."
+    },{
+        "quote": "Force may make hypocrites, but it can never make converts.",
+        "attribution": "William Penn"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["hypocrisy"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["hypocrisy"]
+              },
+              "2,1": {
+                "experiences": ["dissatisfaction"]
+              }
+            }
+        },{
+            "names": ["conscious hypocrisy"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["conscious hypocrisy"]
+              },
+              "2,1": {
+                "experiences": ["dissonance"]
+              }
+            }
+        }]
+    }]
+}

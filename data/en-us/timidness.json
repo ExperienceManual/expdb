@@ -1,0 +1,55 @@
+{
+    "lang": "en/us",
+    "createDate": "20250721",
+    "updateDate": "20250721",
+    "name": "timidness",
+    "valence": -1,
+    "quote": "",
+    "description": "A desire to avoid outcomes where there's a prediction of any type of danger or chance of failure.",
+    "perceptions": ["It's important that I avoid any type of physical or social injury.","It would be best to avoid outcomes that could result in injury, anxiety, or failure."],
+    "desires": ["desire for safety"],
+    "sensations": ["anxiety","shyness"],
+    "results": ["May avoid getting involved in activities or social interactions."],
+    "related": ["fear","failure","unhealthy self-regard"],
+    "opposites": ["courage"],
+    "examples": ["Never taking a shot in basketball.","Avoiding adventurous experiences.","Avoiding meeting new people."],
+    "guidance": [{
+        "description": "Successful performermances require a certain level of fearlessness. This is because there must be an underlying acceptance and acknowledgment of the possibility of failure.",
+        "attribution": "Eli Straw",
+        "references": ["https://www.successstartswithin.com/sports-psychology-articles/fear-of-failure-in-sports/why-fear-of-failure-causes-you-to-play-timidly/"]
+    },{
+        "description": "See guidance for shyness.",
+        "references": ["shyness"]
+    }],
+    "commentaries": [{
+        "quote": "A timid mind is apt to mistake every scratch for a mortal wound.",
+        "attribution": "George Gordon Byron"
+    },{
+        "quote": "Don't be too timid and squeamish about your actions. All life is an experiment. The more experiments you make the better.",
+        "attribution": "Ralph Waldo Emerson"
+    },{
+        "quote": "Timid men prefer the calm of despotism to the tempestuous sea of liberty.",
+        "attribution": "Thomas Jefferson"
+    },{
+        "quote": "A timid act may be more bold than one would first assume, for whispering truth is braver than to silently resume.",
+        "attribution": "Richelle E. Goodrich"
+    }],
+    "spectrum": {
+        "cautious": 2,
+        "timidness": 5,
+        "inhibited": 6,
+        "cowardice": 8
+    },
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["timidness"],
+            "predominantType": "impulse",
+            "levels": {
+              "4,3,2,1": {
+                "experiences": ["timidness"]
+              }
+            }
+        }]
+    }]
+}

@@ -1,0 +1,47 @@
+{
+    "lang": "en/us",
+    "createDate": "20250723",
+    "updateDate": "20250723",
+    "name": "flow",
+    "valence": 1,
+    "timescale": ["unknown"],
+    "rarity": ["unknown"],
+    "frequency": ["unknown"],
+    "quote": "Time just flew by.",
+    "description": "Total immersion in an activity that balances challenge, skills, and reward. When you achieve flow, time passes quickly and you lose a sense of self-consciousness.",
+    "perceptions": ["This task is an optimal challenge for my skill level: it's difficult, but I can still achieve it.","The task is clear and rewarding.","It's totally absorbing so my ordinary worries fade away."],
+    "sensations": ["satisfaction","meaning"],
+    "related": ["expertise"],
+    "opposites": ["boredom"],
+    "examples": ["your favorite hobby"],
+    "guidance": [{
+        "description": "Flow is a state of mind in which a person becomes fully immersed in an activity. Achieving this state can help people feel greater enjoyment, energy, and involvement. So what can you do to increase your chances of achieving flow? There are some strategies you can use to help set the stage for entering a flow state.",
+        "attribution": "Kendra Cherry, MSEd",
+        "references": ["https://www.verywellmind.com/what-is-flow-2794768"]
+    }],
+    "commentaries": [{
+        "quote": "When people feel flow, they are in a state of intense concentration. Their thoughts are focused on an experience rather than on themselves. They lose a sense of time and feel as if there is a merging of their actions and their awareness. That they have control over the situation. That the experience is not physically or mentally taxing.",
+        "attribution": "Richard Huskey"
+    },{
+        "quote": "The best moments in our lives, are not the passive, receptive, relaxing times—although such experiences can also be enjoyable, if we have worked hard to attain them. The best moments usually occur when a person's body or mind is stretched to its limits in a voluntary effort to accomplish something difficult and worthwhile.",
+        "attribution": "Mihály Csíkszentmihályi"
+    },{
+        "quote": "Most enjoyable activities are not natural; they demand an effort that initially one is reluctant to make. But once the interaction starts to provide feedback to the person’s skills, it usually begins to be intrinsically rewarding.",
+        "attribution": "Mihály Csíkszentmihályi"
+    },{
+        "quote": "Can you imagine how it feels to climb a mountain without fear? You’re moving deliberately. Your attention is focused on the movements and angles of your body, the breathing of your lungs, and the feeling of the rocks beneath your feet. You are extremely absorbed in the task at hand, your perceptions are heightened, time seems to slow down, and no sign what’s so ever of that inner critic. You are living in the NOW.",
+        "attribution": "C Wilson Meloncelli"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["flow"],
+            "predominantType": "capacity",
+            "levels": {
+              "4,3,2,1": {
+                "experiences": ["flow"]
+              }
+            }
+        }]
+    }]
+}

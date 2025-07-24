@@ -1,0 +1,63 @@
+{
+    "lang": "en/us",
+    "createDate": "20250721",
+    "updateDate": "20250721",
+    "name": "social ease",
+    "valence": 0,
+    "quote": "The more the merrier!",
+    "description": "Being comfortable enough with your social skills to interact socially with unfamiliar people and larger groups.",
+    "perceptions": ["I don't know this person or group.","I'm confident in my social skills."],
+    "desires": ["desire for stimulation","desire for social contact","desire for social status"],
+    "sensations": ["social comfort"],
+    "related": ["healthy self-regard"],
+    "opposites": ["shyness"],
+    "examples": ["Comfortable in a big noisy party with strangers."],
+    "guidance": [{
+        "description": "If you want to improve a sense of social ease, see guidance for 'shyness'.",
+        "references": ["shyness"]
+    }],
+    "comparisons": [{
+        "links": ["social comfort"],
+        "description": "'Social comfort' is about the immediate social situation while 'social ease' is a general confidence in social skills. Someone can be generally comfortable, but feel uncomfortable in a particular situation."
+    },{
+        "links": ["extroversion"],
+        "description": "Generally, extroverted people are stimulated by being around people and are at ease around crowds. However, there may be scenarios where a person normally at ease becomes more shy. Examples may include meeting celebrities, meeting with foreigners, or giving an important presentation."
+    },{
+        "links": ["shyness"],
+        "description": "A shy person is likely afraid of social failure. A person at ease socially is not."
+    }],
+    "commentaries": [{
+        "quote": "People may forget what you said, but they will never forget how you made them feel.",
+        "attribution": "Carl W. Buechner"
+    },{
+        "quote": "You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.",
+        "attribution": "Dale Carnegie"
+    },{
+        "quote": "Communication is merely an exchange of information, but connection is an exchange of our humanity.",
+        "attribution": "Sean Stephenson"
+    },{
+        "quote": "Since you cannot do good to all, you are to pay special attention to those who, by the accidents of time, or place, or circumstances, are brought into closer connection with you.",
+        "attribution": "Augustine of Hippo"
+    },{
+        "quote": "The less you speak, the more you will hear.",
+        "attribution": "Alexander Solzhenitsyn"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["social ease"],
+            "predominantType": "pattern",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2": {
+                "experiences": ["social ease"]
+              },
+              "1": {
+                "experiences": ["comfort"]
+              }
+            }
+        }]
+    }]
+}
