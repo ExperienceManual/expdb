@@ -55,6 +55,23 @@
           "attribution": "BetterHelp",
           "references": ["https://www.betterhelp.com/advice/anger/how-fear-leads-to-anger-what-to-do-about-it/"]
       }]
+  },{
+      "name": "argument",
+      "description": "A back-and-forth conversation with someone trying to resolve a conflict about something. This is a form of debate that involves negative feelings ranging from mild to strong.",
+      "perceptions": ["I disagree with what this person has done or wants to do.","I need to convince them to see things as I do."],
+      "desires": ["desire for order","desire for social status"],
+      "sensations": ["anger","fear","resentment","injustice","losing"],
+      "examples": ["Shouting match about who left the door open so the dog could get out.","The endless yelling about any culture war topic."],
+      "related": ["evidence-based challenge"],
+      "guidance": [{
+          "description": "We’ve said that the nature of argument is that you and another person are trying to change each other’s minds. Now of course, there is always the possibility that the other person in the exchange is not really interested in reasoning with you, but is really just out to intimidate you or lure you into a position where your honesty can be used against you for the benefit of an audience friendly to their views. Arguing can backfire when it ends in heightened aggression, misunderstanding, or a doubling down on bad reasoning.",
+          "attribution": "Scott Aikin & John Casey",
+          "references": ["https://psyche.co/guides/how-to-have-arguments-that-change-minds-including-your-own"]
+      }],
+      "comparisons": [{
+          "links": ["evidence-based challenge"],
+          "description": "'Arguing' is a form of 'debating', but with intuitive justification and heated emotions."
+      }]
   }],
   "commentaries": [{
       "quote": "Anger is how we tell others that we seriously want them to change their behavior. It's a threatening signal that they should back off that behavior or there could be consequences."

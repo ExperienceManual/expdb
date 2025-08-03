@@ -37,7 +37,7 @@
       "description": "The sense that someone else doesn't properly understand a certain topic, but you as an external observer feel that they should know better.",
       "perceptions": ["A sense that someone else just revealed that there's something they don't understand.","A judgment that they should have known this thing."],
       "desires": ["desire for order"],
-      "sensations": ["discomfort","contempt"],
+      "sensations": ["discomfort","disrespect","contempt"],
       "results": ["trying to decide how to respond to the knowledge gap"],
       "personOfInterestExperiences": ["many"],
       "examples": ["overconfidence that a topic is 'easy'","not knowing that texting while driving is unsafe"],
@@ -147,7 +147,7 @@
           "predominantType": "sensation about another",
           "levels": {
             "4,3": {
-                "experiences": ["self-centered ignorance","contempt"]
+                "experiences": ["self-centered ignorance","disrespect"]
             },
             "2,1": {
                 "experiences": ["many"]

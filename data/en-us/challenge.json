@@ -61,7 +61,8 @@
       "related": ["push your luck"],
       "examples": ["gambling"]
   },{
-      "name": "evidence-based challenge`",
+      "name": "evidence-based challenge",
+      "alternateNames": ["debating"],
       "description": "A situation with multiple outcomes where the presentation of statements based on a specific context of rules will be judged by others to determine the outcome.",
       "perceptions": ["This situation has several possible outcomes.","I prefer some of the outcomes or want to prevent some of them.","I have agency to influence the final outcome."],
       "desires": ["desire for a particular outcome","desire for stimulation","desire for agency","desire to win","desire for order"],

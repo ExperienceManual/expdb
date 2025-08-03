@@ -8,7 +8,7 @@
   "description": "Strongly negative feelings about members of a particular social structure.",
   "perceptions": ["This person belongs to a group that conflicts with part of how I see myself.","Any experience with them would be negative.","They've done something I don't like or they don't like me."],
   "desires": ["desire for comfort","desire for safety","desire for social status"],
-  "sensations": ["dismay","contempt","fear","anger","vengeance","distrust","aversion to strangers"],
+  "sensations": ["dismay","disrespect","fear","anger","vengeance","distrust","aversion to strangers"],
   "results": ["saying bad things about the group","stereotyping individuals with group characteristics"],
   "guidance": [{
       "description": "There may be a good reason to be hostile to a group. Or maybe you're just perpetuating something that doesn't have to be. See guidance for enmity.",
@@ -22,7 +22,7 @@
       "description": "Negative feelings about people associated with a group because you feel they have wronged you in some way.",
       "perceptions": ["This person belongs to a group that has wronged me or my group.","Any experience with them would be negative.","I don't trust them."],
       "desires": ["desire for safety","desire for order"],
-      "sensations": ["dismay","contempt","fear","anger","distrust","resentment"],
+      "sensations": ["dismay","disrespect","fear","anger","distrust","resentment"],
       "results": ["saying bad things about the group","stereotyping individuals with group characteristics"],
       "guidance": [{
           "description": "It may not be feasible to move beyond this kind of hostility. But if it is, consider the guidance for forgiveness.",
@@ -38,7 +38,7 @@
       "description": "Being aggressively cautious with people perceived as possibly dangerous outsiders as a way to protect the self and important others.",
       "perceptions": ["This person belongs to a group that is unfamiliar.","They don't belong here.","Any experience with them would be negative.","I don't trust them."],
       "desires": ["desire for safety","desire for order"],
-      "sensations": ["dismay","contempt","fear","anger","distrust"],
+      "sensations": ["dismay","disrespect","fear","anger","distrust"],
       "results": ["saying bad things about the group","stereotyping individuals with group characteristics"],
       "guidance": [{
           "description": "Distrust for strangers is wired by default into the brain as a safety mechanism. If you care to take the effort to loosen that wiring for yourself or others, there are many online references.",
@@ -50,7 +50,7 @@
       ]
   }],
   "commentaries": [{
-      "quote": "Group hostility is a type of strong contempt, possibly ranging up to hatred, for perceived characteristics of the group rather than of a specific individual.",
+      "quote": "Group hostility is a type of strong disrespect, possibly ranging up to hatred, for perceived characteristics of the group rather than of a specific individual.",
       "tags": ["definition footnote"]
   },{
       "quote": "It's understandable to feel awkward around outsiders. What to talk about? What's that weird food they're eating? Why are they dressed differently? You may not want to invest the time into learning anything about them. You may prefer being an expert in your own culture and that learning something about another culture devalues your own culture or pulls you away from your social base."
@@ -66,7 +66,8 @@
   }],
   "spectrum": {
       "ill will": 2,
-      "contempt": 5,
+      "disrespect": 5,
+      "contempt": 6,
       "enmity": 6, 
       "group hostility": 6,
       "xenophobia": 8,
@@ -82,7 +83,7 @@
               "experiences": ["discomfort", "anxiety"]
             },
             "3,2": {
-              "experiences": ["group hostility","contempt"]
+              "experiences": ["group hostility","disrespect"]
             },
             "4": {
               "experiences": ["narration"]

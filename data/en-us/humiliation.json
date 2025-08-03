@@ -1,35 +1,39 @@
 {
     "lang": "en/us",
     "createDate": "20250717",
-    "updateDate": "20250717",
+    "updateDate": "20250731",
     "name": "humiliation",
     "valence": -1,
-    "quote": "She called me out in front of class.",
-    "description": "Dismay caused by a negative social judgment and status loss perceived as unwarranted, unfair, or unnecessary.",
-    "perceptions": ["Someone criticized me in front of others.","The criticism was unwarranted, unfair, or unnecessary.","It has damaged my reputation.","I can't properly defend myself."],
+    "quote": "I said a stupid thing in front of class.",
+    "description": "Dismay caused by a perceived negative social judgment and subsequent status loss.",
+    "perceptions": ["Someone criticized me in front of others or I made a silly mistake.","It has damaged my reputation.","I can't properly defend myself."],
     "desires": ["desire for social status","desire for order"],
     "sensations": ["dismay","resentment","injustice","defense"],
     "related": ["shame"],
     "opposites": ["dignity","pride"],
-    "examples": ["playground taunting","dunce cap","being the subject of rumors"],
+    "examples": ["Tripping in an important sports event.","Being the subject of negative rumors"],
     "guidance": [{
-        "description": "Humiliation can feel so intensely painful and debilitating that advice for dealing with it may seem futile. Maybe in those early moments, it is hard to do anything but wallow in your own distress, but there are some useful tips out there.",
-        "attribution": "Bella DePaulo Ph.D.",
-        "references": ["https://www.psychologytoday.com/us/blog/living-single/201402/10-steps-for-getting-over-humiliation"]
-    },{
-        "description": "The experience of humiliation can have severe and lasting consequences for mental health, particularly for individuals with pre-existing vulnerabilities.",
-        "attribution": "Joni E Johnston Psy.D.",
-        "references": ["https://www.psychologytoday.com/us/blog/the-human-equation/202406/the-anatomy-of-public-humiliation-at-work"]
+        "description": "Humiliation is a painful social experience, but there are some potentially useful tips out there.",
+        "references": ["https://www.psychologytoday.com/us/blog/living-single/201402/10-steps-for-getting-over-humiliation","https://www.psychologytoday.com/us/blog/the-human-equation/202406/the-anatomy-of-public-humiliation-at-work"]
     }],
     "variations": [{
-        "name": "humiliating",
+        "name": "degraded",
+        "description": "Dismay caused by a negative social judgment and subsequent status loss perceived as unwarranted, unfair, or unnecessary.",
+        "perceptions": ["Someone criticized me.","It has damaged my reputation and self-image.","I can't properly defend myself."],
+        "desires": ["desire for social status","desire for order","desire for justice"],
+        "sensations": ["dismay","resentment","injustice","defense"],
+        "related": ["shame"],
+        "opposites": ["dignity","pride"],
+        "examples": ["playground taunting","dunce cap","being the subject of rumors"]
+    },{
+        "name": "degrading someone",
         "description": "Publicly taking action to talk about or punish an aspect of someone perceived as negative even though it doesn't break a rule.",
         "perceptions": ["That person needs to learn a lesson or needs to be lowered in status.","There's an aspect of them I could use to criticize."],
         "desires": ["desire for social status"],
         "sensations": ["judgment","righteousness","attack"],
-        "personOfInterestExperiences": ["humilation"],
+        "personOfInterestExperiences": ["degraded","humilation"],
         "examples": ["Telling an embarrassing story about someone in front of an important audience."],
-        "related": ["shaming"],
+        "related": ["shaming someone"],
         "opposites": ["appreciation","encouraged"],
         "comparisons": [{
             "links": ["shaming"],
@@ -42,8 +46,8 @@
         }]
     }],
     "comparisons": [{
-        "links": ["shame"],
-        "description": "'Shame' is a lowered sense of self-worth from a perception that your actions reveal something negative about you. With 'humiliation', someone is attacking you socially for something that seems unfair or unnecessary and you're not allowed to defend yourself."
+        "links": ["shame","degraded"],
+        "description": "Humiliation, shame, and degredation are often used interchangeably. This is ok, but psychologists make a distinction: humiliation is more internal while degradation and shame are more external. When you feel 'humiliated', it may be from a self-inflicted trigger or an indirect comment from someone that affects your social status. With 'shame', someone has accused you of breaking an important social rule. When you feel 'degraded', someone has made a direct attack on your status and self-worth even when no rule was broken."
     }],
     "commentaries": [{
         "quote": "Oh, humiliation is poisonous. It's one of the deepest pains of being human.",
@@ -61,12 +65,13 @@
     "spectrum": {
         "embarrassment": 2,
         "humiliation": 5,
-        "degraded": 8
+        "degraded": 8,
+        "shame": 8
     },
     "models": [{
         "version": "em1",
         "variations": [{
-            "names": ["humilation"],
+            "names": ["humilation","degraded"],
             "predominantType": "sensation",
             "levels": {
               "4": {
@@ -80,14 +85,14 @@
               }
             }
         },{
-            "names": ["humilating"],
+            "names": ["degrading someone"],
             "predominantType": "action",
             "levels": {
               "4": {
                 "experiences": ["narration"]
               },
               "3,2": {
-                "experiences": ["humilating"]
+                "experiences": ["degrading someone"]
               }, 
               "2,1": { 
                 "experiences": ["dismay"]

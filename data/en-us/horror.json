@@ -22,7 +22,7 @@
       "description": "If the experience is caused by someone breaking an important social rule, it may come with contempt. You may be worried about the implications of others not following this rule.",
       "perceptions": ["Someone is breaking an important social rule.","You are unsettled that flouting the rule could contaminate the social environment.","You're worried about the implications of a contaminated environment to yourself and other important people."],
       "desires": ["desire for order"],
-      "sensations": ["contempt","dismay"],
+      "sensations": ["disrespect","contempt","dismay"],
       "results": ["desire to put things back in order"]
     },{
       "name": "self horror",

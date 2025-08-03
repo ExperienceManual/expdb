@@ -8,7 +8,7 @@
   "description": "A collection of negative feelings about people who break an important social rule that disadvantages you. This creates a desire to signal your disapproval.",
   "perceptions": ["That person or group is doing something that breaks an important social rule.","Their behavior has a direct negative impact on my experience.","If we allow everyone to do that, there would be no social order."],
   "desires": ["desire for order","desire for social influence"],
-  "sensations": ["dismay","contempt","criticism","resentment","disgust"],
+  "sensations": ["dismay","disrespect","contempt","criticism","resentment","disgust"],
   "results": ["desire to signal disapproval to avoid being tainted by their behavior and to help prevent it in the future"],
   "guidance": [{
       "description": "By taking some time to consider the other person’s perspective, and to also push past my own biases and dig into a bit of human psychology, I feel less angry.",

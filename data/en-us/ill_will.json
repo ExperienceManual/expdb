@@ -22,6 +22,9 @@
       "links": ["enmity"],
       "description": "You certainly have ill will towards anyone you consider an enemy, but with 'enmity', you have a sense this person or group is working against your interests. You may have ill-will towards someone without a sense that they're working against you."
   },{
+      "links": ["disrespect"],
+      "description": "You can disrespect someone without necessarily hoping something bad will happen to them."
+  },{
       "links": ["contempt"],
       "description": "You certainly have ill will towards anyone you contempt, but contempt includes a sense of moral superiority. May can have ill-will towards someone without feeling their morally inferior."
   }],
@@ -55,7 +58,8 @@
   }],
   "spectrum": {
       "ill will": 2,
-      "contempt": 5,
+      "disrespect": 5,
+      "contempt": 6,
       "enmity": 6,
       "group hostility": 6,
       "xenophobia": 8,

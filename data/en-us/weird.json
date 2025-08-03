@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250407",
-  "updateDate": "20250407",
+  "updateDate": "20250729",
   "name": "weird",
   "valence": 0,
   "quote": "What was that crazy loud sound?",
@@ -19,7 +19,7 @@
       "description": "A person or group you perceive as trying to be unusual in order to get attention for some reason.",
       "perceptions": ["There's an aspect of that person, group, or thing that's unusual.","The aspect is neither admirable nor disgusting.","They're doing it just to stand out."],
       "desires": ["desire for order"],
-      "sensations": ["curiosity","aversion","admiration","contempt","dissonance"],
+      "sensations": ["curiosity","aversion","admiration","disrespect","dissonance"],
       "related": ["trying to be weird"],
       "examples": ["show-business entertainers"]
   },{
@@ -27,15 +27,15 @@
       "description": "A person or group you perceive as trying to be funny, but instead seem more immature than appropriate.",
       "perceptions": ["There's an aspect of that person, group, or thing that's unusual.","The aspect is childlike or less serious than the situation calls for.","They're doing it to be funny.", "It's not very funny."],
       "desires": ["desire for order"],
-      "sensations": ["curiosity","aversion","admiration","contempt"],
+      "sensations": ["curiosity","aversion","admiration","disrespect"],
       "related": ["silly humor"]
   },{
       "name": "good weird",
-      "description": "Perception of something or someone unusual in a way you admire.",
+      "description": "Perception of something or someone unusual in a way you admire, but don't necessarily want to copy.",
       "perceptions": ["There's an aspect of that person, group, or thing that's unusual.","The aspect is somewhat admirable.","Not sure I want to copy them, but I'm glad they're that way."],
       "desires": ["desire for stimulation"],
       "sensations": ["curiosity","admiration for the unusual"],
-      "examples": ["an unusual outfit on a movie star that you appreciate"],
+      "examples": ["An unusual outfit on a movie star that you appreciate.","A visit to the modern art museum."],
       "guidance": [{
           "description": "Too often we hide or suppress our weirdness because people don’t understand it. Don’t do this! To be more creative, to do brilliant work, you need to be prepared to be odd.",
           "attribution": "Nina Pearse",
@@ -53,7 +53,7 @@
       "description": "A desire to draw attention to yourself or align yourself with a group by adopting an unusual appearance or behavior that's neither traditionally admirable nor terrible.",
       "perceptions": ["Being normal is boring.","I'm better off signaling that I'm not a normal boring person."],
       "desires": ["desire for social influence","desire for stimulation","desire to make your mark","desire to impact negatively"],
-      "sensations": ["contempt","excitement","dissonance"],
+      "sensations": ["disrespect","excitement","dissonance"],
       "related": ["social signaling","attention-seeking weird"],
       "examples": ["pink hair","odd piercings","wearing a dress made of meat"]
   }],
@@ -98,7 +98,7 @@
           "predominantType": "sensation",
           "levels": {
             "4,3": {
-              "experiences": ["bad weird","contempt"]
+              "experiences": ["bad weird","disrespect"]
             },
             "2,1": {
               "experiences": ["dissatisfaction"]
@@ -109,7 +109,7 @@
           "predominantType": "impulse",
           "levels": {
             "4,3": {
-              "experiences": ["provacative weird","contempt"]
+              "experiences": ["provacative weird","disrespect"]
             },
             "2,1": {
               "experiences": ["dissonance","excitement"]

@@ -1,12 +1,12 @@
 {
   "lang": "en/us",
   "createDate": "20250217",
-  "updateDate": "20250720",
+  "updateDate": "20250802",
   "name": "advantaged",
   "alternateNames": ["powerful","expertise"],
   "valence": 0,
   "quote": "I know how to solve this problem.",
-  "description": "The sense that you have an ability to understand or influence an aspect of the shared environment more than others. This sense is based on a perception of a relative advantage in skill, characteristics, or other assets.",
+  "description": "The sense that you have an ability to understand or influence an aspect of the shared environment more than others. This sense is based on a perception of a relative advantage in skill, characteristics, or other assets. It does not necessarily mean you feel yourself generally 'better' than others.",
   "perceptions": ["I have the ability to change the environment or solve a problem.","I can do this better than many other people."],
   "desires": ["desire for a particular outcome","desire for social influence"],
   "sensations": ["pride","responsibility","self-confidence","optimism"],
@@ -18,10 +18,13 @@
   },{
       "links": ["optimism"],
       "description": "A sense of being 'advantaged' often comes with being optimistic about a particular outcome, but not always. For example, if you're a star sports player, the other team may emphasize working against you."
+  },{
+      "links": ["pride","arrogance"],
+      "description": "Feeling 'advantaged' is just being aware of an asset you have, whether that's strength, smarts, or money. It's possible to be satisfied about such an advantage without thinking yourself generally superior to others. But it's also possible that you rank yourself socially higher due to a belief in the importance of that asset. If that's the case, others may view that assumption as arrogant."
   }],
   "variations": [{
       "name": "socially advantaged",
-      "description": "Also known as 'politics', this is having the authority to decide who's right, how different kinds of people interact with other, and what the group should value.",
+      "description": "A sense that you have political influence -- having some authority to decide who's right, how different categories of people interact with other, and what the group should value.",
       "perceptions": ["I have the ability to change the social environment or solve a social problem.","I can do this more effectively than many other people."],
       "desires": ["desire to improve","desire for social influence"],
       "sensations": ["pride","responsibility","self-confidence"],
@@ -29,7 +32,7 @@
           "description": "See guidance for social influence.",
           "references": ["desure for social influence"]
       }],
-      "examples": ["mediator","mayor","prime minister"]
+      "examples": ["mediator","mayor","prime minister","club president"]
   },{
       "name": "physically advantaged",
       "description": "The sense that your are more able than most to be able to shape the physical environment for the benefit of you or your social group.",
@@ -59,7 +62,7 @@
       "examples": ["being smart","being wise"]
   },{
       "name": "average effectiveness",
-      "description": "We all have the ability to change our environment in small and average ways. But we tend to take everyday abilities for granted.",
+      "description": "We all have the ability to change our environment in small and average ways. But we tend to take everyday abilities for granted until we can't do them anymore.",
       "perceptions": ["I have the ability to change the environment or solve a problem.","My ability to do this is not higher or lower than most other people."],
       "comparisons": [{
           "links": ["advantaged","disadvantaged"],
@@ -71,14 +74,18 @@
       "perceptions": ["I have the ability to change the environment or solve a problem.","I can do this better than many other people.","This is because I'm a better person than they are."],
       "desires": ["desire for a particular outcome","desire for social influence"],
       "sensations": ["pride","responsibility","healthy self-regard","optimism","contempt"],
-      "related": ["agency","hubris","unhealthy self-regard"],
-      "opposites": ["inferiority"],
+      "related": ["agency","arrogance","hubris","unhealthy self-regard"],
+      "opposites": ["inferiority","humility"],
       "guidance": [{
           "description": "A superiority complex is a belief that your abilities or accomplishments are somehow dramatically better than other people’s. People with a superiority complex may be condescending, smug, or mean to other people who don’t agree with them. Here’s everything you need to know about superiority complexes and how they affect people.",
           "attribution": "WebMD",
           "references": ["https://www.webmd.com/mental-health/what-is-a-superiority-complex"]
       }],
-      "examples": ["racism","elitism"]
+      "examples": ["racism","elitism"],
+      "comparisons": [{
+          "links": ["arrogance", "hubris"],
+          "description": "When you feel 'superior' in some aspect that makes youan overall better person than others, they may perceive that outlook as being 'arrogant'. If you make a mistake while under the influence of this outlook, they may accuse you of having 'hubris'."
+      }]
   }],
   "spectrum": {
       "competent": 3,

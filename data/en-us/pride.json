@@ -1,0 +1,33 @@
+{
+    "lang": "en/us",
+    "createDate": "20250801",
+    "updateDate": "20250802",
+    "name": "pride",
+    "valence": 1,
+    "timescale": ["unknown"],
+    "rarity": ["unknown"],
+    "frequency": ["unknown"],
+    "quote": "I'm satisfied with myself.",
+    "description": "A sense of satisfaction or joy about yourself or close others.",
+    "otherVariations": ["triumph","healthy self-regard","arrogance"],
+    "desires": ["desire for comfort","desire for social status"],
+    "sensations": ["satisfaction","delight","joy","meaning"],
+    "results": [""],
+    "opposites": ["unhealthy self-regard","shame"],
+    "comparisons": [{
+        "links": ["healthy self-regard","triumph","arrogance","hubris"],
+        "description": "Pride comes in several forms. 'Triumph' is a short-term burst of happiness from an outcome that reflects positively on you. A longer-lasting form of pride is a  sense of 'healthy self-regard'. Finally, excessive pride exhibited by others can be seen as arrogance or hubris. 'Arrogance' is the sense you have when someone treats others as being of undeservedly lower status. 'Hubris' is the label we use when someone fails despite having been confident. In retrospect, they were over-condident."
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["pride"],
+            "predominantType": "node",
+            "levels": {
+              "4,3,2,1": {
+                "experiences": ["pride"]
+              }
+            }
+        }]
+    }]
+}

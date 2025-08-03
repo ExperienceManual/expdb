@@ -1,0 +1,85 @@
+{
+    "lang": "en/us",
+    "createDate": "20250731",
+    "updateDate": "20250731",
+    "name": "communication",
+    "valence": 0,
+    "quote": "Let's talk.",
+    "description": "Taking action to share information with another.",
+    "perceptions": ["I want to let another know something.","It may be a specific piece of information or an indirect signal."],
+    "desires": ["desire for social contact","many"],
+    "sensations": ["many"],
+    "examples": ["Talking","Facial expression","Body language","Hand signal","Writing/typing"],
+    "related": ["listening"],
+    "guidance": [{
+        "description": "Effective communication is an essential skill for achieving success in all areas of life, whether personal or professional. The challenge of how to be an effective communicator gets far easier when you follow these seven steps.",
+        "attribution": "Walden University",
+        "references": ["https://www.waldenu.edu/programs/communication/resource/how-to-be-an-effective-communicator-in-7-easy-steps"]
+    }],
+    "variations": [{
+        "name": "win-lose negotiation",
+        "alternateNames": ["bargaining"],
+        "description": "Trying to reach a more positive outcome for yourself by engaging in a back-and-forth sharing of proposals with another.",
+        "perceptions": ["I need to come to an agreement with someone.","This is a win-lose situation where there's a limited resource.","I need to get as much of it as I can."],
+        "desires": ["desire for optimal","desire for social status"],
+        "sensations": ["many"],
+        "examples": ["Settling on a price.","Deciding where to eat."],
+        "opposites": ["attack"],
+        "related": ["defense"],
+        "guidance": [{
+            "description": "Negotiation can be unpredictable. Regardless of how much preparation and research you do, you can’t control how your counterpart responds. For this reason, you may struggle to manage your emotions during negotiation or avoid it altogether. Yet, you can improve your chances of negotiating successfully. How you approach it and the tactics you use are essential to achieving your desired outcomes.",
+            "attribution": "Michael Boyles",
+            "references": ["https://online.hbs.edu/blog/post/how-to-become-a-good-negotiator"]
+        }]
+    },{
+        "name": "win-win negotiation",
+        "description": "Trying to reach a more positive outcome for all sides by engaging in a back-and-forth sharing of proposals with another.",
+        "perceptions": ["I need to come to an agreement with someone.","This may be a win-win situation where everyone can benefit."],
+        "desires": ["desire for optimal","desire for social status"],
+        "sensations": ["many"],
+        "examples": ["Trade deal.","Services contract."],
+        "opposites": ["attack"],
+        "related": ["defense"],
+        "guidance": [{
+            "description": "The success of a business deal typically depends on offering fair contractual terms to the negotiating parties. A win-win negotiating strategy involves considering every party's interests and drafting a business deal that meets their needs and yours.",
+            "attribution": "Indeed Editorial Team",
+            "references": ["https://ca.indeed.com/career-advice/career-development/win-win-negotiation-example"]
+        }]
+    }],
+    "commentaries": [{
+        "quote": "Communication—the human connection—is the key to personal and career success.",
+        "attribution": "Paul J. Meyer"
+    },{
+        "quote": "The single biggest problem in communication is the illusion that it has taken place.",
+        "attribution": "George Bernard Shaw"
+    },{
+        "quote": "So much of life is a negotiation – so even if you're not in business, you have opportunities to practice all around you.",
+        "attribution": "Kevin O' Leary"
+    },{
+        "quote": "He who has learned to disagree without being disagreeable has discovered the most valuable secret of a diplomat.",
+        "attribution": "Robert Estabrook"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["communication"],
+            "predominantType": "action",
+            "levels": {
+              "4,3,2,1": {
+                "experiences": ["communication"]
+              }
+            }
+         },{
+            "names": ["win-lose negotiation","win-win negotiation"],
+            "predominantType": "action",
+            "levels": {
+              "4,3,2": {
+                "experiences": ["negotiation"]
+              },
+              "1": {
+                "experiences": ["many"]
+              }
+            }
+        }]
+    }]
+}

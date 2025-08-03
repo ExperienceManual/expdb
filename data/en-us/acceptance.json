@@ -1,0 +1,85 @@
+{
+    "lang": "en/us",
+    "createDate": "20250730",
+    "updateDate": "20250730",
+    "name": "acceptance",
+    "valence": 0,
+    "quote": "The bad news didn't seem to bother her at all.",
+    "description": "Reacting to the reality of an uncomfortable situation with authentic calmness and without a deep desire to try and change it.",
+    "perceptions": ["I would have preferred a different outcome.","I can't change this outcome.","There's not much point in worrying too much about it."],
+    "desires": ["desire for comfort"],
+    "sensations": ["dissatisfaction","discomfort"],
+    "opposites": ["resistance"],
+    "examples": ["Spilled milk.","Taking bad news in stride."],
+    "guidance": [{
+        "description": "Here are some references that may help become more accepting of things you can't change.",
+        "references": ["https://www.psychologytoday.com/us/blog/click-here-for-happiness/202108/how-to-practice-acceptance","https://www.gregbodin.com/blog/radical_acceptance"]
+    },{
+        "description": "If you feel like you're too accepting, see the guidance for 'agreeableness'.",
+        "references": ["agreeableness"]
+    }],
+    "variations": [{
+        "name": "agreement",
+        "description": "Confirming that you're willing to let an outcome proposed by someone else to happen.",
+        "perceptions": ["An outcome has been proposed.","I can choose to allow it to happen or reject it.","This outcome is fine with me."],
+        "desires": ["desire for agency","desire for comfort"],
+        "sensations": ["many"],
+        "results": ["Signing your name.","Saying 'yes'."],
+        "examples": ["Saying 'I do' to a wedding vow.","Signing a release waiver for skydiving.","Signing bankruptcy papers."],
+        "opposites": ["disagreement"],
+        "related": ["winning","losing","agreeableness"]
+    },{
+        "name": "unhappy acceptance",
+        "alternateNames": ["being resigned"],
+        "description": "Reacting to the reality of an undesired outcome with a sense of loss, but not trying to change it.",
+        "perceptions": ["I would have much preferred a different outcome.","But I can't change this outcome.","I will unfortunately need to get used to this one."],
+        "desires": ["desire for comfort"],
+        "sensations": ["losing","dissatisfaction","dismay","discomfort"],
+        "results": ["Attempt to move on."],
+        "opposites": ["resistance","winning"],
+        "examples": ["Moving on after losing the championship."],
+        "related": ["grief"],
+        "guidance": [{
+            "description": "See guidance for the various forms of loss.",
+            "references": ["losing"]
+        }]
+    }],
+    "commentaries": [{
+        "quote": "The experiences driven by acceptance and agreement can range from very positive to very negative. The trick is in knowing when it's appropriate to resist and disagree."
+    },{
+        "quote": "Acceptance of what has happened is the first step to overcoming the consequences of any misfortune.",
+        "attribution": "William James"
+    },{
+        "quote": "The acceptance of certain realities doesn’t preclude idealism. It can lead to certain breakthroughs.",
+        "attribution": "Rem Koolhaas"
+    },{
+        "quote": "God, grant me the serenity to accept the things I cannot change, the courage to change the things I can, and the wisdom to know the difference.",
+        "attribution": "Reinhold Niebuhr"
+    },{
+        "quote": "What we call reality is an agreement that people have arrived at to make life more livable.",
+        "attribution": "Louise Berliawsky Nevelson"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["acceptance"],
+            "predominantType": "sensation",
+            "levels": {
+              "4,3,2,1": {
+                "experiences": ["acceptance"]
+              }
+            }
+        },{
+            "names": ["agreement"],
+            "predominantType": "impulse",
+            "levels": {
+              "4,3": {
+                "experiences": ["agreement"]
+              },
+              "2,1": {
+                "experiences": ["many"]
+              }
+            }
+        }]
+    }]
+}

@@ -1,0 +1,117 @@
+{
+    "lang": "en/us",
+    "createDate": "20250802",
+    "updateDate": "20250802",
+    "name": "humility",
+    "valence": 0,
+    "timescale": ["unknown"],
+    "rarity": ["unknown"],
+    "frequency": ["unknown"],
+    "quote": "Nice work!",
+    "description": "A character trait of being secure enough in yourself to be willing to admit limitations and regularly appreciate others.",
+    "perceptions": ["I don't need to worry about my self-image.","I can admit to limitations and mistakes.","I can praise others without losing relative prestige."],
+    "sensations": ["healthy self-regard","honesty","empathy"],
+    "opposites": ["arrogance"],
+    "examples": ["Sports star coaching kids without revealing his/her own skills."],
+    "guidance": [{
+          "description": "Humility has nothing to do with meekness or weakness. And neither does it mean being self-effacing or submissive. Humility is an attitude of spiritual modesty that comes from understanding our place in the larger order of things. It entails not taking our desires, successes, or failings too seriously.",
+          "attribution": "Anna Katharina Schaffner, Ph.D.",
+          "references": ["https://positivepsychology.com/humility/"]
+    }],
+    "variations": [{
+        "name": "humblebrag",
+        "description": "A perception that someone is trying to be modest but is indirectly showing off by drawing attention to something desirable.",
+        "timescale": ["unknown"],
+        "rarity": ["unknown"],
+        "frequency": ["unknown"],
+        "perceptions": ["That person is showing off, but trying to make it sound like they're dealing with a negative."],
+        "sensations": ["annoyance"],
+        "results": ["Many people are turned off by a humblebrag."],
+        "personOfInterestExperiences": ["humility","desire for social status"],
+        "examples": ["A chef complains about a dish that everyone loves 'isn't as good as normal'.","Hope the long tedious flight to Asia is a good vacation."],
+        "opposites": ["modesty"],
+        "comparisons": [{
+            "links": ["bragging"],
+            "description": "Bragging is a straightforward attempt to score social points by sharing something hopefully perceived to be impressive. Someone 'humblebragging' is aware at some level that what they're saying could be interpreted as an attempt to score social points, so they attempt to 'soften' the message with a minor downside to sound more modest."
+        }],
+        "guidance": [{
+            "description": "People perceive humblebragging not only as insincere, but less effective than just straightforward bragging and/or complaining.",
+            "attribution": "Mariana Plata",
+            "references": ["https://www.psychologytoday.com/us/blog/the-gen-y-psy/201807/the-psychology-humblebragging"]
+        }]
+    },{
+        "name": "modesty",
+        "description": "A self-imposed restraint in drawing attention to yourself.",
+        "timescale": ["unknown"],
+        "rarity": ["unknown"],
+        "frequency": ["unknown"],
+        "perceptions": ["I don't want to draw attention to myself.","I should appear and behave quiet or conservative."],
+        "sensations": ["humility"],
+        "examples": ["Dressing conservatively.","Avoiding bragging."],
+        "opposites": ["bragging"],
+        "comparisons": [{
+            "links": ["humility"],
+            "description": "'Modesty' can apply to a particular scenario, like being a modest dresser. 'Humility' is more of a general character trait that will apply across all areas of interacting with others. You can be modest sometimes or about some things without really being a humble person."
+        }],
+        "guidance": [{
+            "description": "Section 1 of this WikiHow guide is about humility. Sections 2 and 3 are about modesty.",
+            "references": ["https://www.wikihow.com/Be-More-Modest"]
+        }]
+    }],
+    "commentaries": [{
+        "quote": "Humility is the solid foundation of all virtues.",
+        "attribution": "Confucius"
+    },{
+        "quote": "It was pride that changed angels into devils; it is humility that makes men as angels.",
+        "attribution": "St. Augustine"
+    },{
+        "quote": "Humility is not an abject, groveling, self-despising spirit; it is but a right estimate of ourselves as God sees us.",
+        "attribution": "Tyron Edwards"
+    },{
+        "quote": "It's far more impressive when others discover your good qualities without your help.",
+        "attribution": "Judith Martin"
+    },{
+        "quote": "Modesty is a learned affectation. And as soon as life slams the modest person against the wall, that modesty drops.",
+        "attribution": "Maya Angelou"
+    },{
+        "quote": "False modesty can be worse than arrogance.",
+        "attribution": "David Mitchell"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["humility"],
+            "predominantType": "sensation",
+            "levels": {
+              "4,3": {
+                "experiences": ["humility"]
+              },
+              "2,1": {
+                "experiences": ["satisfaction"]
+              }
+            }
+        },{
+            "names": ["modesty"],
+            "predominantType": "sensation",
+            "levels": {
+              "4,3": {
+                "experiences": ["modesty"]
+              },
+              "2,1": {
+                "experiences": ["satisfaction"]
+              }
+            }
+        },{
+            "names": ["humblebrag"],
+            "predominantType": "sensation about others",
+            "levels": {
+              "4,3": {
+                "experiences": ["humblebrag"]
+              },
+              "2,1": {
+                "experiences": ["dissatisfaction"]
+              }
+            }
+        }]
+    }]
+}

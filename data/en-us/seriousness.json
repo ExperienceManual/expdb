@@ -1,0 +1,103 @@
+{
+    "lang": "en/us",
+    "createDate": "20250728",
+    "updateDate": "20250728",
+    "name": "seriousness",
+    "valence": 0,
+    "quote": "Time to get to work.",
+    "description": "A sense that the situation is important and challenging, requiring careful attention and effort.",
+    "perceptions": ["This situation is important and challenging.","To have the best chance at the desired outcome will require significant effort and skill.","I may regret a different outcome if I don't work hard enough."],
+    "desires": ["desire for a particular outcome"],
+    "sensations": ["challenge","responsibility"],
+    "results": ["Working extra hard.","Avoiding unnecessary distractions."],
+    "related": ["ownership"],
+    "opposites": ["undignified","unseriousness"],
+    "examples": ["Big project at work or school.","Coordinating a wedding."],
+    "guidance": [{
+        "description": "There are some things worth being serious about. You just have to figure out what in your life matters most. Then, it’s time to get serious. Let’s talk about how to do that.",
+        "attribution": "Marisa Mohi",
+        "references": ["https://marisamohi.com/how-to-be-more-serious-in-life/"]
+    },{
+        "description": "Being unable to connect with joy and sweating the small stuff may indicate you’re taking life too seriously. Identifying and changing negative thinking patterns, laughing more often, and avoiding comparisons may help.",
+        "attribution": "Kaitlin Vogel and Sandra Silva",
+        "references": ["https://psychcentral.com/blog/how-to-stop-taking-yourself-so-seriously"]
+    }],
+    "comparisons": [{
+        "links": ["responsibility","ownership"],
+        "description": "If you take 'responsibility' and 'ownership' seriously, you'll probably do well. Likewise, a sense of ownership will encourage careful attention. However, 'seriousness' is more general - you may just be a serious person for whom careful attention and effort is a part of your personality."
+    }],
+    "variations": [{
+        "name": "solemnity",
+        "description": "A sense that the situation is existentially important, requiring a certain socially expected behavior that is formal and respectful. A solemn occasion is one of muted reverence rather than noisy laughter.",
+        "alternateDefinitions": ["The term 'solemnity' can also refer to one of the most important Christian celebrations."],
+        "perceptions": ["This situation is existentially important.","There are social expectations about my behavior.","To have the best chance at the desired outcome will require a particular behavior."],
+        "desires": ["desire for order","desire for meaning"],
+        "sensations": ["challenge","reverence","meaning"],
+        "results": ["Following a formal ritual."],
+        "examples": ["A funeral.","A holiday recognizing the sacrifice of others for your group.","An important and meaningful religious observance."],
+        "opposites": ["undignified","unseriousness"],
+        "comparisons": [{
+            "links": ["reverence"],
+            "description": "Reverence is the sense of admiration that may drive a formal ritual carried out with dignified and solemn behavior."
+        }]
+    }],
+    "commentaries": [{
+        "quote": "Man is most nearly himself when he achieves the seriousness of a child at play.",
+        "attribution": "Heraclitus"
+    },{
+        "quote": "Humor and seriousness are not in opposition to each other.",
+        "attribution": "Al Franken"
+    },{
+        "quote": "Moral life, it is asserted, means serious life.",
+        "attribution": "Leo Strauss"
+    },{
+        "quote": "The personal ego takes itself very seriously for no good reason.",
+        "attribution": "Donna Goddard"
+    },{
+        "quote": "It is not so important to be serious as it is to be serious about the important things.",
+        "attribution": "Robert M. Hutchins"
+    },{
+        "quote": "Most men are followers, and implicitly rely upon the judgment of others. They mistake solemnity for wisdom, and regard a grave countenance as the title page and Preface to a most learned volume.",
+        "attribution": "Robert Green Ingersoll"
+    },{
+        "quote": "Like other shifting balances, people have trouble knowing when they ought to get serious and when to lighten up. It's easier to live by a static identity and more predictable when others do too."
+    },{
+        "quote": "There's something about a solemn seriousness that we connect with an existentially meaningful life. Perhaps the enjoyment of laughter seems too selfish. Being solemn expresses something a desire to connect without joy juices."
+    }],
+    "spectrum": {
+      "mature": 3,
+      "reasonable": 3,
+      "seriousness": 5,
+      "solemn": 8
+    },
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["seriousness"],
+            "predominantType": "impulse",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2,1": {
+                "experiences": ["seriousness"]
+              }
+            }
+        },{
+            "names": ["solemnity"],
+            "predominantType": "impulse",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["solemnity"]
+              },
+              "2,1": {
+                "experiences": ["satisfaction"]
+              }
+            }
+
+        }]
+    }]
+}

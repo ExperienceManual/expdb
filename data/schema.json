@@ -203,6 +203,13 @@
               "type": "string"
             }
           },
+          "alternateDefinitions": {
+            "type": "array",
+            "default": [],
+            "items": {
+              "type": "string"
+            }
+          },
           "tags": {
             "type": "array",
             "default": [],

@@ -1,8 +1,8 @@
 {
   "lang": "en/us",
   "createDate": "20250408",
-  "updateDate": "20250706",
-  "name": "lowness",
+  "updateDate": "20250728",
+  "name": "undignified",
   "valence": -1,
   "quote": "I wish my co-worker would grow up some.",
   "description": "Perception that someone's behavior is harmless, but outside the bounds of normal thought or behavior in a gross or silly way to the point of risking their status as a serious person.",
@@ -25,23 +25,24 @@
       "attribution": "C.S. Lewis"
   }],
   "spectrum": {
-      "silly": 3,
+      "sillness": 3,
       "gross": 4,
       "lowness": 5,
+      "undignified": 5,
       "childish": 6,
       "absurd": 8
   },
   "models": [{
       "version": "em1",
       "variations": [{
-          "names": ["lowness"],
+          "names": ["undignified"],
           "predominantType": "sensation",
           "levels": {
             "4": {
               "experiences": ["narration"]
             },
             "3": {
-              "experiences": ["lowness"]
+              "experiences": ["undignified"]
             },
             "2,1": {
               "experiences": ["dissatisfaction"]

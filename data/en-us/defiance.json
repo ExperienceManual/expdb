@@ -1,8 +1,9 @@
 {
     "lang": "en/us",
     "createDate": "20250501",
-    "updateDate": "20250703",
+    "updateDate": "20250730",
     "name": "defiance",
+    "alternateNames": ["resistance"],
     "valence": 0,
     "timescale": ["unknown"],
     "rarity": ["unknown"],
@@ -43,6 +44,21 @@
             "attribution": "Indeed Editorial Team",
             "references": ["https://www.indeed.com/career-advice/career-development/insubordination-in-workplace-examples"]
         }]
+    },{
+        "name": "disagreement",
+        "description": "Rejecting an outcome proposed by someone else. This can lead you to take action against the proposal or you may be silent.",
+        "perceptions": ["An outcome has been proposed.","I can choose to allow it to happen or reject it.","I disagree with this outcome.","I may take action against it."],
+        "desires": ["desire for agency","desire for comfort"],
+        "sensations": ["many"],
+        "results": ["Not signing your name.","Saying 'no'."],
+        "examples": ["Not wanting to go to the restaurant your sibling suggested.","Having a heated conversation about who gets to host the holiday party."],
+        "opposites": ["agreement"],
+        "related": ["winning","losing","disagreeableness","attack"],
+        "guidance": [{
+            "description": "Conflict triggers strong emotions and can lead to hurt feelings, disappointment, and discomfort. When handled in an unhealthy manner, it can cause irreparable rifts, resentments, and break-ups. But when conflict is resolved in a healthy way, it increases your understanding of the other person, builds trust, and strengthens your relationships.",
+            "attribution": "Jeanne Segal, Ph.D., Lawrence Robinson and Melinda Smith, M.A.",
+            "references": ["https://www.helpguide.org/relationships/communication/conflict-resolution-skills"]
+        }]
     }],
     "comparisons": [{
         "links": ["insubordination","disobedience"],
@@ -65,12 +81,17 @@
     },{
         "quote": "The nail that sticks out gets hammered down.",
         "attribution": "Japanese saying"
+    },{
+        "quote": "We don't necessarily always agree, but hopefully we make each other think, and that's what matters.",
+        "attribution": "Vanessa Kerry"
     }],
     "spectrum": {
         "disrespect": 3,
         "defiance": 5,
+        "disagreement": 5,
         "disobedience": 5,
         "insubordination": 5,
+        "conflict": 7,
         "rebellion": 8
     },
     "models": [{

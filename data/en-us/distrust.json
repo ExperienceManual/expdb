@@ -3,6 +3,7 @@
   "createDate": "20250426",
   "updateDate": "20250710",
   "name": "distrust",
+  "alternateNames": ["mistrust"],
   "valence": -1,
   "quote": "They've screwed up my order too often.",
   "description": "A solid sense that someone or something has a low likelihood of conforming to a particular prediction.",

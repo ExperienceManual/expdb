@@ -1,7 +1,7 @@
 {
     "lang": "en/us",
     "createDate": "20250723",
-    "updateDate": "20250723",
+    "updateDate": "20250728",
     "name": "reverence",
     "alternateNames": ["sacred"],
     "valence": 1,
@@ -9,11 +9,11 @@
     "rarity": ["unknown"],
     "frequency": ["unknown"],
     "quote": "Our pastor's quiet wisdom is humbling.",
-    "description": "A feeling of existential respect for someone or something tinged with wonder or awe.",
+    "description": "A feeling of existential admiration for someone or something tinged with wonder or awe.",
     "perceptions": ["This thing or person is deeply aligned with an important existential pattern.","This thing or person inspires me to be a better person."],
     "desires": ["desire for meaning"],
     "sensations": ["wonder","awe"],
-    "opposites": ["contempt"],
+    "opposites": ["disrespect"],
     "examples": ["A religious figure.","Your country's national anthem at the Olympics.","A meaningful holiday.","Being in a favorite natural place."],
     "guidance": [{
         "description": "Reverence is a fundamental spiritual quality that enables us to connect with the divine and experience a sense of awe and wonder in the world around us. The way we practice reverence is shaped by cultural norms and our inherited value set. It can vary widely across different peoples, cultures and traditions. There are many ways to model reverence in the home.",

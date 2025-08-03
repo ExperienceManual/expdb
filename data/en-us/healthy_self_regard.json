@@ -3,6 +3,7 @@
     "createDate": "20250615",
     "updateDate": "20250616",
     "name": "healthy self-regard",
+    "alternateNames": ["internal pride","self-love"],
     "valence": 1,
     "timescale": ["unknown"],
     "rarity": ["unknown"],
@@ -12,7 +13,7 @@
     "perceptions": ["I'm comfortable with who I am, warts and all.","I am ready to defend my interests when necessary.","I take time to do things for myself when needed.","I care about others and account for their interests in my actions when feasible."],
     "desires": ["desire for agency","desire for comfort","desire for meaning"],
     "sensations": ["many"],
-    "related": ["love","expertise","optimism"],
+    "related": ["pride","love","expertise","optimism"],
     "opposites": ["unhealthy self-regard"],
     "comparisons": [{
         "links": ["self-esteem","self-respect","self-acceptance","self-care"],

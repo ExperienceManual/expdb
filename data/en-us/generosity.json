@@ -29,7 +29,7 @@
       "name": "over-generosity",
       "description": "Perceiving that someone else is giving too much of something,  far in excess of what is expected by a particular social group.",
       "perceptions": ["That person is giving way more than they should.","I think this creates a dependency or sets up unrealistic future expectations for the rest of us."],
-      "sensations": ["annoyance","contempt"],
+      "sensations": ["annoyance","disrespect"],
       "personOfInterestExperiences": ["generosity"],
       "guidance": [{
           "description": "Giving for the wrong reasons can be detrimental to both your relationship and your self-esteem.",

@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250404",
-  "updateDate": "20250705",
+  "updateDate": "20250730",
   "name": "honesty",
   "valence": 0,
   "quote": "That's not right.",
@@ -18,8 +18,24 @@
   "opposites": ["cheating"],
   "examples": ["sales clerk explaining price and warranty information","kids admitting they snuck a cookie from the jar","whistleblowers"],
   "variations": [{
+      "name": "sincerity",
+      "description": "A sense that you are engaging in an open conversation with accurate information and genuine emotions.",
+      "perceptions": ["I'm engaged in a conversation where I'm listening honestly, communicating the truth as I see it, and the emotions I'm feeling.","I'm being open at a deep level.","I'm not trying to advance a hidden agenda."],
+      "desires": ["desire for order","desire for social contact"],
+      "sensations": ["openness","many"],
+      "guidance": [{
+          "description": "Learning to recognize your thoughts and feelings can help you become a more genuine person, which in turn can help you become more sincere in your dealings with others.",
+          "attribution": "Michelle Shahbazyan, MS, MA",
+          "references": ["https://www.wikihow.com/Be-Sincere"]
+      }],
+      "related": ["appraisal"],
+      "comparisons": [{
+          "links": ["honesty"],
+          "description": "'Honesty' is about communicating words that are the truth as you see it. 'Sincerity' is one step further -- it's a mode of conversation where you're open to listening to others and genuinely communicating both words and emotions."
+      }]
+  },{
       "name": "judging honesty",
-      "description": "You sense a need to evaluate the honesty of someone else's communication. You may look for clues in their demeanor, an inner model of them, your own experiences, and/or an appraisal of their motivations.",
+      "description": "Evaluating the alignment of someone else's communication. You may look for clues in their demeanor, your own experiences, and/or an appraisal of their motivations.",
       "perceptions": ["Someone communicated something that needs to validated."],
       "desires": ["desire for knowledge"],
       "sensations": ["many"],

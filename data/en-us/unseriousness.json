@@ -1,0 +1,136 @@
+{
+    "lang": "en/us",
+    "createDate": "20250729",
+    "updateDate": "20250729",
+    "name": "unseriousness",
+    "valence": 0,
+    "quote": "He's skipping the meeting to go to the amusement park.",
+    "description": "A perception that someone is avoiding an important task in order to have fun.",
+    "perceptions": ["This situation is important and challenging.","To have the best chance at the desired outcome, this person should apply significant effort.","They are off having fun somewhere."],
+    "desires": ["desire for a particular outcome"],
+    "sensations": ["judgment","disappointment"],
+    "results": ["May lower your trust of this person."],
+    "related": ["playful"],
+    "personOfInterestExperiences": ["desire for comfort","playful"],
+    "opposites": ["dignified","responsibility"],
+    "examples": ["Blowing off a big project at work or school."],
+    "guidance": [{
+        "description": "Others may not have the same sense of priority and urgency. See guidance for 'seriousness'.",
+        "references": ["seriousness"]
+    }],
+    "variations": [{
+        "name": "irreverence",
+        "description": "A sense that a person is being disrespectful in a situation that calls for formal and respectful behavior.",
+        "perceptions": ["This situation is important.","There are social expectations about a person's behavior.","This person is not aligning with the appropriate behavior."],
+        "desires": ["desire for order"],
+        "sensations": ["contempt","selfishness"],
+        "personOfInterestExperiences": ["ignorance","desire to impact negatively","desire for knowledge"],
+        "examples": ["Being jolly at a funeral.","Complaining about a sacred holiday.","Questioning received wisdom."],
+        "related": ["undignified","humor"],
+        "comparisons": [{
+            "links": ["unseriousness"],
+            "description": "People can lack seriousness without being disrespectful."
+        }]
+    },{
+        "name": "realized irreverence",
+        "description": "Deliberate disrespect in a situation that calls for formal and respectful behavior.",
+        "perceptions": ["This situation is important.","There are social expectations about a person's behavior.","I disagree with the expectations.","I'm not going to align with the expected behavior."],
+        "desires": ["desire for knowledge","desire for agency"],
+        "sensations": ["curiosity","group hostility"],
+        "examples": ["Questioning received wisdom."],
+        "related": ["healthy self-regard"]
+    },{
+        "name": "irresponsibility",
+        "description": "The sense that someone's actions or decisions are driven by pleasure or promises are forgotten.",
+        "perceptions": ["This person is not aligning their actions with important goals."],
+        "desires": ["desire for order"],
+        "sensations": ["disrespect","contempt","distrust"],
+        "personOfInterestExperiences": ["forgetfulness","ignorance","desire for comfort"],
+        "examples": ["Forgetting to run the errand.","Complaining about a sacred holiday."],
+        "related": ["undignified"],
+        "opposites": ["responsibility"],
+        "comparisons": [{
+            "links": ["unseriousness"],
+            "description": "A person may forget to be responsible. They might have been serious about wanting to complete the task, but got distracted by something else."
+        }]
+    }],
+    "commentaries": [{
+        "quote": "Whoever is careless with the truth in small matters cannot be trusted in important affairs.",
+        "attribution": "Albert Einstein"
+    },{
+        "quote": "There are two reasons why people fail. One is irresponsibility. The second is fear.",
+        "attribution": "Wally Amos"
+    },{
+        "quote": "Idleness, indifference and irresponsibility are healthy responses to absurd work.",
+        "attribution": "Frederick Herzberg"
+    },{
+        "quote": "Irreverence not only shows disrespect to Deity but also makes it hard for the Spirit to teach us the things we need to know.",
+        "attribution": "L. Lionel Kendrick"
+    },{
+        "quote": "Irreverence is the champion of liberty and its only sure defense.",
+        "attribution": "Mark Twain"
+    }],
+    "spectrum": {
+      "immature": 3,
+      "unseriousness": 5,
+      "frivolity": 5,
+      "irreverence": 8
+    },
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["unseriousness"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2,1": {
+                "experiences": ["unseriousness"]
+              }
+            }
+        },{
+            "names": ["irreverence"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["irreverence"]
+              },
+              "2,1": {
+                "experiences": ["dissatisfaction"]
+              }
+            }
+        },{
+            "names": ["realized irreverence"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["realized irreverence"]
+              },
+              "2,1": {
+                "experiences": ["dissatisfaction"]
+              }
+            }
+        },{
+            "names": ["irresponsibility"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2": {
+                "experiences": ["irresponsibility"]
+              },
+              "1": {
+                "experiences": ["dissatisfaction"]
+              }
+            }
+        }]
+    }]
+}

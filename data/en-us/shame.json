@@ -1,12 +1,12 @@
 {
     "lang": "en/us",
     "createDate": "20250716",
-    "updateDate": "20250717",
+    "updateDate": "20250731",
     "name": "shame",
     "valence": -1,
     "quote": "I'm so mortified.",
-    "description": "Dismay about how an action may have brought unwanted negative judgment from others, a lower sense of self-worth, and a prediction of a long-term loss of social status.",
-    "perceptions": ["I did something to bring major negative attention to myself.","I did not want this type of attention.","I may lose status in a social relationship from this.","I feel badly about myself."],
+    "description": "Dismay about how an action may have brought unwanted negative judgment from others about an important social rule, resulting in a lower sense of self-worth and a prediction of a long-term loss of social status.",
+    "perceptions": ["I broke an important social rule, bringing major negative attention to myself.","I did not want this type of attention.","I may lose status in a social relationship from this.","I feel badly about myself."],
     "desires": ["desire for social status"],
     "sensations": ["dismay","regret","unhealthy self-regard"],
     "related": ["shame","guilt","failure sickness"],
@@ -18,8 +18,8 @@
         "references": ["https://psyche.co/guides/how-to-cope-with-shame-by-understanding-where-it-comes-from"]
     }],
     "variations": [{
-        "name": "shaming",
-        "description": "Pointing out negative aspects of someone's behavior as breaking an important social rule.",
+        "name": "shaming someone",
+        "description": "Taking action to point out someone's behavior as breaking an important social rule.",
         "perceptions": ["That person is not following an important social rule.","They don't seem to recognize the gravity of this.","Someone needs to enforce that rule."],
         "desires": ["desire for order","desire for social status"],
         "sensations": ["dismay","judgment","righteousness","attack"],
@@ -39,7 +39,7 @@
         "perceptions": ["Someone is claiming that I broke an important rule.","I did not, or don't agree the supposed infraction was important."],
         "desires": ["desire for order"],
         "sensations": ["resentment","injustice"],
-        "related": ["contempt","group hostility"],
+        "related": ["disrespect","group hostility"],
         "guidance": [{
             "description": "Unjustified public shaming shouldn't make you question your self-worth.",
             "attribution": "Jennifer L Keluskar Ph.D.",
@@ -80,14 +80,14 @@
               }
             }
         },{
-            "names": ["shaming"],
+            "names": ["shaming someone"],
             "predominantType": "action",
             "levels": {
               "4": {
                 "experiences": ["narration"]
               },
               "3,2": {
-                "experiences": ["shaming"]
+                "experiences": ["shaming someone"]
               },
               "2,1": {
                 "experiences": ["dismay"]

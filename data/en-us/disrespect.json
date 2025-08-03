@@ -1,25 +1,45 @@
 {
   "lang": "en/us",
   "createDate": "20250303",
-  "updateDate": "20250618",
-  "name": "contempt",
+  "updateDate": "20250729",
+  "name": "disrespect",
   "valence": -1,
   "quote": "He's so gutter.",
-  "description": "A feeling of dislike-for and superiority-over another person, group of people, and/or their actions.",
-  "perceptions": ["This person or group is doing, saying, or represents something I disagree with.","This behavior or appearance indicates a lower social or moral status."],
+  "description": "A judgment that a person, group, or thing has low value and is likely to produce a negative outcome. They are not worthy of your support and praise.",
+  "perceptions": ["This person, group, or thing has several important problems.","I'm not likely to trust their relevant actions in the future."],
   "desires": ["desire for social status","desire for order"],
-  "sensations": ["discomfort","certainty","righteousness"],
+  "sensations": ["negative judgment"],
+  "personOfInterestExperiences": ["many"],
   "results": ["say something derogatory","treat them with disrespect"],
+  "related": ["unhealthy self regard"],
+  "examples": ["Degrading comments.","Passing someone over for recognition."],
   "guidance": [{
-      "description": "Contempt can be a valid response to certain behaviors. But often, apply contempt more broadly than necessary. If you'd like to explore the root of contemptuous feelings, here are some articles to consider.",
-      "references": ["https://www.gottman.com/blog/how-to-change-your-own-contempt/","https://www.bc.edu/content/bc-web/centers/church21/publications/c21-resources/c21-resources-articles/Love-Your-Enemies---say-no-to-contempt.html","https://fastercapital.com/content/Contempt--From-Contempt-to-Compassion--Transforming-Perspectives.html"]
+      "description": "None of us can or should respect everything and everybody equally. A pure ban on disrespect is unworkable. We need a different approach to disrespect.",
+      "attribution": "Jeremy E. Sherman Ph.D.",
+      "references": ["https://www.psychologytoday.com/us/blog/ambigamy/201212/how-to-be-disrespectful-respectfully"]
   },{
-      "description": "If you perceive that someone is being contemptuous towards you, this article may be of interest.",
-      "references": ["https://neurolaunch.com/contemptuous-behavior/"]
+      "description": "5 Ways to Stop the Cycle of Disrespect",
+      "attribution": "Mike Labun",
+      "references": ["https://achievecentre.com/blog/how-to-stop-the-cycle-of-disrespect/"]
   }],
-  "related": ["group hostility", "aversion","misanthropy","lowness"],
-  "opposites": ["admiration","reverence"],
   "variations": [{
+      "name": "contempt",
+      "description": "A judgment that a person, group, or thing is socially or morally inferior and likely to produce a negative outcome. They are not worthy of your support and praise.",
+      "perceptions": ["This person or group is doing, saying, or represents something I disagree with.","This behavior or appearance indicates a lower social or moral status."],
+      "desires": ["desire for social status","desire for order"],
+      "sensations": ["discomfort","certainty","righteousness"],
+      "results": ["say something derogatory","treat them with disrespect"],
+      "guidance": [{
+          "description": "Contempt can be a valid response to certain behaviors. But we sometimess contempt more broadly than necessary. If you'd like to explore the root of contemptuous feelings, here are some articles to consider.",
+          "references": ["https://www.gottman.com/blog/how-to-change-your-own-contempt/","https://www.bc.edu/content/bc-web/centers/church21/publications/c21-resources/c21-resources-articles/Love-Your-Enemies---say-no-to-contempt.html","https://fastercapital.com/content/Contempt--From-Contempt-to-Compassion--Transforming-Perspectives.html"]
+      },{
+          "description": "If you perceive that someone is being contemptuous towards you, this article may be of interest.",
+          "references": ["https://neurolaunch.com/contemptuous-behavior/"]
+      }],
+      "related": ["group hostility", "aversion","misanthropy","undignified"],
+      "opposites": ["admiration","reverence"],
+      "examples": ["Name calling.","Assuming someone is untrustworthy because they hold a certain political opinion."],
+  },{
       "name": "bullying contempt",
       "description": "A feeling of dislike-for and superiority-over someone mainly to raise your status or distract attention about your behavior.",
       "perceptions": ["That person is being treated well.","I'm better than them.","I need to let others know why they're lower status than me."],
@@ -50,6 +70,9 @@
       "quote": "We accuse others of what we cannot accept in ourselves.",
       "attribution": "Sigmund Freud"
   },{
+      "quote": "You cannot disrespect the caterpillar, while raving about the butterfly.",
+      "attribution": "Mark Jackson"
+  },{
       "quote": "Contempt is a way to signal to someone that we're higher status than them in some characteristic. And it's a way to communicate to everyone listening which characteristics we value."
   },{
       "quote": "The experience of contempt is powered by adrenaline, which makes us feel temporarily more confident and self-righteous but at the same time, less humane.",
@@ -58,10 +81,10 @@
       "quote": "Admit it. It’s fun to feel like others are beneath us. There are only two ways to feel superior: Elevate yourself or demote others. Sneering down is uplifting, especially when we’ve hit a ceiling and can’t elevate ourselves higher. If you can’t get to the top, dissing others is the only other way to feel like you have. Besides, sometimes we’re right. Plenty of people deserve to be taken down a peg, though of course that could include us when we’re sneering.",
       "attribution": "Jeremy E. Sherman Ph.D."
   },{
-      "quote": "To argue with a man who has renounced the use and authority of reason, and whose philosophy consists in holding humanity in contempt, is like administering medicine to the dead, or endeavoring to convert an atheist by scripture.",
-      "attribution": "Thomas Paine"
+      "quote": "Preservation of one's own culture does not require contempt or disrespect for other cultures.",
+      "attribution": "Cesar Chavez"
   }],
-  "spectrum": {"ill will": 2, "contempt": 5, "enmity": 6, "group hostility": 6, "scorn": 7, "tribalism": 8},
+  "spectrum": {"ill will": 2, "disrespect": 5, "contempt": 6, "enmity": 6, "group hostility": 6, "scorn": 7, "tribalism": 8},
   "models": [{
       "version": "em1",
       "variations": [{

@@ -7,7 +7,7 @@
   "description": "A sense that you would strongly prefer not to experience a particular person, group, animal, thing, idea, or sensation because it would be negative, unhealthy, or an unwelcome part of your life.",
   "perceptions": ["This experience is likely to be negative.","This person or thing conflicts with part of how I see myself.","This experience is not healthy for me."],
   "desires": ["desire for comfort","desire for safety"],
-  "sensations": ["dismay","contempt","fear","anger"],
+  "sensations": ["dismay","disrespect","contempt","fear","anger"],
   "otherVariations": ["enmity", "group hostility","self-loathing","misanthropy"],
   "guidance": [{
       "description": "If you'd like to reduce your sense of negativity about someone or something, here are some articles to consider.",
@@ -19,7 +19,7 @@
       "name": "hate this experience",
       "description": "Strong dislike for doing a particular activity or experiencing a particular sensory input.",
       "perceptions": ["This experience is likely to be negative.","This person or thing conflicts with part of how I see myself.","This experience is not healthy for me."],
-      "sensations": ["dismay","contempt","fear","anger"],
+      "sensations": ["dismay","disrespect","contempt","fear","anger"],
       "examples": ["I hate eating oysters.","I hate cleaning the toilet.","I hate this song"]
   }],
   "commentaries": [{

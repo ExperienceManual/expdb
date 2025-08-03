@@ -1,0 +1,96 @@
+{
+  "lang": "en/us",
+  "createDate": "20250728",
+  "updateDate": "20250728",
+  "name": "dignified",
+  "valence": 1,
+  "quote": "My boss handled the layoffs as professionally as possible.",
+  "description": "Admiration for someone's behavior perceived as calm, graceful, and patient in a challenging situation.",
+  "perceptions": ["That person is treating this situation as appropriately serious.","I admire their calm, mature, patient reaction."],
+  "desires": ["desire for order"],
+  "sensations": ["admiration"],
+  "personOfInterestExperiences": ["healthy self-regard","calmness","patience","desire to be perceived a certain way"],
+  "guidance": [{
+      "description": "Some individuals grow up with a strong sense of dignity, while others may develop it over time as an adult. Building it may begin with healing from your past and committing to a better future that you can be proud of. It can also look like learning more about yourself and staying true to your boundaries and morals.",
+      "attribution": "BetterHelp Editorial Team",
+      "references": ["https://www.betterhelp.com/advice/general/what-is-the-true-meaning-of-dignity/"]
+  }],
+  "related": ["admiration"],
+  "opposites": ["undigified"],
+  "comparisons": [{
+      "links": ["admiration"],
+      "description": "Seeing someone else as being 'dignified' is a specific type of admiration. Specifically, you approve of their calm, mature, patient, serious behavior in a challenging situation."
+  },{
+      "links": ["seriousness"],
+      "description": "Someone can view a task as being important but not handle it with calm and mature dignity. They may respond to setbacks with frustration or even undignified and inappropriate outbursts."
+  }],
+  "variations": [{
+        "name": "inherent dignity",
+        "description": "A pattern of social interaction that strives to treat every human being as having worth.",
+        "perceptions": ["Everyone deserves to be treated fairly by the law.","Everyone deserves the chance to improve themselves."],
+        "desires": ["desire for order","desire to impact positively"],
+        "examples": ["Prison rehabilitation programs."],
+        "opposites": ["group hostility"],
+        "related": ["justice"],
+        "comparisons": [{
+            "links": ["dignity"],
+            "description": "The idea behind 'inherent dignity' is to give people room to improve their self-regard, so perhaps be more likely to act consistently in a dignified way."
+        }],
+        "guidance": [{
+            "description": "Promoting human dignity is an active endeavor that requires intentionality and commitment. Here are several practical ways to support and uphold human dignity in our everyday lives.",
+            "attribution": "thebekindpeopleproject.org",
+            "references": ["https://thebekindpeopleproject.org/blog/2024/10/16/human-dignity/"]
+        }]
+  }],
+  "commentaries": [{
+      "quote": "Dignity consists not in possessing honors, but in the consciousness that we deserve them.",
+      "attribution": "Aristotle"
+  },{
+      "quote": "Self-respect is the root of discipline: The sense of dignity grows with the ability to say no to oneself.",
+      "attribution": "Abraham Joshua Heschel"
+  },{
+      "quote": "Dignity is as essential to human life as water, food, and oxygen. The stubborn retention of it, even in the face of extreme physical hardship, can hold a man's soul in his body long past the point at which the body should have surrendered it.",
+      "attribution": "Laura Hillenbrand"
+  },{
+      "quote": "Politeness is a sign of dignity, not subservience.",
+      "attribution": "Theodore Roosevelt"
+  },{
+      "quote": "'Dignity' is used in two rather different ways. The first is 'earned dignity' -- the admiration of someone that is expressing a healthy self-regard. The second is 'human dignity' -- the principle of treating others as if they had healthy self-regard in the hopes this encourages them to live up to it."
+  }],
+  "spectrum": {
+      "noble": 5,
+      "dignified": 5
+  },
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["dignified"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["dignified"]
+            },
+            "2,1": {
+              "experiences": ["satisfaction"]
+            }
+          }
+      },{
+          "names": ["inherent dignity"],
+          "predominantType": "impulse",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["inherent dignity"]
+            },
+            "2,1": {
+              "experiences": ["anticipation"]
+            }
+          }
+      }]
+  }]
+}

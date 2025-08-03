@@ -11,7 +11,7 @@
     "description": "A strong dislike for the whole human species.",
     "perceptions": ["Humanity is a lost cause.","I trust almost no one."],
     "desires": ["desire for agency","desire for safety"],
-    "sensations": ["anxiety","distrust","contempt","cynicism"],
+    "sensations": ["anxiety","distrust","disrespect","contempt","cynicism"],
     "results": ["probably isolation"],
     "related": ["hate"],
     "opposites": ["general love"],
@@ -49,7 +49,7 @@
                 "experiences": ["misanthropy"]
               },
               "3,2": {
-                "experiences": ["distrust","contempt"]
+                "experiences": ["distrust","disrespect"]
               },
               "1": {
                 "experiences": ["dismay","anxiety"]

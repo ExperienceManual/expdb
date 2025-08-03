@@ -33,7 +33,7 @@
       "description": "Positive feelings towards your group along with negative feelings towards competing groups.",
       "perceptions": ["I'm part of a group.","Even if the group isn't always great at something, I must support them.","It's bad if other groups win.","People in other groups are strange and untrustable.","The outcome of group rivalry is serious."],
       "desires": ["desire for social contact","desire for social status"],
-      "sensations": ["social contact","enthusiasm","pride","contempt"],
+      "sensations": ["social contact","enthusiasm","pride","disrespect"],
       "guidance": [{
           "description": "In order to adhere to social norms or to seek social acceptance, we may go along with ideas or activities that contradict our personal values and beliefs. However, we may not realize the price we pay for just going along. Consistently professing to be someone else bleeds into our intrinsic self, and over time, we unconsciously adopt patterns of behavior that alter the way we think and feel.",
           "attribution": "S. David Wu",
@@ -98,7 +98,7 @@
               "experiences": ["narration"]
             },
             "3,2": {
-              "experiences": ["group bond","pride","contempt"]
+              "experiences": ["group bond","pride","disrespect"]
             },
             "1": {
               "experiences": ["comfort","anxiety"]

@@ -12,14 +12,14 @@
       "description": "There are many sources of social tension. We should probably all consider trying to improve how we handle various types of tense social situations.",
       "references": ["https://mindfulhealthsolutions.com/10-ways-to-successfully-handle-social-gatherings-with-social-anxiety/","https://www.onelegal.com/blog/ways-for-legal-professionals-to-defuse-tense-situations/","https://taskhuman.com/insights/navigating-productive-political-conversations-at-work/"]
   }],
-  "related": ["anxiety", "humor", "group hostility", "ill will","contempt"],
+  "related": ["anxiety", "humor", "group hostility", "ill will","disrespect"],
   "opposites": ["companionship", "acceptance"],
   "variations": [{
       "name": "dangerous tension",
       "description": "If you predict social tension may become a harmful conflict, it may escalate to fear.",
       "perceptions": ["Another person or group definitely has a negative judgment of you or someone you care about.","You also have a fairly negative judgment of them."],
       "desires": ["desire for social status","desire for safety"],
-      "sensations": ["fear","ill will","contempt","anger"],
+      "sensations": ["fear","ill will","disrespect","anger"],
       "results": ["defense","desire to exit the situation"]
     }
   ],
