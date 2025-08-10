@@ -34,7 +34,7 @@
       "description": "Fear of negative judgment or appraisal in social situations.",
       "perceptions": ["I don't know how to handle this social interaction."],
       "desires": ["desire for social status","desire for comfort"],
-      "sensations": ["anticipation","doubt","awkwardness","unhealthy self-regard"],
+      "sensations": ["anticipation","doubt","awkwardness","unhealthy self-regard","reticence"],
       "guidance": [{
           "description": "Strategies for overcoming social anxiety depend both on your individual personality and how much the disorder is affecting your life.",
           "attribution": "Cleveland Clinic",
@@ -82,6 +82,17 @@
           "predominantType": "sensation",
           "levels": {
             "4,3,2,1": {
+                "experiences": ["anxiety"]
+            }
+          }
+       },{
+          "names": ["social anxiety"],
+          "predominantType": "sensation",
+          "levels": {
+            "4,3": {
+                "experiences": ["social anxiety"]
+            },
+            "2,1": {
                 "experiences": ["anxiety"]
             }
           }

@@ -1,0 +1,98 @@
+{
+    "lang": "en/us",
+    "createDate": "20250808",
+    "updateDate": "20250808",
+    "name": "quitting",
+    "valence": 0,
+    "quote": "I can't do this any longer.",
+    "description": "Deciding to stop a particular activity because it's no longer worthwhile. This could due to a realization that it's not providing the expected value, is causing harm, or is not aligned with your goals.",
+    "perceptions": ["This situation is no longer as appealing as it once was or is not as achievable as I had hoped.","Continuing to put effort into it is no longer worthwhile."],
+    "desires": ["desire for optimal"],
+    "sensations": ["acceptance","relief","sadness","dissonance"],
+    "results": ["It may be easy to decide to stop doing something, or it may be difficult."],
+    "opposites": ["persistence"],
+    "examples": ["Stopping the overtime for perfection because your boss said it's ok.","Quitting a job that's not right for you.","Stopping a sport due to an injury."],
+    "guidance": [{
+        "description": "When you’re ready to give up on a job or a big project, it can be hard to know if you’re making the right choice. Asking yourself these questions can help.",
+        "attribution": "Anisa Purbasari Horton",
+        "references": ["https://www.fastcompany.com/40545078/ask-yourself-these-4-questions-before-you-quit-something"]
+    },{
+        "description": "The fear of quitting is often what prevents people from achieving their goals. This is because they are worried about what will happen if they give up.",
+        "attribution": "Gary Percival",
+        "references": ["https://blog.garypercival.com/why-quitting-is-not-necessarily-a-bad-thing"]
+    }],
+    "comparisons": [{
+        "links": ["giving up"],
+        "description": "Quitting is when you want to stop. 'Giving up' is when you're forced to stop by frustration or external forces. People often use these terms interchangeably, which is ok, but it may be worthwhile understanding the difference when you're stopping something. The saying 'winners never quit' is meant to apply to 'giving up'. Quitting something that's legitimately not working for you anymore is different than giving up for internal reasons. The challenge is in knowing which situation you're in."
+    }],
+    "variations": [{
+        "name": "giving up",
+        "description": "Deciding to stop a particular activity because it's perceived as no longer achievable despite still having value. This could due to frustration, exhaustion, or external factors.",
+        "perceptions": ["This situation is not as achievable as I had hoped.","I'd to retain the situation or goal","But continuing to put effort into it is no longer worthwhile."],
+        "desires": ["desire for optimal","desire for comfort"],
+        "sensations": ["discomfort","frustration","discouragement","acceptance","unhappy acceptance","sadness"],
+        "examples": ["Stopping a dedicated practice due to a sense that you can't beat your rival despite still wanting to win.","Quitting a dream job because you feel you're bad at it."],
+        "opposites": ["persistence"],
+        "guidance": [{
+            "description": "There are many inspirational references for how to motivate yourself to not give up. Here are a few. But remember, quitting is not the same as giving up. If you're sure that you no longer desire the outcome, it's ok to let it go.",
+            "references": ["https://beinspiredcc.com/how-to-not-give-up/","https://www.risewomen.com/techniques-for-never-giving-up/","https://www.mindtools.com/blog/7-ways-keep-going/"]
+        }]
+    },{
+        "name": "breaking a habit",
+        "description": "Working to stop one of your behavioral patterns.",
+        "perceptions": ["I have a regular behavior pattern that is not helping me.","Life would be better if I didn't follow this pattern."],
+        "desires": ["desire for optimal","desire to improve"],
+        "sensations": ["discomfort","frustration","discouragement","acceptance","unhappy acceptance","sadness"],
+        "examples": ["Trying to stop biting your fingernails.","Quitting smoking."],
+        "guidance": [{
+            "description": "Breaking unwanted habits can be difficult, especially if you’ve been engaging in them for a long time. But understanding how habits form in the first place can ease the process.",
+            "attribution": "Crystal Raypole",
+            "references": ["https://www.healthline.com/health/how-to-break-a-habit"]
+        }]
+    }],
+    "commentaries": [{
+        "quote": "Winners never quit and quitters never win.",
+        "attribution": "Vince Lombardi"
+    },{
+        "quote": "Being able to quit things that don't work is integral to being a winner.",
+        "attribution": "Timothy Ferriss"
+    },{
+        "quote": "Quit and grit are two sides of the exact same decision. Decision-making in the real world requires action without complete information. Quitting is the tool that allows us to react to new information that is revealed after we make a decision.",
+        "attribution": "Annie Duke in 'Quit: The Power of Knowing When to Walk Away'"
+    },{
+        "quote": "If at first you don't succeed, try, try again. Then quit. There's no point in being a damn fool about it.",
+        "attribution": "W.C. Fields"
+    },{
+        "quote": "Being defeated is often a temporary condition. Giving up is what makes it permanent.",
+        "attribution": "Marilyn vos Savant"
+    },{
+        "quote": "Giving up smoking is the easiest thing in the world. I know because I've done it thousands of times.",
+        "attribution": "Mark Twain"
+    },{
+        "quote": "You cry and you scream and you stomp your feet and you shout. You say, 'You know what? I'm giving up, I don't care.' And then you go to bed and you wake up and it's a brand new day, and you pick yourself back up again.",
+        "attribution": "Nicole Scherzinger"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["quitting","giving up"],
+            "predominantType": "impulse",
+            "levels": {
+              "4,3,2,1": {
+                "experiences": ["quitting"]
+              }
+            }
+        },{
+            "names": ["breaking a habit"],
+            "predominantType": "impulse",
+            "levels": {
+              "4,3": {
+                "experiences": ["breaking a habit"]
+              },
+              "2,1": {
+                "experiences": ["quitting"]
+              }
+            }
+        }]
+    }]
+}

@@ -50,6 +50,23 @@
             "attribution": "Sanjana Gupta",
             "references": ["https://www.verywellmind.com/how-to-be-less-judgmental-7104645"]
         }]
+    },{
+        "name": "prioritization",
+        "description": "The process of ranking multiple tasks or things against each other for a specific purpose.",
+        "perceptions": ["I need to figure out what to do or choose first.","The results depend on many factors."],
+        "desires": ["desire for optimal"],
+        "related": ["generalization","deduction"],
+        "opposites": ["randomness"],
+        "examples": ["Choosing which task to do first.","Ranking your favorite movies."],
+        "guidance": [{
+            "description": "We all know prioritizing is critical, but like most time management concepts, how to prioritize is unclear and the traditional guidance not all that helpful.",
+            "attribution": "Kelly Nolan"
+            "references": ["https://kellynolan.com/podcast-4/"]
+        }]
+        "comparisons": [{
+            "links": ["judging","evaluation"],
+            "description": "'Prioritization' is a process of assigning value to multiple tasks or items, including the ordering of which one should be chosen first."
+        }]
     }],
     "commentaries": [{
         "quote": "The natural response to evaluation is to feel judged. We have to mature to a place where we respond to it with gratitude, and love feedback.",

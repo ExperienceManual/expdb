@@ -1,11 +1,11 @@
 {
   "lang": "en/us",
   "createDate": "20250221",
-  "updateDate": "20250608",
+  "updateDate": "20250804",
   "name": "aversion to cheaters",
   "valence": -1,
   "quote": "Hey dude, the back of the line is over there!",
-  "description": "A collection of negative feelings about people who break an important social rule that disadvantages you. This creates a desire to signal your disapproval.",
+  "description": "Negative feelings about people who break an important social rule in a way that disadvantages you.",
   "perceptions": ["That person or group is doing something that breaks an important social rule.","Their behavior has a direct negative impact on my experience.","If we allow everyone to do that, there would be no social order."],
   "desires": ["desire for order","desire for social influence"],
   "sensations": ["dismay","disrespect","contempt","criticism","resentment","disgust"],
@@ -20,6 +20,20 @@
   "comparisons": [{
       "links": ["disgust","contempt"],
       "description": "'Aversion to cheaters' is a mix of disgust and contempt for a person breaking a rule considered important that comes with a sense of unfairness and a desire to signal your aversion."
+  }],
+  "variations": [{
+        "name": "aversion to being taken advantage of",
+        "description": "A desire to avoid the perception that another person got the better end of an interaction with you.",
+        "perceptions": ["That person took advantage of my efforts without proper credit."],
+        "desires": ["desire for order","desire for agency","desire for social status"],
+        "sensations": ["resentment","distrust"],
+        "examples": ["Feeling stupid about helping a neighbor who never helps you."],
+        "opposites": ["generosity"],
+        "guidance": [{
+            "description": "Part of relationship building is learning to trust…but slowly.",
+            "attribution": "Justin Lioi, LCSW",
+            "references": ["https://parkslopetherapist.com/being-taken-advantage-of/"]
+        }]
   }],
   "commentaries": [{
       "quote": "A social system may be able to handle a small number of cheaters, but without strong aversion signals, there could become too many cheaters to deal with. This applies to many taboos like cutting in line, freeloading off handouts, stealing, extra-marital affairs, etc."

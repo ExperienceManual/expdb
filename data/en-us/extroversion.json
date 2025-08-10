@@ -4,6 +4,7 @@
     "updateDate": "20250722",
     "name": "extroversion",
     "alternateNames": ["extraversion"],
+    "tags": ["big5-high","pattern"],
     "valence": 0,
     "quote": "I need a break, let's socialize.",
     "description": "A preference for a balance of socially-driven stimulation more than internally-driven stimulation.",

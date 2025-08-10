@@ -3,6 +3,7 @@
     "createDate": "20250721",
     "updateDate": "20250722",
     "name": "introversion",
+    "tags": ["big5-low","pattern"],
     "valence": 0,
     "quote": "I need a break from socializing.",
     "description": "A preference for a balance of internally-driven mental stimulation more than socially-driven stimulation.",

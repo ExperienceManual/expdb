@@ -1,0 +1,92 @@
+{
+    "lang": "en/us",
+    "createDate": "20250808",
+    "updateDate": "20250808",
+    "name": "prayer",
+    "valence": 0,
+    "quote": "Heavenly Father",
+    "description": "The act of communicating with a sacred entity.",
+    "alternateDefinitions": ["'Prayer' can also be used to mean 'hope'."],
+    "perceptions": ["My mind could use some calming or I could use some advice.","Communicating with God or a saint may help."],
+    "desires": ["desire for comfort","desire to improve"],
+    "sensations": ["many"],
+    "results": ["Prayers are not always answered. Depends on what is said."],
+    "related": ["meditation"],
+    "examples": ["Formal prayer in a group setting.","Personal prayers."],
+    "guidance": [{
+        "description": "Different religions have similar types of prayers: asking for help, asking to help others, declaring your dedicated faith, and others.",
+        "references": ["https://carljosephministries.com/podcast/the-different-types-of-prayer/","https://www.hindujagruti.org/hinduism/types-of-prayers","https://daiyah.fandom.com/wiki/The_Different_Types_of_Voluntary_Prayers"]
+    }],
+    "variations": [{
+        "name": "prayer of petition",
+        "description": "The act of communicating with a sacred entity for help with something.",
+        "perceptions": ["I could use some help or guidance.","Communicating with God or a saint may help."],
+        "desires": ["desire for comfort","desire to improve"],
+        "sensations": ["many"],
+        "results": ["Prayers are not always answered. Depends on what is said."],
+        "guidance": [{
+            "description": "Your religious community may have specific guidance for different types of prayer. Here are some examples.",
+            "references": ["https://www.kcm.org/real-help/prayer/learn/how-pray-prayer-petition","https://daiyah.fandom.com/wiki/The_Different_Types_of_Voluntary_Prayers#Salat_al-Istikhara_(Prayer_for_asking_for_Guidance/Advice)"]
+        }]
+    },{
+        "name": "prayer of faith",
+        "description": "The act of communicating with a sacred entity to confirm your relationship.",
+        "perceptions": ["Communicating with God or a saint will help further the relationship."],
+        "desires": ["desire for comfort","desire to improve"],
+        "sensations": ["many"],
+        "results": ["Prayers are not always answered. Depends on what is said."],
+        "guidance": [{
+            "description": "Your religious community may have specific guidance for different types of prayer. Here are some examples.",
+            "references": ["https://www.christianity.com/wiki/prayer/prayers-of-faith-pray-for-strength-in-trusting-god.html","https://daiyah.fandom.com/wiki/The_Different_Types_of_Voluntary_Prayers#Salat_at-Tasbih_(Prayer_of_Glorification)"]
+        }]
+    },{
+        "name": "prayer for others",
+        "description": "The act of communicating with a sacred entity to help another.",
+        "perceptions": ["Someone could use some help or guidance.","Communicating with God or a saint may help them."],
+        "desires": ["desire for comfort","desire to improve"],
+        "sensations": ["many"],
+        "results": ["Prayers are not always answered. Depends on what is said."],
+        "guidance": [{
+            "description": "Your religious community may have specific guidance for different types of prayer. Here are some examples.",
+            "references": ["https://prayer.reframeministries.org/blog/how-to-pray-for-someone-else-intercessory-prayer"]
+        }]
+    }],
+    "comparisons": [{
+        "links": ["mediation"],
+        "description": "Prayer and mediation are complementary ways of improving your mental state and thefore your world. Prayer is a personal relationship with your religion's sacred beings. Communication with the existential is a natural way for humans to grapple with the big questions. Meditation is more inward-focused, paying careful attention to your own subtle experiences. Both practices help billions of people."
+    }],
+    "commentaries": [{
+        "quote": "To be a Christian without prayer is no more possible than to be alive without breathing.",
+        "attribution": "Martin Luther"
+    },{
+        "quote": "It is better in prayer to have a heart without words than words without a heart.",
+        "attribution": "Mahatma Gandhi"
+    },{
+        "quote": "A generous prayer is never presented in vain; the petition may be refused, but the petitioner is always, I believe, rewarded by some gracious visitation.",
+        "attribution": "Robert Louis Stevenson"
+    },{
+        "quote": "God speaks in the silence of the heart. Listening is the beginning of prayer.",
+        "attribution": "Mother Theresa"
+    },{
+        "quote": "Don't pray when it rains if you don't pray when the sun shines.",
+        "attribution": "Satchel Paige"
+    },{
+        "quote": "True prayer is neither a mere mental exercise nor a vocal performance. It is far deeper than that. It is a spiritual transaction with the creator of Heaven and Earth.",
+        "attribution": "Charles Spurgeon"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["*"],
+            "predominantType": "action",
+            "levels": {
+              "1": {
+                "experiences": ["many"]
+              },
+              "4,3,2": {
+                "experiences": ["prayer","many"]
+              }
+            }
+        }]
+    }]
+}

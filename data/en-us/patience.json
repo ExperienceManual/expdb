@@ -1,0 +1,89 @@
+{
+  "lang": "en/us",
+  "createDate": "20250807",
+  "updateDate": "20250808",
+  "name": "patience",
+  "valence": -1,
+  "quote": "We've got all day.",
+  "description": "Being in a calm state when faced with an unexpected delay of a desired experience.",
+  "perceptions": ["A desired experience is not happening as soon as I had expected.","This is ok, it happens."],
+  "desires": ["desire for the experience","desire for agency"],
+  "sensations": ["calmness"],
+  "related": ["dignified"],
+  "guidance": [{
+      "description": "If you'd like to get better at being patient, consider the guidance for 'impatience'.",
+      "references": ["impatience"]
+  },{
+      "description": "It's possible to be too patient and let things go on for longer than necessary.",
+      "references": ["https://www.psychologytoday.com/us/blog/evolution-of-the-self/202310/7-reasons-why-too-much-patience-can-sabotage-you"]
+  }],
+  "opposites": ["impatience"],
+  "comparisons": [{
+      "links": ["self control","endurance","persistence"],
+      "description": "'Patience' is the calmness that allows you to wait for a result. 'Endurance' is the stamina that allows you to withstand the unpleasant sensations of the process. 'Persistence' is the drive that keeps you actively moving toward the goal. All three are aspects of 'self control'"
+  }],
+  "variations": [{
+      "name": "mental endurance",
+      "alternateNames": ["mental stamina"],
+      "description": "Tolerating an uncomfortable situation for an extended period of time.",
+      "perceptions": ["A desired experience is not happening as soon as I had expected.","The situation is uncomfortable or even painful.","I'm managing the negative sensations."],
+      "desires": ["desire for the experience","desire for agency","desire for comfort"],
+      "sensations": ["discomfort","challenge","willpower","calmness"],
+      "related": ["self control","physical endurance"],
+      "results": ["Sticking it out."],
+      "examples": ["Waiting in a traffic jam while you have to use the restroom."],
+      "opposites": ["giving up"]
+  },{
+      "name": "persistence",
+      "alternateNames": ["perseverance"],
+      "description": "Continuing to work at a goal despite significant obstacles or negative vibes.",
+      "perceptions": ["A desired experience is not happening as soon or as easily as I had expected.","It's important enough to keep at it.","I have the strength to continue."],
+      "desires": ["desire for the experience","desire for agency"],
+      "sensations": ["annoyance","challenge","willpower"],
+      "related": ["Self control."],
+      "results": ["Keeping at it."],
+      "opposites": ["giving up"],
+      "examples": ["Working on the jigsaw puzzle long after everyone else went to sleep.","I could do this all day."],
+      "guidance": [{
+          "description": "This WikiHow article provides some ideas for improving mental endurance and persistence.",
+          "references": ["https://www.wikihow.com/Increase-Mental-Stamina"]
+      }]
+  }],
+  "commentaries": [{
+      "quote": "Energy and persistence conquer all things.",
+      "attribution": "Benjamin Franklin"
+  },{
+      "quote": "Perseverance is failing 19 times and succeeding the 20th.",
+      "attribution": "Julie Andrews"
+  },{
+      "quote": "Endurance is nobler than strength, and patience than beauty.",
+      "attribution": "John Ruskin"
+  },{
+      "quote": "Small change, small wonders - these are the currency of my endurance and ultimately of my life.",
+      "attribution": "Barbara Kingsolver"
+  },{
+      "quote": "Patience is the companion of wisdom.",
+      "attribution": "St. Augustine"
+  },{
+      "quote": "Patience is when you’re supposed to get mad, but you choose to understand.",
+      "attribution": "unknown"
+  }],
+  "spectrum": {
+    "tolerance": 4,
+    "patience": 5,
+    "endurance": 5,
+    "persistence": 5
+  },
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["patience","mental endurance","persistence"],
+          "predominantType": "impulse",
+          "levels": {
+            "4,3,2,1": {
+              "experiences": ["patience"]
+            }
+          }
+      }]
+  }]
+}

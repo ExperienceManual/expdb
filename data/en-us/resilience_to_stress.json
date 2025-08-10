@@ -1,0 +1,51 @@
+{
+    "lang": "en/us",
+    "createDate": "20250805",
+    "updateDate": "20250805",
+    "name": "resilience to stress",
+    "alternateNames": ["emotional stability"],
+    "valence": 0,
+    "tags": ["big5-low","pattern"],
+    "quote": "I'll get used to it.",
+    "description": "A general tendency to recover quickly from negative emotions caused by stress.",
+    "perceptions": ["Life can be stressful.","I'll get over it."],
+    "desires": ["desire to improve","desire for comfort"],
+    "sensations": ["trust","faith","optimism","persistence"],
+    "opposites": ["sensitivity to stress"],
+    "examples": ["Going back despite having trouble the first time.","Recovering quickly from adversity.","A sunny disposition."],
+    "guidance": [{
+        "description": "See guidance for 'sensitivity to stress'.",
+        "references": ["sensitivity to stress"]
+    }],
+    "commentaries": [{
+        "quote": "Life doesn’t get easier or more forgiving, we get stronger and more resilient.",
+        "attribution": "Steve Maraboli"
+    },{
+        "quote": "The oak fought the wind and was broken, the willow bent when it must and survived.",
+        "attribution": "Robert Jordan"
+    },{
+        "quote": "The true measure of a person is not where they stand in times of comfort, but rather where they stand during challenges and controversies.",
+        "attribution": "Martin Luther King, Jr."
+    },{
+        "quote": "Don’t measure each day by the harvest you reap; instead, consider the seeds you plant.",
+        "attribution": "Robert Louis Stevenson"
+    },{
+        "quote": "Too much resilience could make people overly tolerant of adversity.",
+        "attribution": "Tomas Chamorro-Premuzic and Derek Lusk"
+    },{
+        "quote": "Toxic positivity mandates that you act like nothing is wrong. You have to focus on the positive and block negative emotions, forcing yourself to be productive. Such productivity is thinly disguised as denial or avoidance.",
+        "attribution": "Resilience Institute"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["resilience to stress"],
+            "predominantType": "pattern",
+            "levels": {
+              "4,3,2,1": {
+                "experiences": ["resilience to stress"]
+              }
+            }
+        }]
+    }]
+}

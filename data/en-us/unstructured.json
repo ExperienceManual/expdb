@@ -1,0 +1,50 @@
+{
+    "lang": "en/us",
+    "createDate": "20250806",
+    "updateDate": "20250806",
+    "name": "unstructured",
+    "valence": 0,
+    "quote": "Making good progress on the to-do list.",
+    "description": "A pattern of being disorganized, undisciplined, somewhat scattered, and often late.",
+    "tags": ["big5-low","pattern"],
+    "perceptions": ["There might be more to do.","I'll get to them when I get to them."],
+    "desires": ["desire for comfort","desire for agency"],
+    "sensations": ["irresponsibility","laziness","aimlessness"],
+    "opposites": ["conscientiousness"],
+    "examples": ["Taking things as they come.","Often late to events."],
+    "guidance": [{
+        "description": "See guidance for 'conscientiousness'.",
+        "references": ["conscientiousness"]
+    }],
+    "commentaries": [{
+        "quote": "The integral being is attached to nothing and can relate to everyone with an unstructured attitude. Because of this, her very existence benefits all things.",
+        "attribution": "Laozi"
+    },{
+        "quote": "I would rather read a poorly structured story that has fresh ideas than a tightly structured one with cliches.",
+        "attribution": "Douglas Wood"
+    },{
+        "quote": "Perhaps it is better to be irresponsible and right, than to be responsible and wrong.",
+        "attribution": "Winston Churchill"
+    },{
+        "quote": "I'm super down with being irresponsible. I'm just trying to make sure my lack of responsibility no longer hurts people.",
+        "attribution": "Ezra Miller"
+    },{
+        "quote": "Being late is a way of saying that your own time is more valuable than the time of the person who waited for you.",
+        "attribution": "Karen Joy Fowler"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["unstructured"],
+            "predominantType": "pattern",
+            "levels": {
+              "4,3,2": {
+                "experiences": ["unstructured"]
+              },
+              "1": {
+                "experiences": ["irresponsibility"]
+              }
+            }
+        }]
+    }]
+}

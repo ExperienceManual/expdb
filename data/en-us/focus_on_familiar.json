@@ -1,0 +1,47 @@
+{
+    "lang": "en/us",
+    "createDate": "20250804",
+    "updateDate": "20250804",
+    "name": "focus on familiar",
+    "valence": 0,
+    "tags": ["big5-low","pattern"],
+    "quote": "Let's go to the usual place.",
+    "description": "A pattern of consistently preferring to avoid new experiences and ideas. ",
+    "perceptions": ["New things and ideas are rarely worthwhile and often disappointing.","Things are fine and there's no inherent or social value in trying something new.","If it ain't broke don't fix it."],
+    "desires": ["desire for comfort","desire for social status"],
+    "sensations": ["curiosity","fear of missing out"],
+    "opposites": ["openness"],
+    "examples": ["Structured event calendar.","Regular daily routine.","Low interest in learning new things."],
+    "guidance": [{
+        "description": "See guidance for 'openness'.",
+        "references": ["openness"]
+    }],
+    "commentaries": [{
+        "quote": "This is the great challenge: to maintain passion for the everyday routine and the endlessly repeated act, to derive deep gratification from the mundane.",
+        "attribution": "Thomas Keller"
+    },{
+        "quote": "Having a routine is great, but only if it serves your goals. If it’s not doing that, it’s called a rut.",
+        "attribution": "Josh LaJaunie"
+    },{
+        "quote": "You don't fear change. You fear the unknown. If you knew the future would be great, you'd welcome the change to get there.",
+        "attribution": "Joe Vitale"
+    },{
+        "quote": "Being ignorant is not so much a shame, as being unwilling to learn.",
+        "attribution": "Benjamin Franklin"
+    },{
+        "quote": "To be more precise about it, it is neither close nor open-mindedness but wisdom, discernment, and a pure heart that God wants.",
+        "attribution": "Criss Jami"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["focus on familiar"],
+            "predominantType": "pattern",
+            "levels": {
+              "4,3,2,1": {
+                "experiences": ["focus on familiar"]
+              }
+            }
+        }]
+    }]
+}

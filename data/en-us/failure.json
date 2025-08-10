@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250208",
-  "updateDate": "20250714",
+  "updateDate": "20250805",
   "name": "failure",
   "valence": -1,
   "quote": "It's all my fault.",
@@ -61,6 +61,18 @@
           "references": ["https://theskepticalguy.com/2018/07/03/the-best-leaders-know-that-letting-people-fail-can-help-them-to-grow-and-improve/"]
       }],
       "examples": ["kid struck out to lose a close game","employee lost the deal"]
+  },{
+      "name": "burnout",
+      "description": "A state of anxiety and failure after exhausting yourself on a large project without finishing it.",
+      "perceptions": ["I've been working on this big project for a long time.","It's not going well.","I'm anxious and don't think I can complete it."],
+      "desires": ["desire for social status"],
+      "sensations": ["dismay","anxiety","social tension"],
+      "guidance": [{
+          "description": "Too much change, too many demands, and eventually the human mind and body will cave in under all the pressure. Here are some tips to get yourself and your life back, ASAP.",
+          "attribution": "Dr. Susan Biali Haas",
+          "references": ["https://susanbiali.com/overwhelmed-8-tips-to-avoid-burnout-and-balance-your-life/"]
+      }],
+      "examples": ["Deadline for the big project approaching and too much to do."]
   }],
   "comparisons": [{
       "links": ["losing"],
@@ -155,6 +167,20 @@
             },
             "3,2": {
               "experiences": ["failure","social tension"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      },{
+          "names": ["burnout"],
+          "predominantType": "sensation",
+          "levels": {
+            "1": {
+              "experiences": ["anxiety","dismay"]
+            },
+            "3,2": {
+              "experiences": ["failure"]
             },
             "4": {
               "experiences": ["narration"]

@@ -1,0 +1,81 @@
+{
+    "lang": "en/us",
+    "createDate": "20250805",
+    "updateDate": "20250805",
+    "name": "conscientiousness",
+    "valence": 0,
+    "quote": "Making good progress on the to-do list.",
+    "description": "A pattern of being organized, disciplined, goal-directed, timely, and rule-abiding.",
+    "tags": ["big5-high","pattern"],
+    "perceptions": ["There's a lot to do.","Getting them all done will require prioritization and effort."],
+    "desires": ["desire for order","desire for optimal","desire to improve"],
+    "sensations": ["responsibility","self-discipline","self-control","ambition","prioritization"],
+    "opposites": ["unstructured"],
+    "examples": ["A good project manager.","Always on time to events."],
+    "guidance": [{
+        "description": "Conscientiousness is one of the 'Big 5' personality traits recognized by psychologists. It's considered to be a spectrum from 'conscientious' on one end to 'unstructured' on the other.",
+        "references": ["https://www.psychologytoday.com/us/basics/conscientiousness"]
+    },{
+        "description": "These references point to some potential ways to increase conscientiousness.",
+        "references": ["https://www.psychologytoday.com/us/blog/finding-a-new-home/201902/three-potential-ways-to-become-more-conscientious","https://getmarlee.com/blog/conscientiousness"]
+    },{
+        "description": "Some downsides of high conscientiousness can be burnout and less social engagement. If this is a problem for you, consider the guidance for burnout.",
+        "references": ["burnout"]
+    }],
+    "variations": [{
+        "name": "",
+        "alternateNames": [""],
+        "description": "",
+        "timescale": ["unknown"],
+        "rarity": ["unknown"],
+        "frequency": ["unknown"],
+        "perceptions": [""],
+        "desires": [""],
+        "sensations": [""],
+        "results": [""],
+        "personOfInterestExperiences": [""],
+        "examples": [],
+        "opposites": [],
+        "related": [],
+        "comparisons": [{
+            "links": [],
+            "description": ""
+        }],
+        "guidance": [{
+            "description": "",
+            "attribution": "",
+            "references": [""]
+        }]
+    }],
+    "commentaries": [{
+        "quote": "While having conscientious employees sounds like a no-lose situation, there are always two sides to every coin. Conscientious people tend to be highly structured, which can also mean they struggle with change and adaptability. They can also come off as overly serious, so an office filled with people who rank high in conscientiousness can mean a company culture that is heavy.",
+        "attribution": "Bradford R. Glaser"
+    },{
+        "quote": "Conscientious people are apt to see their duty in that which is the most painful course.",
+        "attribution": "George Eliot"
+    },{
+        "quote": "Conscience is a mother-in-law whose visit never ends.",
+        "attribution": "H.L. Mencken"
+    },{
+        "quote": "People high in conscientiousness get better grades in high school and college; they commit fewer crimes; and they stay married longer.",
+        "attribution": "Paul Tough"
+    },{
+        "quote": "Modesty and conscientiousness receive their reward only in novels. In life they are exploited and then shoved aside.",
+        "attribution": "Erich Maria Remarque"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["conscientiousness"],
+            "predominantType": "pattern",
+            "levels": {
+              "4,3,2": {
+                "experiences": ["conscientiousness"]
+              },
+              "1": {
+                "experiences": ["responsibility"]
+              }
+            }
+        }]
+    }]
+}

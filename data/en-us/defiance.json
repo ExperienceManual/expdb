@@ -86,7 +86,9 @@
         "attribution": "Vanessa Kerry"
     }],
     "spectrum": {
-        "disrespect": 3,
+        "hesitance": 3,
+        "reluctance": 3,
+        "reticence": 3,
         "defiance": 5,
         "disagreement": 5,
         "disobedience": 5,

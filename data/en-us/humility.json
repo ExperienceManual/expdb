@@ -20,6 +20,7 @@
     }],
     "variations": [{
         "name": "humblebrag",
+        "alternateNames": ["false modesty"],
         "description": "A perception that someone is trying to be modest but is indirectly showing off by drawing attention to something desirable.",
         "timescale": ["unknown"],
         "rarity": ["unknown"],
@@ -81,7 +82,7 @@
         "version": "em1",
         "variations": [{
             "names": ["humility"],
-            "predominantType": "sensation",
+            "predominantType": "pattern",
             "levels": {
               "4,3": {
                 "experiences": ["humility"]
@@ -92,7 +93,7 @@
             }
         },{
             "names": ["modesty"],
-            "predominantType": "sensation",
+            "predominantType": "impulse",
             "levels": {
               "4,3": {
                 "experiences": ["modesty"]

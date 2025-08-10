@@ -1,7 +1,7 @@
 {
     "lang": "en/us",
     "createDate": "20250731",
-    "updateDate": "20250731",
+    "updateDate": "20250806",
     "name": "communication",
     "valence": 0,
     "quote": "Let's talk.",
@@ -11,6 +11,7 @@
     "sensations": ["many"],
     "examples": ["Talking","Facial expression","Body language","Hand signal","Writing/typing"],
     "related": ["listening"],
+    "opposites": ["reticence"],
     "guidance": [{
         "description": "Effective communication is an essential skill for achieving success in all areas of life, whether personal or professional. The challenge of how to be an effective communicator gets far easier when you follow these seven steps.",
         "attribution": "Walden University",
@@ -45,6 +46,61 @@
             "attribution": "Indeed Editorial Team",
             "references": ["https://ca.indeed.com/career-advice/career-development/win-win-negotiation-example"]
         }]
+    },{
+        "name": "small talk",
+        "description": "Engaging in communication where the content is not nearly as relevant as the act of communicating.",
+        "perceptions": ["I'm here with this person for a time.","I want them to know that I'm friendly.","They might be someone interesting.","It sends a message if I won't talk with them."],
+        "desires": ["desire for social contact","desire to be perceived a certain way"],
+        "sensations": ["many"],
+        "examples": ["Meeting a new person at a party.","Being stuck with someone on a broken elevator.","Running into a neighbor at the store."],
+        "related": ["first party socializing"],
+        "related": ["Talking about the weather.","How was the weekend?","Where are you from?"],
+        "guidance": [{
+            "description": "7 Ways to Be Amazing at Small Talk",
+            "attribution": "Alyssa 'Lia' Mancao, LCSW",
+            "references": ["https://www.wondermind.com/article/small-talk/"]
+        }]
+    },{
+      "name": "first party socializing",
+      "description": "Talking with someone to better understand them and to further the relationship. This can be with an old friend or someone you've never met.",
+      "perceptions": ["It could be interesting, enjoyable, and useful to talk with this person or group."],
+      "desires": ["desire for social contact","desire for knowledge"],
+      "examples": ["Meeting friends for dinner."],
+      "guidance": [{
+          "description": "We all have awkward moments when we wish we could be more social—whether we're introverts or not. Social skills can be developed without changing who you are.",
+          "attribution": "Kate Vessel, ACC",
+          "references": ["https://www.betterup.com/blog/how-to-improve-social-skills"]
+      }],
+      "related": ["empathy"],
+      "comparisons": [{
+          "links": ["small talk","third party socializing"],
+          "description": "'Small talk' is what you do to fill social time when you want to send a message that you're sociable, but don't want to get deep right now. You can make small talk with strangers or close friends. 'First party socializing' is when the content gets more relevant and the relationships deepen. 'Third party socializing' is when you talk about people who aren't present. Hopefully, this happens mostly with friends and neighbors."
+      }]
+    },{
+      "name": "third party socializing",
+      "alternateNames": ["gossip"],
+      "description": "Participating in social knowledge transfer about someone not present to further a different relationship.",
+      "perceptions": ["I can bond with this person or group by talking with them.","Talking about someone else is always an interesting topic."],
+      "desires": ["desire for social contact"],
+      "guidance": [{
+          "description": "Gossip, whether we like to admit it or not, is a common thread woven into the fabric of our social lives. It serves various social functions and has both advantages and disadvantages, depending on how it's used.",
+          "attribution": "Blossom Psychotherapy",
+          "references": ["https://blossompsychotherapy.ca/blog/f/the-gossip-game-pros-cons-and-the-power-of-silence"]
+      }]
+    },{
+        "name": "bragging",
+        "description": "A perception that someone is trying to impress someone else by unnecessarily boosting themselves or downplaying others.",
+        "perceptions": ["That person is highlighting something positive about themself or downplaying someone else.","They're trying to score social points.","Hard to tell how much they may be exaggerating."],
+        "sensations": ["annoyance","skepticism","many"],
+        "personOfInterestExperiences": ["desire for social status","desire for validation","small talk","first party socializing"],
+        "examples": ["I have a 100-foot yacht.","Don't watch me flex if you don't like big guns.","At least my hair is naturally curly."],
+        "opposites": ["modesty"],
+        "related": ["arrogance"],
+        "guidance": [{
+            "description": "If you want to learn the best approaches to handle braggers in a positive and assertive manner, read on.",
+            "attribution": "James L.",
+            "references": ["https://perfectmanifesto.com/2022/03/16/how-to-deal-with-a-bragger/"]
+        }]
     }],
     "commentaries": [{
         "quote": "Communication—the human connection—is the key to personal and career success.",
@@ -58,6 +114,8 @@
     },{
         "quote": "He who has learned to disagree without being disagreeable has discovered the most valuable secret of a diplomat.",
         "attribution": "Robert Estabrook"
+    },{
+        "quote": "Sharing impressive things about yourself may seem like a shortcut to social credit, but it will backfire if you can't take an interest in others."
     }],
     "models": [{
         "version": "em1",
@@ -69,7 +127,7 @@
                 "experiences": ["communication"]
               }
             }
-         },{
+        },{
             "names": ["win-lose negotiation","win-win negotiation"],
             "predominantType": "action",
             "levels": {
@@ -80,6 +138,34 @@
                 "experiences": ["many"]
               }
             }
+        },{
+          "names": ["first party socializing","third party socializing","small talk"],
+          "predominantType": "impulse",
+          "levels": {
+            "1": {
+              "experiences": ["desire for knowledge","desire for stimulation"]
+            },
+            "3,2": {
+              "experiences": ["desire for social contact"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+        },{
+          "names": ["bragging"],
+          "predominantType": "sensation about another",
+          "levels": {
+            "1": {
+              "experiences": ["dissatisfaction"]
+            },
+            "3,2": {
+              "experiences": ["bragging"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
         }]
     }]
 }

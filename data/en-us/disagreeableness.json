@@ -1,0 +1,44 @@
+{
+    "lang": "en/us",
+    "createDate": "20250804",
+    "updateDate": "20250804",
+    "name": "disagreeableness",
+    "tags": ["big5-low","pattern"],
+    "valence": 0,
+    "quote": "He probably won't offer to help.",
+    "description": "A pattern of consistently displaying socially detached or anti-social behaviors.",
+    "perceptions": ["People generally only lookout for themselves.","Being friendly and helpful to others mostly lets others take advantage of me."],
+    "desires": ["desire for agency","aversion to being taken advantage of"],
+    "sensations": ["cynicism","misanthropy","distrust","pessimism","unfairness","unfriendly social contact"],
+    "related": ["win-lose negotiation"],
+    "opposites": ["agreeableness"],
+    "guidance": [{
+        "description": "See guidance for 'agreeableness'.",
+        "references": ["agreeableness"]
+    }],
+    "commentaries": [{
+        "quote": "You can disagree without being disagreeable.",
+        "attribution": "Ruth Bader Ginsburg"
+    },{
+        "quote": "Honest disagreement is often a good sign of progress.",
+        "attribution": "Mahatma Gandhi"
+    },{
+        "quote": "We all lose when bullying and personal attacks become a substitute for genuine conversation and principled disagreement.",
+        "attribution": "Alicia Garza"
+    },{
+        "quote": "Most of the serious disagreement I get comes through email or social media, where people are more comfortable.",
+        "attribution": "Roxane Gay"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["disagreeableness"],
+            "predominantType": "pattern",
+            "levels": {
+              "4,3,2,1": {
+                "experiences": ["disagreeableness"]
+              }
+            }
+        }]
+    }]
+}

@@ -6,7 +6,7 @@
   "valence": -1,
   "quote": "We've waited long enough.",
   "description": "A sense of annoyance from the unexpected delay of a desired experience.",
-  "perceptions": ["A desired experience is not happening as soon as I had expected."],
+  "perceptions": ["A desired experience is not happening as soon as I had expected.","This is bad, I was not prepared to wait this long."],
   "desires": ["desire for the experience","desire for agency"],
   "sensations": ["annoyance","anxiety"],
   "results": ["may be come irritable or even angry"],
@@ -37,6 +37,7 @@
       "desires": ["desire for the experience","desire for agency"],
       "sensations": ["annoyance","anxiety","self-condemnation"],
       "results": ["may be come irritable or even angry"],
+      "related": ["unhealthy self-regard"],
       "guidance": [{
           "description": "I have always held myself to a high standard and expected a lot from myself. And I’m willing to bet that you do something similar since you’re reading this post. Being patient with yourself can be a serious challenge in a world where success is the end goal.",
           "attribution": "Skye Sauchelli",

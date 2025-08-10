@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250209",
-  "updateDate": "20250719",
+  "updateDate": "20250809",
   "name": "tiredness",
   "alternateNames": ["exhaustion"],
   "valence": -1,
@@ -14,8 +14,9 @@
   "opposites": ["comfort", "relief"],
   "variations": [{
       "name": "sleepiness",
+      "alternateNames": ["mental fatigue"],
       "description": "Biological sensation that the brain needs to rest.",
-      "perceptions": ["I'm sleepy."],
+      "perceptions": ["I'm sleepy.","I'm having trouble concentrating."],
       "desires": ["desire for sleep"],
       "results": ["sleep or nap"],
       "guidance": [{

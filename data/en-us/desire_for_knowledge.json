@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250201",
-  "updateDate": "20250524",
+  "updateDate": "20250803",
   "name": "desire for knowledge",
   "valence": 0,
   "quote": "I'd like to know what's going on.",
@@ -14,7 +14,7 @@
       "description": "The internet lets you learn about anything. You should consider making sure that your teaching resource is reputable and up-to-date.",
       "references": ["https://youtube.com"]
   }],
-  "related": ["desire to improve","desire for social contact", "desire for safety", "curiosity","expertise"],
+  "related": ["desire to improve","desire for social contact", "desire for safety", "curiosity","expertise","first party socializing"],
   "opposites": ["denial", "willful ignorance"],
   "spectrum": {
       "curiosity": 4,
@@ -25,27 +25,6 @@
       "description": "Curiosity is noticing something in the world that doesn't match your expectations and wanting it to make sense. If it doesn't make sense after re-examining, it may prompt a desire for knowledge and a series of activities to figure it out."
   }],
   "variations": [{
-      "name": "first party socializing",
-      "description": "Talking with someone to better understand them and to further the relationship. This can be with an old friend or someone you've never met.",
-      "perceptions": ["It could be interesting, enjoyable, and useful to talk with this person or group."],
-      "desires": ["desire for social contact"],
-      "guidance": [{
-          "description": "We all have awkward moments when we wish we could be more social—whether we're introverts or not. Social skills can be developed without changing who you are.",
-          "attribution": "Kate Vessel, ACC",
-          "references": ["https://www.betterup.com/blog/how-to-improve-social-skills"]
-      }],
-      "related": ["empathy"]
-  },{
-      "name": "third party socializing",
-      "description": "Participating in social knowledge transfer about someone not present to further a different relationship. Also known as 'gossip'.",
-      "perceptions": ["I can bond with this person or group by talking with them.","Talking about someone else is always an interesting topic."],
-      "desires": ["desire for social contact"],
-      "guidance": [{
-          "description": "Gossip, whether we like to admit it or not, is a common thread woven into the fabric of our social lives. It serves various social functions and has both advantages and disadvantages, depending on how it's used.",
-          "attribution": "Blossom Psychotherapy",
-          "references": ["https://blossompsychotherapy.ca/blog/f/the-gossip-game-pros-cons-and-the-power-of-silence"]
-      }]
-  },{
       "name": "education",
       "description": "Putting effort into learning something about the world that's not directly entertaining. This can be formal or informal, from media or a person, focused or sporadic.",
       "perceptions": ["There's something I don't understand.","Understanding it will help me make better decisions or improve my standing with a social group.","Understanding it will take time and effort."],
@@ -99,20 +78,6 @@
             "4,3,2,1": {
               "experiences": ["desire for knowledge"],
               "description": "Even fish exhibit curiosity."
-            }
-          }
-      },{
-          "names": ["first party socializing","third party socializing"],
-          "predominantType": "impulse",
-          "levels": {
-            "1": {
-              "experiences": ["desire for knowledge","desire for stimulation"]
-            },
-            "3,2": {
-              "experiences": ["desire for social contact"]
-            },
-            "4": {
-              "experiences": ["narration"]
             }
           }
       },{

@@ -1,0 +1,54 @@
+{
+    "lang": "en/us",
+    "createDate": "20250804",
+    "updateDate": "20250804",
+    "name": "openness",
+    "valence": 0,
+    "tags": ["big5-high","pattern"],
+    "quote": "Let's try that new restaurant.",
+    "description": "A pattern of consistently wanting to be exposed to new experiences and ideas.",
+    "perceptions": ["New things aren't always better, but it's inherently interesting to try.","Either way, it'll be something to share and bond with others."],
+    "desires": ["desire for knowledge","desire for stimulation","desire for novelty","desire for social status"],
+    "sensations": ["curiosity","fear of missing out"],
+    "opposites": ["focus on familiar"],
+    "examples": ["Trying new places in town.","Traveling to different locations.","Taking a class."],
+    "guidance": [{
+        "description": "Openness is one of the 'Big 5' personality traits recognized by psychologists. It's considered to be a spectrum from 'openness' on one end to 'focus on familiar' on the other.",
+        "references": ["https://www.psychologytoday.com/us/basics/openness"]
+    },{
+        "description": "If we're too afraid to get out of our comfort zones, we may never discover something that we love doing, or perhaps even worse, never learn a whole lot about ourselves.",
+        "attribution": "Toria Sheffield",
+        "references": ["https://www.bustle.com/articles/138644-7-ways-to-be-more-open-to-new-experiences"]
+    },{
+        "description": "The drawback to openness can be an addiction to the dopamine of finding an exciting new experience. This can affect your relationships and life. If you're easily bored and always seeking new experiences, consider these references.",
+        "references": ["https://www.linkedin.com/pulse/how-overcome-your-addiction-novelty-jacques-w-martiquet","https://www.psychologytoday.com/us/blog/happiness-is-state-mind/201807/jomo-the-joy-missing-out","https://technicallythinking.org/2014/03/09/addicted-to-novelty/"]
+    }],
+    "commentaries": [{
+        "quote": "To be a good human being is to have a kind of openness to the world, the ability to trust uncertain things beyond your own control that can lead you to be shattered.",
+        "attribution": "Martha Nussbaum"
+    },{
+        "quote": "Novelty-seeking keeps you seeking more and more pleasure because pleasure doesn't stick — human happiness levels fall back to baseline regardless of external events.",
+        "attribution": "Jaques the Party Scientist"
+    },{
+        "quote": "The only thing that permits human beings to collaborate with one another in a truly open-ended way is their willingness to have their beliefs modified by new facts. Only openness to evidence and argument will secure a common world for us.",
+        "attribution": "Sam Harris"
+    },{
+        "quote": "Fear-of-missing-out is more powerful than fear of losing.",
+        "attribution": "Naved Abdali"
+    },{
+        "quote": "The world hates change, yet it is the only thing that has brought progress.",
+        "attribution": "Charles Kettering"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["openness"],
+            "predominantType": "pattern",
+            "levels": {
+              "4,3,2,1": {
+                "experiences": ["openness"]
+              }
+            }
+        }]
+    }]
+}

@@ -6,6 +6,7 @@
   "valence": -1,
   "quote": "I'd like to have that pie, but shouldn't.",
   "description": "Struggling with a desire that isn't necessary and has a downside. Temptation is what comes before willpower or indulgence.",
+  "otherVariations": ["tempted attention"],
   "perceptions": ["Something really appealing presents itself.","You know you shouldn't do or say it because it breaks an internal or social rule.", "There's no real perceived short-term danger."],
   "desires": ["desire for comfort", "desire for safety"],
   "sensations": ["dissonance"],

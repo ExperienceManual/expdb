@@ -6,6 +6,7 @@
   "valence": 0,
   "quote": "No thanks, I'm on a diet.",
   "description": "The general ability to regulate one's emotions, thoughts, and behavior in the face of temptations and impulses.",
+  "otherVariations": ["patience"],
   "desires": [ "desire to improve" ],
   "related": [ "abstinence" ],
   "opposites": [ "indulgence" ],

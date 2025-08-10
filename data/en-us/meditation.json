@@ -1,0 +1,92 @@
+{
+    "lang": "en/us",
+    "createDate": "20250808",
+    "updateDate": "20250808",
+    "name": "meditation",
+    "valence": 0,
+    "quote": "Concentrate on your breath.",
+    "description": "Focusing attention on a thought, action, or mental state to cultivating a calm and focused mind.",
+    "alternateDefinitions": ["To 'meditate on something' can also mean 'to think deeply about it. The goal of most formal meditation is not problem solving, but to reduce anxiety and improve well-being."],
+    "perceptions": ["My mind could use some calming.","Focusing my attention in a particular way can help."],
+    "desires": ["desire for comfort","desire to improve"],
+    "sensations": ["many"],
+    "results": ["Beginning meditators shouldn't expect immediate results."],
+    "related": ["prayer","flow"],
+    "examples": ["Taking a moment between meetings focus on a few breaths.","Formal meditation sessions."],
+    "guidance": [{
+        "description": "With so many different types of meditation to choose from, it can feel daunting to know which one you’re going to like best or will be most helpful for you. Fortunately, there are plenty of ways to narrow it down.",
+        "attribution": "Cleveland Clinic",
+        "references": ["https://my.clevelandclinic.org/health/articles/17906-meditation"]
+    }],
+    "variations": [{
+        "name": "mindfulness meditation",
+        "description": "Focusing attention on the present moment to observe thoughts and feelings without judgment.",
+        "perceptions": ["My mind could use some calming.","Focusing on the present moment can help."],
+        "desires": ["desire for comfort","desire to improve"],
+        "sensations": ["many"],
+        "results": ["Beginning meditators shouldn't expect immediate results."],
+        "related": ["prayer","flow"],
+        "guidance": [{
+            "description": "If you've heard of or read about mindfulness meditation — also known as mindfulness — you might be curious about how to practice it. Find out how to do mindfulness exercises and how they might benefit you.",
+            "attribution": "Mayo Clinic Staff",
+            "references": ["https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/mindfulness-exercises/art-20046356"]
+        }]
+    },{
+        "name": "mantra meditation",
+        "description": "Focusing attention on a sound or word to focus the mind.",
+        "perceptions": ["My mind could use some calming.","Focusing on a sound or word can help."],
+        "desires": ["desire for comfort","desire to improve"],
+        "sensations": ["many"],
+        "results": ["Beginning meditators shouldn't expect immediate results."],
+        "related": ["prayer","flow"],
+        "guidance": [{
+            "description": "Learn what mantra meditation is and examples of how to do it yourself. Plus, the purpose and benefits of using mantra during your meditation practice.",
+            "attribution": "calm.com",
+            "references": ["https://www.calm.com/blog/mantra-meditation"]
+        }]
+    },{
+        "name": "movement meditation",
+        "description": "Focusing attention on a movement to focus the mind.",
+        "perceptions": ["My mind could use some calming.","Focusing on a physical movement can help."],
+        "desires": ["desire for comfort","desire to improve"],
+        "sensations": ["many"],
+        "results": ["Beginning meditators shouldn't expect immediate results."],
+        "related": ["prayer","flow"],
+        "guidance": [{
+            "description": "Contrary to popular belief, meditation doesn't need to be carried out sitting perfectly still in the lotus position.",
+            "attribution": "totallymeditation.com",
+            "references": ["https://totallymeditation.com/category/movement-based-meditation/"]
+        }]
+    }],
+    "commentaries": [{
+        "quote": "Meditation is not a way of making your mind quiet. It's a way of entering into the quiet that's already there - buried under the 50,000 thoughts the average person thinks every day.",
+        "attribution": "Deepak Chopra"
+    },{
+        "quote": "Meditation helps me to transcend and get beyond the grip of all the negativity and regenerate from within a more positive attitude.",
+        "attribution": "Mike Love"
+    },{
+        "quote": "Drink your tea slowly and reverently, as if it is the axis on which the world earth revolves – slowly, evenly, without rushing toward the future; live the actual moment. Only this moment is life.",
+        "attribution": "Thich Nhat Hanh"
+    },{
+        "quote": "The moment you become aware of the ego in you, it is strictly speaking no longer the ego, but just an old, conditioned mind-pattern.",
+        "attribution": "Eckhart Tolle"
+    },{
+        "quote": "We might begin by scanning our body . . . and then asking, 'What is happening?' We might also ask, 'What wants my attention right now?' or, 'What is asking for acceptance?'",
+        "attribution": "Tara Brach"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["*"],
+            "predominantType": "action",
+            "levels": {
+              "1": {
+                "experiences": ["many"]
+              },
+              "4,3,2": {
+                "experiences": ["meditation","many"]
+              }
+            }
+        }]
+    }]
+}

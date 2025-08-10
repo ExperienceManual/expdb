@@ -1,0 +1,113 @@
+{
+    "lang": "en/us",
+    "createDate": "20250809",
+    "updateDate": "20250809",
+    "name": "attention",
+    "alternateNames": ["selective attention"],
+    "valence": 0,
+    "quote": "I need to focus.",
+    "description": "The act of focusing your mind on some sensations, goals, or perceptions while trying to tune out others.",
+    "perceptions": ["Some possible objects of attention seem more pressing or pleasing than others.","I have an overarching mood and goal right now.","I will try to align focus to the goal or mood."],
+    "desires": ["many"],
+    "sensations": ["many"],
+    "results": ["Perhaps you are able to focus, or perhaps not."],
+    "related": ["awareness","prioritization","repression"],
+    "opposites": ["attentionless"],
+    "examples": ["Carefully pulling out of the parking lot.","Listening to your partner's explanation."],
+    "guidance": [{
+        "description": "For the most part, our ability to focus our attention on one thing while blocking out competing distractors seems automatic. We do it without really even thinking about it. Even people without attention problems can benefit from using strategies designed to improve attention and focus: avoiding multitasking, getting enough sleep, and practicing mindfulness.",
+        "attribution": "Kendra Cherry, MSEd",
+        "references": ["https://www.verywellmind.com/what-is-attention-2795009#toc-what-can-you-do-to-improve-attention"]
+    }],
+    "variations": [{
+        "name": "multitasking",
+        "alternateNames": ["divided attention"],
+        "description": "Shifting attention back-and-forth quickly between several areas of desired focus.",
+        "perceptions": ["Some possible objects of attention seem more pressing or pleasing than others.","I have an overarching mood and goal right now.","I will try to align focus on several items that pertain to the goal and/or mood."],
+        "desires": ["many"],
+        "sensations": ["many"],
+        "results": ["You may be able accomplish multiple things or perhaps not.","You probably won't be able to do anything really complex."],
+        "examples": ["Texting while navigating the subway.","Talking on the phone while cleaning the house."],
+        "opposites": ["sustained attention"],
+        "guidance": [{
+            "description": "There are many guides for how to improve your multitasking skills. Here are some:",
+            "references": ["Multitasking skills refer to the capability to handle multiple tasks at once and complete them simultaneously. In essence, it’s about learning how to multitask effectively.","https://www.indeed.com/career-advice/career-development/multi-tasking-skills"]
+        },{
+            "description": "There are also many guides for how to stop multitasking so you can focus on doing one thing better. Here are some:",
+            "references": ["https://online.umn.edu/story/avoid-multitasking","https://www.forbes.com/sites/biancabarratt/2019/01/22/how-to-get-out-of-the-bad-habit-of-multitasking/"]
+        }]
+    },{
+        "name": "involuntary attention",
+        "alternateNames": ["exogenous attention"],
+        "description": "The mind's focus is pulled by an urgent sensation or desire without conscious direction.",
+        "perceptions": ["Something important has interrupted what I was previously focused on."],
+        "desires": ["many"],
+        "sensations": ["annoyance","surprise","anxiety"],
+        "examples": ["A loud noise.","Need for a bio-break"]
+    },{
+        "name": "tempted attention",
+        "description": "The mind's focus is pulled against conscious preference towards a more pleasant sensation or desire.",
+        "perceptions": ["Part of my mind wants to focus on one thing while another part wants a different experience.","I'm having trouble focusing on either."],
+        "sensations": ["dissonance"],
+        "examples": ["I should be working, but want to talk to my friends.","I need to mow the lawn, but want to watch this TV show."],
+        "opposites": ["sustained attention"],
+        "comparisons": [{
+            "links": ["temptation"],
+            "description": "'Tempted attention' is a form of 'temptation' that can range from something negative (e.g. having a 2nd piece of pie while dieting) to something relatively harmless (e.g. taking a break from writing a long email)."
+        }],
+        "guidance": [{
+            "description": "See the guidance for 'willpower'.",
+            "references": ["willpower"]
+        }]
+    },{
+        "name": "sustained attention",
+        "alternateNames": ["concentration"],
+        "description": "The act of focusing your mind on a sensation, goal, or perception for an extended period.",
+        "perceptions": ["I need to work on achieving a particular goal within a certain time period.","I will try to keep focus on the goal."],
+        "desires": ["many"],
+        "sensations": ["many"],
+        "results": ["You'll probably do the task better and faster if you're able to keep focus."],
+        "examples": ["Work or school project.","Your favorite hobby."],
+        "opposites": ["mental fatigue"],
+        "related": ["flow"],
+        "guidance": [{
+            "description": "13 Top Tips for Improving Focus and Attention Span",
+            "attribution": "Post University",
+            "references": ["https://post.edu/blog/tips-for-improving-focus-and-attention-span/"]
+        }]
+    }],
+    "commentaries": [{
+        "quote": "Attention is the dance between our thoughts and our senses.",
+        "attribution": "Hilary Billings"
+    },{
+        "quote": "The human body sends 11 million bits per second to the brain for processing, yet the conscious mind seems to be able to process only 50 bits per second.",
+        "attribution": "George Markowsky in britannica.com"
+    },{
+        "quote": "Our attention and awareness have a powerful impact on our experience and, thereby, our mood.",
+        "attribution": "Lizabeth Roemer Ph.D."
+    },{
+        "quote": "The most important choice in life is what you pay attention to. It’s a choice we make continuously and often unconsciously, in an endless succession of moments. Everything we experience is mediated by our attention. It’s the lens we see the world through.",
+        "attribution": "Matthew Born"
+    },{
+        "quote": "The difference between something good and something great is attention to detail.",
+        "attribution": "Charles R Swindoll"
+    },{
+        "quote": "The fundamental human currency is attention.",
+        "attribution": "Jordan Peterson"
+    },{
+        "quote": "The most basic way to get someone's attention is this: Break a pattern.",
+        "attribution": "Chip Heath and Dan Heath"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["*"],
+            "predominantType": "capacity",
+            "levels": {
+              "4,3,2,1": {
+                "experiences": ["attention"]
+              }
+            }
+        }]
+    }]
+}

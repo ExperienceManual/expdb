@@ -1,0 +1,58 @@
+{
+    "lang": "en/us",
+    "createDate": "20250806",
+    "updateDate": "20250806",
+    "name": "reticence",
+    "valence": 0,
+    "quote": "She doesn't talk much about herself.",
+    "description": "A preference to avoid talking about your thoughts and feelings generally, or in a particular situation.",
+    "alternateDefinitions": ["'Reticence' has started to overlap in usage with 'reluctant', which is a more general unwillingness to do something. The usage here is about communication."],
+    "perceptions": ["If I say something, it might come out sounding wrong.","I'd prefer not to talk on this topic right now."],
+    "desires": ["desire for privacy","desire to improve"],
+    "sensations": ["social anxiety","shyness"],
+    "related": ["introversion"],
+    "opposites": ["communication"],
+    "examples": ["Avoiding talking in large groups.","Not wanting to weigh in on an already heated conversation."],
+    "guidance": [{
+        "description": "Holding back on communication due to concern about the situation may be wise. If reticence in general is causing you social problems, consider the guidance for 'timidness' or 'shyness'.",
+        "references": ["timidness","shyness"]
+    }],
+    "comparisons": [{
+        "links": ["social anxiety"],
+        "description": "If you're stressed about potential outcomes of a social interaction, 'reticence' is one of the possible results."
+    },{
+        "links": ["defiance"],
+        "description": "If there's an unwritten expectation that you'll participate in a conversation, then 'reticence' could be considered a specific form of 'defiance'."
+    }],
+    "commentaries": [{
+        "quote": "Many times in life I've regretted the things I've said without thinking. But I've never regretted the things I said nearly as much as the words I left unspoken.",
+        "attribution": "Lisa Kleypas"
+    },{
+        "quote": "Among my most prized possessions are words that I have never spoken.",
+        "attribution": "Orson Scott Card"
+    },{
+        "quote": "Never complain, never explain. Resist the temptation to defend yourself or make excuses.",
+        "attribution": "Brian Tracy"
+    },{
+        "quote": "Silence does not always mark wisdom.",
+        "attribution": "Samuel Taylor Coleridge"
+    },{
+        "quote": "I remember manners, that's when people are scared to make other persons mad.",
+        "attribution": "Emma Donoghue"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["reticence"],
+            "predominantType": "impulse",
+            "levels": {
+              "4,3": {
+                "experiences": ["reticence"]
+              },
+              "2,1": {
+                "experiences": ["satisfaction","anxiety"]
+              }
+            }
+        }]
+    }]
+}

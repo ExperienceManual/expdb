@@ -1,0 +1,49 @@
+{
+    "lang": "en/us",
+    "createDate": "20250803",
+    "updateDate": "20250804",
+    "name": "agreeableness",
+    "tags": ["big5-high","pattern"],
+    "valence": 0,
+    "quote": "Always a good helper, that lad.",
+    "description": "A pattern of consistently displaying pro-social behaviors.",
+    "perceptions": ["People are generally trustworthy.","Being friendly and helpful to others has generally been a good strategy for me."],
+    "desires": ["desire for social contact","desire to impact positively"],
+    "sensations": ["empathy","trust","goodwill","optimism","generosity","friendly social contact"],
+    "related": ["listening","win-win negotiation"],
+    "opposites": ["disagreeableness"],
+    "guidance": [{
+        "description": "Agreeableness is one of the 'Big 5' personality traits recognized by psychologists. It's considered to be a spectrum from 'agreeableness' on one end to 'disagreeableness' on the other.",
+        "references": ["https://www.psychologytoday.com/us/basics/agreeableness"]
+    },{
+        "description": "In this article, I’ll cover how to be agreeable in a healthy way, and by the end of the article, I’ll explain the difference between being agreeable (usually good) and being submissive (usually not that good).",
+        "attribution": "Viktor Sander B.Sc., B.A.",
+        "references": ["https://socialself.com/blog/how-to-be-agreeable/"]
+    },{
+        "description": "Are You Too Agreeable? 7 Strategies To Push Back Without Coming Off Pushy",
+        "attribution": "Margie Warrell, Ph.D",
+        "references": ["https://www.forbes.com/sites/margiewarrell/2013/08/20/are-you-too-agreeable-7-strategies-to-push-back-without-coming-off-pushy/"]
+    }],
+    "commentaries": [{
+        "quote": "If you are too agreeable, you may get stepped on like a doormat.",
+        "attribution": "Psychology Today Staff"
+    },{
+        "quote": "Agreeableness is of fundamental importance to psychological well-being, predicting mental health, positive affect, and good relations with others.",
+        "attribution": "KM DeNeve & C Cooper in 'The happy personality: A metaanalysis of 137 personality traits and subjective well-being'"
+    },{
+        "quote": "Criticism may not be agreeable, but it is necessary. It fulfils the same function as pain in the human body. It calls attention to an unhealthy state of things.",
+        "attribution": "Winston Churchill"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["agreeableness"],
+            "predominantType": "pattern",
+            "levels": {
+              "4,3,2,1": {
+                "experiences": ["agreeableness"]
+              }
+            }
+        }]
+    }]
+}

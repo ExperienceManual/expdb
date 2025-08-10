@@ -1,0 +1,55 @@
+{
+    "lang": "en/us",
+    "createDate": "20250804",
+    "updateDate": "20250804",
+    "name": "sensitivity to stress",
+    "alternateNames": ["neuroticism","negative emotionality"],
+    "valence": 0,
+    "tags": ["big5-high","pattern"],
+    "quote": "Even thinking about it makes me nervous.",
+    "description": "A general tendency toward negative emotions when under stress.",
+    "perceptions": ["Life is stressful.","There's a lot I need to monitor and control.","It's best to be ready for even minor dangers."],
+    "desires": ["desire for safety","desire for comfort"],
+    "sensations": ["anxiety","frustration","distrust","depression","pessimism"],
+    "opposites": ["resilience to stress"],
+    "examples": ["Easily irritated.","Chronic anxiety and worry."],
+    "guidance": [{
+        "description": "'Sensitivity to stress' is one of the 'Big 5' personality traits recognized by psychologists except they call this aspect 'neuroticism', which we think is a label in need of an upgrade. Anyhow, it's considered to be a spectrum from 'sensitivity to stress' on one end to 'resilience to stress' on the other.",
+        "references": ["https://www.psychologytoday.com/us/basics/neuroticism"]
+    },{
+        "description": "Sensitivity to stress is common and can be helpful in manageable amounts. It may be better to fear a tiger that's not actually there, unless it's affecting your health and relationships. If that'a problem, you may consider these resources or consulting a therapist.",
+        "references": ["https://positivepsychology.com/neuroticism/","https://www.verywellmind.com/ways-to-cope-with-stress-when-highly-sensitive-4126398","https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/positive-thinking/art-20043950"]
+    }],
+    "comparisons": [{
+        "links": ["disagreeableness"],
+        "description": "People have different reactions to stress in the social world. Stressed may cause some to be be disagreeable, while others are concerned about generating yet more social stress, so prefer to be agreeable."
+    }],
+    "commentaries": [{
+        "quote": "People with neurotic tendencies tend to hold on to a bad mood longer than other people.",
+        "attribution": "Christopher Bergland"
+    },{
+        "quote": "Everything great in the world comes from neurotics. They alone have founded our religions and composed our masterpieces.",
+        "attribution": "Marcel Proust"
+    },{
+        "quote": "I prefer neurotic people. I like to hear rumblings beneath the surface.",
+        "attribution": "Stephen Sondheim"
+    },{
+        "quote": "It's not stress that kills us, it's our reaction to it.",
+        "attribution": "Hans Selye"
+    },{
+        "quote": "To feel intensely is not a symptom of weakness.",
+        "attribution": "Anthon St. Maarten"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["sensitivity to stress"],
+            "predominantType": "pattern",
+            "levels": {
+              "4,3,2,1": {
+                "experiences": ["sensitivity to stress"]
+              }
+            }
+        }]
+    }]
+}
