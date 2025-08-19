@@ -1,0 +1,100 @@
+{
+    "lang": "en/us",
+    "createDate": "20250812",
+    "updateDate": "20250814",
+    "name": "virtuousness",
+    "valence": 1,
+    "quote": "Sorry, I'm not in for something like that.",
+    "description": "The positive sense that your actions are closely aligned with core internal principles.",
+    "perceptions": ["My words and actions are aligned with what's important to me.","I practice what I preach."],
+    "desires": ["desire for optimal","desire for meaning"],
+    "sensations": ["healthy self-regard","pride"],
+    "opposites": ["guilt"],
+    "examples": ["There are many virtues: humility, courage, resilience, wisdom, etc. You might want to know which are important to you."],
+    "guidance": [{
+        "description": "These references may help get started understanding which virtues are most important to you.",
+        "references": ["https://www.linkedin.com/pulse/live-virtuous-life-furkhan-dandia-ccc-macp-mba-dpjzc","https://aaronlynn.com/productivity/virtues/virtues/","https://classics.mit.edu/Antoninus/meditations.html"]
+    }],
+    "comparisons": [{
+        "links": ["healthy self-regard"],
+        "description": "Consistently aligning to your core virtues is a path towards a healthy self-regard."
+    }],
+    "variations": [{
+        "name": "moral success",
+        "alternateNames": ["righteousness"],
+        "alternateDefinitions": ["Christians may also define 'righteousness' as being obedient to the will of God."],
+        "description": "The sense that your actions are closely aligned with important social rules.",
+        "perceptions": ["My words and actions are aligned with what's important to my community."],
+        "desires": ["desire for order","desire for social status"],
+        "sensations": ["healthy self-regard"],
+        "examples": ["Refusing a bribe.","Declining to cheat on a test."],
+        "opposites": ["shame"],
+        "related": ["self-righteousness","temptation"],
+        "comparisons": [{
+            "links": ["virtuousness"],
+            "description": "A virtue is an internal principle, while a moral is an important social rule. These often the same, but not always. For instance, politeness may be a virtue, but few would call being polite a moral issue."
+        }],
+        "guidance": [{
+            "description": "5 Steps To Developing A Strong Sense Of Morality",
+            "attribution": "Patricia Baronowski-Schneider",
+            "references": ["https://www.brainzmagazine.com/post/5-steps-to-developing-a-strong-sense-of-morality"]
+        }]
+    },{
+        "name": "integrity",
+        "description": "The perception that someone acts in a way consistently aligned with pro-social virtues and social codes.",
+        "perceptions": ["That person's words and actions are aligned with admirable qualities that help our community."],
+        "desires": ["desire for order"],
+        "sensations": ["admiration","trust"],
+        "examples": ["Refusing a bribe.","Declining to cheat on a test."],
+        "personOfInterestExperiences": ["virtuousness","moral success"],
+        "opposites": ["disrespect"],
+        "comparisons": [{
+            "links": ["virtuousness","moral success"],
+            "description": "'Virtuousness' and 'moral success' are defined here as things you can feel about yourself. 'Integrity' is how others perceive you."
+        }],
+        "guidance": [{
+            "description": "Some resources to improve your integrity as seen by others.",
+            "references": ["https://www.susanalexanderyates.com/cultivating-integrity/","https://lifewithlaurel.com/how-to-develop-integrity"]
+        }]
+    }],
+    "commentaries": [{
+       "quote": "Virtue is its own reward.",
+       "attribution": "Cicero"
+    },{
+       "quote": "Thirteen virtues necessary for true success: temperance, silence, order, resolution, frugality, industry, sincerity, justice, moderation, cleanliness, tranquility, chastity, and humility.",
+       "attribution": "Ben Franklin"
+    },{
+        "quote": "Real integrity is doing the right thing, knowing that nobody's going to know whether you did it or not.",
+        "attribution": "Oprah Winfrey"
+    },{
+        "quote": "There ain't no sin and there ain't no virtue. There's just stuff people do.",
+        "attribution": "John Steinbeck in 'The Grapes of Wrath'"
+    },{
+        "quote": "I don't like people who have never fallen or stumbled. Their virtue is lifeless and it isn't of much value. Life hasn't revealed its beauty to them.",
+        "attribution": "Boris Pasternak"
+    },{
+        "quote": "Virtue is not left to stand alone. He who practices it will have neighbors.",
+        "attribution": "Confucius"
+    },{
+        "quote": "There are only two kinds of men: the righteous who think they are sinners and the sinners who think they are righteous.",
+        "attribution": "Blaise Pascal"
+    },{
+        "quote": "There's never been a true war that wasn't fought between two sets of people who were certain they were in the right. The really dangerous people believe they are doing whatever they are doing solely and only because it is without question the right thing to do.",
+        "attribution": "Neil Gaiman"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["virtuousness","moral success","integrity"],
+            "predominantType": "sensation",
+            "levels": {
+              "4,3": {
+                "experiences": ["virtuousness"]
+              },
+              "2,1": {
+                "experiences": ["satisfaction"]
+              }
+            }
+        }]
+    }]
+}

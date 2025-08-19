@@ -10,6 +10,7 @@
   "perceptions": ["This environment is new and foreign to me.","I don't know what to expect or how to behave."],
   "desires": ["desire for comfort","desire for safety"],
   "sensations": ["confusion","anxiety","distrust"],
+  "related": ["aimlessness"],
   "guidance": [{
       "description": "If someone you know is experiencing chronic medical disorientation, consider seeking professional help.",
       "references": ["https://www.healthline.com/health/disorientation","https://alzheimer.ca/en/help-support/im-caring-person-living-dementia/understanding-symptoms/disorientation-losing-ones-way"]

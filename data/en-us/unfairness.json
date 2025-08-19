@@ -19,11 +19,12 @@
     }],
     "variations": [{
         "name": "injustice",
+        "alternateNames": ["indignation"],
         "description": "A perception that the outcome or process of a social judgement was not aligned with deeply important rules.",
-        "perceptions": ["Someone chose an outcome that affects me.","I don't agree with the outcome.","They did not adhere to the moral rules as they should have."],
-        "desires": ["desire for justice"],
+        "perceptions": ["Someone chose an outcome that does not adhere to rules I consider socially important.","This is not ok.","They ought to be told they are behaving in an unacceptable way."],
+        "desires": ["desire for justice","desire for order"],
         "sensations": ["dismay","someone else cheating","anxiety","anger","sadness","fear"],
-        "related": ["distrust","cynicism"],
+        "related": ["distrust","cynicism","self-righteousness"],
         "opposites": ["justice"],
         "examples": ["A false accusation wrongly lands someone in prison.","A good person has a bad thing happen to them."],
         "comparisons": [{
@@ -36,6 +37,24 @@
             "references": ["https://www.psychologytoday.com/us/blog/empowered-relief/201412/9-tips-stop-anger-and-injustice-hurting-you"]
         }]
     },{
+        "name": "resentment",
+        "description": "A form of low-grade anger towards a person, group, or situation perceived as having treated you unfairly.",
+        "perceptions": ["Someone chose an outcome that was not fair to me.","It doesn't break a major social rule, but it still irritates me."],
+        "desires": ["desire for justice","desire for order","desire for validation"],
+        "sensations": ["dismay","someone else cheating","anger","fear"],
+        "related": ["distrust","cynicism"],
+        "opposites": ["justice"],
+        "examples": ["They always pick me last for a team.","The boss gives me the worst assignments."],
+        "comparisons": [{
+            "links": ["injustice"],
+            "description": "You can be resentful of a relatively minor slight, but not consider it a true injustice, which is a more substantial infraction."
+        }],
+        "guidance": [{
+            "description": "There are specific actions you can take to address feelings of anger and resentment in more healthy and helpful ways.",
+            "attribution": "Dan Mager MSW",
+            "references": ["https://www.psychologytoday.com/us/blog/some-assembly-required/201701/8-strategies-work-through-anger-and-resentment"]
+        }]
+    },{
         "name": "unfairness of nature",
         "description": "A perception that the natural world is attacking people, animals, or plants.",
         "perceptions": ["Nature is not always fair to people, animal, and plant individuals."],
@@ -43,7 +62,7 @@
         "sensations": ["empathy"],
         "examples": ["natural disasters","birth defects","orcas eating a whale's calf","vines smothering a tree"],
         "guidance": [{
-            "description": "Since life is not a symphony of fairness, but a jazz improvisation of asymmetries, the first step towards acceptance  is to acknowledge this inherent randomness, this inherent unfairness. It is not an enemy to be defeated, but a dance partner to be embraced.",
+            "description": "Since life is not a symphony of fairness, but a jazz improvisation of asymmetries, the first step towards acceptance is to acknowledge this inherent randomness, this inherent unfairness. It is not an enemy to be defeated, but a dance partner to be embraced.",
             "attribution": "Aaron Gray",
             "references": ["https://www.the-invisibleman.com/life/why-is-life-so-unfair"]
         }]
@@ -72,11 +91,14 @@
     },{
         "quote": "Nature was neither fair nor unfair. Those terms belonged to the world of men.",
         "attribution": "Carsten Jensen"
+    },{
+        "quote": "Resentment is like drinking poison and then hoping it will kill your enemies.",
+        "attribution": "Marcus Aurelius"
     }],
     "models": [{
         "version": "em1",
         "variations": [{
-            "names": ["unfairness","injustice","unfairness of nature"],
+            "names": ["unfairness","injustice","unfairness of nature","resentment"],
             "predominantType": "sensation",
             "levels": {
               "4": {

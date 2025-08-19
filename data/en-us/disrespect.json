@@ -30,7 +30,7 @@
       "sensations": ["discomfort","certainty","righteousness"],
       "results": ["say something derogatory","treat them with disrespect"],
       "guidance": [{
-          "description": "Contempt can be a valid response to certain behaviors. But we sometimess contempt more broadly than necessary. If you'd like to explore the root of contemptuous feelings, here are some articles to consider.",
+          "description": "Contempt can be a valid response to certain behaviors. But we sometimes cast contempt more broadly than necessary. If you'd like to explore the root of contemptuous feelings, here are some articles to consider.",
           "references": ["https://www.gottman.com/blog/how-to-change-your-own-contempt/","https://www.bc.edu/content/bc-web/centers/church21/publications/c21-resources/c21-resources-articles/Love-Your-Enemies---say-no-to-contempt.html","https://fastercapital.com/content/Contempt--From-Contempt-to-Compassion--Transforming-Perspectives.html"]
       },{
           "description": "If you perceive that someone is being contemptuous towards you, this article may be of interest.",
@@ -39,6 +39,24 @@
       "related": ["group hostility", "aversion","misanthropy","undignified"],
       "opposites": ["admiration","reverence"],
       "examples": ["Name calling.","Assuming someone is untrustworthy because they hold a certain political opinion."]
+  },{
+      "name": "self-righteousness",
+      "description": "A judgment that a person or group is acting morally superior.",
+      "perceptions": ["This person or group is acting intolerant of behavior I don't disagree with.","They seem to think they get to decide how others act."],
+      "desires": ["desire for social status","desire for order"],
+      "sensations": ["discomfort","certainty","disrespect"],
+      "personOfInterestExperiences": ["righteousness","contempt"],
+      "results": ["say something derogatory","treat them with disrespect"],
+      "guidance": [{
+          "description": "When interacting with someone who you perceive as being self-righteous, you may consider these references.",
+          "references": ["https://coloradocounseling.podbean.com/e/overcoming-a-self-righteous-person/"]
+      },{
+          "description": "It's not always easy to see, but if you suspect you may have become self-righteous, here are some articles that may be of help.",
+          "references": ["https://www.draudreyt.com/post/a-simple-affirmation-to-avoid-self-righteousness","https://www.keylife.org/articles/self-righteousness-the-secret-to-getting-better/"]
+      }],
+      "related": ["group hostility", "aversion","misanthropy","undignified"],
+      "opposites": ["admiration","reverence"],
+      "examples": ["Someone's social media post states an opinion you think is obviously wrong and dangerous."]
   },{
       "name": "bullying contempt",
       "description": "A feeling of dislike-for and superiority-over someone mainly to raise your status or distract attention about your behavior.",

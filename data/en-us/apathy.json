@@ -1,0 +1,93 @@
+{
+    "lang": "en/us",
+    "createDate": "20250816",
+    "updateDate": "20250818",
+    "name": "apathy",
+    "valence": 0,
+    "quote": "I don't care.",
+    "description": "Lack of feeling about a particular something that you are expected to have some interest in.",
+    "perceptions": ["There are several things I should probably be doing.","They don't seem important or interesting.","I'm not going to do them."],
+    "desires": ["desire for comfort"],
+    "sensations": ["boredom","disconnection"],
+    "related": ["laziness","aimlessness"],
+    "opposites": ["enthusiasm"],
+    "examples": ["A student not caring about doing well in a class.","A worker not caring about customer satisfaction."],
+    "guidance": [{
+        "description": "If you have been struggling with apathy, there are ways to recognize what’s causing it, to deal with your numbness, and to reconnect with a full range of emotions.",
+        "attribution": "The Jed Foundation",
+        "references": ["https://jedfoundation.org/resource/how-to-deal-with-apathy-and-feeling-numb"]
+    }],
+    "variations": [{
+        "name": "languishing",
+        "description": "A persistent lack of interest about things in general combined with a sense of not knowing what to do next.",
+        "perceptions": ["Nothing interests me.","Not sure what I should be doing with my life."],
+        "desires": ["desire for meaning"],
+        "sensations": ["aimlessness","disconnection","boredom","depression"],
+        "examples": ["Being stuck in a life situation that's not working for you."],
+        "opposites": ["ambition"],
+        "guidance": [{
+            "description": "See the guidance for apathy and aimlessness.",
+            "references": ["apathy","aimlessness"]
+        }]
+    },{
+        "name": "clinical apathy",
+        "description": "Your life experience is significantly degraded by a persistent lack of feelings about important things that formerly created feelings.",
+        "perceptions": ["A number of things used to bring me satisfaction or anxiety.","They don't anymore."],
+        "desires": ["none"],
+        "sensations": ["emptiness","depression","unhealthy self-regard"],
+        "opposites": ["meaning"],
+        "guidance": [{
+            "description": "If you haven't felt emotions for a while like you used to, please consider contacting a professional.",
+            "references": ["__THERAPY_LINKS__"]
+        }]
+    }],
+    "comparisons": [{
+        "links": ["laziness"],
+        "description": "'Laziness' is when you don't do something primarily because of the size or type of effort. 'Apathy' is when you don't do it because you don't care about the results at all."
+    },{
+        "links": ["laziness","clinical apathy","languishing","aimlessness","ennui","nihilism"],
+        "description": "These are all problems with motivation. To understand the differences, here are three components to motivation: (1) Caring about one or more outcomes. (2) Knowing what to do to influence an outcome you care about. (3) Deciding it's worthwhile to spend the effort. 'Apathy' is not caring about something you should care about. 'Clinical apathy' is no longer caring about many things you used to care about. 'Nihilism' is caring about nothing because it doesn't matter. 'Aimlessness' is not knowing what to do next. 'Laziness' is deciding effort isn't worthwhile even when you care a little and know what to do. 'Languishing' is apathy about multiple things combined with aimlessness. 'Ennui' is caring some but judging everything an unsolvable mess so why bother. 'Emptiness' is when you care about something that seems irrevocably gone."
+    }],
+    "commentaries": [{
+        "quote": "Apathy is a sort of living oblivion.",
+        "attribution": "Horace Greeley"
+    },{
+        "quote": "Evil thrives on apathy and cannot survive without it.",
+        "attribution": "Hannah Arendt"
+    },{
+        "quote": "My generation's apathy. I'm disgusted with it. I'm disgusted with my own apathy too, for being spineless and not always standing up against racism, sexism and all those other -isms the counterculture has been whining about for years.",
+        "attribution": "Kurt Cobain"
+    },{
+        "quote": "Apathy is the self-defense of the powerless.",
+        "attribution": "Letty Cottin Pogrebin"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["apathy","languishing"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2": {
+                "experiences": ["apathy"]
+              },
+              "1": {
+                "experiences": ["dissatisfaction"]
+              }
+            }
+        },{
+            "names": ["clinical apathy"],
+            "predominantType": "sensation",
+            "levels": {
+              "4,3,2": {
+                "experiences": ["clinical apathy"]
+              },
+              "1": {
+                "experiences": ["dissatisfaction"]
+              }
+            }
+        }]
+    }]
+}

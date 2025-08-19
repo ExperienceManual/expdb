@@ -1,12 +1,12 @@
 {
   "lang": "en/us",
   "createDate": "20250505",
-  "updateDate": "20250715",
+  "updateDate": "20250815",
   "name": "regret",
   "valence": -1,
-  "quote": "I should have chosen a different model.",
+  "quote": "I should have chosen a different brand.",
   "description": "A sense of sadness and loss from realizing that having chosen a different outcome or acting sooner could have resulted in a much better situation.",
-  "perceptions": ["A different outcome would have been much better.","I bear some or all responsibility for the original outcome, either by inaction or by making a poor choice."],
+  "perceptions": ["A different outcome would have been much better.","I bear some or all responsibility for the outcome, either by inaction or by making a poor choice."],
   "desires": ["desire for comfort"],
   "sensations": ["sadness","losing"],
   "results": ["The experience may inform future choices."],
@@ -41,6 +41,19 @@
           "references": ["https://www.helpguide.org/mental-health/wellbeing/fear-of-missing-out-fomo"]
       }],
       "examples": ["Feeling left out of a work event while on vacation."]
+  },{
+      "name": "apologetic",
+      "description": "Sincerely acknowledging to another a recognition that your action caused them a harm that you could have or should have avoided.",
+      "perceptions": ["I harmed someone with inaction or a poor choice.","A different outcome was possible.","I want to let them know I'm regretful of the harm."],
+      "desires": ["desire for order","desire to be perceived a certain way"],
+      "sensations": ["regret","empathy","humility"],
+      "opposites": ["unapologetic"],
+      "guidance": [{
+          "description": "The Power of Apologizing: Relearn How to Say 'I'm Sorry'",
+          "attribution": "Ester Perel",
+          "references": ["https://www.estherperel.com/blog/the-power-of-apologizing-relearn-how-to-say-im-sorry"]
+      }],
+      "examples": ["Saying 'sorry' after accidentally injuring someone playing a sport.","Repairing a relationship after an argument."]
   },{
       "name": "long-term regret",
       "description": "Sadness from perceiving that an important aspect of your life has not gone as well as you think it could have.",
@@ -93,6 +106,17 @@
             },
             "3,2,1": {
               "experiences": ["sadness","loss"]
+            }
+          }
+      },{
+          "names": ["apologetic"],
+          "predominantType": "impulse",
+          "levels": {
+            "4,3": {
+              "experiences": ["apologetic"]
+            },
+            "2,1": {
+              "experiences": ["sadness"]
             }
           }
       }]

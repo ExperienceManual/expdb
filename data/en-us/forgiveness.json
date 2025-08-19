@@ -1,0 +1,62 @@
+{
+    "lang": "en/us",
+    "createDate": "20250815",
+    "updateDate": "20250816",
+    "name": "forgiveness",
+    "valence": 0,
+    "quote": "She was calmer after the apology.",
+    "description": "Letting go of anger or resentment about someone who you perceive as having created a negative outcome.",
+    "perceptions": ["That person was responsible for creating a situation that is more negative than it could have been through action or inaction.","I was upset with them.","I have let go of being upset."],
+    "desires": ["desire for comfort"],
+    "sensations": ["acceptance","empathy","hope","relief"],
+    "related": ["generosity","apologetic"],
+    "opposites": ["resentment","anger"],
+    "examples": ["Letting go of a grudge.","Not being mad at the new driver who dented your car."],
+    "guidance": [{
+        "description": "Forgiving someone can be a process that might not happen quickly or automatically. ",
+        "attribution": "",
+        "references": ["https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/forgiveness/art-20047692","https://www.dralisoncook.com/blog/how-to-forgive-and-move-on-in-a-relationship","https://www.theforgivenessproject.com/stories/"]
+    },{
+        "description": "The dangers of forgiving too easily",
+        "attribution": "Rachel Bird",
+        "references": ["https://www.theforgivenessproject.com/founders-blog/the-dangers-of-forgiving-too-easily/"]
+    }],
+    "comparisons": [{
+        "links": [],
+        "description": ""
+    }],
+    "commentaries": [{
+        "quote": "If we really want to love, we must learn how to forgive.",
+        "attribution": "Mother Theresa"
+    },{
+        "quote": "Forgiveness does not mean that you ignore what happened. In addition, forgiveness does not mean you trust someone after the trust has been broken. Nor does it mean you continue to place yourself in harm’s way.",
+        "attribution": "Dr. Alison Cook"
+    },{
+        "quote": "All too often we sanitise and simplify forgiveness, when in fact it’s an arduous, exhausting task – messy, risky and unpredictable.",
+        "attribution": "Eleanor Longden"
+    },{
+        "quote": "Forgiveness is above all a personal choice, a decision of the heart to go against natural instinct to pay back evil with evil.",
+        "attribution": "Pope John Paul II"
+    },{
+        "quote": "When a deep injury is done to us, we never recover until we forgive.",
+        "attribution": "Alan Paton"
+    },{
+        "quote": "To understand somebody else as a human being, I think, is about as close to real forgiveness as one can get.",
+        "attribution": "David Small"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["forgiveness"],
+            "predominantType": "impulse",
+            "levels": {
+              "4,3,2": {
+                "experiences": ["forgiveness"]
+              },
+              "1": {
+                "experiences": ["satisfaction"]
+              }
+            }
+        }]
+    }]
+}

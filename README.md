@@ -114,9 +114,11 @@ Notes on word usage:
 - **Subconscious** - experiences and desires that are difficult to perceive, but can be accessed with therapy, self-honesty, meditation, prayer, and/or diligence.
 - **Unconscious** - internal experiences and desires that cannot be accessed directly. Their existence must be implied.
 - **Outcome** - Our brains automatically predict things that could happen after the current situation. It's a relatively simple branching structure: for example, there's a good chance X happens next, a medium chance Y happens, and a small chance that Z happens. Each of these possible 'outcomes' may be associated with some experiences about how to influence the result.
+- **Virtue** - a characteristic of a person viewed as positive. e.g. "courage","wisdom",etc.
+- **Moral Rule** - A deeply important rule established by the society you live in.
 
 # Next Steps
 
-- Complete the set of files. About ~120 to go.
+- Complete the set of files. About ~90 to go.
 - Build a tool to review the files and their links.
 - Build a web site and search engine to explore the files.

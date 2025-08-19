@@ -5,7 +5,7 @@
   "name": "meaning",
   "valence": 1,
   "quote": "I know where I belong and what I'm supposed to do.",
-  "description": "A sense that you are aligned in situation, feeling, and action with important values.",
+  "description": "A sense of certainty that your life situation is closely aligned with your important values.",
   "perceptions": ["I know where I belong and what I'm supposed to do."],
   "desires": ["desire for meaning"],
   "sensations": ["satisfaction","joy"],
@@ -15,6 +15,7 @@
   }],
   "related": ["home", "healthy self-regard", "faith"],
   "opposites": ["desire for meaning","doubt","unhealthy self-regard"],
+  "examples": ["Volunteering for a cause you care about.","Working through your life's 'bucket list'."],
   "variations": [{
       "name": "everyday meaning",
       "description": "Finding satisfaction in your family, friends, job, and/or hobbies.",
@@ -25,7 +26,8 @@
           "description": "Three Steps for Finding Purpose in the Everyday",
           "attribution": "Beth Kurland Ph.D.",
           "references": ["https://www.psychologytoday.com/us/blog/the-well-being-toolkit/202007/three-steps-finding-purpose-in-the-everyday"]
-      }]
+      }],
+      "examples": ["A job you find fulfilling.","Spending time with family."]
   }],
   "commentaries": [{
       "quote": "Don't undervalue the sense of value you can get from doing many small things well. Even jobs that seem unimportant can be fulfilling. Raising kids is a life accomplishment. Long-term friends are a treasure."

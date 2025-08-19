@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250208",
-  "updateDate": "20250529",
+  "updateDate": "20250819",
   "name": "boredom",
   "valence": -1,
   "quote": "Mom, what can I do?",
@@ -30,15 +30,15 @@
       }],
       "examples": ["waiting for someone to arrive"]
   },{
-      "name": "bored with the current activities",
-      "description": "A perception that the current experiences are not fulfilling.",
-      "perceptions": ["I need to do something different."],
+      "name": "ennui",
+      "description": "A general pattern of being weary and dissatisfied about everything in life.",
+      "perceptions": ["Everything is kinda boring and annoying."],
       "desires": ["desire for novelty","desire for meaning"],
-      "results": ["try to find something different to do"],
+      "sensations": ["annoyance","emptiness","sadness","apathy"],
       "guidance": [{
-	  "description": "We are missing out on the best things in life because we are afraid of a little boredom.",
-	  "attribution": "Reagan Rose",
-	  "references": ["https://redeemingproductivity.com/boredom/"]
+	  "description": "Ennui is the slow tide that can pull you away from the joy in life. It is more than boredom and not quite depression. It can touch anyone, no matter how life looks on the outside. Knowing what ennui is helps you see the signs early.",
+	  "attribution": "Mind-Body Care",
+	  "references": ["https://mbcare.us/what-is-ennui-and-how-it-affects-your-mental-health"]
       }]
   }],
   "commentaries": [{
@@ -81,7 +81,7 @@
             }
           }
       },{
-	  "names": ["bored with the current activities"],
+	  "names": ["ennui"],
           "predominantType": "impulse",
           "levels": {
             "1": {

@@ -1,0 +1,65 @@
+{
+    "lang": "en/us",
+    "createDate": "20250810",
+    "updateDate": "20250810",
+    "name": "awareness",
+    "alternateNames": ["back of your mind"],
+    "valence": 0,
+    "quote": "",
+    "description": "A sensation, desire, or expectation that's in the background of your experience.",
+    "perceptions": ["There are sensations, desires, or expectations lurking on the edge of my experience.","I'm not paying close attention to them, but know they exist."],
+    "desires": ["many"],
+    "sensations": ["many"],
+    "results": ["The background experience may stay in the background, become an object of attention, influence where attention is directed, or just disappear."],
+    "related": ["attention"],
+    "opposites": ["dreamless sleep"],
+    "examples": ["Suddenly the cicadas stop making noise.","Sensing that something weird is going on while your friends are planning a surprise party."],
+    "guidance": [{
+        "description": "With some effort, you may be able to get better at identifying things lurking in your subconscious and how they affect your attention.",
+        "references": ["https://solutions.borderstates.com/blog/enhance-situational-awareness/","https://www.ellevatenetwork.com/articles/6170-be-more-mindful-7-tips-to-improve-your-awareness"]
+    }],
+    "variations": [{
+        "name": "self-awareness",
+        "description": "Being able to identify your background desires and expectations.",
+        "perceptions": ["There are desires or expectations lurking on the edge of my experience.","They are familiar."],
+        "desires": ["many"],
+        "sensations": ["many"],
+        "results": ["If you understand what's driving your experiences, it may be easier to deal with the situation."],
+        "examples": ["Understanding why you're reacting with frustration at a seemingly small setback."],
+        "opposites": ["self ignorance"],
+        "related": ["healthy self-regard"],
+        "guidance": [{
+            "description": "If you'd like to have a better sense of why you react to things the way you do, these references may provide a starting point.",
+            "references": ["https://www.ccl.org/articles/leading-effectively-articles/4-ways-boost-self-awareness/","https://www.health.harvard.edu/healthbeat/advance-your-self-awareness"]
+        }]
+    }],
+    "comparisons": [{
+        "links": ["attention"],
+        "description": "If 'attention' is the stage where your conscious mind dances with thoughts and sensations, 'awareness' is the backstage where various characters and puppet masters lurk."
+    }],
+    "commentaries": [{
+        "quote": "You can’t control whether something is in your awareness, but you can control whether you direct your attention toward it.",
+        "attribution": "Dr. Michael J. Greenberg"
+    },{
+        "quote": "Our awareness is tuned in to everything that is going on around and within us.  It neither thinks about nor judges what is surrounding us, it simply positions and connects us to everything else. It provides the context for our experience.  In a sense it is passive.",
+        "attribution": "worklifemindfulness.com"
+    },{
+        "quote": "Our trouble is that attention is such a powerful tool that once it developed we started overusing it. We basically are a species that suffers from awareness deficit disorder. We have as much capacity for awareness as the deer or any other animal, but we’ve learned to overuse attention. This is important to meditation and spiritual practice because you need to understand, introspectively, what you are, what’s happening in your mind, and how it is that your experience comes about. And only awareness can do this.",
+        "attribution": "Culadasa"
+    },{
+        "quote": "While awareness helps us to see reality and truth for what it is, that reality isn’t always a pleasant one. Our realizations from awareness can be some of the most painful realizations we experience in life.",
+        "attribution": "Troy Erstling"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["*"],
+            "predominantType": "capacity",
+            "levels": {
+              "4,3,2,1": {
+                "experiences": ["attention"]
+              }
+            }
+        }]
+    }]
+}

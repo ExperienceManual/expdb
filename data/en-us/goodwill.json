@@ -1,12 +1,13 @@
 {
   "lang": "en/us",
   "createDate": "20250416",
-  "updateDate": "20250708",
+  "updateDate": "20250811",
   "name": "goodwill",
   "valence": 0,
   "quote": "I'll give him the benefit of the doubt.",
-  "description": "A willingness to show a person or group trust and kindness when you don't have a good reason to be nice to them.",
-  "perceptions": ["That person or group could use some support.","People react well to being trusted."],
+  "description": "A general willingness to show a person or group trust and positive actions even when you don't have a good reason to be nice to them.",
+  "alternateDefinitions": ["In the business world, 'goodwill' on a balance sheet can mean the value of their reputation, loyalty, and brand recognition."],
+  "perceptions": ["That person or group could use some support.","People react well to being trusted.","I would be willing to help them."],
   "desires": ["desire to impact positively"],
   "sensations": ["optimism"],
   "guidance": [{
@@ -14,16 +15,31 @@
       "attribution": "Tracie Abram",
       "references": ["https://www.canr.msu.edu/news/spreading_good_will_this_holiday_season"]
   }],
-  "related": ["empathy", "faith", "compassion", "generosity"],
+  "related": ["kindness", "empathy", "faith", "compassion", "generosity"],
   "opposites": ["cynicism", "pessimism"],
   "examples": ["helping a stranger carry their groceries","giving money to a poor person"],
   "comparisons": [{
       "links": ["compassion"],
-      "description": "'Goodwill' can be part of reaction driven by a sense of 'compassion' for someone's suffering. But 'goodwill' can also be shown to people who are not suffering."
+      "description": "'Goodwill' can be driven by a sense of 'compassion' for someone's suffering. But you can also have 'goodwill' towards people who are not suffering."
+  },{
+      "links": ["kindness"],
+      "description": "'Goodwill' is the disposition to doing something nice for someone without expecting repayment of any kind, while 'kindness' is a specific action that benefits someone else without a promise of repayment. You can have goodwill without actually following up with a kind act, but kindness always comes from a place of goodwill."
+  },{
+      "links": ["optimism"],
+      "description": "Having goodwill towards people doesn't have to blindly assume the optimistic best case. You might be aware that they might not 'do the right thing', but that treating them positively has a chance of encouraging pro-social behavior."
+  },{
+      "links": ["generosity"],
+      "description": "Goodwill doesn't necessarily involve being generous with time or materials - it can just be a willingness to trust and provide encouraging words."
+  },{
+      "links": ["faith"],
+      "description": "Trusting a stranger with something important may involve faith in human nature."
+  },{
+      "links": ["cynicism"],
+      "description": "We unconsciously balance a 'trust account' for every person and social group. At a certain level of trust, we'll look at people differently, but each of us has a different level of trust required. 'Cynicism' is when the bar of trust is so high that you assume only a few people are trustworthy. 'Goodwill' is when the bar of trust is so low it includes most strangers. If the bar of trust is at the 'extended friends and family' level, you're normal."
   }],
   "variations": [{
       "name": "goodwill mindset",
-      "description": "A pattern of belief that people react well to assuming their intentions are unselfish.",
+      "description": "A pattern of believing that people react well trust and kindness.",
       "perceptions": ["That person or group could use some support.","People react well to being trusted."],
       "desires": ["desire to impact positively"],
       "sensations": ["optimism"],
@@ -35,19 +51,6 @@
       "desires": ["desire to impact positively","desire for order"],
       "sensations": ["anticipation","optimism","pessimism"],
       "examples": ["corporate charity", "neighbors helping each other"]
-  }],
-  "comparisons": [{
-      "links": ["optimism"],
-      "description": "Having goodwill towards people doesn't have to blindly assume the optimistic best case. You might be aware that they might not 'do the right thing', but that treating them positively has a chance of encouraging pro-social behavior."
-  },{
-      "links": ["generosity"],
-      "description": "Goodwill doesn't necessarily involve being generous with time or materials - it can just be trust, kindness, and encouraging words."
-  },{
-      "links": ["faith"],
-      "description": "Trusting a stranger with something important may involve faith in human nature."
-  },{
-      "links": ["cynicism"],
-      "description": "We unconsciously balance a 'trust account' for every person and social group. At a certain level of trust, we'll look at people differently, but each of us has a different level of trust required. 'Cynicism' is when the bar of trust is so high that you assume only a few people are trustworthy. 'Goodwill' is when the bar of trust is so low it includes most strangers. If the bar of trust is at the 'extended friends and family' level, you're normal."
   }],
   "commentaries": [{
       "quote": "You should be wary when your goodwill account with someone is getting low. If you get to a trust level of zero, the best case is that your benefactor walks away. There are many worse cases, some of them quite unpleasant. This goes whether you're a person, a company, a government, or a species."

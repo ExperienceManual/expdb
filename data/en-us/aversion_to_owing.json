@@ -1,0 +1,54 @@
+{
+  "lang": "en/us",
+  "createDate": "20250811",
+  "updateDate": "20250811",
+  "name": "aversion to owing",
+  "valence": -1,
+  "quote": "How can I pay you back?",
+  "description": "Social anxiety from a perception that you need to provide an asset or perform an action for someone that helped you in order to meet expectations of fairness.",
+  "perceptions": ["That person or group did something to help or let me borrow something.","There's an expectation that I pay them back or return the favor."],
+  "desires": ["desire for order","desire for social influence","desire to be perceived a certain way"],
+  "sensations": ["gratitude","anxiety"],
+  "results": ["Make a mental note or write yourself a note to pay them back."],
+  "guidance": [{
+      "description": "If stress about debt is an issue, here are some references.",
+      "references": ["https://www.voya.com/blog/why-debt-causing-stress-and-anxiety-and-how-to-cope","https://www.experian.com/blogs/ask-experian/ways-to-deal-with-debt-stress/"]
+  },{
+      "description": "If you're averse to asking for help because you don't want to owe a favor, you might consider this reference.",
+      "references": ["https://carolinabehavioralcounseling.com/blog/how-to-ask-for-guilt-free-help-without-feeling-like-a-burden"]
+  }],
+  "related": ["generosity"],
+  "opposites": ["cheating"],
+  "examples": ["Not wanting to owe people money.","Being anxious about owing people favors."],
+  "commentaries": [{
+      "quote": "Debt can turn a free, happy person into a bitter human being.",
+      "attribution": "Michael Mihalik"
+  },{
+      "quote": "A man who pays his bills on time is soon forgotten.",
+      "attribution": "Oscar Wilde"
+  },{
+      "quote": "Creditors have better memories than debtors.",
+      "attribution": "Benjamin Franklin"
+  },{
+      "quote": "To feel oppressed by obligation is only to prove that we are incapable of a proper sentiment of gratitude.",
+      "attribution": "William Simms"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["aversion to owing"],
+          "predominantType": "impulse",
+          "levels": {
+            "2,1": {
+              "experiences": ["dismay"]
+            },
+            "3": {
+              "experiences": ["aversion to owing"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+      }]
+  }]
+}

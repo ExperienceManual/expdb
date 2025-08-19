@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250217",
-  "updateDate": "20250605",
+  "updateDate": "20250810",
   "name": "ignorance",
   "valence": 0,
   "quote": "I honestly had no idea.",
@@ -71,6 +71,18 @@
       "sensations": ["many"],
       "results": ["decide to admit ignorance with humility","deny the importance of the event"],
       "related": ["guilt","shame","denial"],
+      "guidance": [{
+          "description": "It can be difficult grappling with the limitations of one tiny human brain against an infinitely complicated world. You have to move forward amidst social pressures and instincts. Good luck.",
+          "references": ["https://www.thecrimson.com/article/2022/11/9/glassman-own-ignorance/","https://fs.blog/two-types-of-ignorance","https://blog.blueyonder.com/ignorance-is-not-bliss-its-ignorance/"]
+      }]
+  },{
+      "name": "self ignorance",
+      "description": "Things are happening inside that you don't understand.",
+      "perceptions": ["I don't know why I'm reacting this way."],
+      "desires": ["desire for knowledge"],
+      "sensations": ["many"],
+      "results": ["decide to admit ignorance with humility","deny the importance of the event"],
+      "opposites": ["self-awareness"],
       "guidance": [{
           "description": "It can be difficult grappling with the limitations of one tiny human brain against an infinitely complicated world. You have to move forward amidst social pressures and instincts. Good luck.",
           "references": ["https://www.thecrimson.com/article/2022/11/9/glassman-own-ignorance/","https://fs.blog/two-types-of-ignorance","https://blog.blueyonder.com/ignorance-is-not-bliss-its-ignorance/"]

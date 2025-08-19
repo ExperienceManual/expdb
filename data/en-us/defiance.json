@@ -45,6 +45,22 @@
             "references": ["https://www.indeed.com/career-advice/career-development/insubordination-in-workplace-examples"]
         }]
     },{
+        "name": "unapologetic",
+        "description": "A perception that someone expects you to feel bad about something you did or should do, but you do not.",
+        "perceptions": ["Someone wants me to do something or apologize for something.","It was not really my fault or they had enough warning.","I do not regret the action."],
+        "desires": ["desire for agency","many"],
+        "sensations": ["social tension","prioritization","dissonance"],
+        "related": ["disconnection","arrogance"],
+        "opposites": ["apologetic"],
+        "examples": ["Giving plenty of warning time about changing the picnic date but someone complains.","Hurting someone accidentally but not expressing regret."],
+        "guidance": [{
+            "description": "Being 'unapologetic' can mean being authentic. Here are some references with that vibe.",
+            "references": ["https://www.audriwrites.com/post/2019/06/13/being-unapologetic","https://taraswiger.com/podcast259/"]
+        },{
+            "description": "Being 'unapologetic' can also mean being rude. If this an issue in your world, here are some references.",
+            "references": ["https://ideas.ted.com/why-some-people-cant-apologize","https://www.everydayhealth.com/emotional-health/how-deal-with-inconsiderate-people/"]
+        }]
+    },{
         "name": "disagreement",
         "description": "Rejecting an outcome proposed by someone else. This can lead you to take action against the proposal or you may be silent.",
         "perceptions": ["An outcome has been proposed.","I can choose to allow it to happen or reject it.","I disagree with this outcome.","I may take action against it."],

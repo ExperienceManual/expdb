@@ -1,12 +1,12 @@
 {
   "lang": "en/us",
   "createDate": "20250217",
-  "updateDate": "20250607",
+  "updateDate": "20250816",
   "name": "laziness",
   "valence": 0,
-  "quote": "Nah, I don't feel like it.",
-  "description": "The sense that you should be doing something, but that thing is neither important nor enjoyable and you don't want to expend the volume or type of effort involved.",
-  "perceptions": ["I could be doing something particular.","That thing can wait or isn't very important and I don't feel like doing it right now.","Maybe I won't ever feel like it."],
+  "quote": "Nah, too much effort.",
+  "description": "The sense that you should be doing something, but that thing is not worth spending the effort needed.",
+  "perceptions": ["There's something I should probably be doing.","That thing can wait or isn't very important.","It's more effort than I want to spend right now."],
   "desires": ["desire for comfort","desire for agency"],
   "sensations": ["agency","comfort","resistance"],
   "guidance": [{
@@ -17,7 +17,7 @@
   "opposites": ["desire to improve"],
   "variations": [{
       "name": "procrastination",
-      "description": "An honest intention that you will go through with a task, but not just right now.",
+      "description": "An honest intention that you will go through with a task, but not just now.",
   "perceptions": ["I could be doing something particular.","That thing can wait or isn't very important and I don't feel like doing it right now.","I will do it later."],
       "desires": ["desire for comfort"],
       "sensations": ["dissonance"],

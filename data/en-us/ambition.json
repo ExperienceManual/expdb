@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250306",
-  "updateDate": "20250625",
+  "updateDate": "20250816",
   "name": "ambition",
   "valence": 0,
   "quote": "I bowl every day working towards a perfect game.",
@@ -40,6 +40,19 @@
       }],
       "related": ["patience"],
       "examples": ["writing a novel trilogy"]
+  },{
+      "name": "motivation",
+      "description": "Enthusiasm for putting effort into a goal.",
+      "perceptions": ["I have a goal and plan to reach it.","This will be great."],
+      "desires": ["many"],
+      "sensations": ["enthusiasm"],
+      "related": ["ownership"],
+      "comparisons": [{
+          "links": ["ambition"],
+          "description": "'Ambition' is the vision. 'Motivation' is this moment's energy to work towards that vision."
+      }],
+      "examples": ["Sitting down to write today."],
+      "opposites": ["laziness"]
   }],
   "commentaries": [{
       "quote": "A man's worth is no greater than his ambitions.",
@@ -53,7 +66,7 @@
   "models": [{
       "version": "em1",
       "variations": [{
-          "names": ["ambition","long-term ambition","long-term ambition"],
+          "names": ["*"],
           "predominantType": "impulse",
           "levels": {
             "4,3": {

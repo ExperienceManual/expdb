@@ -1,0 +1,83 @@
+{
+    "lang": "en/us",
+    "createDate": "20250811",
+    "updateDate": "20250811",
+    "name": "unkindness",
+    "valence": -1,
+    "quote": "Get out of my way.",
+    "description": "A negative and unhelpful action or comment intentionally directed toward another person. The contents of the interaction may be justified, but the mode of delivery more negative than necessary.",
+    "perceptions": ["That person or group is disappointing or is annoying me.","I'm going to let them know they don't meet my expectations."],
+    "desires": ["desire for social contact","desire to impact negatively"],
+    "sensations": ["ill will","selfishness","disconnection","enmity","group hostility"],
+    "opposites": ["kindness"],
+    "examples": ["Snapping at an elderly lady slowly carry her groceries.","Letting the cashier know you don't like their hairstyle.", "Openly yelling at a coworker who made a minor mistake."],
+    "guidance": [{
+        "description": "If you feel bad about being unnecessarily unkind to people and would like to work on it, see the guidance for empathy. There's certainly room for more people who can deliver 'tough love' with helpful grace.",
+        "references": ["empathy"]
+    }],
+    "variations": [{
+      "name": "receiving unkindness",
+      "description": "Someone else went out of their way to be negative to me.",
+      "perceptions": ["Someone else was unpleasant to me.","They didn't have to be so unpleasant."],
+      "desires": ["desire for validation"],
+      "sensations": ["resentment","injustice"],
+      "examples": ["Another driver made a rude gesture because you were driving the speed limit.","A coworker got impatient with you."],
+      "guidance": [{
+          "description": "When someone isn’t kind to you",
+          "attribution": "Dr. David Hamilton",
+          "references": ["https://drdavidhamilton.com/when-someone-isnt-kind-to-you/"]
+      }]
+    }],
+    "commentaries": [{
+        "quote": "In some ways, modern life has made us unkind. That unkindness has profound personal effects. And if we can build a kinder society, that would make life better for everyone.",
+        "attribution": "Annie Lowrey"
+    },{
+        "quote": "It's not what people do to you, but what they mean, that hurts.",
+        "attribution": "E.M. Forster"
+    },{
+        "quote": "I felt the kind of desperation, I think, that cancels the possibility of empathy...that makes you unkind.",
+        "attribution": "Sue Miller in 'While I Was Gone'"
+    },{
+        "quote": "Man's meanness is a fuse in search of a flame.",
+        "attribution": "Carlos Ruiz Zafón"
+    },{
+        "quote": "Unhappiness and the like often inspire us to perform random acts of unkindness.",
+        "attribution": "Mokokoma Mokhonoana"
+    },{
+        "quote": "You can’t refuse to live your life because some irrelevant person might be unkind to you.",
+         "attribution": "Sabrina Fedel"
+    }],
+    "spectrum": {
+        "unkindness": 5,
+        "uncharitable": 5
+    },
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["unkindness"],
+            "predominantType": "impulse",
+            "levels": {
+              "4,3,2": {
+                "experiences": ["unkindness"]
+              },
+              "1": {
+                "experiences": ["dissatisfaction"]
+              }
+            }
+        },{
+            "names": ["receiving unkindness"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2": {
+                "experiences": ["receiving unkindness","resentment"]
+              },
+              "1": {
+                "experiences": ["dissatisfaction"]
+              }
+            }
+        }]
+    }]
+}

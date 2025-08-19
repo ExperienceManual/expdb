@@ -60,9 +60,9 @@
         "examples": ["Choosing which task to do first.","Ranking your favorite movies."],
         "guidance": [{
             "description": "We all know prioritizing is critical, but like most time management concepts, how to prioritize is unclear and the traditional guidance not all that helpful.",
-            "attribution": "Kelly Nolan"
+            "attribution": "Kelly Nolan",
             "references": ["https://kellynolan.com/podcast-4/"]
-        }]
+        }],
         "comparisons": [{
             "links": ["judging","evaluation"],
             "description": "'Prioritization' is a process of assigning value to multiple tasks or items, including the ordering of which one should be chosen first."

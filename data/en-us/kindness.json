@@ -1,0 +1,91 @@
+{
+    "lang": "en/us",
+    "createDate": "20250810",
+    "updateDate": "20250811",
+    "name": "kindness",
+    "valence": 1,
+    "quote": "Sure, I'll help.",
+    "description": "A positive and helpful action or comment intentionally directed toward another person, motivated by a desire to help rather than to gain a reward or avoid punishment.",
+    "perceptions": ["That person or group could use some support.","I'm going to help out in an appropriate way.","There's no reward or threat involved."],
+    "desires": ["desire for social contact","desire to impact positively"],
+    "sensations": ["goodwill","generosity","empathy","compassion"],
+    "opposites": ["unkindness"],
+    "examples": ["Helping an elderly lady carry groceries.","Exchanging a few pleasant words with the cashier.","Leaving a thank you note for the hotel staff."],
+    "guidance": [{
+        "description": "We provide free kindness resources to help you make kindness the norm.",
+        "attribution": "randomactsofkindness.org",
+        "references": ["https://www.randomactsofkindness.org/"]
+    },{
+        "description": "Setting Boundaries with Kindness",
+        "attribution": "Emma McAdam, LMFT",
+        "references": ["https://therapyinanutshell.com/setting-boundaries-with-kindness/"]
+    }],
+    "comparisons": [{
+        "links": ["generosity"],
+        "description": "Kindness doesn't necessarily involve being generous with time or materials - it can just be an act of trust or providing encouraging words."
+    }],
+    "variations": [{
+      "name": "receiving kindness",
+      "description": "Someone else helped you without being motivated by reward or punishment.",
+      "perceptions": ["Someone else helped me.","They didn't have to."],
+      "desires": ["desire for agency"],
+      "sensations": ["gratitude","aversion to owing"],
+      "examples": ["Needing to use a community food pantry.", "Owing a friend dinner."],
+      "guidance": [{
+          "description": "You should definitely pay back money and favors when it's expected and possible. But if you can't, then do what can and see the guidance for gratitude and pay it forward.",
+          "references": ["gratitude"]
+      }]
+    }],
+    "commentaries": [{
+        "quote": "Kindness is the language which the deaf can hear and the blind can see.",
+        "attribution": "Mark Twain"
+    },{
+        "quote": "Kindness is the golden chain by which society is bound together.",
+        "attribution": "Johann Wolfgang von Goethe"
+    },{
+        "quote": "If you see someone without a smile, give them one of yours.",
+        "attribution": "Dolly Parton"
+    },{
+        "quote": "Act with kindness, but do not expect gratitude.",
+        "attribution": "Confucius"
+    },{
+        "quote": "Kindness can become toxic when making others comfortable becomes a priority and boundaries get faded.",
+        "attribution": "E.K."
+    },{
+        "quote": "Being too kind can have negative consequences on your personal relationships. It can lead to exploitation, neglect of your own needs, difficulty in setting boundaries, and resentment and burnout. Excessive kindness may hinder personal growth and development, contribute to a lack of assertiveness, attract toxic individuals into your life, and prevent you from standing up for yourself in difficult situations.",
+         "attribution": "Hamid Fuseini"
+    }],
+    "spectrum": {
+        "kindness": 5,
+        "charitable": 5
+    },
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["kindness"],
+            "predominantType": "impulse",
+            "levels": {
+              "4,3,2": {
+                "experiences": ["kindness"]
+              },
+              "1": {
+                "experiences": ["satisfaction"]
+              }
+            }
+        },{
+            "names": ["receiving kindness"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2": {
+                "experiences": ["receiving kindness","gratitude"]
+              },
+              "1": {
+                "experiences": ["satisfaction"]
+              }
+            }
+        }]
+    }]
+}

@@ -1,0 +1,85 @@
+{
+    "lang": "en/us",
+    "createDate": "20250819",
+    "updateDate": "20250819",
+    "name": "nihilism",
+    "alternateNames": ["existential nihilism"],
+    "valence": 0,
+    "quote": "Life sucks and then you die.",
+    "description": "A pattern of belief that there's no meaning to life, so our actions don't matter.",
+    "perceptions": ["Life is random and arbitrary.","Human social systems are constructed in an arbitrary way.","Everything is pointless."],
+    "desires": ["desire for knowledge","desire for comfort"],
+    "sensations": ["apathy","aimlessness"],
+    "related": ["misanthropy"],
+    "opposites": ["meaning","desire for meaning"],
+    "examples": ["The philosophy of Friedrich Nietzsche."],
+    "guidance": [{
+        "description": "People stressed by the search for meaning can find comfort in 'sunny' nihilism.",
+        "references": ["https://psyche.co/guides/how-to-find-the-sunny-side-of-nihilism"]
+    },{
+        "description": "If you find nihilism more depressing than relieving, here are some references to consider:", 
+        "references": ["https://exploringkodawari.blog/overcoming-nihilism-why-meaning-matters-and-how-to-find-it/","https://meaningness.com/nihilist-fallacies"]
+    }],
+    "variations": [{
+        "name": "moral nihilism",
+        "alternateNames": ["ethical nihilism"],
+        "description": "A pattern of belief that human morals are arbitrary and there are no objective moral truths.",
+        "perceptions": ["Human moral systems are constructed in an arbitrary way.","Living in accordance with one of them is for sheeple."],
+        "desires": ["desire for knowledge"],
+        "sensations": ["apathy","superiority"],
+        "opposites": ["meaning"]
+    },{
+        "name": "knowledge nihilism",
+        "alternateNames": ["epistemological nihilism"],
+        "description": "A pattern of belief that there are no objective truths.",
+        "perceptions": ["Human knowledge systems are constructed in an arbitrary way.","We can't be absolutely certain about anything."],
+        "desires": ["desire for knowledge"],
+        "sensations": ["skepticism"],
+        "opposites": ["certainty"]
+    },{
+        "name": "cosmic nihilism",
+        "description": "A pattern of belief that the universe is meaningless and indifferent to the existence or non-existence of humans.",
+        "perceptions": ["Human beings are not the pinnacle product of the universe.","We are a by-product that cannot expect special treatment."],
+        "desires": ["desire for knowledge"],
+        "sensations": ["skepticism"],
+        "opposites": ["meaning"]
+    }],
+    "comparisons": [{
+        "links": ["moral nihilism","knowledge nihilism","cosmic nihilism"],
+        "description": "The most common usage of 'nihilism' refers to a human life having no inherent meaning. The other forms deny other certainties: 'moral nihilism' denies absolute moral truths, 'knowledge nihilism' denies absolute truths of any kind, and 'cosmic nihilism' denies that the universe has inherent meaning, nor does it particularly care about humanity."
+    }],
+    "commentaries": [{
+        "quote": "If we believe in nothing, if nothing has any meaning and if we can affirm no values whatsoever, then everything is possible and nothing has any importance.",
+        "attribution": "Albert Camus"
+    },{
+        "quote": "Nihilism might be more intellectually consistent, but perhaps the intellect should not be the only source of truth.",
+        "attribution": "Luke @ exploringkodawari.blog"
+    },{
+        "quote": "For the past few years, I’ve been consumed by nihilism. But my descent into the controversial philosophy hasn’t been a grim road of despair and hopelessness. Quite the opposite. It’s become one of the most illuminating and fortifying parts of my life.",
+        "attribution": "Wendy Syfret on psyche.co"
+    },{
+        "quote": "Though nihilism has been relentlessly criticized for overemphasizing the dark side of human experience, it might be equally true that this overemphasis represents a needed counterbalance to shallow optimism and arrogant confidence in human power.",
+        "attribution": "John Marmysz"
+    },{
+        "quote": "Everything in the world displeases me: but, above all, my displeasure in everything displeases me.",
+        "attribution": "Friedrich Nietzsche"
+    },{
+        "quote": "Strict reliance on the intellect to make sense of the world leads ineluctably to despair, rubbing our noses in the inescapability of pain and death. As a rule, people need a sense of order, meaning, and certainty to feel hopeful and engaged in the world.",
+        "attribution": "Charles Harper Webb Ph.D. in psychologytoday.com"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["*"],
+            "predominantType": "impulse",
+            "levels": {
+              "4": {
+                "experiences": ["nihilism"]
+              },
+              "3,2,1": {
+                "experiences": ["dissatisfaction","satisfaction","dissonance"]
+              }
+            }
+        }]
+    }]
+}

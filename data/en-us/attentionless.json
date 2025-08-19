@@ -1,0 +1,48 @@
+{
+    "lang": "en/us",
+    "createDate": "20250810",
+    "updateDate": "20250810",
+    "name": "attentionless",
+    "valence": 0,
+    "quote": "I can't focus.",
+    "description": "A mental state where you're not focusing your mind on anything.",
+    "perceptions": ["I can't, or don't want to, focus my mind on anything."],
+    "desires": ["many"],
+    "sensations": ["many"],
+    "results": ["This state may be relaxing or worrisome."],
+    "related": ["mental fatigue","meditation"],
+    "opposites": ["attention"],
+    "examples": ["Extreme mental fatigue.","An advanced meditator may be able to enter and exit this state at will.","Someone with a clinical case of 'brain fog' or depression may be trapped in this state against their will."],
+    "guidance": [{
+        "description": "Being able to turn off anxiety-causing brain patterns is one of the goals of meditation. In this scenario, you're in control when you want to start focusing again.",
+        "references": ["meditation"]
+    },{
+        "description": "There's some suggestion that minor occasional episodes of 'brain fog' may be improved with diet, exercise, and changing some habits.",
+        "references": ["https://www.furtherfood.com/blogs/articles/beat-brain-fog-cure-10-steps-diet-lifestyle-dr-dow"]
+    },{
+        "description": "If you're unable to focus on anything, you may consider seeking professional guidance.",
+        "references": ["__THERAPY_LINKS__"]
+    }],
+    "commentaries": [{
+        "quote": "The person who thinks all the time has nothing to think about except thoughts, and so he loses touch with reality.",
+        "attribution": "Alan Watts"
+    },{
+        "quote": "Empty your mind. Be formless, shapeless like water.",
+        "attribution": "Bruce Lee"
+    },{
+        "quote": "The worst days are when you feel foggy in the head - chemo-brain they call it. It's awful because you feel boring. As well as bored. And stupid. And resigned.",
+        "attribution": "Christopher Hitchens"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["attentionless"],
+            "predominantType": "capacity",
+            "levels": {
+              "4,3,2,1": {
+                "experiences": ["attentionless"]
+              }
+            }
+        }]
+    }]
+}

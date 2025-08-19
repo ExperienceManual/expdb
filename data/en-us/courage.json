@@ -1,0 +1,123 @@
+{
+    "lang": "en/us",
+    "createDate": "20250814",
+    "updateDate": "20250815",
+    "name": "courage",
+    "valence": 1,
+    "quote": "He stood up to the bully.",
+    "description": "Choosing to act despite fear or the risk of danger because you think a better outcome is possible and the situation can't get worse.",
+    "perceptions": ["What needs to get done is not safe for me.","The only possible downside to my action would be to hurt myself.","I'm going to do it anyhow."],
+    "desires": ["desire to protect","desire for agency","desire for order"],
+    "sensations": ["anxiety","fear","healthy self-regard","virtuousness"],
+    "related": ["challenge"],
+    "opposites": ["timidness"],
+    "examples": ["Standing up to a bully.","Asking someone to a date."],
+    "guidance": [{
+        "description": "Here are some references that point towards cultivating courage.",
+        "references": ["https://www.mindful.org/five-ways-to-cultivate-courage/","https://www.krisvallotton.com/3-practical-steps-to-cultivate-courage"]
+    }],
+    "variations": [{
+        "name": "courage in others",
+        "description": "A perception that someone chose to act despite fear or the risk of danger because they thought it was the right thing to do and adequately understood the risks.",
+        "perceptions": ["What that person did was not safe.","They knew it wasn't safe.","They did it because they thought it was the right thing to do."],
+        "sensations": ["admiration"],
+        "personOfInterestExperiences": ["anxiety","fear","courage"],
+        "examples": ["Seeing someone break up a fight."],
+        "opposites": ["disrespect","recklessness"]
+    },{
+        "name": "fearlessness",
+        "description": "A perception that someone had significantly less fear then they should have had given the situation.",
+        "perceptions": ["What that person did was not safe.","They knew it wasn't safe.","They did it because they thought it was the right thing to do.","They had an unusually low level of anxiety."],
+        "sensations": ["admiration","dissonance"],
+        "personOfInterestExperiences": ["anxiety","courage"],
+        "opposites": ["timidness"],
+        "comparisons": [{
+            "links": ["courage"],
+            "description": "When doing something courageous, you may still have fear. Being fearless is actually not being afraid, whether that's wise or not."
+        }]
+    },{
+        "name": "recklessness",
+        "description": "A perception that someone chose to act despite fear or the risk of danger because they thought it was the right thing to do but did not adequately understand the risks.",
+        "perceptions": ["What that person did was not safe.","They knew it wasn't safe.","They did it because they thought it was the right thing to do.","They did not adequately think through the downsides of their action."],
+        "sensations": ["disrespect","contempt"],
+        "personOfInterestExperiences": ["anxiety","fear","courage"],
+        "examples": ["Poking the bear.","Making decisions based on an over-simplified ideology."],
+        "opposites": ["courage in others"],
+        "comparisons": [{
+            "links": ["courage"],
+            "description": "'Recklessness' is a form of blind courage where you either don't know about the risks to yourself and others, or don't care."
+        }],
+        "guidance": [{
+            "description": "The Thin Line Between Courage and Stupidity",
+            "attribution": "Somtochukwu",
+            "references": ["https://twocentsjournal.com/the-thin-line-between-courage-and-stupidity"]
+        },{
+            "description": "If you feel that you're being over-cautious, a dash of recklessness may be ok. These references may be helpful.",
+            "references": ["https://mindingourway.com/recklessness/","https://www.rbl.net/insights/articles/4-leadership-tips-on-managing-risk-without-being-reckless"]
+        }]
+    }],
+    "commentaries": [{
+        "quote": "Courage is not the absence of fear, but rather the judgment that something else is more important than fear.",
+        "attribution": "Ambrose Redmoon"
+    },{
+        "quote": "Courage is the most important of all the virtues because without courage, you can't practice any other virtue consistently.",
+        "attribution": "Maya Angelou"
+    },{
+        "quote": "A man with outward courage dares to die; a man with inner courage dares to live.",
+        "attribution": "Lao Tzu"
+    },{
+        "quote": "Courage is like a muscle. We strengthen it by use.",
+        "attribution": "Ruth Gordon"
+    },{
+        "quote": "Sometimes we confuse a noisy brand of 'courage' with 'lack of judgement' or 'showing off'."
+    },{
+        "quote": "Be wise enough not to be reckless, but brave enough to take great risks.",
+        "attribution": "Frank Warren"
+    },{
+        "quote": "It is the most ambitious and driven among us who are the most sorely in need of having our reckless hopes dampened through immersive dousings in the darkness which religions have explored.",
+        "attribution": "Alain de Botton"
+    }],
+    "spectrum": {
+        "grit": 2,
+        "guts": 4,
+        "courage": 5,
+        "fearlessness": 5,
+        "bravery": 5,
+        "valor": 7,
+        "recklessness": 9
+    },
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["courage"],
+            "predominantType": "impulse",
+            "levels": {
+              "4,3": {
+                "experiences": ["courage"]
+              },
+              "2,1": {
+                "experiences": ["fear"]
+              }
+            }
+        },{
+            "names": ["courage in others"],
+            "predominantType": "sensation",
+            "levels": {
+              "4,3": {
+                "experiences": ["courage in others"]
+              },
+              "2,1": {
+                "experiences": ["satisfaction","dissonance"]
+              }
+            }
+        },{
+            "names": ["fearlessness","recklessness"],
+            "predominantType": "impulse",
+            "levels": {
+              "4,3,2,1": {
+                "experiences": ["fearlessness"]
+              }
+            }
+        }]
+    }]
+}

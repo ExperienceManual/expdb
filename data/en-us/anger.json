@@ -94,6 +94,7 @@
     "resentment": 3,
     "vexation": 4,
     "anger": 5,
+    "indignation": 5,
     "rage": 7
   },
   "models": [{

@@ -27,6 +27,9 @@
   },{
       "links": ["contempt"],
       "description": "You certainly have ill will towards anyone you contempt, but contempt includes a sense of moral superiority. May can have ill-will towards someone without feeling their morally inferior."
+  },{
+      "links": ["unkindness"],
+      "description": "'Ill will' is the disposition to give someone a hard time, while 'unkindness' is a specific action that detracts from someone else. You can have goodwill without actually following up with a kind act, but kindness always comes from a place of goodwill."
   }],
   "variations": [{
       "name": "ill will mindset",

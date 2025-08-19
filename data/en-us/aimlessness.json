@@ -1,0 +1,74 @@
+{
+    "lang": "en/us",
+    "createDate": "20250816",
+    "updateDate": "20250818",
+    "name": "aimlessness",
+    "valence": 0,
+    "quote": "I don't know what to do.",
+    "description": "The sense that you have no overarching goal to guide your actions, or no concept for how to reach a goal.",
+    "perceptions": ["I ought to know what to do next.","But I don't."],
+    "desires": ["desire for meaning","desire to improve","desire for agency"],
+    "sensations": ["confusion","anxiety"],
+    "related": ["disorientation","apathy"],
+    "opposites": ["ambition"],
+    "examples": ["Not knowing what to do after graduating from school."],
+    "guidance": [{
+        "description": "If aimlessness is making you feel lost and uncomfortable, here are some references to consider.",
+        "references": ["https://byrslf.co/how-to-stop-feeling-aimless-by-giving-yourself-a-purpose-cc776a15023","https://psychcentral.com/blog/when-you-feel-lost"]
+    }],
+    "variations": [{
+        "name": "restful aimlessness",
+        "description": "The sense that your goals can wait for a while.",
+        "perceptions": ["I need a break from a goal-driven life."],
+        "desires": ["desire for meaning","desire to improve","desire for agency"],
+        "sensations": ["relief"],
+        "related": ["meditation"],
+        "opposites": ["ambition"],
+        "examples": ["Wandering a garden enjoying a pretty day."],
+        "guidance": [{
+            "description": "Periods of aimlessness can be helpful. Here some references for having a better relationship with a perceived goal-obsession.",
+            "references": ["https://medium.com/the-awakened/the-amazing-art-of-aimless-living-f1daf4c6eab9","https://www.swoopcoaching.com/articles/on-being-mediocre-and-aimless"]
+        }]
+    }],
+    "commentaries": [{
+        "quote": "I firmly believe that life is better when you have something to apply yourself to.",
+        "attribution": "Richard Keys"
+    },{
+        "quote": "Without a target to shoot at, our lives are literally aimless. Without something productive to do, without positive goals and a purpose, a human being languishes. And then one of two things happens. Aimlessness begins to shut a person down in spiritual lethargy and emptiness, or the individual lashes out and turns to destructive goals just to make something happen.",
+        "attribution": "Tom Morris"
+    },{
+        "quote": "Aimlessness is the attitude of someone who does not feel the need to run after anything, realize or obtain anything. It is for example not pursuing enlightenment as an object of knowledge.",
+        "attribution": "Tich Nhat Hanh"
+    },{
+        "quote": "Aimlessness as a spiritual discipline invites us to let go of our instinctive grasping of enlightenment as something that we have to know or attain on an intellectual/physiological level, and helps us to connect with the enlightenment experience as something that is present within us here and now, revealed to us progressively as we let go of the various different levels of conditioning and conception within our consciousness.",
+         "attribution": "Toby Ouvry"
+    },{
+         "quote": "Without a social goal, our only drives are physical. This can be good for a while but we are social creatures who depend on each other for survival. If too many of us were aimless all the time, things would be bad."
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["aimlessness"],
+            "predominantType": "sensation",
+            "levels": {
+              "4,3": {
+                "experiences": ["aimlessness"]
+              },
+              "2,1": {
+                "experiences": ["anxiety"]
+              }
+            }
+        },{
+            "names": ["restful aimlessness"],
+            "predominantType": "sensation",
+            "levels": {
+              "4,3": {
+                "experiences": ["aimlessness"]
+              },
+              "2,1": {
+                "experiences": ["relief"]
+              }
+            }
+        }]
+    }]
+}

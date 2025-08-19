@@ -81,12 +81,12 @@
   },{
       "name": "self cheating",
       "description": "Breaking a rule you set for yourself that no one else knows or cares about.",
-      "perceptions": ["I made this rule for myself.","I'm not hurting anyone else by  breaking it."],
+      "perceptions": ["I made this rule for myself.","I'm not hurting anyone else by breaking it."],
       "desires": ["desire for comfort","desire for agency"],
       "sensations": ["dissonance","many"],
       "guidance": [{
-          "description": "It's your rule, so your choice. However, breaking your own rules too often could create negativity. Either don't make rules you know you won't keep, or consider the guidance for 'self discipline'.",
-          "references": ["self discipline"]
+          "description": "It's your rule, so your choice. However, breaking your own rules too often could create negativity. Either don't make rules you know you won't keep, or consider the guidance for 'self control'.",
+          "references": ["self control"]
       }],
       "examples": ["breaking a diet", "skipping exercise"]
   },{

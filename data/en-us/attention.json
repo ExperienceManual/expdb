@@ -97,6 +97,9 @@
     },{
         "quote": "The most basic way to get someone's attention is this: Break a pattern.",
         "attribution": "Chip Heath and Dan Heath"
+    },{
+        "quote": "If you are struggling to focus, he said, just try monotasking for ten minutes, and then allow yourself to be distracted for a minute, then monotask for another ten minutes, and so on.",
+        "attribution": "Johann Hari"
     }],
     "models": [{
         "version": "em1",
