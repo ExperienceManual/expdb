@@ -1,15 +1,20 @@
 {
   "lang": "en/us",
   "createDate": "20241226",
-  "updateDate": "20250529",
+  "updateDate": "20250825",
   "name": "dismay",
   "valence": -1,
-  "quote": "Bummer, I just missed the train.",
-  "description": "The unpleasant but fleeting experience of something not meeting expectations, often unexpected.",
-  "perceptions": ["Something happened that's negative, but it doesn't significantly affect anything long lasting."],
+  "quote": "Dang, I just missed the train.",
+  "description": "An unpleasant, intense, and short experience of something unexpectedly missing expectations in a bad way. If it's a minor drop in your life situation, the feeling will dissipate quickly. If a major drop, it may fade into sadness.",
+  "perceptions": ["Something happened that's negative.","It doesn't significantly affect anything long lasting."],
   "desires": ["desire for comfort"],
-  "related": ["sadness", "gloom", "hate", "satisfaction"],
+  "sensations": ["discomfort","surprise"],
+  "related": ["sadness", "gloom", "hate"],
   "opposites": ["delight"],
+  "comparisons": [{
+      "links": ["sadness","gloom"],
+      "description": "Dismay is a short negative feeling about something minor. Sadness is a longer-lasting sensation about a negative outcome. Gloom is the robust ability to stay negative even without a specific event or memory."
+  }],
   "commentaries": [{
       "quote": "Dismay is the basic deep-down negative experience. There are many complex experiences that come with a deep sense of loss or regret we call dismay. For example, at a social level, missing the train may create regret about telling others you're going to miss dinner."
   },{

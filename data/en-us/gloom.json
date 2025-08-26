@@ -1,0 +1,51 @@
+{
+    "lang": "en/us",
+    "createDate": "20250825",
+    "updateDate": "20250825",
+    "name": "gloom",
+    "valence": -1,
+    "quote": "Life is bleak.",
+    "description": "A long-term pattern of clinging to a negative, dissatisfied, or sad mood even when positive outcomes are occurring in your world. It's based on internal factors like outlook, experiences, or inherited traits.",
+    "tags": ["mood","trait"],
+    "alternateDefinitions": ["Gloom can also refer to a dark and uncomfortable environment like a cold rainy day."],
+    "perceptions": ["One or more things about the world has created a persistent sense of sadness.","It makes everything less interesting and reduces my enthusiasm for the future."],
+    "sensations": ["sadness","dissatisfaction","losing","pessimism"],
+    "related": ["dismay"],
+    "opposites": ["joy"],
+    "examples": ["Eeyore from Winnie the Pooh"],
+    "guidance": [{
+        "description": "Consider the guidance for joy.",
+        "references": ["joy"]
+    },{
+        "description": "Some references that may help with gloom.",
+        "references": ["https://www.calm.com/blog/how-to-get-out-of-a-bad-mood","https://wexnermedical.osu.edu/our-stories/fight-off-gloomy-weather-depression"]
+    }],
+    "commentaries": [{
+        "quote": "If your soul is sad or your mind is gloomy, the narrow dark streets of the night seem like medicine to you",
+        "attribution": "Mehmet Murat ildan"
+    },{
+        "quote": "Music is moonlight in the gloomy night of life.",
+        "attribution": "Jean Paul"
+    },{
+        "quote": "To harbor hatred and animosity in the soul makes one irritable, gloomy, and prematurely old.",
+        "attribution": "Berthold Auerbach"
+    },{
+        "quote": "An enlightened mind is not hoodwinked; it is not shut up in a gloomy prison till it thinks the walls of its dungeon the limits of the universe, and the reach of its own chain the outer verge of intelligence.",
+        "attribution": "Henry Wadsworth Longfellow"
+    },{
+        "quote": "Many people go through short periods when they feel sad or unlike their usual selves. Sometimes, these mood changes begin and end when the seasons change. Many people feel 'down' or have the 'winter blues' when the days get shorter in the fall and winter and feel better in the spring when longer daylight hours return.",
+        "attribution": "US National Insitute of Mental Health"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["gloom"],
+            "predominantType": "trait",
+            "levels": {
+              "4,3,2,1": {
+                "experiences": ["gloom"]
+              }
+            }
+        }]
+    }]
+}

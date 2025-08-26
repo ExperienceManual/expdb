@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250415",
-  "updateDate": "20250708",
+  "updateDate": "20250822",
   "name": "cynicism",
   "valence": -1,
   "quote": "I don't think he's doing that just to be nice.",
@@ -16,17 +16,19 @@
       "references": ["https://rightasrain.uwmedicine.org/mind/well-being/cynicism-hope-resilience"]
   }],
   "related": ["skepticism", "contrarian", "cheating","misanthropy"],
-  "opposites": ["faith", "goodwill"],
+  "opposites": ["faith", "goodwill", "trust"],
   "comparisons": [{
       "links": ["cheating"],
       "description": "Cynicism is a tentative prediction that someone is cheating, or not being fully honest."
   }],
   "variations": [{
-      "name": "cynical mindset",
+      "name": "cynical outlook",
+      "tags": ["trait"],
       "description": "A pattern of belief that people generally act out of selfish intentions.",
       "perceptions": ["Everyone's real unspoken intentions are more selfish than what they show."],
       "desires": ["desire for order"],
-      "sensations": ["distrust","doubt"]
+      "sensations": ["distrust","doubt"],
+      "related": ["pessimistic outlook","skeptical outlook"]
   }],
   "commentaries": [{
       "quote": "Cynicism masquerades as wisdom, but it is the farthest thing from it. Because cynics don't learn anything. Because cynicism is a self-imposed blindness, a rejection of the world because we are afraid it will hurt us or disappoint us.",

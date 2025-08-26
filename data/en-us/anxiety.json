@@ -6,6 +6,7 @@
   "valence": -1,
   "quote": "I'm nervous about tomorrow's presentation.",
   "description": "Your brain is sending a mild threat signal it wants you to resolve. The threat may be triggered by something real, imagined, traumatic memories, or biological sensitivity.",
+  "otherVariations": ["angst","worry"],
   "perceptions": ["My brain is telling me that there's a threat.","I ought to try avoiding the threat somehow.","I'm uncertain how to resolve it even if I understand the source."],
   "desires": ["desire for comfort","desire for control"],
   "sensations": ["anticipation","doubt"],
@@ -51,6 +52,9 @@
   },{
       "links": ["doubt"],
       "description": "'Doubt' means that you're not sure about something. 'Anxiety' is the physical stress caused by sensing that this uncertainty could potentially cause a problem."
+  },{
+      "links": ["worry","angst"],
+      "description": "'Anxiety' is a mild threat signal. 'Worry' is one source of that signal -- the mental habit of frequently focusing on the potential of a specific negative outcome. 'Angst' is another source of that signal -- the mental habit of frequently focusing on a vague and unsolvable perception about the world."
   }],
   "commentaries": [{
       "quote": "Anxiety is the dizziness of freedom.",
@@ -68,7 +72,6 @@
     "concern": 1,
     "worry": 1,
     "anxiety": 2,
-    "apprehension": 3,
     "fear": 4,
     "dread": 5,
     "horror": 6,

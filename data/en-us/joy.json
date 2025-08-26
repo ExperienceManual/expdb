@@ -1,0 +1,47 @@
+{
+    "lang": "en/us",
+    "createDate": "20250823",
+    "updateDate": "20250824",
+    "name": "joy",
+    "valence": 1,
+    "quote": "Life is good.",
+    "description": "A long-term pattern of being able to retain a positive, satisfied, or happy mood even when negative outcomes are occurring in your world. It's based on internal factors like a sense of existential purpose, optimism, understanding, inherited traits, and/or faith.",
+    "tags": ["mood","trait"],
+    "perceptions": ["The world may not be perfect.","But I've got a place in it and there are worthwhile things."],
+    "sensations": ["meaning","happiness","satisfaction","healthy self-regard"],
+    "related": ["delight"],
+    "opposites": ["gloom"],
+    "examples": ["Tigger from Winnie the Pooh"],
+    "guidance": [{
+        "description": "Joy is the Holy Grail of personality traits. It can't be found out in the world, only inside. Here are some maps:",
+        "references": ["https://www.restoringconnections.org/news-2/2022/6/9/cultivating-joy","https://www.mindful.org/3-simple-ways-to-cultivate-joy-every-day/","https://www.masterclass.com/articles/cultivating-joy"]
+    }],
+    "commentaries": [{
+        "quote": "I define joy as a sustained sense of well-being and internal peace—a connection to what matters",
+        "attribution": "Oprah Winfrey"
+    },{
+        "quote": "Joy is a net of love by which you can catch souls.",
+        "attribution": "Mother Theresa"
+    },{
+        "quote": "I don't think of all the misery, but of the beauty that still remains.",
+        "attribution": "Anne Frank"
+    },{
+        "quote": "Joy is the infallible sign of the presence of God.",
+        "attribution": "Pierre Teilhard de Chardin"
+    },{
+        "quote": "I slept and dreamt that life was joy. I awoke and saw that life was service. I acted and behold, service was joy.",
+        "attribution": "Rabindranath Tagore"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["joy"],
+            "predominantType": "trait",
+            "levels": {
+              "4,3,2,1": {
+                "experiences": ["joy"]
+              }
+            }
+        }]
+    }]
+}

@@ -1,12 +1,12 @@
 {
   "lang": "en/us",
   "createDate": "20250308",
-  "updateDate": "20250629",
+  "updateDate": "20250825",
   "name": "sadness",
   "valence": -1,
   "quote": "I'm not going to get that job I really wanted.",
-  "description": "A sense of loss or longing that casts a shadow on the future, but is not life or identity threatening.",
-  "perceptions": ["An event or realization causes a sense that things are not as they could be.","This sense of loss or longing is painful but not devastating."],
+  "description": "An extended experience of loss and displeasure about your situation but without a sense of immediate threat. It may be triggered by an outcome that significantly degrades your life situation or just from recognizing that things are pretty bad as they are.",
+  "perceptions": ["An event or realization causes a sense that things are not as you they should be."],
   "desires": ["many"],
   "sensations": ["losing","desire"],
   "results": ["Sadness ranges in strength from mild to tears."],
@@ -18,11 +18,8 @@
   "related": [ "dismay", "grief", "melancholy", "loneliness", "depression" ],
   "opposites": ["happiness"],
   "comparisons": [{
-      "links": ["dismay","grief"],
-      "description": "Dismay, Sadness, and Grief are mileposts on an unfortunate spectrum. 'Dismay' is a relatively short negative experience that happens when things are not as you would prefer but they don't affect your core identity or future experiences. 'Sadness' happens when there's a loss or longing that negatively affects an important identity. 'Grief' is when things get really bad and you're going to be forced to change deeply held patterns of existence."
-  },{
-      "links": ["melancholy","gloom","depression"],
-      "description": "Melancholy and Gloom are both longer lasting moods that include being sad about something or many things. 'Melancholy' is a lighter more contemplative than 'gloom', which is more of a straightforward negative mood where everything seems messed up and boring. 'Depression' includes gloom and sadness along with many debilitating symptoms such as social withdrawal and inability to enjoy anything."
+      "links": ["melancholy","depression"],
+      "description": 'Melancholy' is an extended contemplative sadness. 'Depression' includes gloom and sadness along with many debilitating symptoms such as social withdrawal and inability to enjoy anything."
   },{
       "links": ["angst"],
       "description": "'Sadness' is about a void caused by loss or longing, while 'angst' is a general anxiety. Both can be caused by big picture concerns, but the outcome is quite different, the output of sadness is tears while the output of angst is nerves."
@@ -52,19 +49,23 @@
   },{
       "quote": "The unhappy person resents it when you try to cheer him up, because that means he has to stop dwelling on himself and start paying attention to the universe. Unhappiness is the ultimate form of self-indulgence. When you're unhappy, you get to pay a lot of attention to yourself. You get to take yourself oh so very seriously.",
       "attribution": "Tom Robbins"
+  },{
+      "quote": "When thunderstorms roll in, you make a choice to either succumb with tears to the gloomy downpour, or smile and look for rainbows.",
+      "attribution": "Richelle E. Goodrich"
   }],
   "spectrum": {
     "bummer": 1,
     "disappointment": 2,
     "dismay": 3,
     "sadness": 5,
+    "gloom": 6,
     "despair": 7,
     "misery": 8
   },
   "models": [{
       "version": "em1",
       "variations": [{
-          "names": ["sadness"],
+          "names": ["sadness","sympathetic sadness"],
           "predominantType": "sensation",
           "levels": {
             "1": {

@@ -9,7 +9,7 @@
   "perceptions": ["Something happens that provokes roughly equal amounts of positive and negative sensations."],
   "sensations": ["any postitive","any negative"],
   "results": ["dissonance"],
-  "related": ["consolation","dissonance"],
+  "related": ["melancholy","consolation","dissonance"],
   "comparisons": [{
     "links": ["dissonance"],
     "description": "Dissonance is any kind of scenario where multiple sensations are firing. Bittersweet is a special case of dissonance where the sensations are roughly equal parts positive and negative."

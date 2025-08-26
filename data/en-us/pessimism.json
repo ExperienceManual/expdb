@@ -1,11 +1,11 @@
 {
   "lang": "en/us",
   "createDate": "20250412",
-  "updateDate": "20250707",
+  "updateDate": "20250822",
   "name": "pessimism",
   "valence": -1,
   "quote": "There's no way we're going to win.",
-  "description": "A sense that a desired outcome is so unlikely as to be impossible.",
+  "description": "A prediction that the most likely outcome is inferior to your preferred outcome.",
   "perceptions": ["An outcome I prefer is not a real possibility."],
   "desires": ["many"],
   "sensations": ["doubt"],
@@ -18,12 +18,17 @@
       "attribution": "Devrupa Rakshit",
       "references": ["https://www.theswaddle.com/why-we-find-pessimists-to-be-more-intelligent"]
   }],
-  "related": ["hopelessness", "anticipation"],
+  "related": ["hopelessness", "anticipation","worry"],
   "opposites": ["optimism"],
   "variations": [{
-      "name": "pessimistic mindset",
-      "description": "A general pattern of negative predictions -- that most things will turn out bad.",
-      "perceptions": ["I can't trust in most outcomes I want.","Things generally turn out poor in the end."]
+      "name": "pessimistic outlook",
+      "tags": ["trait"],
+      "description": "A general pattern of predicting more negative outcomes than positive outcomes. A 'glass-is-half-empty' personality.",
+      "perceptions": ["I can't trust in most outcomes I want.","Things generally turn out poor in the end."],
+      "desires": ["desire for safety"],
+      "sensations": ["pessimism","worry"],
+      "opposites": ["optimistic outlook"], 
+      "examples": ["Someone who always assumes the worst."]
   }],
   "commentaries": [{
       "quote": "A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.",
@@ -39,7 +44,7 @@
   "models": [{
       "version": "em1",
       "variations": [{
-          "names": ["pessimism","pessimistic mindset"],
+          "names": ["pessimism","pessimistic outlook"],
           "predominantType": "sensation",
           "levels": {
             "4,3": {

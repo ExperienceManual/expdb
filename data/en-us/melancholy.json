@@ -1,0 +1,52 @@
+{
+    "lang": "en/us",
+    "createDate": "20250819",
+    "updateDate": "20250819",
+    "name": "melancholy",
+    "valence": -1,
+    "quote": "This run of dreary weather fits my mood.",
+    "description": "An extended period of sadness tinged with serious thoughtful reflection. Sometimes melancholy can come with bittersweet or nostalgic experiences.",
+    "alternateDefinitions": ["A severe bout of melancholy may be considered 'melancholia' -- a form of depression that may warrant professional assistance.","The 'Four Temperaments' personality profile defines a 'melancholic personality' that's only partly related to 'melancholy' as a standalone experience."],
+    "perceptions": ["I've lost something or missed an outcome I had wanted.","I'm saddened by the loss.","It's making me reflect on various things."],
+    "desires": ["desire for comfort"],
+    "sensations": ["sadness","nostalgia","bittersweet"],
+    "related": ["gloom"],
+    "opposites": ["joy"],
+    "examples": ["Hamlet's soliloquies.","The Raven by Edgar Allan Poe"],
+    "guidance": [{
+        "description": "Having a down mood from time to time is entirely normal. After all, you probably won’t feel deliriously happy with life all the time. However, when you have the blues, it can be difficult to shake it off. The good news is you have plenty of choices of things you can do to lift that melancholy mood.",
+        "attribution": "Christine Field",
+        "references": ["https://community.thriveglobal.com/quick-fixes-for-a-melancholy-mood/"]
+    }],
+    "commentaries": [{
+        "quote": "Melancholy is the happiness of being sad.",
+        "attribution": "Victor Hugo"
+    },{
+        "quote": "I began to understand that suffering and disappointments and melancholy are there not to vex us or cheapen us or deprive us of our dignity but to mature and transfigure us.",
+        "attribution": "Hermann Hesse"
+    },{
+        "quote": "All changes are more or less tinged with melancholy, for what we are leaving behind is part of ourselves.",
+        "attribution": "Ameila Barr"
+    },{
+        "quote": "I can barely conceive of a type of beauty in which there is no Melancholy.",
+        "attribution": "Charles Baudelaire"
+    },{
+        "quote": "Depression is melancholy minus its charms.",
+        "attribution": "Susan Sontag"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["melancholy"],
+            "predominantType": "sensation",
+            "levels": {
+              "4,3": {
+                "experiences": ["melancholy"]
+              },
+              "2,1": {
+                "experiences": ["sadness"]
+              }
+            }
+        }]
+    }]
+}

@@ -1,35 +1,39 @@
 {
   "lang": "en/us",
   "createDate": "20250215",
-  "updateDate": "20250531",
+  "updateDate": "20250825",
   "name": "satisfaction",
   "valence": 0,
   "quote": "We did it.",
-  "description": "The momentary sense that a perception meets what was expected but even so, it doesn't significantly effect your world.",
-  "perceptions": ["Something I just perceived is pretty much what I expected.","The results aren't important in the grand scale of things."],
+  "description": "A momentary sense of mild positivity or relief that your situation is progressing on the path that you had hoped for.",
+  "perceptions": ["A perceived outcome is progress towards a larger desire."],
   "desires": ["desire for order"],
-  "examples": ["Inspecting the results of a job don't reveal any problems.","The spare vacuum is still dead as expected after trying a different electrical outlet.","The remote control is in the right place for once."],
-  "comparisons": [{
-      "links": ["delight"],
-      "description": "'Satisfaction' is just a gentle 'checkbox' feeling of confirmation that expectations are met and the results don't really change your overall situation. 'Delight' is when something exceeds your expectations in a positive way, causing you to upgrade your assessment of the situation for the better."
-  },{
-      "links": ["relief"],
-      "description": "You can feel satisfaction and relief at the same time if the expectation was not clear but the preference was clear. For example, say you're not sure whether you closed the garage door, but find you come home to find it closed. You're probably satisfied with yourself but also a little relieved because you weren't sure."
-  }],
+  "sensations": ["mental comfort"],
+  "results": ["If the outcome is perceived to affect your world, the experience would be delight or happiness."],
   "related": ["delight","relief"],
-  "opposites": ["dissatisfaction", "dismay"],
+  "opposites": ["dissatisfaction"],
+  "examples": ["Inspecting the results of a job didn't reveal any problems.","The vacuum is still dead as expected after trying a different electrical outlet.","The remote control is in the right place for once."],
+  "guidance": [{
+      "description": "Starting the day with satisfaction – that’s what we all want, isn’t it? The great thing is: contentment is not dependent on a bulging bank account. Rather, it depends on your inner attitude and self-care. With the following tips, you can bring more contentment into your everyday life!",
+      "attribution": "staytoo.de",
+      "references": ["https://www.staytoo.de/en/blog/satisfaction-in-everyday-life/"]
+  }],
+  "comparisons": [{
+      "links": ["delight","relief"],
+      "description": "'Satisfaction' is a gentle 'checkbox' feeling of confirmation that the situation is progressing in the right direction. 'Delight' and 'relief' are the rewards from perceiving that an outcome has reached an important stage."
+  },{
+      "links": ["expectation confirmed"],
+      "description": "Confirming an expected pattern may be a spark that causes satisfaction, which is a value judgment on the state of things. But confirming an expecation could also result in pretty much any other experience. e.g. The blood test results could be great or terrible."
+  }],
   "variations": [{
       "name": "satisfied with yourself",
       "description": "The sense that you lived up to your own expectations for something that matters to someone.",
       "perceptions": ["I lived up to what I expected of myself.","The results are likely to please some of my social or existential contacts."],
       "desires": ["desire for agency","desire for social status"],
-      "examples": ["finishing a sizable project","resisting a temptation"]
+      "sensations": ["healthy self-regard"],
+      "examples": ["Finishing a sizable project.","Resisting a temptation."]
   }],
   "commentaries": [{
-      "quote": "We're always judging whether events and people's behavior meet our expectations. If they just reach that bar, we may feel satisfaction or delight depending on whether the results cause an upgrade in future expectations."
-  },{
-      "quote": "As pattern-making and -matching machines, our brains are constantly testing perceptions against patterns. Satisfaction is the wonderful scenario where the expectation held true against what was perceived."
-  },{
       "quote": "To be able to look back upon one's past life with satisfaction is to live twice.",
       "attribution": "John Dalberg-Acton"
   },{

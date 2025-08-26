@@ -1,0 +1,49 @@
+{
+    "lang": "en/us",
+    "createDate": "20250820",
+    "updateDate": "20250822",
+    "name": "angst",
+    "valence": -1,
+    "quote": "Your generation had it so easy.",
+    "description": "Persistent anxiety from a negative perception about the human condition or the state of the world in general.",
+    "perceptions": ["The world is messed up, and so are people.","I'm supposed to be doing something to make things better.","I don't know what to do."],
+    "desires": ["desire for comfort","desire for order"],
+    "sensations": ["anxiety","cynicism","defiance","overwhelmed","apathy"],
+    "results": ["Mood swings.","Feeling overwhelmed."],
+    "opposites": ["calmness"],
+    "related": ["worry"],
+    "examples": ["A goth teenager.","The culture war isn't going your way."],
+    "guidance": [{
+        "description": "What It Means to Feel 'Angsty' and How to Cope",
+        "attribution": "Sanjana Gupta",
+        "references": ["https://www.verywellmind.com/feeling-angsty-7642335"]
+    }],
+    "commentaries": [{
+        "quote": "Angst creates a weight on one’s shoulders and causes a certain state of mind that is confused, angry, and scared, all at once.",
+        "attribution": "Heather Hagen, LMFT"
+    },{
+        "quote": "Anyone not wanting to sink in the wretchedness of the finite is obliged in the most profound sense to struggle with the infinite.",
+        "attribution": "Søren Kierkegaard"
+    },{
+        "quote": "I think there is too much wrong with the world to ever get too relaxed and happy. The more natural state, and the better one, I think, is one of some anxiety and tension over man’s plight in this mysterious universe.",
+        "attribution": "Woody Allen"
+    },{
+        "quote": "Angst is an occupational hazard of writing, but that doesn't make it necessary or desirable. It's like saying you're a poor runner if you don't suffer knee injuries.",
+        "attribution": "Bryn Donovan"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["angst"],
+            "predominantType": "sensation",
+            "levels": {
+              "4,3": {
+                "experiences": ["angst"]
+              },
+              "2,1": {
+                "experiences": ["anxiety"]
+              }
+            }
+        }]
+    }]
+}

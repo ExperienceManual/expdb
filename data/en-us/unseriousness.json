@@ -8,7 +8,7 @@
     "description": "A perception that someone is avoiding an important task in order to have fun.",
     "perceptions": ["This situation is important and challenging.","To have the best chance at the desired outcome, this person should apply significant effort.","They are off having fun somewhere."],
     "desires": ["desire for a particular outcome"],
-    "sensations": ["judgment","disappointment"],
+    "sensations": ["judgment","dissatisfaction"],
     "results": ["May lower your trust of this person."],
     "related": ["playful"],
     "personOfInterestExperiences": ["desire for comfort","playful"],

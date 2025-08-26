@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250414",
-  "updateDate": "20250708",
+  "updateDate": "20250822",
   "name": "skepticism",
   "valence": 0,
   "quote": "I'll believe that statement when you can back it up.",
@@ -14,13 +14,15 @@
       "references": ["https://financialaccountant.co.uk/features/5-tips-to-cultivate-a-sceptical-mindset/"]
   }],
   "related": ["cynicism", "contrarian","deduction","generalization"],
-  "opposites": ["faith"],
+  "opposites": ["faith","trust"],
   "variations": [{
-      "name": "skeptical mindset",
+      "name": "skeptical outlook",
+      "tags": ["trait"],
       "description": "A general habit of requiring validation of information before admitting it for deeper consideration.",
       "perceptions": ["Someone has made a claim about something.","I always need compelling evidence before accepting that claim."],
       "desires": ["desire for knowledge","desire for clear perception"],
-      "sensations": ["doubt","distrust"]
+      "sensations": ["doubt","distrust"],
+      "related": ["cynical outlook", "pessimistic outlook"]
   }],
   "comparisons": [{
       "links": ["doubt", "faith"],

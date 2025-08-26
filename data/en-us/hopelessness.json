@@ -1,14 +1,14 @@
 {
   "lang": "en/us",
   "createDate": "20250411",
-  "updateDate": "20250707",
+  "updateDate": "20250821",
   "name": "hopelessness",
   "valence": -1,
   "quote": "There's no way she's going to be ok.",
-  "description": "Tentative negativity from a sense that a particular desired outcome is practically impossible.",
+  "description": "Dismay from a sense that a particular desired outcome is practically impossible.",
   "perceptions": ["An outcome I prefer is no longer a viable possibility.","That is negative for me or someone important to me."],
   "desires": ["desire for comfort"],
-  "sensations": ["anticipation","pessimism","dissonance","sadness","doubt"],
+  "sensations": ["dismay","anticipation","pessimism","dissonance","sadness","doubt","fear"],
   "guidance": [{
       "description": "We can’t always avoid situations that can make us feel hopeless, such as the death of a loved one, the loss of a job, or financial stress. We can, however, work on how we react to stressors. Below are some helpful ways to deal with feelings of hopelessness when you’re faced with a difficult event or situation.",
       "attribution": "Jed Foundation",
@@ -21,7 +21,7 @@
   "opposites": ["hope", "optimism"],
   "comparisons": [{
       "links": ["pessimism"],
-      "description": "'Pessimism' is the sense that a desired outcome is not likely to happen. 'Hopelessness' is the anticipated sadness that comes from imagining the world without the desired outcome."
+      "description": "'Pessimism' is the sense that a desired outcome is not likely to happen. 'Hopelessness' is the anticipated sadness or fear that comes from assuming the desired outcome will not happen."
   }],
   "commentaries": [{
       "quote": "Hopelessness is a really toxic and dangerous state.",

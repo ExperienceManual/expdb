@@ -1,24 +1,23 @@
 {
   "lang": "en/us",
   "createDate": "20241222",
-  "updateDate": "20250514",
+  "updateDate": "20250823",
   "name": "delight",
   "valence": 1,
   "quote": "I found some wild raspberries!",
-  "description": "Pleasant but fleeting experience of something exceeding expectations, often unexpected.",
-  "perceptions": ["Something happened that's positive, but it doesn't have a long lasting impact."],
+  "description": "A pleasant, intense, and short experience of something unexpectedly exceeding expectations in a good way. If it's a minor improvement in your life situation, the feeling will dissipate quickly. If a major improvement, it may fade into happiness.",
+  "tags": ["positive brain juice","high arousal"],
+  "perceptions": ["Something happened that's positive.","It doesn't have a long lasting impact."],
   "desires": ["desire for comfort"],
-  "related": ["happiness", "joy", "love", "satisfaction"],
+  "sensations": ["surprise"],
+  "related": ["happiness","love","satisfaction"],
   "opposites": ["dismay"],
   "comparisons": [{
     "links": ["happiness","joy"],
-    "description": "Delight is a short positive feeling about something minor. Happiness is a longer-lasting sensation about something a positive affect on something important. Joy is a mood that's generally less intense and less connected to a specific thing that happened."
-  },{
-    "links": ["satisfaction"],
-    "description": "Satisfaction is a neutral feeling that recognizes things could have been better but they could have also been worse. Delight is the sensation that things went very well, perhaps unexpectedly well."
+    "description": "Delight is a short positive feeling about something minor. Happiness is a longer-lasting sensation about a positive outcome. Joy is the robust ability to stay positive even without a specific event or memory."
   }],
   "commentaries": [{
-      "quote": "Delight is the basic deep-down positive experience. There are many complex experiences that create deep-down delight. For example, at a social level, finding wild raspberries may create delight, but also excitement about sharing the news with others."
+      "quote": "Delight is the basic deep-down positive experience. There are many more complex experiences that cast delight through your whole being. For example, finding wild raspberries may create positive excitement at the mental, social, and bodily levels."
   },{
       "quote": "A beautiful woman delights the eye; a wise woman, the understanding; a pure one, the soul.",
       "attribution": "Minna Antrim"

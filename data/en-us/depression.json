@@ -1,0 +1,77 @@
+{
+    "lang": "en/us",
+    "createDate": "20250820",
+    "updateDate": "20250820",
+    "name": "depression",
+    "valence": -1,
+    "quote": "Everything's awful.",
+    "description": "A persistent mental health condition including persistent sadness, apathy, grief, and unhealthy self-regard.",
+    "alternateDefinitions": ["People sometimes make a comment about being 'depressed' by something. Often this just an exaggerated way to way to underline their unhappiness about that thing. True depression is a serious condition."],
+    "perceptions": ["Nothing's going well.","I'm not handling things well.","I feel like I'm suffocating in this negativity."],
+    "desires": ["desire for comfort"],
+    "sensations": ["sadness","apathy","grief","unhealthy self-regard"],
+    "related": ["gloom","clinical apathy"],
+    "opposites": ["joy","meaning"],
+    "guidance": [{
+        "description": "If you suspect depression in yourself or another, it's time to consider professional help.",
+        "references": ["__THERAPY_LINKS__"]
+    }],
+    "variations": [{
+        "name": "thoughts of self-harm",
+        "description": "Consideration of hurting or killing yourself due to challenging circumstances and/or negative self-regard.",
+        "perceptions": ["Things are bad.","I'm bad.","There doesn't seem to be any way out of this dark place."],
+        "desires": ["desire for comfort"],
+        "sensations": ["sadness","shame","grief","guilt","unhealthy self-regard"],
+        "related": ["gloom","clinical apathy"],
+        "opposites": ["joy","meaning"],
+        "guidance": [{
+            "description": "If you're haunted by suicidal thoughts, it's time to get help.",
+            "references": ["__THERAPY_LINKS__"]
+        }]
+    }],
+    "commentaries": [{
+        "quote": "Depression is such a cruel punishment. There are no fevers, no rashes, no blood tests to send people scurrying in concern, just the slow erosion of self, as insidious as cancer. And like cancer, it is essentially a solitary experience, a room in hell with only your name on the door.",
+        "attribution": "unknown"
+    },{
+        "quote": "That’s the thing about depression: A human being can survive almost anything, as long as she sees the end in sight. But depression is so insidious, and it compounds daily, that it’s impossible to ever see the end.",
+        "attribution": "Elizabeth Wurtzel"
+    },{
+        "quote": "I had to go through several therapists that I felt comfortable talking to, or that I felt was moving me forward and that I was making some progress with, and that takes time.",
+        "attribution": "Taraji P. Henson"
+    },{
+        "quote": "Try to understand the blackness, lethargy, hopelessness and loneliness they’re going through. Be there for them when they come through the other side. It’s hard to be a friend to someone who’s depressed, but it is one of the kindest, noblest and best things you will ever do.",
+        "attribution": "Stephen Fry"
+    },{
+        "quote": "We are not our trauma. We are not our brain chemistry. That’s part of who we are, but we’re so much more than that.",
+        "attribution": "Sam J. Miller"
+    },{
+        "quote": "Your now is not your forever.",
+        "attribution": "John Green"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["depression"],
+            "predominantType": "sensation",
+            "levels": {
+              "4,3": {
+                "experiences": ["depression"]
+              },
+              "2,1": {
+                "experiences": ["sadness","anxiety"]
+              }
+            }
+        },{
+            "names": ["thoughts of self-harm"],
+            "predominantType": "impulse",
+            "levels": {
+              "4,3": {
+                "experiences": ["thoughts of self-harm"]
+              },
+              "2,1": {
+                "experiences": ["sadness","anxiety"]
+              }
+            }
+        }]
+    }]
+}

@@ -1,5 +1,10 @@
 # Experience Database
 
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa] This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[cc-by-sa]: https://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+
 **Under construction**
 
 These files are an attempt to define the range of human experiences that have
@@ -120,5 +125,6 @@ Notes on word usage:
 # Next Steps
 
 - Complete the set of files. About ~90 to go.
+- Define and apply tags (e.g. 'trait','mood').
 - Build a tool to review the files and their links.
 - Build a web site and search engine to explore the files.

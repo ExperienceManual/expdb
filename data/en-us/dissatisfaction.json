@@ -1,19 +1,23 @@
 {
   "lang": "en/us",
   "createDate": "20250215",
-  "updateDate": "20250531",
+  "updateDate": "20250825",
   "name": "dissatisfaction",
   "valence": -1,
   "quote": "We could have done better.",
-  "description": "The momentary sense that a perception does not meet what was expected, but that the mismatch doesn't affect things too badly.",
-  "perceptions": ["Something I just perceived doesn't meet what I expected.","The results aren't important in the grand scale of things."],
+  "description": "A momentary sense of mild negativity that your situation is not progressing on the path that you had expected or desired.",
+  "perceptions": ["A perceived outcome is stalls progress towards a larger desire."],
   "desires": ["desire for order"],
-  "comparisons": [{
-      "links": ["dismay"],
-      "description": "'Dissatisfaction' is for things that don't really matter to you... they're not going to force a change in future expectations. 'Dismay' is for when the missed expectation will require some re-evaluation or have a social impact of some kind."
-  }],
+  "sensations": ["mental discomfort"],
   "related": ["dismay"],
   "opposites": ["satisfaction", "delight"],
+  "comparisons": [{
+      "links": ["dismay"],
+      "description": "'Dissatisfaction' is a reaction for outcomes that don't really matter that much... they may be a minor setback, but they're not going to change future expectations. 'Dismay' is for when the outcome will require some re-evaluation or have a social impact of some kind."
+  },{
+      "links": ["expectation error"],
+      "description": "A mistaken expectation may be a spark that causes dissatisfaction, which is a value judgment on the state of things. But being wrong an expecation could also result in pretty much any other experience. e.g. The blood test results could be great or terrible."
+  }],
   "guidance": [{
       "description": "Feeling Dissatisfied? Learn How to Let Go of Expectations and Stay Grounded in the Present",
       "attribution": "Ben Fairbrother",

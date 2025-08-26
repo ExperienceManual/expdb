@@ -1,0 +1,50 @@
+{
+    "lang": "en/us",
+    "createDate": "20250825",
+    "updateDate": "20250825",
+    "name": "expectation confirmed",
+    "alternateNames": ["being correct"],
+    "valence": 1,
+    "quote": "I knew it.",
+    "description": "A twinge of positivity coming from a perception that an expectation was confirmed. It's a brief mild happiness about being correct, separate from the implications of being right.",
+    "tags": ["pattern processing"],
+    "perceptions": ["In order to live in the world, I need to understand it.","This perception matching my expectation proves that I understand this part correctly."],
+    "desires": ["desire to be correct"],
+    "sensations": ["satisfaction"],
+    "results": ["Confirming a prediction is just the first spark of what may be an avalanche of sensations. If you were right about predicting something good, you'll be happy. If you were right about something bad, you'll still be sad, but you may feel some consolation in having predicted the bad thing."],
+    "related": ["validation","deduction","generalization","gaining"],
+    "opposites": ["expectation error"],
+    "examples": ["Solving a sudoku puzzle.","Correctly predicting your uncle would be very late to dinner."],
+    "guidance": [{
+        "description": "Being right feels nice. So nice that your brain can actually bend perception through several different cognitive biases. This is why scientists try to be careful before celebrating. Most people much happier when they feel they can trust their intuitions about being right, but for really important things you might consider at least being aware of common biases.",
+        "references": ["https://health.clevelandclinic.org/cognitive-bias","https://www.clearerthinking.org/post/how-to-avoid-cognitive-biases","https://www.lesswrong.com/about"]
+    }],
+    "commentaries": [{
+        "quote": "A correct answer is like an affectionate kiss.",
+        "attribution": "Johann Wolfgang von Goethe"
+    },{
+        "quote": "Trying to be less wrong is better than trying to be right. When you focus on being less wrong, blindspots become visible, beliefs no longer need protecting, and you become open to better ideas. Outcome over ego.",
+        "attribution": "Shane Parrish"
+    },{
+        "quote": "Confidence comes not from always being right but from not fearing to be wrong.",
+        "attribution": "Peter McIntyre"
+    },{
+        "quote": "There is more to knowing than just being correct.",
+        "attribution": "Benjamin Hoff"
+    },{
+        "quote": "People who care more about being right than ending right prove just how wrong they were all along.",
+        "attribution": "Lysa TerKeurst"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["expectation confirmed"],
+            "predominantType": "capacity",
+            "levels": {
+              "4,3,2,1": {
+                "experiences": ["expectation confirmed"]
+              }
+            }
+        }]
+    }]
+}

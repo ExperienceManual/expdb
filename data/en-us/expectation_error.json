@@ -1,0 +1,46 @@
+{
+    "lang": "en/us",
+    "createDate": "20250825",
+    "updateDate": "20250825",
+    "name": "expectation error",
+    "alternateNames": ["being incorrect"],
+    "valence": -1,
+    "quote": "I was wrong.",
+    "description": "A twinge of negativity coming from a perception that an expectation was found to be incorrect. It's a brief mild sadness about being wrong, separate from the implications of being wrong.",
+    "perceptions": ["In order to live in the world, I need to understand it.","This perception conflicting with my expectation suggests that I may not understand this part correctly."],
+    "desires": ["desire to be correct"],
+    "sensations": ["dissatisfaction"],
+    "results": ["An expectation failing is just the first spark of what may be an avalanche of sensations. If you were wrong about predicting and something good happened, you may not care about being wrong. If you were wrong and something bad happened, you'll be doubly sad."],
+    "related": ["failure","deduction","generalization"],
+    "opposites": ["expectation confirmed"],
+    "examples": ["Failing the Wordle.","The voting didn't go the way you'd predicted."],
+    "guidance": [{
+        "description": "See guidance for 'expectation confirmed'.",
+        "references": ["expectation confirmed"]
+    }],
+    "commentaries": [{
+        "quote": "The proactive approach to a mistake is to acknowledge it instantly, correct and learn from it.",
+        "attribution": "Steven Covey"
+    },{
+        "quote": "People need to be wrong as fast as they can.",
+        "attribution": "Amy Wallace and Ed Catmull"
+    },{
+        "quote": "Allow yourself to go and do it wrong. Don’t expect to always get it right. It will prevent you from doing anything.",
+        "attribution": "Darren Hardy"
+    },{
+        "quote": "We all can be wrong, some more often than others.",
+        "attribution": "C.A.A. Savastano"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["expectation error"],
+            "predominantType": "capacity",
+            "levels": {
+              "4,3,2,1": {
+                "experiences": ["expectation error"]
+              }
+            }
+        }]
+    }]
+}

@@ -1,0 +1,104 @@
+{
+    "lang": "en/us",
+    "createDate": "20250820",
+    "updateDate": "20250820",
+    "name": "emptiness",
+    "valence": 0,
+    "quote": "I'm circling a void of sadness.",
+    "description": "A sense that something important is missing from your life.",
+    "alternateDefinitions": ["See the variations 'non-attachment' and 'essenceless' for the sense of 'emptiness' as used in some meditation communities."],
+    "perceptions": ["There's something important that I had or want.","The gap between what I have and what I want is a sad void.","I've accepted that I cannot get it."],
+    "desires": ["desire for the missing thing"],
+    "sensations": ["losing","sadness"],
+    "related": ["acceptance","nostalgia","grief"],
+    "opposites": ["joy","meaning"],
+    "examples": ["Losing a loved one.","Realizing a dream was a fantasy."],
+    "guidance": [{
+        "description": "There are many emotional, mental, and physical reasons that you might be feeling empty inside—and you might find that there isn't just one thing in your life that's making you feel this way.",
+        "attribution": "Barbara Field",
+        "references": ["https://www.verywellmind.com/i-feel-empty-5195295"]
+    }],
+    "variations": [{
+        "name": "non-attachment",
+        "alternateNames": ["mindful emptiness"],
+        "description": "A mental state where you have no desires, so no anxiety.",
+        "perceptions": ["I am in the present moment only.","And everything in the present moment is ok."],
+        "desires": ["none"],
+        "sensations": ["calmness"],
+        "examples": ["Experienced meditators."],
+        "opposites": ["desire"],
+        "related": ["meditation"],
+        "guidance": [{
+            "description": "See the guidance for 'meditation'.",
+            "references": ["meditation"]
+        }]
+    },{
+        "name": "essenceless",
+        "alternateNames": ["non-essentialism"],
+        "description": "A realization that something causing you mental pain is an expectation based on an imperfect ideal.",
+        "perceptions": ["I had an idea of how things should be.","Things aren't that way.","It's that original expectation of the ideal that's not always right."],
+        "desires": ["desire for knowledge"],
+        "sensations": ["calmness"],
+        "examples": ["Experienced meditators."],
+        "opposites": ["deduction"],
+        "related": ["meditation"],
+        "guidance": [{
+            "description": "See the guidance for 'meditation'.",
+            "references": ["meditation"]
+        }]
+    }],
+    "commentaries": [{
+        "quote": "'Emptiness' in everyday language is a painful void. But people in meditation circles use 'emptiness' to describe a pleasant state. The origins of this conflict comes from how the Sanskrit word Śūnyatā was translated. Śūnyatā is a complex concept which has no equivalent in English so the word 'emptiness' was chosen as a least-worst option. See variations 'non-attachment' and 'essenceless' for insight.",
+        "tags": ["definition footnote"]
+    },{
+        "quote": "Once I knew only darkness and stillness... my life was without past or future... but a little word from the fingers of another fell into my hand that clutched at emptiness, and my heart leaped to the rapture of living.",
+        "attribution": "Helen Keller"
+    },{
+        "quote": "It's often difficult for those who are lucky enough to have never experienced what true depression is to imagine a life of complete hopelessness, emptiness and fear.",
+        "attribution": "Susan Polis Schutz"
+    },{
+        "quote": "Illusion is needed to disguise the emptiness within.",
+        "attribution": "Arthur Erickson"
+    },{
+        "quote": "From the Buddhist point of view, it is true that emptiness is a characteristic of all of life - if we look carefully at any experience we will find transparency, insubstantiality, with no solid, unchanging core to our experience. But that does not mean that nothing matters.",
+        "attribution": "Sharon Salzberg"
+    },{
+        "quote": "The funny thing about having all this so-called success is that behind it is a certain horrible emptiness.",
+        "attribution": "Sam Shepard"
+    },{
+        "quote": "Once I realized the emptiness of life apart from knowing God, when I embraced God and the truth of the gospel and the truth of the Bible, it was a no-brainer decision to see that that was a treasure that was infinitely more valuable than some sort of an atheistic Hollywood party life.",
+        "attribution": "Kirk Cameron"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["emptiness"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2": {
+                "experiences": ["emptiness"]
+              },
+              "1": {
+                "experiences": ["dismay"]
+              }
+            }
+        },{
+            "names": ["non-attachment","essenceless"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2": {
+                "experiences": ["non-attachment"]
+              },
+              "1": {
+                "experiences": ["calmness"]
+              }
+            }
+        }]
+    }]
+}

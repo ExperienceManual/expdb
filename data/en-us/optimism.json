@@ -1,11 +1,11 @@
 {
   "lang": "en/us",
   "createDate": "20250412",
-  "updateDate": "20250719",
+  "updateDate": "20250822",
   "name": "optimism",
   "valence": 1,
   "quote": "I think we're going to win.",
-  "description": "A prediction that a particular desired outcome is possible, even if not certain.",
+  "description": "A sense that a particular desired outcome is possible, even if not certain.",
   "perceptions": ["An outcome I prefer is a possibility."],
   "desires": ["desire to improve"],
   "sensations": ["anticipation","doubt"],
@@ -22,34 +22,18 @@
   "opposites": ["pessimism", "anxiety"],
   "examples": ["We can make a comeback.","No way will it rain out the picnic."],
   "variations": [{
-      "name": "optimistic mindset",
-      "description": "A general pattern of positive predictions -- that most things will work out just fine.",
-      "perceptions": ["I can live with most outcomes.","Things generally turn out ok in the end."]
-  },{
-      "name": "encouraged by others",
-      "description": "Someone's words or actions provide hope that a desired outcome is possible or progressing.",
-      "perceptions": [ "There's a particular outcome I prefer.","Someone has focused my attention on the possibility of this outcome still happening."],
-      "desires": ["desire for a particular outcome"],
-      "sensations": ["hope"],
-      "examples": ["listening to a sports pep talk"]
-  },{
-      "name": "encouraging others",
-      "alternateNames": ["encouragement"],
-      "description": "Focusing someone's attention on a potential positive outcome.",
-      "perceptions": [ "This person or group would prefer a certain outcome.", "I might be able to improve their mood by helping them see that outcome as a possibility." ],
-      "desires": ["desire to impact positively"],
-      "sensations": ["empathy"],
-      "personOfInterestExperiences": ["many negative"],
-      "examples": ["giving a sports pep talk"],
-      "guidance": [{
-          "description": "As a leader, a major part of your responsibility is to influence the thinking and behavior of other people. And sooner or later you’ll be standing in front of a group who need to hear a “pep” talk to motivate them to achieve something special, something beyond their self-limiting beliefs.",
-          "attribution": "John Millen",
-          "references": ["https://www.johnmillen.com/blog/how-to-give-a-winning-pep-talk"]
+      "name": "optimistic outlook",
+      "tags": ["trait"],
+      "description": "A general pattern of predicting more positive outcomes than negative outcomes. A 'glass-is-half-full' personality.",
+      "perceptions": ["I can live with most outcomes.","Things generally turn out ok in the end."],
+      "desires": ["desire for comfort"],
+      "sensations": ["optimism","hope"],
+      "opposites": ["pessimistic outlook"],
+      "examples": ["Rose-tinted glasses."],
+      "comparisons": [{
+          "links": ["pessimistic outlook", "cynical outlook", "skeptical outlook"],
+          "description": "'Optimistic' is seeing the glass as half-full. 'Pessimistic' is seeing the glass as half-empty. 'Cynical' is suspecting that someone already drank half the glass. 'Skeptical' is not being sure what's in the glass is drinkable."
       }]
-  }],
-  "comparisons": [{
-      "links": ["pessimism", "cynicism", "skepticism"],
-      "description": "'Optimism' is seeing the glass as half-full. 'Pessimism' is seeing the glass as half-empty. 'Cynicism' is suspecting that someone already drank half the glass. 'Skepticism' is not being sure what's in the glass is drinkable."
   }],
   "commentaries": [{
       "quote": "Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.",
