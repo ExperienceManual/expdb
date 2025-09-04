@@ -1,7 +1,7 @@
 {
     "lang": "en/us",
     "createDate": "20250719",
-    "updateDate": "20250719",
+    "updateDate": "20250902",
     "name": "unfairness",
     "valence": -1,
     "quote": "I never win!",
@@ -18,8 +18,23 @@
         "references": ["https://reawakenyourbrilliance.com/what-should-you-do-when-life-is-unfair-how-to-deal-with-unfairness/"]
     }],
     "variations": [{
+        "name": "unfair accusation",
+        "description": "A perception that someone is attacking your social status by incorrectly attributing to you an undesirable attribute or outcome.",
+        "perceptions": ["That person insists that I have a certain negative characteristic, or caused a certain negative outcome to happen.","This is not true.","I should protect my reputation."],
+        "desires": ["desire for justice","desire for order"],
+        "sensations": ["annoyance","dismay","someone else cheating","anxiety","anger","fear","attack"],
+        "related": ["distrust","cynicism","self-righteousness"],
+        "opposites": ["justice","validation"],
+        "examples": ["Your older sibling blames you for breaking the lamp.","A family member says you're lazy for taking a 2-week vacation."],
+        "guidance": [{
+            "description": "If the false accusation is of a legal nature, here some references that may help.",
+            "references": ["https://www.defendyourbrowardcase.com/blog/2019/january/understanding-the-psychology-behind-false-accusa","https://wilderfirm.com/how-to-defend-yourself-against-false-accusations/"]
+        },{
+            "description": "If the false accusation is a relationship issue, you may consider these references.",
+            "references": ["https://www.wikihow.com/Respond-to-False-Accusations","https://www.psychologytoday.com/us/blog/intimacy-a-path-toward-spirituality/201912/responding-to-false-accusations-in-intimate"]
+        }]
+    },{
         "name": "injustice",
-        "alternateNames": ["indignation"],
         "description": "A perception that the outcome or process of a social judgement was not aligned with deeply important rules.",
         "perceptions": ["Someone chose an outcome that does not adhere to rules I consider socially important.","This is not ok.","They ought to be told they are behaving in an unacceptable way."],
         "desires": ["desire for justice","desire for order"],
@@ -27,10 +42,6 @@
         "related": ["distrust","cynicism","self-righteousness"],
         "opposites": ["justice"],
         "examples": ["A false accusation wrongly lands someone in prison.","A good person has a bad thing happen to them."],
-        "comparisons": [{
-            "links": ["unfairness"],
-            "description": "An injustice is a type of unfairness where there's a moral or legal aspect."
-        }],
         "guidance": [{
             "description": "Persistent anger and feelings of injustice—directed toward a particular person, circumstance, or yourself—come with a steep price tag: They rob you of happiness in the moment and have negative impacts on your health. Here’s what you can do to begin to gain control so you have a better outcome. After all, you can't change what happened in the past. The only thing you can alter is your present experience.",
             "attribution": "Beth Darnall PhD",
@@ -38,6 +49,7 @@
         }]
     },{
         "name": "resentment",
+        "alternateNames": ["indignation"],
         "description": "A form of low-grade anger towards a person, group, or situation perceived as having treated you unfairly.",
         "perceptions": ["Someone chose an outcome that was not fair to me.","It doesn't break a major social rule, but it still irritates me."],
         "desires": ["desire for justice","desire for order","desire for validation"],
@@ -45,10 +57,6 @@
         "related": ["distrust","cynicism"],
         "opposites": ["justice"],
         "examples": ["They always pick me last for a team.","The boss gives me the worst assignments."],
-        "comparisons": [{
-            "links": ["injustice"],
-            "description": "You can be resentful of a relatively minor slight, but not consider it a true injustice, which is a more substantial infraction."
-        }],
         "guidance": [{
             "description": "There are specific actions you can take to address feelings of anger and resentment in more healthy and helpful ways.",
             "attribution": "Dan Mager MSW",
@@ -70,6 +78,12 @@
     "comparisons": [{
         "links": ["losing","cheating"],
         "description": "Losing can feel unfair if you suspect someone cheated to win. But you may also recognize a loss as having been fair."
+    },{
+        "links": ["unfair accusation","injustice"],
+        "description": "An 'injustice' is a type of unfairness where there's a moral or legal aspect. An 'unfair accusation' is a type of unfairness where one (or a few) person's words are perceived to be a false attempt at harming your status with some social group."
+    },{
+        "links": ["resentment"],
+        "description": "'Resentment' is the long-term experience stemming from one or more instances of a person or group perceived as being unfair to you."
     }],
     "commentaries": [{
         "quote": "'Fairness' can depend on context that's not always immediately visible. Maybe the kid who got the bigger piece of pie worked all day for it and the other kids did nothing."
@@ -94,6 +108,9 @@
     },{
         "quote": "Resentment is like drinking poison and then hoping it will kill your enemies.",
         "attribution": "Marcus Aurelius"
+    },{
+        "quote": "Thou shalt not bear false witness against thy neighbour.",
+        "attribution": "The Bible"
     }],
     "models": [{
         "version": "em1",

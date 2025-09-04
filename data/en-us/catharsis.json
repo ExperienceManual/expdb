@@ -1,0 +1,57 @@
+{
+    "lang": "en/us",
+    "createDate": "20250827",
+    "updateDate": "20250827",
+    "name": "catharsis",
+    "valence": 0,
+    "quote": "Glad I got that off my chest.",
+    "description": "A perception of relief from negative feelings after having gone through a period of intense experience.",
+    "perceptions": ["I experienced something intense.","I think it helped me feel better."],
+    "desires": ["desire for comfort"],
+    "sensations": ["relief"],
+    "related": ["vicarious experience"],
+    "results": ["Perhaps you feel better for an extended period, or perhaps not."],
+    "opposites": ["repression"],
+    "examples": ["Crying during an emotional movie.","Expressing anger on a punching bag.","Primal therapy."],
+    "guidance": [{
+        "description": "Despite being an ancient idea, there's debate amongst psychologists about if and how catharsis works for different situations, and whether it's a good approach to improving problems. The gist: (a) 'Letting out' anger doesn't work, and in fact just reinforces more anger. (b) Catharsis may work by letting you know that you're not alone, that others feel similarly and support you. (c) Or perhaps catharsis works by exposing repressed experiences. (d) Being pushed into reliving a traumatic state could trigger inner defenses.",
+        "references": ["https://www.verywellmind.com/what-is-catharsis-2794968","https://mattbphd.com/emotional-minutes-18-emotional-venting-and-the-myths-of-catharsis","https://confluence.gallatin.nyu.edu/sections/creative-nonfiction/the-incorrect-truth-of-catharsis","https://lifearchitect.com/blog/how-ifs-sees-catharsis"]
+    }],
+    "commentaries": [{
+        "quote": "Art is a form of catharsis emotional release, purging, cleansing, purifying.",
+        "attribution": "Dorothy Parker"
+    },{
+        "quote": "People believe that in letting things out, they’re getting rid of pent up emotions. In truth, other factors, such as social support, are what really provide that relief.",
+        "attribution": "Dr. Matthew Boland"
+    },{
+        "quote": "God, it was good to let go, let the tight mask fall off, and the bewildered, chaotic fragments pour out. It was the purge, the catharsis.",
+        "attribution": "Sylvia Plath"
+    },{
+        "quote": "In some therapeutic modalities, catharsis is the key element to healing. The goal in such modalities is to dive deep into the experience, relive it once again and through this – release the pain you’re holding. In Internal Family Systems we actually don’t want the catharsis.",
+        "attribution": "Michael Pasterski"
+    },{
+        "quote": "Catharsis is about cleansing and healing at one and the same time - healing memories and attitudes, healing the spirit and the heart.",
+        "attribution": "Desmond Tutu"
+    },{
+        "quote": "For me, fiction isn't very cathartic. It can be a broad, long catharsis, but it's a whole different thing - whereas music is physical. Essentially, it goes in through your ear. Fiction is cerebral, necessarily. It can do emotional stuff. But they don't really compare - not for me.",
+        "attribution": "John Darnielle"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["catharsis"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2": {
+                "experiences": ["catharsis"]
+              },
+              "1": {
+                "experiences": ["many"]
+              }
+            }
+        }]
+    }]
+}

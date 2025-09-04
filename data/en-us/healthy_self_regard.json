@@ -70,10 +70,8 @@
         }]
     },{
         "name": "self-care",
+        "alternateNames": ["self-interest"],
         "description": "Taking time to do things for yourself when needed.",
-        "timescale": ["unknown"],
-        "rarity": ["unknown"],
-        "frequency": ["unknown"],
         "opposites": ["self-neglect"],
         "perceptions": ["It's ok for me to prioritize my needs along with taking care of others."],
         "desires": ["desire for comfort"],

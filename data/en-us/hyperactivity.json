@@ -1,0 +1,63 @@
+{
+    "lang": "en/us",
+    "createDate": "20250826",
+    "updateDate": "20250826",
+    "name": "hyperactivity",
+    "valence": 0,
+    "quote": "I'm fine, just have a lot to do.",
+    "description": "A state of high energy, impulsivity, and difficulty focusing on a single train of thought.",
+    "tags": ["potential problem"],
+    "perceptions": ["I've got to keep at this important thing."],
+    "desires": ["desire for stimulation","many"],
+    "sensations": ["many"],
+    "opposites": [],
+    "examples": ["Short attention span.","Trouble waiting your turn.","Being unable to stick to boring tasks."],
+    "guidance": [{
+        "description": "If chronic impulsivity and lack of focus is affecting your life, you should consider learning more about Attention Deficit Hyperactivity Disorder (ADHD) to see if professional help may be warranted.",
+        "references": ["https://www.mentalhealth.org.uk/explore-mental-health/a-z-topics/attention-deficit-hyperactivity-disorder-adhd","https://www.helpguide.org/mental-health/adhd/managing-adult-adhd","https://add.org/adhd-coping-mechanisms"]
+    }],
+    "variations": [{
+        "name": "manic episode",
+        "alternateNames": ["mania"],
+        "description": "A long-lasting mood of unusual energy or irritability, including: inflated self-esteem, less sleep than usual, racing thoughts, and/or increased talkativeness.",
+        "tags": ["potential problem"],
+        "perceptions": ["I've got to keep at this important thing."],
+        "desires": ["desire for stimulation","many"],
+        "sensations": ["many"],
+        "results": ["The potential dangers of an unrecognized mania condition can include: excessive spending, reckless sex, drug use, or dangerous driving."],
+        "examples": ["Getting overexcited about an impractical business idea.","Going overboard responding to social media."],
+        "opposites": ["depressive episode"],
+        "guidance": [{
+            "description": "Here are some references to learn more about the hyperactivity condition called 'mania':",
+            "references": ["https://my.clevelandclinic.org/health/diseases/21603-mania","https://www.verywellhealth.com/manic-definition-5188650"]
+        },{
+            "description": "Mood swings between very high-energy and very low-energy moods could be indicative of a mental health condition. You should consider seeking professional help.",
+            "references": ["__THERAPY_LINKS__"]
+        }]
+    }],
+    "commentaries": [{
+        "quote": "If you have ADHD, you’re more likely to experience a mental health problem. These include anxiety, depression, sleep problems, conduct disorder (showing aggressive or antisocial behaviour) and substance abuse.",
+        "attribution": "mentalhealth.org.uk"
+    },{
+        "quote": "In the midst of all the chaos swirling through your brain, all the disorganization and impulsiveness, the condition (ADHD) also seems to trigger a certain kind of creativity.",
+        "attribution": "David Neeleman"
+    },{
+        "quote": "Repeated bouts of fear, frustration and failure in school create stress that is neurologically damaging.",
+        "attribution": "Jerome Schultz, Ph.D."
+    },{
+        "quote": "It helps to think of ADHD as a complex set of contradictory or paradoxical tendencies: a lack of focus combined with an ability to superfocus; a lack of direction combined with highly directed entrepreneurialism; a tendency to procrastinate combined with a knack for getting a week’s worth of work done in two hours; impulsive, wrongheaded decision making combined with inventive, out-of-the-blue problem solving; interpersonal cluelessness combined with uncanny intuition and empathy; the list goes on.",
+        "attribution": "Edward M. Hallowell in 'ADHD 2.0'"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["hyperactivity","manic episode"],
+            "predominantType": "impulse",
+            "levels": {
+              "4,3,2,1": {
+                "experiences": ["hyperactivity"]
+              }
+            }
+        }]
+    }]
+}

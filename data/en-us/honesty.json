@@ -68,7 +68,7 @@
           "attribution": "Carolyn Steber",
           "references": ["https://www.bustle.com/p/11-times-when-being-honest-is-almost-never-worth-it-3259097"]
       }],
-      "examples": ["Not telling a rebellious kid the food they're eating is from their least favorite restaurant."]
+      "examples": ["Not telling a picky eater the food is from their least favorite restaurant until after the meal.","HR doesn't reveal the list of specific people laid off to protect their privacy."]
   },{
       "name": "frankness",
       "description": "A sense that you are communicating information that is aligned with all relevant perceptions, and that it might be difficult for others to accept, it's for a good purpose.",
@@ -82,6 +82,7 @@
       "examples": ["Telling a coworker their outfit is inappropriate."]
   },{
       "name": "oversharing",
+      "alternateNames": ["indiscretion"],
       "description": "A sense that someone else is communicating more private information than necessary for the current context.",
       "perceptions": ["Someone has opened up with personal details that are not necessary for this conversation.","It would be better for everyone if some details are left unsaid."],
       "desires": ["desire for order","desire for social contact"],

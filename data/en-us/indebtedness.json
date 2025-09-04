@@ -1,0 +1,81 @@
+{
+    "lang": "en/us",
+    "createDate": "20250827",
+    "updateDate": "20250828",
+    "name": "indebtedness",
+    "valence": -1,
+    "quote": "We have to do repay his kindness somehow.",
+    "description": "Mild discomfort from the perception there is a social expectation to do something for someone to balance something they did for you.",
+    "perceptions": ["A person or group did something for me or lent me an asset.","I need to remember to return the asset or return the favor."],
+    "desires": ["desire for social status","desire to be perceived a certain way"],
+    "sensations": ["discomfort","aversion to owing"],
+    "results": ["Perhaps you will strive to repay the debt.","Perhaps you will be relaxed about the timeline."],
+    "related": ["indebted gratitude"],
+    "opposites": ["selfishness"],
+    "examples": ["Someone buys you dinner, suggesting you can get the next one.","Someone helps you move to a new apartment."],
+    "guidance": [{
+        "description": "Have you ever struggled with indebtedness? Maybe someone surprised you with a thoughtful gift or gesture, but instead of feeling grateful, you are overwhelmed with a nagging sense of indebtedness. As much as you appreciate the kindness, you can’t shake the feeling that you need to do something equally or even more special in return.",
+        "attribution": "Lainie Rowell",
+        "references": ["https://community.thriveglobal.com/conquering-those-feelings-of-indebtedness/"]
+    },{
+        "description": "You may not feel indebtedness to the government worker who goes out of their way to help solve your problem. This is understandable because you do help pay their salary, but gratitude is an option.",
+        "references": ["gratitude"]
+    }],
+    "variations": [{
+        "name": "rationalized indebtedness",
+        "description": "Someone is perceived to be avoiding a debt by coming up with an excuse why they shouldn't have to repay.",
+        "perceptions": ["That person was the recipient of a favor or asset.","They are under a social obligation to return the favor or asset.","Instead, they're making excuses for why they shouldn't have to repay."],
+        "desires": ["desire for order"],
+        "sensations": ["resentment","someone else cheating"],
+        "related": ["cheating","selfishness"],
+        "examples": ["You loan someone money and they refuse to repay because they think it was a gift.","The office worker is 'just doing their job'."],
+        "personOfInterestExperiences": ["rationalization"],
+        "guidance": [{
+            "description": "Perhaps the person avoiding the debt is being selfish and entitled. Or perhaps they view the favor as being part of the benefactor's job. Or perhaps they simply can't repay and have trouble expressing gratitude.",
+            "attribution": "",
+            "references": [""]
+        }]
+    }],
+    "comparisons": [{
+        "links": ["selfishness"],
+        "description": "If someone did something for you at your request with an expectation of some kind of repayment, they may label an unwillingness to repay as being 'selfish'."
+    }],
+    "commentaries": [{
+        "quote": "With feelings of indebtedness, individuals may go out of their way to try to repay others and have thoughts of 'I have to' rather than 'I want to.' Another way individuals may rationalize feelings of indebtedness is by restructuring the thoughts that initially caused these feelings.",
+        "attribution": "Stephanie M. Mangus, PhD, Dora E. Bock, PhD, Eli Jones, PhD, and Judith Anne Garretson Folse, PhD"
+    },{
+        "quote": "People generally feel more indebtedness to individuals than to organizations. People tend to think organizations 'owe' us because we pay taxes, tuition, or fees. Others are more sensitive to the burden they place on society."
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["indebtedness"],
+            "predominantType": "impulse",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["indebtedness"]
+              },
+              "2,1": {
+                "experiences": ["discomfort"]
+              }
+            }
+        },{
+            "names": ["rationalized indebtedness"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["rationalized indebtedness"]
+              },
+              "2,1": {
+                "experiences": ["dissatisfaction"]
+              }
+            }
+        }]
+    }]
+}

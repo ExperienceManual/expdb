@@ -1,0 +1,55 @@
+{
+    "lang": "en/us",
+    "createDate": "20250831",
+    "updateDate": "20250831",
+    "name": "stoicism",
+    "valence": 0,
+    "quote": "Let it rain.",
+    "description": "A general pattern of enduring discomfort while maintaining composure and without complaining.",
+    "alternateDefinitions": ["'Stoicism' is an ancient system of philosophy that encourages virtue and accepting things we cannot control."],
+    "perceptions": ["Bad things happen.","If the cause is outside of my control, I should try to handle the outcome gracefully."],
+    "desires": ["desire for order","desire for comfort","desire for meaning"],
+    "sensations": ["discomfort","dissatisfaction","mental endurance","physical endurance"],
+    "results": ["An aim is to get past discomfort virtuously without making it worse."],
+    "opposites": ["victim"],
+    "examples": ["Military boot camp.","Standing in the rain for concert tickets without complaint."],
+    "guidance": [{
+        "description": "9 Stoic Practices That Will Help You Thrive In The Madness Of Modernity",
+        "attribution": "Daily Stoic",
+        "references": ["https://dailystoic.com/stoicism-modernity/"]
+    },{
+        "description": "Stoicism has become popular and is helpful to many, but there are some downsides you may want to consider before embracing it 100%.",
+        "references": ["https://bigthink.com/thinking/stoicism-popular-downsides/","https://www.psychologytoday.com/us/blog/anxiety-in-high-achievers/202411/the-shortcomings-of-stoicism"]
+    }],
+    "commentaries": [{
+        "quote": "By embracing the Stoic philosophy of accepting what is beyond our control, we can redirect our energy towards what we can influence, fostering a resilient mindset that allows us to find solutions rather than being overwhelmed by emotions.",
+        "attribution": "David Perry"
+    },{
+        "quote": "Think of the life you have lived until now as over and, as a dead man, see what’s left as a bonus and live it according to Nature. Love the hand that fate deals you and play it as your own, for what could be more fitting?",
+        "attribution": "Marcus Aurelius"
+    },{
+        "quote": "How does it help to make troubles heavier by bemoaning them?",
+        "attribution": "Seneca"
+    },{
+        "quote": "Despite its benefits, Stoicism comes with potential drawbacks. By emphasizing reason at the expense of emotions, it fails to appreciate the vital role of emotions in decision-making. Paying attention to how you feel can provide you with valuable data as you navigate life.",
+        "attribution": "Dimitrios Tsatiris M.D."
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["stoicism"],
+            "predominantType": "impulse",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["stoicism"]
+              },
+              "2,1": {
+                "experiences": ["many"]
+              }
+            }
+        }]
+    }]
+}

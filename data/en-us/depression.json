@@ -1,11 +1,12 @@
 {
     "lang": "en/us",
     "createDate": "20250820",
-    "updateDate": "20250820",
+    "updateDate": "20250826",
     "name": "depression",
     "valence": -1,
     "quote": "Everything's awful.",
-    "description": "A persistent mental health condition including persistent sadness, apathy, grief, and unhealthy self-regard.",
+    "description": "A mental health condition including persistent sadness, apathy, grief, and unhealthy self-regard.",
+    "tags": ["potential problem"],
     "alternateDefinitions": ["People sometimes make a comment about being 'depressed' by something. Often this just an exaggerated way to way to underline their unhappiness about that thing. True depression is a serious condition."],
     "perceptions": ["Nothing's going well.","I'm not handling things well.","I feel like I'm suffocating in this negativity."],
     "desires": ["desire for comfort"],
@@ -26,6 +27,19 @@
         "opposites": ["joy","meaning"],
         "guidance": [{
             "description": "If you're haunted by suicidal thoughts, it's time to get help.",
+            "references": ["__THERAPY_LINKS__"]
+        }]
+    },{
+        "name": "depressive episode",
+        "description": "A long-lasting mood of unusual lack of energy, changes in sleep or appetite, and/or difficulty focusing.",
+        "tags": ["potential problem"],
+        "perceptions": ["I don't have the energy, and it doesn't matter anyhow."],
+        "desires": ["desire for comfort","many"],
+        "sensations": ["many negative"],
+        "related": ["gloom","clinical apathy"],
+        "opposites": ["manic episode"],
+        "guidance": [{
+            "description": "Mood swings between very high-energy and very low-energy moods could be indicative of a mental health condition. You should consider seeking professional help.",
             "references": ["__THERAPY_LINKS__"]
         }]
     }],

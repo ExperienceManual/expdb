@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250222",
-  "updateDate": "20250609",
+  "updateDate": "20250827",
   "name": "empathy",
   "valence": 0,
   "quote": "I think I know what you're feeling.",
@@ -20,6 +20,15 @@
       "links": ["sympathy","pity","compassion"],
       "description": "'Empathy' is defined here as the capacity to imagine yourself in someone else's experience. It does not mean you agree with their perspective or necessarily want to help them. 'Sympathy' is empathy followed by a hope their situation will improve, but no urge to action. 'Pity' is empathy followed by a sense of detached sadness, but it can come with a suspicion that they may deserve what's happening. 'Compassion' is empathy with a desire to get involved and help."
   }],
+  "variations": [{
+      "name": "vicarious experience",
+      "description": "The perception that you're indirectly experiencing something adjacent to another's experience by listening, watching, or imagining.",
+      "perceptions": ["By being exposed to another person or creature's experience I can imagine myself in their situation.","This creates a shadow version of what they may be experiencing."],
+      "desires": ["many"],
+      "sensations": ["many"],
+      "results": ["Sometimes you may come away burdened by the experience.","Other times you may find relief in what they went through."],
+      "examples": ["Movies, TV, books, good storytellers.","Being a bystander."]
+  }],
   "commentaries": [{
       "quote": "Empathy is the ability to step outside of your own bubble and into the bubbles of other people.",
       "attribution": "C. JoyBell C."
@@ -36,6 +45,9 @@
   },{
       "quote": "We think we listen, but very rarely do we listen with real understanding, true empathy. Yet listening, of this very special kind, is one of the most potent forces for change that I know.",
       "attribution": "Carl Rogers"
+  },{
+      "quote": "Most of the images of reality on which we base our actions are really based on vicarious experience.",
+      "attribution": "Albert Bandura"
   }],
   "models": [{
       "version": "em1",

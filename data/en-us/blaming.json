@@ -1,0 +1,108 @@
+{
+    "lang": "en/us",
+    "createDate": "20250903",
+    "updateDate": "20250903",
+    "name": "blaming",
+    "valence": 0,
+    "quote": "I think he did it.",
+    "description": "Assigning responsibility to someone or something as the main cause of an undesired outcome.",
+    "perceptions": ["Something negative happened.","It's important to know what caused it."],
+    "desires": ["desire for knowledge","desire for order"],
+    "sensations": ["judging","shaming someone"],
+    "results": ["The assignment of blame may be correct or incorrect, fair or unfair, minor or serious."],
+    "related": ["cynicism","failure"],
+    "opposites": ["defense"],
+    "examples": ["He blamed the storm for poor attendance at the event.","She scolded her husband for hanging the frame at an angle."],
+    "guidance": [{
+        "description": "Here are some interesting references on the dynamics of blame.",
+        "references": ["https://www.focusonthefamily.com/parenting/curbing-the-blame-game-and-getting-rid-of-excuses/","https://www.traciruble.com/blog/why-we-blame-why-it-hurts-and-how-to-stop-blaming-your-partner","https://lindsaylapaquette.com/why-blaming-doesnt-work/"]
+    }],
+    "variations": [{
+        "name": "accusing",
+        "description": "Formally communicating that someone has done something wrong.",
+        "perceptions": ["I believe someone has broken a rule.","They need to be held accountable."],
+        "desires": ["desire for order","desire for knowledge"],
+        "sensations": ["judging","shaming someone"],
+        "results": ["The accusation may be correct or incorrect, fair or unfair, minor or serious."],
+        "related": ["attack"],
+        "personOfInterestExperiences": ["defense","false accusation","shame"],
+        "opposites": ["defense"],
+        "examples": ["The suspect was formally charged with the crime.","She accused him of forgetting to feed the fish."],
+        "guidance": [{
+            "description": "If you've been falsely accused, see guidance for 'false accusation'.",
+            "references": ["false accusation"]
+        }]
+     },{
+        "name": "scapegoating",
+        "description": "Assigning responsibility for a negative outcome to someone or something that you know or suspect is not actually the cause.",
+        "perceptions": ["Something negative happened.","It's important to assign responsibility to someone or something.","The actual cause is either unknown or is immune to being blamed for some reason.","It would be better to assign responsibility to another person, group, or thing."],
+        "desires": ["desire for order"],
+        "sensations": ["lying","shaming someone","attack"],
+        "related": ["injustice"],
+        "opposites": ["desire to be correct"],
+        "examples": ["The older sibling broke the vase but accused the younger.","The desperate government blamed the minority group for economic problems."],
+        "personOfInterestExperiences": ["defense","false accusation","resentment"],
+        "guidance": [{
+            "description": "If you've become a scapegoat, here are some references to consider.",
+            "references": ["https://www.betterhelp.com/advice/general/what-is-scapegoating-and-why-should-you-avoid-it/","https://www.emmaplunkett.art/art-blog/scapegoat/"]
+        }]
+    }],
+    "comparisons": [{
+        "links": ["accusing"],
+        "description": "'Blaming' and 'accusing' are close in meaning and are often used interchangeably. The distinctions are fuzzy: 'Accusing' is a more formal charge of a specific person for a wrong action regardless of the actual outcome. 'Blame' is a less formal suspicion of responsibility for a negative outcome. You will often blame and accuse someone at the same time: guess that they caused the bad thing and complain that it was the wrong thing to do. But they can be separate too. e.g. You can accuse someone of trying to sabotage the birthday party even if the attempt fails so there's no negative outcomes. Conversely, you can blame the team for not completing the project without accusing a specific person."
+    }],
+    "commentaries": [{
+        "quote": "People may fail many times, but they become failures only when they begin to blame someone else",
+        "attribution": "Oscar Wilde"
+    },{
+        "quote": "To find fault is easy; to do better may be difficult.",
+        "attribution": "Plutarch"
+    },{
+        "quote": "A good leader takes a little more than his share of the blame, a little less than his share of the credit.",
+        "attribution": "Arnold H. Glasow"
+    },{
+        "quote": "Don't blame the messenger because the message is unpleasant.",
+        "attribution": "Ken Starr"
+    },{
+        "quote": "Never judge someone's character based on the words of another. Instead, study the motives behind the words of the person casting the bad judgment.",
+        "attribution": "Suzy Kassem"
+    },{
+        "quote": "When two sides are accusing each other, it's very difficult to figure out the reality. Because reality is different for everyone. The difference is not just in mind. Things actually look different to different people.",
+        "attribution": "Shunya"
+    },{
+        "quote": "Generally speaking, a person who becomes a scapegoat is often perceived as a vulnerable person or group. This can make them an easy person or group to blame, or target. A scapegoat may differ from the norm in terms of their appearance, social status, personality, beliefs, religion, race, and more.",
+        "attribution": "Victoria Scala"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["blaming","accusing"],
+            "predominantType": "impulse",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["blaming"]
+              },
+              "2,1": {
+                "experiences": ["dissatifaction"]
+              }
+            }
+        },{
+            "names": ["scapegoating"],
+            "predominantType": "impulse",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["scapegoating"]
+              },
+              "2,1": {
+                "experiences": ["dissatifaction","attacking"]
+              }
+            }
+        }]
+    }]
+}

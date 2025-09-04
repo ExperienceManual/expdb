@@ -1,0 +1,56 @@
+{
+    "lang": "en/us",
+    "createDate": "20250902",
+    "updateDate": "20250902",
+    "name": "jealousy",
+    "valence": -1,
+    "quote": "I'm jealous that you looked at her that way.",
+    "description": "Fear from a perception that something important we already possess (often a special relationship) is threatened by someone else.",
+    "alternateDefinitions": ["'Jealousy' can also mean the same thing as 'envy' -- wanting someone else's advantage."],
+    "perceptions": ["I have something that I value.","I think someone else is trying to get it."],
+    "desires": ["desire for social status","desire for wealth","desire for comfort"],
+    "sensations": ["anxiety","anger","aversion to loss","fear","unhealthy self-regard"],
+    "related": ["defense","envy"],
+    "examples": ["Your spouse spends a lot of time with an attractive coworker.","Your friend invites someone else instead of you.","You lock up a rare collectible item when a fellow collector visits."],
+    "guidance": [{
+        "description": "Here are some tips for dealing with your own jealousy.",
+        "references": ["https://www.healthline.com/health/how-to-not-be-jealous","https://www.verywellmind.com/overcome-jealousy-in-your-marriage-2303979"]
+    },{
+        "description": "Here are some tips for dealing with other people's jealousy.",
+        "references": ["https://brendon.com/blog/jealousy/"]
+    }],
+    "commentaries": [{
+        "quote": "A competent and self-confident person is incapable of jealousy in anything. Jealousy is invariably a symptom of neurotic insecurity.",
+        "attribution": "Robert A. Heinlein"
+    },{
+        "quote": "Jealousy is the fear or apprehension of superiority: envy our uneasiness under it.",
+        "attribution": "William Shenstone"
+    },{
+        "quote": "Jealousy is the grave of affection.",
+        "attribution": "Mary Baker Eddy"
+    },{
+        "quote": "Experiencing jealousy in a relationship is fairly normal, especially in a new relationship or if the relationship is undergoing changes.",
+        "attribution": "Katie Schubert, PhD"
+    },{
+        "quote": "Toxic jealousy can erode the very foundation of trust upon which a healthy relationship is built. Suspicion and constant accusations create an environment in which one or both partners feel as though they are on trial. This emotional distance stifles communication and can lead to a breakdown in trust, making it increasingly difficult to maintain a loving and open connection.",
+        "attribution": "Carrie Potter"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["jealousy"],
+            "predominantType": "impulse",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2": {
+                "experiences": ["jealousy"]
+              },
+              "1": {
+                "experiences": ["anxiety"]
+              }
+            }
+        }]
+    }]
+}

@@ -19,7 +19,7 @@
   "opposites": ["happiness"],
   "comparisons": [{
       "links": ["melancholy","depression"],
-      "description": 'Melancholy' is an extended contemplative sadness. 'Depression' includes gloom and sadness along with many debilitating symptoms such as social withdrawal and inability to enjoy anything."
+      "description": "'Melancholy' is an extended contemplative sadness. 'Depression' includes gloom and sadness along with many debilitating symptoms such as social withdrawal and inability to enjoy anything."
   },{
       "links": ["angst"],
       "description": "'Sadness' is about a void caused by loss or longing, while 'angst' is a general anxiety. Both can be caused by big picture concerns, but the outcome is quite different, the output of sadness is tears while the output of angst is nerves."

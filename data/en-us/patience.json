@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250807",
-  "updateDate": "20250808",
+  "updateDate": "20250831",
   "name": "patience",
   "valence": -1,
   "quote": "We've got all day.",
@@ -19,8 +19,8 @@
   }],
   "opposites": ["impatience"],
   "comparisons": [{
-      "links": ["self control","endurance","persistence"],
-      "description": "'Patience' is the calmness that allows you to wait for a result. 'Endurance' is the stamina that allows you to withstand the unpleasant sensations of the process. 'Persistence' is the drive that keeps you actively moving toward the goal. All three are aspects of 'self control'"
+      "links": ["self control","mental endurance","persistence"],
+      "description": "'Patience' is the calmness that allows you to wait for a result. 'Mental endurance' is the goal-directed energy that allows you to withstand the unpleasant sensations of the process. 'Persistence' is the drive that keeps you actively moving toward the goal. All three are aspects of 'self control'"
   }],
   "variations": [{
       "name": "mental endurance",

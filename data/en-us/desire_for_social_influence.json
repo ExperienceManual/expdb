@@ -70,6 +70,7 @@
       }]
   },{
       "name": "desire to impact positively",
+      "alternateNames": ["desire to help"],
       "description": "Wanting to help people.",
       "perceptions": ["A person or group could use some help.","I could help","It could feel good to help."],
       "desires": ["desire for meaning","desire for social status","desire for agency"],

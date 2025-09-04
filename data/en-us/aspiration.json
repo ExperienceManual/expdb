@@ -6,22 +6,45 @@
   "valence": 1,
   "quote": "Someday I'd like to be a good bowler.",
   "description": "A desire to achieve a particular state of being someday without a specific plan to reach it.",
-  "perceptions": ["Life would be better if I could reach a certain life situation."],
+  "perceptions": ["Life would be better if I could achieve a particular outcome."],
   "desires": ["desire for social status","desire for meaning"],
   "guidance": [{
-      "description": "",
-      "attribution": "",
-      "references": [""]
+      "description": "See guidance for ambition.",
+      "references": ["ambition"]
   }],
   "related": ["desire", "ambition"],
   "examples": ["aspiration to be a doctor", "aspiration to be a homeowner"],
   "opposites": ["aimlessness"],
   "comparisons": [{
       "links": ["ambition"],
-      "description": "'Aspiration' is more about a general state of being while an 'ambition' is more about achieving a specific goal."
+      "description": "'Aspiration' is more about a general state of desire while an 'ambition' is more about achieving a specific goal."
   },{
       "links": ["inspiration"],
       "description": "Inspiration is the immediate spark of a new idea or experience that can lead to an aspiration or ambition."
+  }],
+  "variations": [{
+        "name": "longing",
+        "description": "A strong desire to achieve a particular outcome that creates a sense of loss and causes you to think about the desire frequently.",
+        "perceptions": ["Life would be better if I could achieve a particular outcome.","I think about this outcome so much that realizing it hasn't happened yet creates a sense of loss."],
+        "desires": ["desire for social status","desire for pair bond","many"],
+        "sensations": ["dissatisfaction","discomfort","emptiness","losing"],
+        "related": ["desire", "envy"],
+        "examples": ["Longing for a relationship.","A fixation on wanting to be rich and famous."],
+        "opposites": ["disconnection"],
+        "guidance": [{
+            "description": "If you long for something that's obtainable, consider the guidance for ambition.",
+            "references": ["ambition"]
+        },{
+            "description": "If you long for something that's not obtainable, consider the guidance for losing.",
+            "references": ["losing"]
+        }],
+        "comparisons": [{
+            "links": ["aspiration"],
+            "description": "An 'aspiration' is a garden-variety wish for a particular outcome. 'Longing' is a more like an addiction to dreaming about that state where the void becomes a discomfort."
+        },{
+            "links": ["emptiness"],
+            "description": "'Longing' is revisiting an 'emptiness' over-and-over until it becomes painful."
+        }]
   }],
   "commentaries": [{
       "quote": "To understand the heart and mind of a person, look not at what he has already achieved, but what he aspires to.",

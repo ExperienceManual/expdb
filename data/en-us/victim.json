@@ -1,0 +1,86 @@
+{
+    "lang": "en/us",
+    "createDate": "20250830",
+    "updateDate": "20250830",
+    "name": "victim",
+    "alternateNames": ["victim mentality"],
+    "valence": 0,
+    "quote": "It always happens to me.",
+    "description": "A general pattern of trying to get sympathy by blaming other people and outside forces for your problems.",
+    "perceptions": ["Bad things often happen to me.","It's always someone else's fault.","I deserve attention or compensation."],
+    "desires": ["desire to feel better about yourself"],
+    "sensations": ["discomfort","dissatisfaction"],
+    "results": ["Often more complaining than problem solving."],
+    "related": ["paranoia"],
+    "opposites": ["ownership","stoicism"],
+    "examples": ["Milking sympathy when you're not feeling well.","Feeling like you can't catch a break only due to mistreatment from others."],
+    "guidance": [{
+        "description": "Victimhood can become a part of a person's identity, but it is a learned behavior and can be changed.  It often evolves as a defense mechanism to cope with adverse life events.",
+        "attribution": "WebMD Editorial Contributors",
+        "references": ["https://www.webmd.com/mental-health/what-is-a-victim-mentality","https://www.linkedin.com/pulse/how-stop-being-victim-18-practices-gregg-vanourek-afnbc"]
+    }],
+    "comparisons": [{
+        "links": ["paranoia"],
+        "description": "'Paranoia' is about the liklihood of being a target of future harm, while the 'victim' mindset is about trying to gain attention or social points by drawing attention to an unfortunate happening. Both may be ways to avoid productive responsibility."
+    }],
+    "variations": [{
+        "name": "martyr complex",
+        "alternateNames": ["playing the martyr","martyrdom"],
+        "description": "A general pattern of taking on additional suffering for the perceived benefit of others.",
+        "perceptions": ["I will bear the burden so others don't have to."],
+        "desires": ["desire to feel better about yourself","desire for meaning"],
+        "sensations": ["sacrifice","dissatisfaction","resentment","dissonance"],
+        "results": ["Sometimes unnecessary suffering."],
+        "examples": ["Always taking the worst bit of food at the table.","Always letting others get first choice."],
+        "related": ["stoicism"],
+        "comparisons": [{
+            "links": ["victim"],
+            "description": "'Playing the martyr' is a form of victimhood played to your existential self. You're taking on additional suffering to help others without conciously seeking short-term social rewards, but nonetheless may feel badly if no one notices."
+        },{
+            "links": ["stoicism"],
+            "description": "Someone with 'martyr complex' may think of themselves as being stoic, but a true stoic doesn't seek to take additional suffering for others. Both aim to gracefully handle suffering, but stoics focus only on their own suffering, while martyrs seem not to have enough."
+        }],
+        "guidance": [{
+            "description": "Some aspects of martyrdom may seem desirable, but it’s important to understand the negative implications, too.",
+            "attribution": "WebMD Editorial Contributors",
+            "references": ["https://www.webmd.com/mental-health/what-is-a-martyr-complex"]
+        }]
+    }],
+    "commentaries": [{
+        "quote": "We all know people who seem to be constantly commenting on some injustice done to them — how others are denying them what they need, want, and deserve, controlling them against their will, and making them do what they don’t want to do. Or how life is against them and the universe is designed to punish them, personally.",
+        "attribution": "Nancy Colier LCSW, Rev."
+    },{
+        "quote": "Playing the martyr means you don’t want attention for how you suffer, you’re just suffering in some way so others don’t have to, and it’s very passive.  This is what really nice people do.  Unfortunately, this can lead to unnecessary hurt and will likely add to anxiety.",
+        "attribution": "Chad David"
+    },{
+        "quote": "There’s a difference between being a victim of real hardships (e.g., poverty, disease, trauma) and having a victim mentality. With a victim mentality, you believe not only that you’re a victim of negative circumstances but also that you’re helpless in the face of them. Such thinking may provide some psychic relief, at least in the short term. But what you’re really doing with this kind of thinking is sabotaging yourself.",
+        "attribution": "Gregg Vanourek"
+    },{
+        "quote": "Today is a new day. Don't let your history interfere with your destiny! Let today be the day you stop being a victim of your circumstances and start taking action towards the life you want.",
+        "attribution": "Steve Maraboli"
+    },{
+        "quote": "These politically correct language initiatives are misguided and harmful. They create highly entitled professional 'victims' who expect to be free from any offense, and they engender a stifling atmosphere where all individuals walk on eggshells lest they might commit a linguistic capital crime.",
+        "attribution": "Gad Saad"
+    },{
+        "quote": "Feminism is not 'women as victims' but women refusing to be victims.",
+        "attribution": "Gloria Steinem"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["victim","martyr complex"],
+            "predominantType": "impulse",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["victim"]
+              },
+              "2,1": {
+                "experiences": ["dissatisfaction"]
+              }
+            }
+        }]
+    }]
+}

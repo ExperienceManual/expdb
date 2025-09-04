@@ -6,10 +6,11 @@
   "valence": 0,
   "quote": "She ate all of our chocolates!",
   "description": "Perceiving that someone persistently claims more of something than is considered decent by a particular social group.",
+  "tags": ["social label"],
   "perceptions": ["That person often claims more than their share.","It's not fair."],
   "desires": ["desire for order"],
   "sensations": ["resentment"],
-  "personOfInterestExperiences": ["desire for comfort","desire for social status","desire for territory","ambition"],
+  "personOfInterestExperiences": ["desire for safety","desire for comfort","desire for social status","desire for territory","ambition","anxiety"],
   "guidance": [{
       "description": "Greed is a complex emotion, and there are many factors that can contribute to it. Recognizing our own tendencies toward greedy behavior and identifying these traits in others can help us work towards a more generous and compassionate society.",
       "attribution": "Patricia K. Flanigan",
@@ -17,7 +18,7 @@
   }],
   "related": [ "selfishness", "ill will","disrespect", "hoarding", "cheating" ],
   "opposites": ["generosity"],
-  "examples": ["taking an extra slice of pizza when there's not enough","rigging an election"],
+  "examples": ["Taking an extra slice of pizza when there's not enough to go around.","Declining to give a 'reasonable' amount of money to charity."],
   "comparisons": [{
       "links": ["selfishness","cheating"],
       "description": "Greed is a particular kind of selfishness that is a strong desire for more of something than is necessary. It can be considered a form of 'cheating' when rules about social behavior are broken. 'Selfishness' encompasses more than than just material items or social position, including, for instance, attention and actions."

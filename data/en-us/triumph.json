@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20241130",
-  "updateDate": "20250801",
+  "updateDate": "20250831",
   "name": "triumph",
   "alternateNames": ["pride in an outcome"],
   "valence": 1,
@@ -14,19 +14,9 @@
       "description": "Even in triumph, you may want to consider victory etiquette.",
       "references": ["https://www.masterclass.com/articles/how-to-show-good-sportsmanship"]
   }],
-  "related": ["social status", "pride", "gaining"],
+  "related": ["vindication","social status", "pride", "gaining"],
   "opposites": ["losing", "failure"],
-  "variations": [{
-      "name": "proved them all wrong",
-      "description": "Feeling good about yourself for an outcome may come with vindication if there had been social skepticism.",
-      "perceptions": ["You or someone close won an important victory.","The victory was not assured.","Others were skeptical you would win."],
-      "desires": ["desire for social status"],
-      "sensations": ["delight","relief","vindication"],
-      "results": ["desire to show off to your skeptics"]
-    }
-  ],
-  "models": [
-    {
+  "models": [{
       "version": "em1",
       "variations": [{
           "names": ["triumph"],
@@ -40,23 +30,6 @@
             },
             "3": {
               "experiences": ["triumph"]
-            },
-            "4": {
-              "experiences": ["narration"]
-            }
-          }
-      },{
-          "names": ["proved them all wrong"],
-          "predominantType": "sensation",
-          "levels": {
-            "1": {
-              "experiences": ["delight"]
-            },
-            "2": {
-              "experiences": ["happiness"]
-            },
-            "3": {
-              "experiences": ["triumph","vindication"]
             },
             "4": {
               "experiences": ["narration"]

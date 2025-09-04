@@ -1,11 +1,12 @@
 {
   "lang": "en/us",
   "createDate": "20250305",
-  "updateDate": "20250624",
+  "updateDate": "20250902",
   "name": "generosity",
   "valence": 1,
   "quote": "She gave us her share of the chocolates.",
   "description": "Giving to others something of more value than is socially expected.",
+  "otherVariations": ["altruism"],
   "perceptions": ["The other person needs this more than I need it.","There's no pressure for me to give this.","It makes me feel good to give this."],
   "desires": ["desire for comfort","desire for meaning","desire for social status"],
   "sensations": ["satisfaction"],

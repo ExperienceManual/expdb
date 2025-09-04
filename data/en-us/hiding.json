@@ -1,0 +1,90 @@
+{
+    "lang": "en/us",
+    "createDate": "20250903",
+    "updateDate": "20250903",
+    "name": "hiding",
+    "valence": 0,
+    "quote": "Ready or not, here I come!",
+    "description": "Actively trying to make someone or something to not be easily detectable.",
+    "perceptions": ["There's something I would prefer others don't find or learn.","I could make it harder to detect."],
+    "desires": ["desire for privacy","desire to be perceived a certain way","desire for safety","desire for comfort"],
+    "sensations": ["anxiety","defensive deception","offensive deception"],
+    "related": ["greed"],
+    "opposites": ["honesty"],
+    "examples": ["Playing hide-and-seek.","Put that pile of papers in the laundry room so the guests don't see it.","They want me to pay in cash."],
+    "variations": [{
+        "name": "withholding",
+        "description": "Avoiding the transfer of particular assets or information that the other party doesn't know exists but would probably want to know.",
+        "alternateDefinitions": ["'Withholding' can also be used to describe a situation where the other party knows the asset or information exists, for instance tax withholding."],
+        "perceptions": ["I could share this asset or information with someone.","They don't know it exists but would probably want it.","I don't want to give it to them."],
+        "desires": ["desire for privacy","desire to be perceived a certain way","desire for safety"],
+	"sensations": ["anxiety","defensive deception","offensive deception"],
+        "related": ["shaded honesty","lying"],
+        "results": ["It may be easy to just avoid mentioning something.","Or it may take an intricate verbal dance with some white lies."],
+        "examples": ["Not telling people you're expecting a baby until the appropriate time.","HR does not share that there's going to be a layoff next week.","A double-blind experiment."],
+        "opposites": ["oversharing"],
+        "comparisons": [{
+            "links": ["hiding"],
+            "description": "'Hiding' is actively disguising something so it's harder to find. 'Withholding' is passive hiding -- just not talking about something."
+        },{
+            "links": ["shaded honesty","discretion"],
+            "description": "With 'shaded honesty', the recipient will understand and agree with the reason for the omission. The degree of omission in 'withholding' is higher such that the recipient may not consider it a form of honesty. With 'discretion', the main recipient receives all the information needed, but it's withheld or disguised from other people."
+        }]
+    },{
+        "name": "discretion",
+        "description": "Carefully transferring assets or information to the intended recipient such that other people aren't made aware of the situation any more than necessary.",
+        "alternateDefinitions": ["'Discretion' can also indicate that someone has agency to make a decision, as in 'At your discretion'."],
+        "perceptions": ["I need to share this asset or information with a particular person.","Other people should not be made of aware of the full details for some reason."],
+        "desires": ["desire for privacy","desire to be perceived a certain way","desire for safety"],
+	"sensations": ["anxiety","defensive deception","offensive deception"],
+        "related": ["shaded honesty"],
+        "results": ["Ideally, the intended recipient gets everything they need.","Other people receive the minimum necessary."],
+        "examples": ["Sharing bad news in a whisper so as not to be overheard.","Asking to speak with someone in private."],
+        "opposites": ["oversharing"]
+    }],
+    "commentaries": [{
+        "quote": "Except in emergency situations in which a patient is incapable of making an informed decision, withholding information without the patient’s knowledge or consent is ethically unacceptable.",
+        "attribution": "American Medical Association"
+    },{
+        "quote": "Narrative tension is primarily about withholding information.",
+        "attribution": "Ian McEwan"
+    },{
+        "quote": "Withholding information is the essence of tyranny. Control of the flow of information is the tool of the dictator.",
+        "attribution": "Bruce Coville"
+    },{
+        "quote": "If you reveal your secrets to the wind, you should not blame the wind for revealing them to the trees.",
+        "attribution": "Kahlil Gibran"
+    },{
+        "quote": "Confidentiality is a delicate bargain of trust.",
+        "attribution": "Martin Uzochukwu Ugwu"
+    },{
+        "quote": "Our greatest pretenses are built up not to hide the evil and the ugly in us, but our emptiness. The hardest thing to hide is something that is not there.",
+        "attribution": "Eric Hoffer"
+    },{
+        "quote": "Discretion is nothing other than the sense of justice with respect to the sphere of the intimate contents of life.",
+        "attribution": "Georg Simmel"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["hide"],
+            "predominantType": "impulse",
+            "levels": {
+              "4,3,2,1": {
+                "experiences": ["hide"]
+              }
+            }
+        },{
+            "names": ["withhold"],
+            "predominantType": "impulse",
+            "levels": {
+              "4,3": {
+                "experiences": ["withhold"]
+              },
+              "2,1": {
+                "experiences": ["hide"]
+              }
+            }
+        }]
+    }]
+}

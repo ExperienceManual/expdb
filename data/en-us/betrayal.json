@@ -1,0 +1,79 @@
+{
+    "lang": "en/us",
+    "createDate": "20250901",
+    "updateDate": "20250901",
+    "name": "betrayal",
+    "valence": -1,
+    "quote": "She used my password to embarrass me!",
+    "description": "The sense of being harmed by the intentional actions or omissions of a trusted person or group.",
+    "perceptions": ["I trusted that person or group wouldn't hurt me.","They did."],
+    "desires": ["desire for safety","desire for social contact"],
+    "sensations": ["dismay","anger","distrust","surprise","someone else cheating","injustice"],
+    "results": ["Many negative feelings.","The relationship is likely damaged or ruined."],
+    "related": ["unkindness","offensive deception"],
+    "opposites": ["kindness"],
+    "examples": ["Your friend posts a secret they promised not to tell.","Your coworker steals your lucrative client.","Relationship cheating."],
+    "guidance": [{
+        "description": "Feeling betrayed can lead to a flurry of complex emotions, which may be difficult to manage. This article discusses the types of betrayal, how to decide if you should end the relationship, and how to cope with feelings of betrayal.",
+        "attribution": "Barbara Field",
+        "references": ["https://www.verywellmind.com/how-to-deal-with-betrayal-in-a-relationship-6361199"]
+    }],
+    "variations": [{
+        "name": "betrayal trauma",
+        "description": "A long-lasting sense of being harmed by the intentional actions of a very close person such as a spouse or immediate family member.",
+        "perceptions": ["I trusted that a very close person wouldn't hurt me.","They did."],
+        "desires": ["desire for safety","desire for social contact"],
+        "sensations": ["anger","distrust","surprise","someone else cheating","injustice"],
+        "results": ["Many negative feelings, including a sense of danger.","The relationship is likely damaged or ruined."],
+        "related": ["unkindness","offensive deception"],
+        "opposites": ["companionship","love"],
+        "examples": ["Relationship cheating.","Your adult child posts about how horrible their childhood was without talking to you first."],
+        "guidance": [{
+            "description": "If a parent or romantic partner violates your trust, you may experience betrayal trauma. This trauma may affect your self-esteem, emotional health, and relationships with others, but support can help you heal.",
+            "attribution": "healthline.com",
+            "references": ["https://www.healthline.com/health/mental-health/betrayal-trauma"]
+        }]
+    }],
+    "commentaries": [{
+        "quote": "It is easier to forgive an enemy than to forgive a friend.",
+        "attribution": "William Blake"
+    },{
+        "quote": "I'm not upset that you lied to me, I'm upset that from now on I can't believe you.",
+        "attribution": "Friedrich Nietzsche"
+    },{
+        "quote": "We have to distrust each other. It is our only defense against betrayal.",
+        "attribution": "Tennessee Williams"
+    },{
+        "quote": "It is more shameful to distrust our friends than to be deceived by them.",
+        "attribution": "Confucius"
+    },{
+        "quote": "Everyone suffers at least one bad betrayal in their lifetime. It’s what unites us. The trick is not to let it destroy your trust in others when that happens. Don’t let them take that from you.",
+        "attribution": "Sherrilyn Kenyon"
+    },{
+        "quote": "Betrayal hurts so much because it calls into question not only this current cherished identity, but also whether future social identities can be comfortable. We start distrusting the essence of 'relationship' in the abstract, and that's terrifying to our highly social species."
+    }],
+    "spectrum": {
+        "deception": 3,
+        "betrayal": 8,
+        "treachery": 8,
+        "backstabbing": 8
+    },
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["betrayal"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2": {
+                "experiences": ["betrayal"]
+              },
+              "1": {
+                "experiences": ["surprise","anger"]
+              }
+            }
+        }]
+    }]
+}

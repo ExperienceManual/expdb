@@ -1,0 +1,102 @@
+{
+    "lang": "en/us",
+    "createDate": "20250828",
+    "updateDate": "20250830",
+    "name": "selfishness",
+    "valence": 0,
+    "quote": "She never offers to help.",
+    "description": "A perception that someone should be equitably engaged with others, but has instead acted upon or expressed only their own preferences either without taking into account others' preferences, or deliberately disregarding them.",
+    "tags": ["social label"],
+    "otherVariations": ["arrogance"],
+    "perceptions": ["That person can and should be involved in a productive social exchange.","Their actions or words indicate that they only want to benefit their interests."],
+    "desires": ["desire for order","desire for social contact"],
+    "sensations": ["annoyance","disrespect","resentment","judgment","contempt"],
+    "personOfInterestExperiences": ["defensiveness","superiority","aggressiveness","overwhelmed","aversion to being taken advantage of","desire for privacy","self-care"],
+    "related": ["greed"],
+    "opposites": ["generosity","altruism"],
+    "examples": ["Someone doesn't get feedback from the group before choosing an activity they like.","Someone doesn't remember anyone else's birthday, but expects others to remember theirs."],
+    "guidance": [{
+        "description": "There are many reasons that others may be perceived as being 'selfish'. It's hard to say what their experience may be without trying to understand. As some examples, perhaps this person is going through the stages of grief. Perhaps they're trying to set boundaries after a bad experience with being 'too kind'. Or perhaps they're a self-centered neurotic personality. Or maybe they're simply unaware.",
+        "references": ["https://www.psychologytoday.com/us/blog/think-well/201811/are-you-selfish-or-do-you-just-have-healthy-self-interest","https://www.self.com/story/am-i-a-selfish-person-i-set-out-to-find-out","https://natashaadamo.com/selfish-people/"]
+    },{
+        "description": "Dealing with selfish people is challenging for all of us. It’s hard to have a relationship with someone who doesn’t understand or respect your needs, rights, and feelings, and who is highly in tune with their own. But learning how to deal with selfish people helps you stay sane, set healthy boundaries, and advocate for what you need in imbalanced relationships.",
+        "attribution": "Dr. Lisa Marie Bobby",
+        "references": ["https://www.growingself.com/how-to-deal-with-selfish-people"]
+    }],
+    "comparisons": [{
+        "links": ["self-care","self-interest"],
+        "description": "A person who is selfish is taking care of their own needs without regards to the needs of others. A person with a healthy self-interest is satisfying their own needs without unnecessarily harming others. A common example is the airplane oxygen mask. It is not selfish for someone to put on their own mask before helping others because if they pass out, no one else is getting help."
+    }],
+    "variations": [{
+        "name": "entitlement",
+        "description": "A perception that someone should be equitably engaged with others, but has instead demanded something unreasonable based on being special in some way.",
+        "tags": ["social label"],
+        "perceptions": ["That person can and should be involved in a productive social exchange.","They are demanding special treatment.","I don't think they deserve special treatment."],
+        "desires": ["desire for order","desire for social contact"],
+        "sensations": ["annoyance","disrespect","resentment","judgment","contempt"],
+        "personOfInterestExperiences": ["defensiveness","superiority","aggressiveness","overwhelmed","victim","desire for social status"],
+        "opposites": ["generosity"],
+        "examples": ["Someone insists on getting the best seat.","Someone makes a fuss about having to wait in line despite having paid more."],
+        "comparisons": [{
+            "links": ["selfishness"],
+            "description": "'Entitlement' is a form of perceived selfishness where the person seems to believe they deserve special treatment for some reason."
+        }],
+        "guidance": [{
+            "description": "See guidance for 'selfishness'.",
+            "references": ["selfishness"]
+        }]
+    },{
+        "name": "ingratitude",
+        "alternateNames": ["ungrateful"],
+        "description": "A perception that someone doesn't feel positively about something that another person did for them but should.",
+        "tags": ["social label"],
+        "perceptions": ["That person should be thankful about what was done for them.","But they aren't."],
+        "desires": ["desire for order","desire for social contact"],
+        "sensations": ["annoyance","disrespect","resentment","judgment","contempt"],
+        "personOfInterestExperiences": ["defensiveness","superiority","aggressiveness","overwhelmed","aversion to owing"],
+        "opposites": ["gratitude"],
+        "examples": ["You delay the event to wait for someone who doesn't appear to be grateful when they show up."],
+        "comparisons": [{
+            "links": ["selfishness"],
+            "description": "'Ingratitude' is a form of perceived selfishness where the person is so wrapped up in their own world that they fail to recognize that someone helped them."
+        }],
+        "guidance": [{
+            "description": "See guidance for 'selfishness'.",
+            "references": ["selfishness"]
+        }]
+    }],
+    "commentaries": [{
+        "quote": "Trying to make a selfish person happy is like chaperoning a bus of fourth-graders on a never-ending road trip with no snacks and no destination. No offense to fourth graders.",
+        "attribution": "Natasha Adamo"
+    },{
+        "quote": "Selfishness is not living as one wishes to live, it is asking others to live as one wishes to live.",
+        "attribution": "Oscar Wilde"
+    },{
+        "quote": "Selfishness must always be forgiven you know, because there is no hope of a cure.",
+        "attribution": "Jane Austen"
+    },{
+        "quote": "Selfishness is one of the more common faces of pride. 'How everything affects me' is the center of all that matters - self-conceit, self-pity, worldly self-fulfillment, self-gratification, and self-seeking.",
+        "attribution": "Ezra Taft Benson"
+    },{
+        "quote": "Selfishness is that detestable vice which no one will forgive in others, and no one is without himself.",
+        "attribution": "Henry Ward Beecher"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["*"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["selfishness"]
+              },
+              "2,1": {
+                "experiences": ["dissatisfaction"]
+              }
+            }
+        }]
+    }]
+}

@@ -1,0 +1,61 @@
+{
+    "lang": "en/us",
+    "createDate": "20250831",
+    "updateDate": "20250831",
+    "name": "vindication",
+    "valence": 1,
+    "quote": "We proved them wrong!",
+    "description": "Relief from negative social pressure such as accusation, suspicion, or doubt.",
+    "alternateDefinitions": ["Christians refer to vindication as God's judgment of those who have done the right thing."],
+    "perceptions": ["You or someone close achieved an important outcome.","The outcome was not assured.","Others were skeptical you could do it."],
+    "desires": ["desire to win","desire for social status"],
+    "sensations": ["delight","relief"],
+    "related": ["triumph","healthy self-regard","unfair accusation"],
+    "opposites": ["failure"],
+    "examples": ["Winning the event despite doubt from others and perhaps yourself.","Being proven innocent after a false accusation."],
+    "guidance": [{
+        "description": "See guidance for 'triumph'.",
+        "references": ["triumph"]
+    }],
+    "comparisons": [{
+        "links": ["triumph"],
+        "description": "Vindication is a form of triumph specifically about being proven right after a period of social doubt."
+    }],
+    "commentaries": [{
+        "quote": "Psychology keeps trying to vindicate human nature. History keeps undermining the effort.",
+        "attribution": "Mason Cooley"
+    },{
+        "quote": "Scripture is laced with stories of vindication. It’s core to God’s project of redeeming his creation.",
+        "attribution": "Curt Hinkle"
+    },{
+        "quote": "O Lord, deliver me from this lust of always vindicating myself",
+        "attribution": "St. Augustine"
+    },{
+        "quote": "I hate being told that I’m wrong about something especially when there isn’t a way to prove that I’m right. This happened to me just a couple of weeks ago and oh, how I wanted to defend myself and dig up every bit of evidence I could find to state my case; but there was no evidence. It was one person’s recollection of events against another’s.",
+        "attribution": "Marcia Furrow"
+    },{
+        "quote": "Victory is a thousand times sweeter when you're the underdog.",
+        "attribution": "Jenny Han"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+          "names": ["vindication"],
+          "predominantType": "sensation",
+          "levels": {
+            "1": {
+              "experiences": ["delight"]
+            },
+            "2": {
+              "experiences": ["happiness"]
+            },
+            "3": {
+              "experiences": ["vindication"]
+            },
+            "4": {
+              "experiences": ["narration"]
+            }
+          }
+        }]
+    }]
+}

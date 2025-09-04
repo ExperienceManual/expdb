@@ -1,0 +1,85 @@
+{
+    "lang": "en/us",
+    "createDate": "20250902",
+    "updateDate": "20250902",
+    "name": "altruism",
+    "alternateNames": ["pure altruism"],
+    "valence": 0,
+    "quote": "He gave his ticket to some random kid who really wanted to go.",
+    "description": "The act of helping others when there's a significant cost to yourself with no personal benefit.",
+    "perceptions": ["That person needs help.","I wouldn't gain anything tangible by helping them.","It will cost significant time, effort, risk, and/or money to help.","I'm going to do it anyway."],
+    "desires": ["desire to impact positively","desire for order"],
+    "sensations": ["satisfaction","dissonance","self-esteem"],
+    "opposites": ["selfishness","aversion to being taken advantage of"],
+    "examples": ["Instead of upgrading your smart phone, giving that money to charity anonymously.","Jumping into the river to save a stranger."],
+    "guidance": [{
+        "description": "While altruism can have some drawbacks when taken to extremes, it is a positive force that can benefit both you and others. Some people come by altruistic tendencies naturally, but there are things you can do to help foster helpful behaviors in yourself and others.",
+        "attribution": "Kendra Cherry, MSEd",
+        "references": ["https://www.verywellmind.com/what-is-altruism-2794828"]
+    }],
+    "comparisons": [{
+        "links": ["generosity"],
+        "description": "'Altruism' is extreme generosity where you help unrelated others for no apparent reason to the point of financial or physical hardship."
+    }],
+    "variations": [{
+      "name": "genetic altruism",
+      "description": "The act of helping family members when there's a significant cost to yourself with no personal benefit.",
+      "perceptions": ["A family member needs help.","I won't personally gain anything tangible by helping them.","It will cost significant time, effort, risk, and/or money to help.","I'm going to do it anyway."],
+      "desires": ["desire to impact positively","desire for meaning"],
+      "sensations": ["familial love","satisfaction","dissonance","self-esteem"],
+      "opposites": ["selfishness","aversion to being taken advantage of"],
+      "results": ["A family member may have a better situation."],
+      "examples": ["Parenthood.","Giving your cousin money to start a business."],
+      "comparisons": [{
+          "links": ["altruism"],
+          "description": "'Genetic altruism' is an altruistic act that benefits someone who shares a family bond."
+      }]
+    },{
+      "name": "group altruism",
+      "description": "The act of helping a specific group when there's a significant cost to yourself with no personal benefit.",
+      "perceptions": ["A group that's important to me needs help.","I won't personally gain anything tangible by helping them.","It will cost significant time, effort, risk, and/or money to help.","I'm going to do it anyway."],
+      "desires": ["desire to impact positively","desire for meaning"],
+      "sensations": ["group bond","satisfaction","dissonance","self-esteem"],
+      "opposites": ["selfishness","aversion to being taken advantage of"],
+      "results": ["Your group may have a better situation."],
+      "examples": ["Giving a large sum to your religious institution.","Leaving a big chunk of your estate to a specific group."],
+      "comparisons": [{
+          "links": ["altruism"],
+          "description": "'Group altruism' is an altruistic act that benefits a specific group that's important to you."
+      }]
+    }],
+    "commentaries": [{
+        "quote": "The best way to find yourself is to lose yourself in the service of others.",
+        "attribution": "Mahatma Gandhi"
+    },{
+        "quote": "If any civilization is to survive, it is the morality of altruism that men have to reject.",
+        "attribution": "Ayn Rand"
+    },{
+        "quote": "Altruism is innate, but it's not instinctual. Everybody's wired for it, but a switch has to be flipped.",
+        "attribution": "David Rakoff"
+    },{
+        "quote": "There's no such thing as altruism.",
+        "attribution": "Andrew Tobias"
+    },{
+        "quote": "Politicians should reflect on the well-documented fact that fearful, insecure people lose their sense of tolerance and altruism.",
+        "attribution": "Guy Standing"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["altruism"],
+            "predominantType": "impulse",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["altruism"]
+              },
+              "2,1": {
+                "experiences": ["satisfaction"]
+              }
+            }
+        }]
+    }]
+}

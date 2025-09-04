@@ -1,0 +1,90 @@
+{
+    "lang": "en/us",
+    "createDate": "20250901",
+    "updateDate": "20250902",
+    "name": "envy",
+    "alternateNames": ["covetous","desire for someone elses advantage"],
+    "valence": -1,
+    "quote": "I'd like hair as nice as hers.",
+    "description": "A desire for a characteristic or asset belonging to someone else along with the sense that it would be possible, but difficult, to achieve.",
+    "perceptions": ["That person has a characteristic or asset that I would like to have.","It would be possible, but it would be a lot of effort and luck."],
+    "desires": ["desire for social status","desire for wealth","desire for comfort"],
+    "sensations": ["admiration","disadvantaged","inferiority","unhealthy self-regard","longing"],
+    "results": ["You may quickly forget about the desire, become fixated on it, or perhaps become motivated to achieve it for yourself."],
+    "related": ["aspiration","jealousy"],
+    "examples": ["Wanting to be as stylish as your brother.","Wanting to have the kind of relationship your roommate has."],
+    "guidance": [{
+        "description": "Envious feelings can eat you up, but it doesn’t have to be that way. Here’s how to transform envy into a guide and motivator.",
+        "attribution": "Josh Gressel",
+        "references": ["https://psyche.co/guides/how-to-deal-with-envy-and-learn-to-use-the-emotion-for-growth"]
+    }],
+    "variations": [{
+        "name": "shameful envy",
+        "description": "A desire for a characteristic or asset belonging to someone else along with the sense that others might consider this desire negatively.",
+        "perceptions": ["That person has a characteristic or asset that I would like to have.","If others knew I wanted it, they would think negatively of me."],
+        "desires": ["desire for social status","desire for wealth","desire for comfort"],
+        "sensations": ["shame","admiration","disadvantaged","inferiority","unhealthy self-regard","longing","dissonance"],
+        "related": ["aspiration","jealousy"],
+        "examples": ["A doctor envious of another doctor's breakthrough internally downplaying its importance."]
+    },{
+        "name": "guilty envy",
+        "description": "A desire for a characteristic or asset belonging to someone else along with a dissonant regret for wanting it.",
+        "perceptions": ["That person has a characteristic or asset that I would like to have.","But I should be happy for them.","I should be satisfied with what I have.","It's not appropriate for me to want their thing."],
+        "desires": ["desire for social status","desire for wealth","desire for comfort"],
+        "sensations": ["guilt","admiration","disadvantaged","inferiority","unhealthy self-regard","longing","dissonance"],
+        "related": ["aspiration","jealousy"],
+        "examples": ["A work friend gets a deserved promotion and you think it could have been you."]
+    }],
+    "commentaries": [{
+        "quote": "Envy is the ulcer of the soul.",
+        "attribution": "Socrates"
+    },{
+        "quote": "Envy comes from people's ignorance of, or lack of belief in, their own gifts.",
+        "attribution": "Jean Vanier"
+    },{
+        "quote": "Our envy always lasts longer than the happiness of those we envy.",
+        "attribution": "François de La Rochefoucauld"
+    },{
+        "quote": "Few men have the natural strength to honor a friend’s success without envy.",
+        "attribution": "Aeschylus"
+    },{
+        "quote": "Thou shalt not covet thy neighbour's goods.",
+        "attribution": "The Bible"
+    }],
+    "spectrum": {
+        "envy": 5,
+        "covetous": 6
+    },
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["envy"],
+            "predominantType": "impulse",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2": {
+                "experiences": ["envy"]
+              },
+              "1": {
+                "experiences": ["desire"]
+              }
+            }
+        },{
+            "names": ["shameful envy","guilty envy"],
+            "predominantType": "impulse",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2": {
+                "experiences": ["envy","guilt","shame"]
+              },
+              "1": {
+                "experiences": ["desire","dissonance"]
+              }
+            }
+        }]
+    }]
+}

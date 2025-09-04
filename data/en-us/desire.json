@@ -1,12 +1,14 @@
 {
   "lang": "en/us",
   "createDate": "20250208",
-  "updateDate": "20250227",
+  "updateDate": "20250901",
   "name": "desire",
-  "valence": 1,
+  "alternateNames": ["want"],
+  "valence": 0,
   "description": "Wanting to experience a particular thing.",
-  "perceptions": ["There's something I would like to experience."],
-  "sensations": ["pain","boredom","loneliness","many negative"],
+  "perceptions": ["There's something I would like to experience.","If possible, I could try to influence the world to get that experience."],
+  "sensations": ["hope","anticipation","pain","boredom","loneliness","many"],
+  "results": ["You may try to obtain the desired experience."],
   "otherVariations": [
     "desire_for_agency",
     "desire_for_comfort",
@@ -26,14 +28,18 @@
     "desire_for_territory",
     "desire_to_improve",
     "desire_to_protect",
-    "aspiration"
+    "aspiration",
+    "envy"
   ],
   "related": ["love"],
   "opposites": ["aversion"],
+  "comparisons": [{
+      "links": ["love"],
+      "description": "'Love' is defined by EM as a persisent desire to experience something over and over."
+  }],
   "commentaries": [{
-      "quote": "Besides desiring to have certain things and experiences, we can also desire to get rid of them or not experience them again."
-  },{
-      "quote": "You may love burritos, but not desire one right now. You may desire to try a new thing on the menu without knowing if you'll love it."
+      "quote": "Desires are preferences for what flows into your experience. Where possible, you may try to influence how the situation unfolds to have a better chance at obtaining the experience.",
+      "tags": ["definition footnote"]
   }],
   "spectrum": {"desire": 3, "hunger": 5, "wish": 6, "craving": 7, "lust": 9},
   "models": [{
