@@ -1,0 +1,53 @@
+{
+    "lang": "en/us",
+    "createDate": "20250907",
+    "updateDate": "20250907",
+    "name": "regression",
+    "valence": 0,
+    "description": "Retreating to a simpler comforting mindset when the world is overwhelming.",
+    "tags": ["unconscious","defense mechanism"],
+    "perceptions": ["I can't handle what the world is throwing at me.","Things were better when life was simpler.","It feels relieving to operate from that way of being."],
+    "desires": ["desire for comfort"],
+    "sensations": ["anxiety","anger","fear"],
+    "results": ["Handling extreme stress in a way less mature than you're capable of."],
+    "examples": ["Child starts demanding attention when the new baby comes home.","Road rage.","Curling into the fetal position when really sick."],
+    "guidance": [{
+        "description": "If you notice regressive tendencies in yourself or others, there are healthy strategies to manage and overcome them.",
+        "attribution": "Saul McLeod, PhD",
+        "references": ["https://www.simplypsychology.org/regression-defence-mechanism.html"]
+    },{
+        "description": "It may not be easy to find out why your unconscious has activated a defense mechanism. Some approaches include prayer, meditation, and therapy. None of them will work without a humble attitude and a real willingness to face something difficult.",
+        "references": ["prayer","meditation","__THERAPY_LINKS__"]
+    }],
+    "commentaries": [{
+        "quote": "Regression is behavioral 'backtracking' or reversion to earlier coping mechanisms that can occur as people progress through different stages of development. Stressful situations may lead to internal tension, sending people back to a time of familiarity and security.",
+        "attribution": "Psychology Today"
+    },{
+        "quote": "Regression means a linking back with the world of natural instincts.",
+        "attribution": "Carl Jung"
+    },{
+        "quote": "Regression becomes problematic, especially in a hospital, when it is employed to avoid difficult adult situations or stressors. Managing regression in a hospital is resource intensive and can prolong hospital stays.",
+        "attribution": "Hermioni N Lokko and Theodore A Stern in 'Regression: Diagnosis, Evaluation, and Management'"
+    },{
+        "quote": "If we notice regressive behaviors, instead of beating ourselves up, it’s best that we empathize with that little inner child who tries to protect us.",
+        "attribution": "Jennifer Delgado"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["regression"],
+            "predominantType": "action",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["regression"]
+              },
+              "2,1": {
+                "experiences": ["anxiety"]
+              }
+            }
+        }]
+    }]
+}

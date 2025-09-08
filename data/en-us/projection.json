@@ -1,0 +1,55 @@
+{
+    "lang": "en/us",
+    "createDate": "20250906",
+    "updateDate": "20250906",
+    "name": "projection",
+    "valence": 0,
+    "quote": "You did it.",
+    "description": "Unconsciously attributing something painful to someone else rather than experiencing it yourself.",
+    "tags": ["unconscious","defense mechanism"],
+    "perceptions": ["There's something unpleasant lurking in my mind.","It can't be about me.","So it must be about someone or something else."],
+    "desires": ["desire for safety","desire to feel better about yourself"],
+    "sensations": ["anxiety","blaming"],
+    "results": ["You may make a false accusation or feel contempt for someone."],
+    "related": ["bullying contempt"],
+    "examples": ["Accusing coworkers of sabotaging your failing project.","A cheating pastor sermonizes against cheating."],
+    "guidance": [{
+        "description": "How to Tell If You’re Projecting Your Stuff Onto Someone Else",
+        "attribution": "Laura Giles",
+        "references": ["https://lauragiles.net/how-to-tell-if-youre-projecting-your-stuff-onto-someone-else"]
+    },{
+        "description": "It may not be easy to find out why your unconscious has activated a defense mechanism. Some approaches include prayer, meditation, and therapy. None of them will work without a humble attitude and a real willingness to face something difficult.",
+        "references": ["prayer","meditation","__THERAPY_LINKS__"]
+    }],
+    "commentaries": [{
+        "quote": "Unconscious discomfort can lead people to attribute unacceptable feelings or impulses to someone else to avoid confronting them. Projection allows the difficult trait to be addressed without the individual fully recognizing it in themselves.",
+        "attribution": "Psychology Today"
+    },{
+        "quote": "Projection is perhaps the most insidious obstacle to discerning our role in interpersonal conflicts.",
+        "attribution": "Kim Schneiderman L.C.S.W., M.S.W"
+    },{
+        "quote": "One of the ways that people avoid taking responsibility for their role in their own pain is what I call the BPs - blame and projection.",
+        "attribution": "Iyanla Vanzant"
+    },{
+        "quote": "The most dangerous psychological mistake is the projection of the shadow on to others; this is the root of almost all conflicts.",
+        "attribution": "Carl Jung"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["projection"],
+            "predominantType": "action",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["projection"]
+              },
+              "2,1": {
+                "experiences": ["anxiety"]
+              }
+            }
+        }]
+    }]
+}

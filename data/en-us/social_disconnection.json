@@ -1,12 +1,12 @@
 {
   "lang": "en/us",
   "createDate": "20250223",
-  "updateDate": "20250223",
-  "name": "disconnection",
+  "updateDate": "20250908",
+  "name": "social disconnection",
   "valence": 0,
   "quote": "I have no idea why you're reacting that way.",
-  "description": "Having trouble recognizing what another person or animal is experiencing.",
-  "perceptions": ["I cannot begin to imagine why that person or animal is behaving that way."],
+  "description": "Having trouble recognizing what another person, group, or animal is experiencing.",
+  "perceptions": ["I cannot begin to imagine why that person, group, or animal is behaving that way."],
   "sensations": ["confusion","dissatisfaction"],
   "results": ["You may recognize the disconnect and care about it, or not."],
   "guidance": [{
@@ -17,24 +17,11 @@
       "description": "If you would like to cultivate a better ability to connect with others in general, see the guidance for empathy.",
       "references": ["empathy"]
   }],
-  "related": ["disagreeableness"],
+  "related": ["disagreeableness","dissociation","narcissism"],
   "opposites": ["empathy", "companionship", "group bond"],
-  "variations": [{
-      "name": "disconnection from yourself",
-      "description": "Feeling disconnected from your body, your feelings and your environment.",
-      "perceptions": ["I don't feel invested in what's happening and everything seems so distant."],
-      "desires": ["desire for comfort"],
-      "sensations": ["calmness","concern"],
-      "guidance": [{
-          "description": "As a short-term effect, feeling disconnected may be a reaction to stress, but if it's affecting your life and relationships, you may want to consider seeking professional help.",
-          "references": ["https://my.clevelandclinic.org/health/diseases/9791-depersonalization-derealization-disorder"]
-      }],
-      "examples": ["relaxing meditation","depersonalization disorder"]
-  }],
   "commentaries": [{
-      "quote": "Disconnection is the inability to put yourself in the shoes of another. This can range from temporary exhaustion to deep-seated narcissism."
-  },{
-      "quote": "From the inside, disconnection doesn't feel like anything unless you also have a sense that you should be able to connect. Then you might feel confusion and dissonance."
+      "quote": "Social disconnection is the inability to put yourself in the shoes of another. It's the opposite of 'empathy'. This can range from temporary exhaustion to deep-seated narcissism.",
+      "tags": ["definition footnote"]
   },{
       "quote": "Disconnect to reconnect. Unplug to get centered. Step away to come closer. Peaceful energy is just a breath away.",
       "attribution": "Mary Davis in 'Every Day Spirit: A Daybook of Wisdom, Joy and Peace'"
@@ -49,20 +36,21 @@
       "attribution": "Germany Kent"
   }],
   "spectrum": {
-      "disconnection": 5,
+      "social disconnection": 3,
+      "callousness": 5,
       "psychopath": 8
   },
   "models": [{
       "version": "em1",
       "variations": [{
-          "names": ["disconnection","disconnection from yourself"],
+          "names": ["social disconnection"],
           "predominantType": "sensation",
           "levels": {
             "2,1": {
               "experiences": ["many"]
             },
             "3": {
-              "experiences": ["disconnection"]
+              "experiences": ["social disconnection"]
             },
             "4": {
               "experiences": ["narration"]

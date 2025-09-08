@@ -1,0 +1,99 @@
+{
+    "lang": "en/us",
+    "createDate": "20250905",
+    "updateDate": "20250907",
+    "name": "repression",
+    "valence": 0,
+    "quote": "That wasn't me.",
+    "description": "An unconscious refusal to accept an internal memory or thought in order to avoid painful feelings.",
+    "tags": ["unconscious","defense mechanism"],
+    "perceptions": ["There's something unpleasant in my past.","It would be better if it didn't exist."],
+    "desires": ["desire for safety","desire to feel better about yourself"],
+    "sensations": ["anxiety","unhealthy self-regard"],
+    "results": ["Ignoring the perception.","Rationalization"],
+    "related": ["grief"],
+    "examples": ["Refusing to think about a traumatic event from your childhood."],
+    "guidance": [{
+        "description": "15 Signs You’re Repressing Trauma & What To Do About It",
+        "attribution": "Natasha Lee",
+        "references": ["https://www.yahoo.com/lifestyle/15-signs-repressing-trauma-091536618.html"]
+    },{
+        "description": "It may not be easy to find out why your unconscious has activated a defense mechanism. Some approaches include prayer, meditation, and therapy. None of them will work without a humble attitude and a real willingness to face something difficult.",
+        "references": ["prayer","meditation","__THERAPY_LINKS__"]
+    }],
+    "comparisons": [{
+        "links": ["denial"],
+        "description": "'Denial' is refusal to accept external perceptions. 'Repression' is refusal to accept internal memories or thoughts."
+    }],
+    "variations": [{
+        "name": "intellectualization",
+        "description": "An unconscious refusal to accept the emotional content of an experience while dealing with the rational aspect.",
+        "tags": ["unconscious","defense mechanism"],
+        "perceptions": ["There's something unpleasant that happened.","I can't handle the emotional aspect of this outcome.","But I can deal with the everyday paperwork."],
+        "desires": ["desire to be perceived a certain way","desire to feel better about yourself"],
+        "sensations": ["anxiety","grief"],
+        "results": ["Not processing the emotional part of something traumatic."],
+        "examples": ["Throwing yourself into funeral arrangements without starting to deal with the grief.","A crime victim talks about statistics and motivations without handling the emotional impact."],
+        "comparisons": [{
+            "links": ["repression"],
+            "description": "With 'intellectualization', you repress only the emotional aspect of the event. With 'repression', the whole thing is buried."
+        }],
+        "guidance": [{
+            "description": "Signs You’re Intellectualizing Instead of Feeling Your Feelings",
+            "attribution": "Dr. Rasna Kaur Neelam",
+            "references": ["https://www.charliehealth.com/post/signs-youre-intellectualizing-instead-of-feeling-your-feelings"]
+        }]
+    },{
+        "name": "compartmentalization",
+        "description": "Unconsciously switching between different mindsets to reduce anxiety from dissonance.",
+        "tags": ["unconscious","defense mechanism"],
+        "perceptions": ["There are multiple parts of my life that don't fit well together.","It's best I keep them separate."],
+        "desires": ["desire to be perceived a certain way","desire to feel better about yourself"],
+        "sensations": ["anxiety","dissonance"],
+        "results": ["This may be a mature way of dealing with a complex life, or it may cause problems over time."],
+        "examples": ["First responders who deal with trauma but want to have a peaceful home life.","Someone who's bisexual but also part of an intolerant religious community.","The Severance TV show."],
+        "comparisons": [{
+            "links": ["repression"],
+            "description": "'Compartmentalization' is part-time 'repression'."
+        }],
+        "guidance": [{
+            "description": "How to Compartmentalize to Reduce Stress - Creating boundaries to stop stress from taking over your life",
+            "attribution": "Toketemu Ohwovoriole",
+            "references": ["https://www.verywellmind.com/how-to-compartmentalize-to-reduce-stress-7373131"]
+        }]
+    }],
+    "commentaries": [{
+        "quote": "Repression can be thought of as 'motivated forgetting': the active but unconscious 'forgetting' of unacceptable drives, emotions, ideas, or memories.",
+        "attribution": "Neel Burton M.A., M.D."
+    },{
+        "quote": "Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways.",
+        "attribution": "Sigmund Freud"
+    },{
+        "quote": "The attempt to escape from pain, is what creates more pain.",
+        "attribution": "Gabor Maté"
+    },{
+        "quote": "It's people who are repressed and cannot express their fears that are dangerous.",
+        "attribution": "Julie Taymor"
+    },{
+        "quote": "In some cases, it can be fine to put off an emotional burden for a short time—it may even be necessary. But if emotions aren’t addressed over time, they can build up and interfere with daily life or escape in an unhealthy way, such as through anxiety or a panic attack.",
+        "attribution": "Psychology Today"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["repression","intellectualization"],
+            "predominantType": "action",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["repression"]
+              },
+              "2,1": {
+                "experiences": ["anxiety"]
+              }
+            }
+        }]
+    }]
+}

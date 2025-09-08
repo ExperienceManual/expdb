@@ -1,0 +1,56 @@
+{
+    "lang": "en/us",
+    "createDate": "20250904",
+    "updateDate": "20250904",
+    "name": "being ignored",
+    "valence": -1,
+    "quote": "My boss didn't even notice me.",
+    "description": "A desire for a specific kind of attention along with the sense that you are not noticed appropriately.",
+    "perceptions": ["I want to be noticed in a certain way by a certain person or group.","That does not seem to be happening."],
+    "desires": ["desire to be perceived a certain way","desire for validation","desire for social contact","desire for social status"],
+    "sensations": ["dismay","frustration","resentment","unhealthy self-regard"],
+    "related": ["loneliness"],
+    "opposites": ["friendly social contact"],
+    "examples": ["Your coworker isn't reading your proposal.","A person you're attracted to hasn't texted in days."],
+    "guidance": [{
+        "description": "If you're feeling ignored, here are some references that may be of interest:",
+        "references": ["https://www.menshealth.com/health/a43509045/being-ignored-coping/","https://www.betterhelp.com/advice/relations/what-to-do-when-he-ignores-you/"]
+    }],
+    "commentaries": [{
+        "quote": "Sometimes people can hunger for more than bread. It is possible that our children, our husband, our wife, do not hunger for bread, do not need clothes, do not lack a house. But are we equally sure that none of them feels alone, abandoned, neglected, needing some affection? That, too, is poverty.",
+        "attribution": "Mother Theresa"
+    },{
+        "quote": "There's a lot of mediocrity being celebrated, and a lot of wonderful stuff being ignored or discouraged.",
+        "attribution": "Sean Penn"
+    },{
+        "quote": "If you're being ignored, that's a good time to concentrate on finding yourself and creating your own mystery.",
+        "attribution": "Lykke Li"
+    },{
+        "quote": "Facts do not cease to exist because they are ignored.",
+        "attribution": "Aldous Huxley"
+    },{
+        "quote": "A spark neglected makes a mighty fire.",
+        "attribution": "Robert Herrick"
+    },{
+        "quote": "People tend to pay attention to the guy who shouts and ignore the one who whispers.",
+        "attribution": "Kelly Moran"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["being ignored"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2": {
+                "experiences": ["being ignored"]
+              },
+              "1": {
+                "experiences": ["dismay"]
+              }
+            }
+        }]
+    }]
+}

@@ -1,0 +1,59 @@
+{
+    "lang": "en/us",
+    "createDate": "20250905",
+    "updateDate": "20250905",
+    "name": "rejection",
+    "valence": -1,
+    "quote": "She broke up with me.",
+    "description": "A perception that someone has denied an important aspect of your social value.",
+    "perceptions": ["I had wanted to be socially valued for a specific characteristic or output.","Someone has indicated this thing is not valued."],
+    "desires": ["desire for social status"],
+    "sensations": ["dismay","failure","resentment","unhealthy self-regard"],
+    "results": ["Maybe you'll try again, maybe you'll need a period of recovery, or maybe you'll give up on this path to being valued."],
+    "related": ["being ignored","humiliation"],
+    "opposites": ["validation"],
+    "examples": ["The publisher refuses to publish your book.","You don't get the job even after 3 interviews."],
+    "guidance": [{
+        "description": "Here’s why rejection hurts so much and some expert-approved tips for moving forward and finding emotional strength.",
+        "attribution": "Micaela Bahn",
+        "references": ["https://www.prevention.com/health/mental-health/a38175548/how-to-get-over-rejection/"]
+    }],
+    "comparisons": [{
+        "links": ["humiliation"],
+        "description": "'Humiliation' is type of rejection where someone actively judges you negatively in a public way. More generally, 'rejection' can be triggered even by a polite 'no thanks' or being ignored."
+    }],
+    "commentaries": [{
+        "quote": "These rejections hurt me terribly because I felt it was my life that was being rejected.",
+        "attribution": "Edmund White"
+    },{
+        "quote": "I take rejection as someone blowing a bugle in my ear to wake me up and get going, rather than retreat.",
+        "attribution": "Sylvester Stallone"
+    },{
+        "quote": "A clear rejection is always better than a fake promise.",
+        "attribution": "Zig Ziglar"
+    },{
+        "quote": "If you live for people’s acceptance, you will die from their rejection.",
+        "attribution": "Lecrae"
+    },{
+        "quote": "I love my rejection slips. They show me I try.",
+        "attribution": "Sylvia Plath"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["rejection"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2": {
+                "experiences": ["rejection"]
+              },
+              "1": {
+                "experiences": ["dismay"]
+              }
+            }
+        }]
+    }]
+}

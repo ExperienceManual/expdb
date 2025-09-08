@@ -1,7 +1,7 @@
 {
     "lang": "en/us",
     "createDate": "20250808",
-    "updateDate": "20250808",
+    "updateDate": "20250908",
     "name": "prayer",
     "valence": 0,
     "quote": "Heavenly Father",
@@ -16,6 +16,9 @@
     "guidance": [{
         "description": "Different religions have similar types of prayers: asking for help, asking to help others, declaring your dedicated faith, and others.",
         "references": ["https://carljosephministries.com/podcast/the-different-types-of-prayer/","https://www.hindujagruti.org/hinduism/types-of-prayers","https://daiyah.fandom.com/wiki/The_Different_Types_of_Voluntary_Prayers"]
+    },{
+        "description": "Before starting a prayer practice, you may want to be aware of potential downsides.",
+        "references": ["https://www.psychologytoday.com/us/blog/the-secular-life/202005/can-prayer-be-harmful","https://psychcentral.com/blog/new-study-examines-the-effects-of-prayer-on-mental-health"]
     }],
     "variations": [{
         "name": "prayer of petition",

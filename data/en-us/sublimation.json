@@ -1,0 +1,53 @@
+{
+    "lang": "en/us",
+    "createDate": "20250906",
+    "updateDate": "20250906",
+    "name": "sublimation",
+    "alternateNames": ["healthy rechanneling"],
+    "valence": 0,
+    "description": "Redirecting an unacceptable impulse into a more acceptable activity.",
+    "tags": ["unconscious","defense mechanism"],
+    "perceptions": ["I have an impulse that would conflict with social rules or one of my identities.","Acting directly on this impulse would probably have negative consequences.","Instead I'll do something adjacent to vent some energy."],
+    "desires": ["vengefulness","desire for sex","desire for social status","desire to be perceived a certain way"],
+    "sensations": ["anxiety","anger"],
+    "results": ["By doing something more constructive, you may relieve the tension and wind up with something to be proud of."],
+    "examples": ["Channeling aggression into sports.","Channeling grief into writing."],
+    "guidance": [{
+        "description": "6 examples of sublimation in daily life",
+        "attribution": "calm.com",
+        "references": ["https://www.calm.com/blog/sublimation-psychology"]
+    },{
+        "description": "It may not be easy to find out why your unconscious has activated a defense mechanism. Some approaches include prayer, meditation, and therapy. None of them will work without a humble attitude and a real willingness to face something difficult.",
+        "references": ["prayer","meditation","__THERAPY_LINKS__"]
+    }],
+    "commentaries": [{
+        "quote": "Freud chose the name 'sublimation' to refer to the chemical process of 'elevating' a solid material directly into a gas. Psychologically, sublimation turns base instincts into something more noble.",
+        "tags": ["definition footnote"]
+    },{
+        "quote": "Sublimation can be a powerful influence on behavior, although one of which we are largely unaware. Even though this defense mechanism may operate on a subconscious level, you can take advantage of it by intentionally finding ways to substitute more healthy and productive behaviors for one that are potentially harmful.",
+        "attribution": "Kendra Cherry, MSEd"
+    },{
+        "quote": "It’s so easy to lose faith and become lost in all of the politics of the world. That’s why we need the arts. To sublimate our frustration and anger into something beautiful.",
+        "attribution": "Kamand Kojouri"
+    },{
+        "quote": "In Freud's original conception, sublimation was a redirection of excess sexual energy. Figures. Later psychologists have generalized the concept to any impulse deemed unacceptable to yourself or the social context."
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["sublimation"],
+            "predominantType": "action",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["sublimation"]
+              },
+              "2,1": {
+                "experiences": ["anxiety"]
+              }
+            }
+        }]
+    }]
+}

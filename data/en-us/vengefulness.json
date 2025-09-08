@@ -1,0 +1,62 @@
+{
+    "lang": "en/us",
+    "createDate": "20250904",
+    "updateDate": "20250904",
+    "name": "vengefulness",
+    "valence": -1,
+    "quote": "I'll get you for this.",
+    "description": "A desire to cause harm or negative emotions to a person or group perceived as having harmed you or your group.",
+    "perceptions": ["This person or group has harmed someone or something important to me.","I need to make them sorry or they'll think I'm weak and they'll do it again.."],
+    "desires": ["desire to impact negatively","desire for social status"],
+    "sensations": ["ill will","anger","resentment"],
+    "results": ["Perhaps you will move to forgiveness, perhaps you will attack."],
+    "related": ["attack","honor"],
+    "opposites": ["forgiveness"],
+    "examples": ["Someone posts an embarrassing picture of you on social media.","Someone criticizes a group you care about."],
+    "guidance": [{
+        "description": "Studies have found that while there may be initial satisfaction, revenge actually perpetuates the pain of the original offense.",
+        "attribution": "Bernard Golden, Ph.D.",
+        "references": ["https://www.psychologytoday.com/us/blog/overcoming-destructive-anger/202311/seeking-revenge-its-causes-impact-and-challenge"]
+    }],
+    "comparisons": [{
+        "links": ["ill will","desire to impact negatively"],
+        "description": "'Vengefulness' is a specific form of ill will where the desire to have a negative impact is drive by a perceived slight and a belief that getting even is necessary."
+    }],
+    "commentaries": [{
+        "quote": "Before you embark on a journey of revenge, dig two graves.",
+        "attribution": "Confucius"
+    },{
+        "quote": "To exact revenge for yourself or your friends is not only a right, it's an absolute duty.",
+        "attribution": "Stieg Larsson"
+    },{
+        "quote": "Revenge is sweet and not fattening.",
+        "attribution": "Alfred Hitchcock"
+    },{
+        "quote": "I'm not into revenge anymore, I just let go and let God.",
+        "attribution": "Angela Yee"
+    },{
+        "quote": "Men should be either treated generously or destroyed, because they take revenge for slight injuries - for heavy ones they cannot.",
+        "attribution": "Niccolo Machiavelli"
+    },{
+        "quote": "The best revenge is massive success.",
+        "attribution": "Frank Sinatra"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["vengefulness"],
+            "predominantType": "impulse",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2": {
+                "experiences": ["vengefulness"]
+              },
+              "1": {
+                "experiences": ["anger"]
+              }
+            }
+        }]
+    }]
+}

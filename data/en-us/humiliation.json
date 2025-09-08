@@ -8,7 +8,7 @@
     "description": "Dismay caused by a perceived negative social judgment and subsequent status loss.",
     "perceptions": ["Someone criticized me in front of others or I made a silly mistake.","It has damaged my reputation.","I can't properly defend myself."],
     "desires": ["desire for social status","desire for order"],
-    "sensations": ["dismay","resentment","injustice","defense"],
+    "sensations": ["dismay","resentment","injustice","defense","rejection"],
     "related": ["shame"],
     "opposites": ["dignity","pride"],
     "examples": ["Tripping in an important sports event.","Being the subject of negative rumors"],

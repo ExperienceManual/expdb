@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250301",
-  "updateDate": "20250614",
+  "updateDate": "20250905",
   "name": "group bond",
   "valence": 1,
   "quote": "He's a big fan of the baseball team.",
@@ -18,6 +18,17 @@
   "opposites": ["group hate"],
   "examples": ["coworkers", "nationalism"],
   "variations": [{
+      "name": "loyalty",
+      "description": "Commitment to supporting a particular person or group and never supporting a rival.",
+      "perceptions": ["I trust in the purpose and quality of what this person or group provides.","When given a choice, I will always prefer this person or group.","I won't willingly support a competing person or group."],
+      "desires": ["desire for comfort","desire to be correct"],
+      "sensations": ["trust","group bond","social signaling"],
+      "guidance": [{
+          "description": "Here are some references that may help understand the motivation behind your loyalties.",
+          "references": ["https://shakatribeshop.com/pages/the-psychology-of-loyalty-understanding-the-motivations-behind-it","https://www.lesswrong.com/posts/HCGxHK2ahsTNrNxHp/notes-on-loyalty","https://www.psychologytoday.com/us/blog/the-main-ingredient/201901/who-deserves-your-loyalty"]
+      }],
+      "examples": ["Aways buying the same brand of shoes.", "Never wearing the logo of a competing sports team."]
+    },{
       "name": "team spirit",
       "description": "Positive feelings towards your group in a friendly competition with other teams.",
       "perceptions": ["I'm part of a team or a supporter of a team.","Even if the team isn't always great, I'm supposed to support them.","It's ok if other teams win.","People on other teams are like me, just rooting for their team.","The whole thing really isn't that serious."],
@@ -72,12 +83,18 @@
   },{
       "quote": "Phrases like 'the team spirit' are always employed to cut across individualism, love and personal loyalties.",
       "attribution": "Muriel Spark in 'The Prime of Miss Jean Brodie'"
+  },{
+      "quote": "There is a strong connection between loyalty and self-identity. Strong senses of identity frequently underpin loyalty, which influences people's decisions and actions. While loyalty is generally seen as a virtue, it's important to recognize that it can also lead to ethical dilemmas when it becomes blind or unquestioning.",
+      "attribution": "shakatribeshop.com"
+  },{
+      "quote": "Loyalty is a survival mechanism that dates back to our caveman days. In the harsh environment of early man, giving and receiving support from the members of your family, tribe, or clan meant the difference between life and death.",
+      "attribution": "Robert Evans Wilson Jr."
   }],
   "spectrum": {"team spirit": 5, "group bond": 5, "tribalism": 8},
   "models": [{
       "version": "em1",
       "variations": [{
-          "names": ["group bond","team spirit"],
+          "names": ["group bond","team spirit","loyalty"],
           "predominantType": "sensation",
           "levels": {
             "4": {

@@ -1,0 +1,72 @@
+{
+    "lang": "en/us",
+    "createDate": "20250908",
+    "updateDate": "20250908",
+    "name": "dissociation",
+    "valence": 0,
+    "quote": "",
+    "description": "A sense of distance from your body, thoughts, feelings, and environment.",
+    "perceptions": ["I don't feel invested in what's happening and everything seems so distant."],
+    "desires": ["desire to feel better"],
+    "sensations": ["calmness","worry"],
+    "results": ["If it's a temporary escape from stress, dissociating may feel relieving.","If it's chronic and interfering with your life, it be concerning."],
+    "related": ["social discconection","repression"],
+    "examples": ["Relaxing mediation.","Dissociative disorders."],
+    "guidance": [{
+        "description": "As a short-term effect, feeling disconnected may be a reaction to stress, but if it's affecting your life and relationships, you may want to consider seeking professional help.",
+        "references": ["https://my.clevelandclinic.org/health/diseases/9791-depersonalization-derealization-disorder"]
+    }],
+    "variations": [{
+        "name": "dissociative disorder",
+        "description": "A chronic and clinical sense of distance from your body, thoughts, feelings, and environment that has degraded your life.",
+        "perceptions": ["I don't feel invested in what's happening and everything seems so distant.","I don't care about things and people like I used to."],
+        "desires": ["many"],
+        "sensations": ["many"],
+        "results": [""],
+        "comparisons": [{
+            "links": ["dissociation"],
+            "description": "A short term dissociation experience may be ok, but chronic and life-affecting dissociation is a mental health disorder."
+        }],
+        "guidance": [{
+            "description": "Please consider seeking professional help.",
+            "references": ["__THERAPY_LINKS__"]
+        }]
+    }],
+    "comparisons": [{
+        "links": ["social disconnection"],
+        "description": "'Social disconnection' is just feeling distant from people. 'Dissociation' is feeling distant from yourself and the world."
+    }],
+    "commentaries": [{
+        "quote": "People who experience a traumatic event will often have some degree of dissociation during the event itself or in the following hours, days or weeks.",
+        "attribution": "Victoria State Government Dept. of Health"
+    },{
+        "quote": "Dissociation in its more serious forms is a psychological defense mechanism that keeps traumatic memories, sensations, and feelings out of conscious awareness.",
+        "attribution": "Marilee Strong"
+    },{
+        "quote": "The psychological distress symptoms of traumatized people simultaneously call attention to the existence of an unspeakable secret and deflect attention from it. This is most apparent in the way traumatized people alternate between feeling numb and reliving the event.",
+        "attribution": "Judith Lewis Herman"
+    },{
+        "quote": "If we learn to dissociate from the pain of our reality, we can survive a childhood of tremendous betrayal, sadness, pain, and fear. But dissociation… from pain is not selective; we inevitably disconnect even from the joy of being alive.",
+        "attribution": "Daniel J. Siegel, MD"
+    }],
+    "spectrum": {
+    },
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["dissociation"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["dissociation"]
+              },
+              "2,1": {
+                "experiences": ["many"]
+              }
+            }
+        }]
+    }]
+}

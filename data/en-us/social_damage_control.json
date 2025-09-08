@@ -1,0 +1,58 @@
+{
+    "lang": "en/us",
+    "createDate": "20250907",
+    "updateDate": "20250907",
+    "name": "social damage control",
+    "alternateNames": ["reaction formation"],
+    "valence": 0,
+    "description": "Reacting to the threat of a negative social evaluation by shifting your behavior to better signal what you perceive the social context expects in order to restore or confirm your status.",
+    "tags": ["unconscious","defense mechanism"],
+    "perceptions": ["I'm at risk of being judged in a negative way.","I don't want to lose points over this.","I should make an effort to demonstrate that I conform to the expected social norms."],
+    "desires": ["desire for social status","desire to be perceived a certain way"],
+    "sensations": ["social anxiety","social signaling"],
+    "results": ["Maybe you'll react strongly by signaling the exact opposite of you actually feel.","Or maybe you'll just stay silent and shade your behavior differently."],
+    "examples": ["Donating to a minority charity after being accused of racism.","A man being vocally respectful to women after being accused of sexism."],
+    "guidance": [{
+        "description": "Reaction Formation: 5 Signs You’ve Developed This Defense Mechanism",
+        "attribution": "Mile High Psychiatry",
+        "references": ["https://milehighpsychiatry.com/reaction-formation-5-signs-youve-developed-this-defense-mechanism/"]
+    },{
+        "description": "It may not be easy to find out why your unconscious has activated a defense mechanism. Some approaches include prayer, meditation, and therapy. None of them will work without a humble attitude and a real willingness to face something difficult.",
+        "references": ["prayer","meditation","__THERAPY_LINKS__"]
+    }],
+    "comparisons": [{
+        "links": ["social signaling"],
+        "description": "'Social damage control' is a type of unconscious signaling driven by anxiety about significant status loss. More generally, 'social signaling' also covers our conscious efforts to gain and maintain points."
+    }],
+    "commentaries": [{
+        "quote": "This definition expands on Anna Freud's original definition of 'reaction formation': it does not assume the behavior must be strictly opposite and it emphasizes the role of a threatening social evaluation.",
+        "tags": ["definition footnote"]
+    },{
+        "quote": "Reaction formation can be confusing to identify, because the person is often very insistent about their beliefs. And it’s important to state that most people who are passionate about their beliefs are genuine—trusting the person should be the first response. But there are still instances in which reaction formation occurs in daily life, such as in relationships or politics.",
+        "attribution": "Psychology Today"
+    },{
+        "quote": "Because reaction formation takes place unconsciously, spotting it isn't easy. Oftentimes, people make assumptions about this type of reaction to help explain a person's behavior. If you've ever thought that someone was acting one way to try to hide how they really feel, what you were recognizing was reaction formation.",
+        "attribution": "Cynthia Vinney, PhD"
+    },{
+        "quote": "The intricate tapestry of human existence is often woven with threads of conflict and contradiction. Beneath the surface of our conscious minds lies a tumultuous realm where desires, fears, and societal expectations collide. We navigate through life, driven by impulses that sometimes challenge the moral compass shaped by culture and upbringing. As chemicals course through our veins, igniting thoughts and feelings that don’t always align neatly with social norms, we find ourselves grappling with an internal struggle. This psychological push-and-pull can manifest in behaviors that seem at odds with our true selves, leading us to seek ways to shield our ego from the discomfort these conflicts create.",
+        "attribution": "T. Franklin Murphy"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["social damage control"],
+            "predominantType": "action",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["social damage control"]
+              },
+              "2,1": {
+                "experiences": ["anxiety"]
+              }
+            }
+        }]
+    }]
+}

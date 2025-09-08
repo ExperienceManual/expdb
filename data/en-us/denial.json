@@ -1,0 +1,64 @@
+{
+    "lang": "en/us",
+    "createDate": "20250905",
+    "updateDate": "20250905",
+    "name": "denial",
+    "valence": 0,
+    "quote": "This isn't happening.",
+    "description": "An unconscious refusal to accept external information or perceptions in order to avoid painful feelings.",
+    "tags": ["unconscious"],
+    "perceptions": ["There's something unpleasant in the world.","It would be better if it didn't exist."],
+    "desires": ["desire for safety","desire to feel better about yourself"],
+    "sensations": ["anxiety"],
+    "results": ["Ignoring the perception.","Rationalization"],
+    "related": ["willful ignorance","grief"],
+    "examples": ["Refusing to consider an alternate point of view in order to protect your own."],
+    "guidance": [{
+        "description": "You might be wondering how to tell if you’re in denial. There are actually signs.",
+        "attribution": "Darlene Lancer, JD, MFT",
+        "references": ["https://psychcentral.com/lib/are-you-in-denial"]
+    },{
+        "description": "It may not be easy to find out why your unconscious has activated a defense mechanism. Some approaches include prayer, meditation, and therapy. None of them will work without a humble attitude and a real willingness to face something difficult.",
+        "references": ["prayer","meditation","__THERAPY_LINKS__"]
+    }],
+    "comparisons": [{
+        "links": ["willful ignorance"],
+        "description": "'Denial' happens without you knowing about it in the moment. 'Willful ignorance' is when you know that you're avoiding information that might be uncomfortable."
+    }],
+    "commentaries": [{
+        "quote": "Denial can shape dynamics in different domains of life, whether that be ignoring relationship conflicts or refusing to acknowledge an illness. In many of these instances, denial leads to short-term satisfaction but long-term pain. In the end, confronting reality—even when it’s difficult—is the best path forward.",
+        "attribution": "Psychology Today"
+    },{
+        "quote": "Denial helps us to pace our feelings of grief. There is a grace in denial. It is nature's way of letting in only as much as we can handle.",
+        "attribution": "Elisabeth Kübler-Ross and David Kessler"
+    },{
+        "quote": "However much you deny the truth, the truth goes on existing, as it were, behind your back.",
+        "attribution": "George Orwell"
+    },{
+        "quote": "Denial can be confusing because it resembles sleeping. We're not really aware we're doing it until we're done doing it. Forcing ourselves—or anyone else—to face the truth usually doesn't help. We won't face the facts until we are ready.",
+        "attribution": "Melody Beattie"
+    },{
+        "quote": "Denial is the ultimate comfort zone.",
+        "attribution": "David Goggins"
+    },{
+        "quote": "There's a lot of information out there that would wreck your brain's oversimplification strategy. So it's just discarded."
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["denial"],
+            "predominantType": "action",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["denial"]
+              },
+              "2,1": {
+                "experiences": ["anxiety"]
+              }
+            }
+        }]
+    }]
+}

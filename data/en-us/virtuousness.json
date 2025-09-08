@@ -1,16 +1,17 @@
 {
     "lang": "en/us",
     "createDate": "20250812",
-    "updateDate": "20250814",
+    "updateDate": "20250904",
     "name": "virtuousness",
-    "valence": 1,
+    "alternateNames": ["honor"],
+    "valence": 0,
     "quote": "Sorry, I'm not in for something like that.",
     "description": "The positive sense that your actions are closely aligned with core internal principles.",
     "perceptions": ["My words and actions are aligned with what's important to me.","I practice what I preach."],
     "desires": ["desire for optimal","desire for meaning"],
     "sensations": ["healthy self-regard","pride"],
     "opposites": ["guilt"],
-    "examples": ["There are many virtues: humility, courage, resilience, wisdom, etc. You might want to know which are important to you."],
+    "examples": ["There are many virtues: humility, courage, resilience, wisdom, etc."],
     "guidance": [{
         "description": "These references may help get started understanding which virtues are most important to you.",
         "references": ["https://www.linkedin.com/pulse/live-virtuous-life-furkhan-dandia-ccc-macp-mba-dpjzc","https://aaronlynn.com/productivity/virtues/virtues/","https://classics.mit.edu/Antoninus/meditations.html"]
@@ -58,6 +59,9 @@
         }]
     }],
     "commentaries": [{
+       "quote": "People do not agree on what characteristics are worthy of being virtuous core principles. e.g. Some people may view 'compassion' as a virtue while others might view 'eye-for-an-eye' as a virtue. Those people would likely disagree with the other's choice. This could lead to words like 'honorable' meaning different things within different social groups.",
+       "tags": ["definition footnote"]
+    },{
        "quote": "Virtue is its own reward.",
        "attribution": "Cicero"
     },{

@@ -1,7 +1,7 @@
 {
     "lang": "en/us",
     "createDate": "20250808",
-    "updateDate": "20250808",
+    "updateDate": "20250908",
     "name": "meditation",
     "valence": 0,
     "quote": "Concentrate on your breath.",
@@ -17,6 +17,9 @@
         "description": "With so many different types of meditation to choose from, it can feel daunting to know which one you’re going to like best or will be most helpful for you. Fortunately, there are plenty of ways to narrow it down.",
         "attribution": "Cleveland Clinic",
         "references": ["https://my.clevelandclinic.org/health/articles/17906-meditation"]
+    },{
+        "description": "Before starting a meditation practice, you may want to be aware of potential downsides.",
+        "references": ["https://www.psychologytoday.com/us/blog/mindfulness-for-wellbeing/201603/dangers-of-meditation","https://theconversation.com/meditation-can-be-harmful-and-can-even-make-mental-health-problems-worse-230435"]
     }],
     "variations": [{
         "name": "mindfulness meditation",

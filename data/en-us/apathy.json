@@ -8,7 +8,7 @@
     "description": "Lack of feeling about a particular something that you are expected to have some interest in.",
     "perceptions": ["There are several things I should probably be doing.","They don't seem important or interesting.","I'm not going to do them."],
     "desires": ["desire for comfort"],
-    "sensations": ["boredom","disconnection"],
+    "sensations": ["boredom","social disconnection"],
     "related": ["laziness","aimlessness"],
     "opposites": ["enthusiasm"],
     "examples": ["A student not caring about doing well in a class.","A worker not caring about customer satisfaction."],
@@ -22,7 +22,7 @@
         "description": "A persistent lack of interest about things in general combined with a sense of not knowing what to do next.",
         "perceptions": ["Nothing interests me.","Not sure what I should be doing with my life."],
         "desires": ["desire for meaning"],
-        "sensations": ["aimlessness","disconnection","boredom","depression"],
+        "sensations": ["aimlessness","social disconnection","boredom","depression"],
         "examples": ["Being stuck in a life situation that's not working for you."],
         "opposites": ["ambition"],
         "guidance": [{

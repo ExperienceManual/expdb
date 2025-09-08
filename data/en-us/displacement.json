@@ -1,0 +1,58 @@
+{
+    "lang": "en/us",
+    "createDate": "20250906",
+    "updateDate": "20250906",
+    "name": "displacement",
+    "valence": 0,
+    "description": "Unconsciously directing negativity to someone or something who won't fight back as much as whatever's actually causing the problem.",
+    "tags": ["unconscious","defense mechanism"],
+    "perceptions": ["Someone or something is making me feel bad.","I can't express myself to them.","It would feel good to let it out.","I'll express it to someone or something else."],
+    "desires": ["desire for safety","desire for comfort","desire to feel better about yourself"],
+    "sensations": ["anxiety","blaming","anger"],
+    "results": ["You may make a false accusation or feel contempt for someone."],
+    "related": ["catharsis","scapegoating"],
+    "examples": ["A child breaking a toy when angry at a sibling.","Yelling at a friend because you're mad at your boss."],
+    "comparisons": [{
+        "links": ["projection"],
+        "description": "'Displacement' is when you push externally-driven discomfort onto a scapegoat. 'Projection' is when you blame others for internally-driven discomfort."
+    },{
+        "links": ["scapegoating"],
+        "description": "'Displacement' is something your brain may do without your knowing about it. 'Scapegoating' is displacement done consciously."
+    }],
+    "guidance": [{
+        "description": "Identifying and Coping with Signs of Displaced Anger",
+        "attribution": "Hope Gillette",
+        "references": ["https://psychcentral.com/health/displaced-anger"]
+    },{
+        "description": "It may not be easy to find out why your unconscious has activated a defense mechanism. Some approaches include prayer, meditation, and therapy. None of them will work without a humble attitude and a real willingness to face something difficult.",
+        "references": ["prayer","meditation","__THERAPY_LINKS__"]
+    }],
+    "commentaries": [{
+        "quote": "Displacement can be a difficult dynamic to encounter, or even recognize, yet it can occur in many domains, from relationships to politics. It’s also important to acknowledge that not everyone who expresses frustration or anger is displacing—sometimes a person can be genuinely upset without the other person realizing why.",
+        "attribution": "Psychology Today"
+    },{
+        "quote": "Displacement can be a normal and healthy way of coping with unconscious negative emotions. However, overly relying on displacement as a way to handle negative feelings can be unhelpful and even destructive—particularly if you take your frustrations out on defenseless people around you.",
+        "attribution": "Kendra Cherry, MSEd"
+    },{
+        "quote": "Displacement doesn’t suppress the instinctual impulse, it just redirects it.",
+        "attribution": "T. Franklin Murphy"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["displacement"],
+            "predominantType": "action",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["displacement"]
+              },
+              "2,1": {
+                "experiences": ["anxiety"]
+              }
+            }
+        }]
+    }]
+}

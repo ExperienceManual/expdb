@@ -34,6 +34,16 @@
         "sensations": ["guilt","admiration","disadvantaged","inferiority","unhealthy self-regard","longing","dissonance"],
         "related": ["aspiration","jealousy"],
         "examples": ["A work friend gets a deserved promotion and you think it could have been you."]
+    },{
+        "name": "gluckschmerz",
+        "alternateNames": ["aversion to outgroup success"],
+        "description": "Dismay derived from the fortune of a person or group you are hostile to.",
+        "perceptions": ["That person or group is not part of my identity.","They have been successful at something.","This is a relative loss for me or my group."],
+        "desires": ["desire for social status","desire for wealth","desire for comfort"],
+        "sensations": ["dismay","losing","inferiority","group hostility","enmity","injustice"],
+        "related": ["envy"],
+        "opposites": ["schadenfreude"],
+        "examples": ["A jerk at work gets a promotion."]
     }],
     "commentaries": [{
         "quote": "Envy is the ulcer of the soul.",
@@ -48,7 +58,7 @@
         "quote": "Few men have the natural strength to honor a friend’s success without envy.",
         "attribution": "Aeschylus"
     },{
-        "quote": "Thou shalt not covet thy neighbour's goods.",
+        "quote": "Thou shalt not covet thy neighbor's goods.",
         "attribution": "The Bible"
     }],
     "spectrum": {
@@ -83,6 +93,20 @@
               },
               "1": {
                 "experiences": ["desire","dissonance"]
+              }
+            }
+        },{
+            "names": ["gluckschmerz"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["gluckschmerz"]
+              },
+              "2,1": {
+                "experiences": ["dismay"]
               }
             }
         }]

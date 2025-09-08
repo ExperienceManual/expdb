@@ -1,0 +1,51 @@
+{
+    "lang": "en/us",
+    "createDate": "20250906",
+    "updateDate": "20250906",
+    "name": "rationalization",
+    "valence": 0,
+    "quote": "Well, everybody does it.",
+    "description": "Creating a false-but-believable explanation for socially undesirable behavior.",
+    "tags": ["unconscious","defense mechanism"],
+    "perceptions": ["I'm doing something that could be perceived in a negative way.","It's expected that there's a reason for all behavior.","I cannot share the real reason for doing this.","I'll attribute the behavior to a more socially acceptable reason."],
+    "desires": ["desire for safety","desire for comfort","desire to feel better about yourself"],
+    "sensations": ["justification","anxiety","unhealthy self-regard"],
+    "related": ["lying"],
+    "examples": ["That job wouldn't have been good for me anyhow.","Blaming an illness for being late on a project."],
+    "guidance": [{
+        "description": "Because rationalizations are so easy to lean on, I’ve developed a simple way to check in with yourself whenever you are making a decision, forming a belief or preparing to make a choice. Rather than assume what you’re doing is based upon something that is true (which we like and makes us feel better), ask yourself this question: Is this true or is it a rationalization?",
+        "attribution": "Jeff Nischwitz",
+        "references": ["https://www.nischwitzgroup.com/truth-or-rationalization/"]
+    },{
+        "description": "It may not be easy to find out why your unconscious has activated a defense mechanism. Some approaches include prayer, meditation, and therapy. None of them will work without a humble attitude and a real willingness to face something difficult.",
+        "references": ["prayer","meditation","__THERAPY_LINKS__"]
+    }],
+    "commentaries": [{
+        "quote": "I never made a mistake in my life; at least, never one that I couldn't explain away afterwards.",
+        "attribution": "Rudyard Kipling"
+    },{
+        "quote": "Rationalization often allows individuals to shift blame away from themselves, avoiding guilt and accountability for their actions.",
+        "attribution": "Dr. Carly Claney"
+    },{
+        "quote": "Rationalization is everywhere—people use it in relationships, workplaces, health decisions, finances, and even politics. It can be as simple as making an excuse for procrastination or as complex as justifying unethical behavior.",
+        "attribution": "Dr. Meagan Mitchell on agentsofchangeprep.com"
+    },{
+        "quote": "By offering seemingly logical explanations, individuals can maintain a positive self-image and alleviate the cognitive dissonance that arises from conflicting thoughts or behaviors.",
+        "attribution": "Amanda Beltrani"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["rationalization"],
+            "predominantType": "action",
+            "levels": {
+              "4,3": {
+                "experiences": ["rationalization"]
+              },
+              "2,1": {
+                "experiences": ["anxiety"]
+              }
+            }
+        }]
+    }]
+}

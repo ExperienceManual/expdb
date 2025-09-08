@@ -29,13 +29,14 @@
     "desire_to_improve",
     "desire_to_protect",
     "aspiration",
-    "envy"
+    "envy",
+    "vengefulness"
   ],
   "related": ["love"],
   "opposites": ["aversion"],
   "comparisons": [{
       "links": ["love"],
-      "description": "'Love' is defined by EM as a persisent desire to experience something over and over."
+      "description": "'Love' is defined by EM as a persistent desire to experience something over and over."
   }],
   "commentaries": [{
       "quote": "Desires are preferences for what flows into your experience. Where possible, you may try to influence how the situation unfolds to have a better chance at obtaining the experience.",

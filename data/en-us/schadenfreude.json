@@ -1,0 +1,53 @@
+{
+    "lang": "en/us",
+    "createDate": "20250905",
+    "updateDate": "20250905",
+    "name": "schadenfreude",
+    "alternateNames": ["delight from outgroup failure"],
+    "valence": 0,
+    "quote": "The bigger they are, the harder they fall.",
+    "description": "Pleasure derived from the misfortune of others who were previously successful, sometimes combined with guilt for feeling that way.",
+    "perceptions": ["That person or group was doing well but is now struggling with something.","They aren't my enemy.","Their struggle makes me feel better about my situation."],
+    "desires": ["desire for comfort","desire for social status"],
+    "sensations": ["delight","guilt","dissonance","superiority"],
+    "results": ["The struggle of others may feel like justice or perhaps it validates your own struggles and makes you feel less inferior for a time."],
+    "related": ["envy"],
+    "opposites": ["sympathy","gluckschmerz"],
+    "examples": ["A famous person goes to jail for securities fraud.","A rock star files for bankruptcy."],
+    "guidance": [{
+        "description": "Schadenfreude: How to Respond When Bad Things Happen to People You Don't Like",
+        "attribution": "Lo Styx",
+        "references": ["https://www.verywellmind.com/schadenfreude-how-to-respond-when-bad-things-happen-to-people-you-dont-like-5083348"]
+    }],
+    "commentaries": [{
+        "quote": "Experts hypothesize that misfortune afflicting an envied person can bring pleasure because it makes the advantaged target less enviable, as well as removing the underlying envy.",
+        "attribution": "Naveed Saleh M.D., M.S."
+    },{
+        "quote": "To see others suffer does one good, to make others suffer even more: this is a hard saying but an ancient, mighty, human, all-too-human principle.",
+        "attribution": "Friedrich Nietzsche"
+    },{
+        "quote": "To feel envy is human, to savor schadenfreude is diabolic.",
+        "attribution": "Arthur Schopenhauer"
+    },{
+        "quote": "Questions about how and why we enjoy the pain of others – what is acceptable, what is “too far” – have featured in some of the greatest works of philosophy and literature for over 2,000 years.",
+        "attribution": "Tiffany Watt Smith"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["schadenfreude"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["schadenfreude"]
+              },
+              "2,1": {
+                "experiences": ["delight"]
+              }
+            }
+        }]
+    }]
+}

@@ -1,0 +1,50 @@
+{
+    "lang": "en/us",
+    "createDate": "20250906",
+    "updateDate": "20250906",
+    "name": "justification",
+    "valence": 0,
+    "quote": "This is what happened.",
+    "description": "Creating a solid and accurate explanation for a particular thought, behavior or outcome.",
+    "alternateDefinitions": ["'Justification' can sometimes be used synonymously with 'rationalization'."],
+    "tags": ["unconscious","mind mechanism"],
+    "perceptions": ["I'm doing or thinking something.","It's expected that there's a reason for all behavior.","These are the reasons that are consistent with my perceptions and principles."],
+    "desires": ["desire for order","desire for comfort"],
+    "sensations": ["honesty","introspection","deduction"],
+    "related": ["rationalization"],
+    "examples": ["I probably didn't get the job because I was late to the interview.","I ate a snack before dinner because I was hungry.","I did well on the test because I studied a lot."],
+    "guidance": [{
+        "description": "The Fine Line Between Justification and Rationalization",
+        "attribution": "Nathanael Garrett Novosel",
+        "references": ["https://yourmeaninginlife.com/blog/the-fine-line-between-justification-and-rationalization"]
+    }],
+    "comparisons": [{
+        "links": ["rationalization"],
+        "description": "Human social needs require that we explain ourselves to each other. 'Justification' is an explanation that's accurate and consistent with human nature and past behavior. 'Rationalization' is an explanation that lies or stretches the truth to protect the self-image and the social image."
+    }],
+    "commentaries": [{
+        "quote": "Unlike all other animals, humans everywhere ask for and give explanations for their actions. Arguments, debates, moral dictates, rationalizations, and excuses all involve the process of explaining why one’s claims, thoughts, or actions are warranted. These phenomena are both uniquely human and ubiquitous in human affairs. In virtually every form of social exchange, from warfare to politics to family struggles to science, humans are constantly justifying their behavioral investments to themselves and others.",
+        "attribution": "Gregg Henriques Ph.D."
+    },{
+        "quote": "The man of science has learned to believe in justification, not by faith, but by verification.",
+        "attribution": "Thomas H. Huxley"
+    },{
+        "quote": "When it comes to justifying actions, every human being acquires the intelligence of an Einstein, the imagination of a Shakespeare, and the subtlety of a Jesuit.",
+        "attribution": "Michael Foley"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["justification"],
+            "predominantType": "action",
+            "levels": {
+              "4,3": {
+                "experiences": ["justification"]
+              },
+              "2,1": {
+                "experiences": ["desire for order"]
+              }
+            }
+        }]
+    }]
+}
