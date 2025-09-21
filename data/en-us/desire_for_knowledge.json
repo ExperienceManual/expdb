@@ -3,16 +3,19 @@
   "createDate": "20250201",
   "updateDate": "20250825",
   "name": "desire for knowledge",
+  "alternateNames": ["curiosity"],
   "valence": 0,
   "quote": "I'd like to know what's going on.",
-  "description": "Wanting to better understand the physical or social environment towards making better decisions about them. 'Information' is just an isolated piece of data while 'knowledge' is a pattern of ideas that combine into something useful or experiential.",
-  "perceptions": ["There's something I don't understand.","Understanding it will help me make better decisions or improve my experience or standing with a social group."],
-  "desires": ["desire for agency"],
-  "sensations": ["curiosity"],
-  "results": ["seeking ways to satisfy the curiosity"],
+  "description": "Wanting to better understand the physical or social environment towards having better explanations and decisions.",
+  "perceptions": ["Having accurate and broad knowledge is important.","The more I understand, the better my explanations and decisions.","It may also improve my experience or standing with a social group."],
+  "desires": ["desire for agency","desire for identity"],
+  "results": ["You may seek ways to satisfy the curiosity"],
   "guidance": [{
       "description": "The internet lets you learn about anything. You should consider making sure that your teaching resource is reputable and up-to-date.",
       "references": ["https://youtube.com"]
+  },{
+      "description": "There is nothing actually stopping us from harnessing our curiosity. It’s really just about picking the right priorities and making a deliberate effort to learn, to have novel experiences, and to close the gap between what we know and want to know.",
+      "references": ["https://hbr.org/2023/11/how-to-strengthen-your-curiosity-muscle"]
   }],
   "related": ["desire to improve","desire for social contact", "desire for safety", "curiosity","expertise","first party socializing"],
   "opposites": ["denial", "willful ignorance"],
@@ -20,10 +23,6 @@
       "curiosity": 4,
       "desire for knowledge": 5
   },
-  "comparisons": [{
-      "links": ["curiosity"],
-      "description": "Curiosity is noticing something in the world that doesn't match your expectations and wanting it to make sense. If it doesn't make sense after re-examining, it may prompt a desire for knowledge and a series of activities to figure it out."
-  }],
   "variations": [{
       "name": "desire to be correct",
       "alternateNames": ["desire for accurate patterns"],
@@ -52,6 +51,17 @@
           "references": ["https://myreadingvintage.com/blogs/vintage-book-addicts-blog-reading-vintage/how-to-know-what-books-you-like-a-simple-guide","https://www.npr.org/2016/06/15/481090485/read-watch-binge-like-this-movie-you-might-also-like"]
       }],
       "examples": ["campfire stories","books","movies"]
+  },{
+      "name": "curious about something",
+      "description": "A desire for a specific piece or category of knowledge.",
+      "perceptions": ["I would like to know the answer to a particular question.","Knowing this will help me make sense of something bigger."],
+      "desires": ["desire for agency","desire for identity"],
+      "sensations": ["dissatisfaction"],
+      "examples": ["Wanting to know the ending of the story.","Wanting to know why rainbows are multi-colored."],
+      "comparisons": [{
+          "links": ["desire for knowledge"],
+          "description": "You can be curious about one thing (or category) without necessarily having a general thirst for knowledge."
+      }]
   }],
   "commentaries": [{
       "quote": "Knowledge is power.",
@@ -79,11 +89,17 @@
   },{
       "quote": "We so want to be right and so trust that our desire to be right is something that God would surely bless. Yet the desire to be right comes with a price: the fear of being wrong.",
       "attribution": "Ken Wilson"
+  },{
+      "quote": "The cure for boredom is curiosity. There is no cure for curiosity.",
+      "attribution": "Ellen Parr"
+  },{
+      "quote": "Curiosity is like a metal detector. Over time, I have come to revere my curiosity for alerting me to my own personal gold.",
+      "attribution": "Ethan Maurice"
   }],
   "models": [{
       "version": "em1",
       "variations": [{
-          "names": ["desire for knowledge"],
+          "names": ["desire for knowledge","curious about something"],
           "predominantType": "impulse",
           "levels": {
             "4,3,2,1": {

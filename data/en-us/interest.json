@@ -1,0 +1,67 @@
+{
+    "lang": "en/us",
+    "createDate": "20250917",
+    "updateDate": "20250917",
+    "name": "interest",
+    "valence": 1,
+    "quote": "Tell me more.",
+    "description": "Desire to experience an interaction with someone or something.",
+    "alternateDefinitions": ["'Interest' can also mean having a share of ownership in something. For that sense, see 'ownership'.","'Being 'interested' can also mean 'biased'."],
+    "perceptions": ["I predict that having an experience with this object, concept, activity, person, or outcome would be positive."],
+    "desires": ["desire for comfort","desire for social contact","desire for stimulation"],
+    "sensations": ["anticipation","hope"],
+    "related": ["love","curiosity"],
+    "opposites": ["apathy"],
+    "examples": ["I'd like to try that new pizza place.","I'd like to see her again.","Maybe I'll start collecting 17th century pottery."],
+    "guidance": [{
+        "description": "An interest often starts with curiosity.",
+        "references": ["curiosity"]
+    },{
+        "description": "These references may help cultivate an interest.",
+        "references": ["https://cherish365.com/cultivating-your-interests-how-to-start-where-you-are/","https://ethanmaurice.com/blog/follow-your-curiosity"]
+    }],
+    "comparisons": [{
+        "links": ["curious about something"],
+        "description": "When you're curious about something, you're interested in experiencing an answer or activity unknown to you. But you can also be interested in experiencing something that you've already done before."
+    },{
+        "links": ["love"],
+        "description": "You can be interested in things you haven't experienced yet, or things you only want to experience once in a while. A very general definition of 'love' is being interested in repeating an experience frequently."
+    }],
+    "commentaries": [{
+        "quote": "It starts with curiosity... something enticing about an unknown. Next, you're intrigued and interested in trying it again. Maybe you come to love and repeat the experience often."
+    },{
+        "quote": "By consistently putting time and energy into your interest, you deepen, expand, and further your relationship with this thing that has resonance with parts of you deeper than you can even consciously grasp.",
+        "attribution": "Ethan Maurice"
+    },{
+        "quote": "But life is long. And it is the long run that balances the short flare of interest and passion.",
+        "attribution": "Sylvia Plath"
+    },{
+        "quote": "A good sermon should be like a woman's skirt: short enough to arouse interest but long enough to cover the essentials.",
+        "attribution": "Ronald Knox"
+    },{
+        "quote": "Develop interest in life as you see it; in people, things, literature, music - the world is so rich, simply throbbing with rich treasures, beautiful souls and interesting people. Forget yourself.",
+        "attribution": "Henry Miller"
+    }],
+    "spectrum": {
+        "intrigued": 5,
+        "interest": 5,
+        "engrossed": 7,
+        "fascinated": 7,
+        "mesmerized": 8
+    },
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["interest"],
+            "predominantType": "impulse",
+            "levels": {
+              "4,3": {
+                "experiences": ["interest"]
+              },
+              "2,1": {
+                "experiences": ["hope"]
+              }
+            }
+        }]
+    }]
+}

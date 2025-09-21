@@ -1,0 +1,86 @@
+{
+  "lang": "en/us",
+  "createDate": "20250919",
+  "updateDate": "20250919",
+  "name": "helpfulness",
+  "valence": 1,
+  "quote": "The customer service agent solved my problem.",
+  "description": "Someone did something to improve your situation or partially solve a problem.",
+  "tags": ["social label"],
+  "perceptions": ["Someone did something that unblocks me, assists my efforts towards a goal, or improves my environment."],
+  "desires": ["desire for a particular outcome"],
+  "sensations": ["satisfaction","problem solving","gratitude","delight"],
+  "related": ["generosity"],
+  "opposites": ["incompetence", "laziness"],
+  "personOfInterestExperiences": ["generosity","competence","being helpful"],
+  "examples": ["A child picks up other kids toys without being asked.","Customer agent solves the problem with the order."],
+  "guidance": [{
+      "description": "When someone is helpful, even if they're just doing their job, gratitude may be an appropriate response.",
+      "references": ["gratitude"]
+  }],
+  "variations": [{
+      "name": "being helpful",
+      "description": "The sense that you did something for someone or something else improve their situation or partially solve a problem.",
+      "perceptions": ["I did something that unblocks, assists, or improves the environment for a person, group, or animal."],
+      "desires": ["desire to be seen a certain way"],
+      "sensations": ["satisfaction"],
+      "results": ["If the activity was a small part of your job, you'll just go about your day.","If it was bigger and generated gratitude, you may be pleased."],
+      "personOfInterestExperiences": ["helpfulness","gratitude"],
+      "examples": ["Being a customer service agent.","Carrying groceries for an elderly lady."],
+      "opposites": ["interfering"],
+      "related": ["kindness","generosity"],
+      "guidance": [{
+          "description": "Helping others has shown to be beneficial on many levels. Not only do you get the satisfaction of helping someone in need, but you can benefit from an increased sense of purpose in your life.",
+          "attribution": "Forbes Coaches Council",
+          "references": ["https://www.forbes.com/sites/forbescoachescouncil/2018/01/17/15-easy-ways-to-become-a-more-helpful-person/"]
+      }]
+  }],
+  "commentaries": [{
+      "quote": "Our prime purpose in this life is to help others.",
+      "attribution": "Dalai Lama"
+  },{
+      "quote": "Everybody can be great. Because anybody can serve.",
+      "attribution": "Martin Luther King, Jr."
+  },{
+      "quote": "Refusing to ask for help when you need it is refusing someone the chance to be helpful.",
+      "attribution": "Ric Ocasek"
+  },{
+      "quote": "Service doesn’t have to be big and grandiose to be meaningful and make a difference.",
+      "attribution": "Cheryl Esplin"
+  },{
+      "quote": "The cumulative impact of thousands of small acts of goodness can be bigger than we imagine.",
+      "attribution": "Queen Elizabeth II"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["helpfulness"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["helpfulness"]
+            },
+            "2,1": {
+              "experiences": ["satisfaction"]
+            }
+          }
+      },{
+          "names": ["being helpful"],
+          "predominantType": "impulse",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["being helpful"]
+            },
+            "2,1": {
+              "experiences": ["satisfaction"]
+            }
+          }
+      }]
+  }]
+}

@@ -1,0 +1,95 @@
+{
+    "lang": "en/us",
+    "createDate": "20250913",
+    "updateDate": "20250914",
+    "name": "forgetting",
+    "valence": 0,
+    "quote": "Sorry, I don't remember.",
+    "description": "The sense that you should have a memory of something but cannot come up with it.",
+    "perceptions": ["I should know this.","But I don't."],
+    "desires": ["desire for agency","desire for order"],
+    "sensations": ["dissatisfaction","dismay"],
+    "results": ["Maybe something will jog your memory, or maybe not."],
+    "related": ["confusion"],
+    "examples": ["Not remembering a family member's birth date.","Not remembering the code for getting into the building."],
+    "guidance": [{
+        "description": "Tips for better remembering.",
+        "references": ["https://www.mayoclinic.org/healthy-lifestyle/healthy-aging/in-depth/memory-loss/art-20046518","https://learningcenter.unc.edu/tips-and-tools/enhancing-your-memory/"]
+    },{
+        "description": "Tips for trying to forget something.",
+        "references": ["https://www.verywellmind.com/how-to-forget-a-bad-memory-4153100","https://www.choosingtherapy.com/how-to-forget-something/"]
+    }],
+    "variations": [{
+      "name": "uncertain memory",
+      "description": "Not having full confidence in your memory of something.",
+      "perceptions": ["I'm not confident that my memory of this fact or event is accurate."],
+      "desires": ["desire to be correct"],
+      "sensations": ["dissatisfaction","dismay"],
+      "related": ["forgetting"],
+      "guidance": [{
+          "description": "See guidance for 'certainty of memory'.",
+          "references": ["certainty of memory"]
+      }],
+      "examples": ["Sorry, not sure I closed the garage door.","I might remember the door code."],
+      "opposites": ["certainty of memory"]
+    },{
+      "name": "just remembered",
+      "description": "Recalling from memory something after having forgotten it for a time.",
+      "perceptions": ["I had trouble getting this thing from memory.","But now tht I rememebered it, I'm pretty confident about it."],
+      "desires": ["desire to be correct"],
+      "sensations": ["satisfaction","delight"],
+      "examples": ["Ok, now I remember that I for sure, closed the garage door.","I think I remember the door code now."],
+      "comparisons": [{
+          "links": ["forgetting"],
+          "description": "'Just rememebered' is a temporary forgetfulness."
+      }]
+    },{
+      "name": "someone else forgot",
+      "description": "A perception that someone else should have done something important by now, but has not made any effort towards doing so, nor expained why.",
+      "perceptions": ["That person was supposed to do this task.","They haven't.","And they haven't mentioned a delay.","They must have forgotten."],
+      "desires": ["desire for order"],
+      "sensations": ["dissatisfaction","distrust"],
+      "examples": ["He never sent a birthday card.","He didn't pick up the bread while at the store."]
+    }],
+    "commentaries": [{
+        "quote": "Most things we remember have supporting memories as well. For example, you need to remember that you have a shopping list before remembering to get milk. If you don't remember a specific thing or any of its supporting memories, you won't experience it anymore."
+    },{
+        "quote": "The richness of life lies in memories we have forgotten.",
+        "attribution": "Cesare Pavese"
+    },{
+        "quote": "If you want to forget something or someone, never hate it, or never hate him/her. Everything and everyone that you hate is engraved upon your heart.",
+        "attribution": "C. JoyBell C."
+    },{
+        "quote": "The advantage of a bad memory is that one enjoys several times the same good things for the first time.",
+        "attribution": "Friedrich Nietzsche"
+    },{
+        "quote": "Forgiving is OK. Forgetting, never.",
+        "attribution": "John Kani"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["forgetting"],
+            "predominantType": "sensation",
+            "levels": {
+              "4,3": {
+                "experiences": ["forgetting"]
+              },
+              "2,1": {
+                "experiences": ["dissatisfaction"]
+              }
+            }
+        },{
+            "names": ["someone else forgot"],
+            "predominantType": "sensation",
+            "levels": {
+              "4,3": {
+                "experiences": ["someone else forgot"]
+              },
+              "2,1": {
+                "experiences": ["dissatisfaction"]
+              }
+            }
+        }]
+    }]
+}

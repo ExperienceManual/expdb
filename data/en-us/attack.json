@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250205",
-  "updateDate": "20250528",
+  "updateDate": "20250921",
   "name": "attack",
   "valence": 0,
   "quote": "It's mine now.",
@@ -9,7 +9,7 @@
   "perceptions": ["The state of things would be better for me in a certain way.","Someone or something else may resist changing things."],
   "sensations": ["many"],
   "desires": ["desire for territory","desire for social status","desire for wealth","desire to improve","desire for stimulation"],
-  "related": [ "anger", "desire for social status", "courage", "ill will", "disrespect", "desire for territory", "desire for trade", "conspiratorial" ],
+  "related": [ "anger", "desire for social status", "courage", "ill will", "disrespect", "desire for territory", "desire for trade", "conspiratorial", "aggressiveness"],
   "opposites": ["defense", "respect", "compassion"],
   "spectrum": {
       "attack": 5,
@@ -24,6 +24,14 @@
       "personOfInterestExperiences": ["defense"],
       "related": ["desire for territory", "desire for social status", "stealing"],
       "examples": ["burglary","war"]
+  },{
+      "name": "sabotage",
+      "description": "Effort towards forcibly trying to damage something that belongs to someone else.",
+      "perceptions": ["This asset is valuable to someone who I'm hostile with.","Damaging or destroying it will slow their efforts."],
+      "desires": ["desire to impact negatively","desire for social status"],
+      "sensations": ["attack","excitement","courage","ill will", "disrespect"],
+      "related": ["interfering"],
+      "examples": ["Slashing a car's tires.","Lying to a competitor's client."]
   },{
       "name": "attacking life or health of a person",
       "description": "Taking action to seriously injure or kill another person.",

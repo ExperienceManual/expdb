@@ -1,0 +1,138 @@
+{
+    "lang": "en/us",
+    "createDate": "20250916",
+    "updateDate": "20250916",
+    "name": "praise",
+    "alternateNames": ["compliment"],
+    "valence": -1,
+    "quote": "I think she did great!",
+    "description": "Communicating a sincere positive appraisal about qualities or actions of something or someone.",
+    "perceptions": ["That thing or person has an aspect or doing something that I find appealing."],
+    "desires": ["desire for comfort","desire for social status"],
+    "sensations": ["positive judgment","appraisal","admiration"],
+    "results": ["Maybe you'll communicate your praise, or maybe you'll keep it to yourself."],
+    "opposites": ["criticism"],
+    "personOfInterestExperiences": ["receiving praise"],
+    "examples": ["Movie gets a good review by a film critic.","Giving your employee positive feedback on a project.","Taking your kid out for ice cream after the doing well on the test."],
+    "guidance": [{
+        "description": "These articles have advice that may help praise more authentic and effective.",
+        "references": ["https://www.psychologytoday.com/us/blog/the-happiness-project/201104/7-tips-giving-effective-praise","https://www.mindtools.com/a14bj7k/giving-praise"]
+    }],
+    "variations": [{
+        "name": "receiving praise",
+        "description": "A perception that someone has judged one of your characteristics or actions in a positive way.",
+        "perceptions": ["Someone has communicated something positive about me or someone close."],
+        "desires": ["desire to be perceived a certain way"],
+        "sensations": ["satisfaction","delight","triumph","pride","guilt","anxiety"],
+        "results": ["If you agree with the praise, you may feel a rush of positive reward chemicals.","If you disagree with the praise, you may feel guilty about receiving it.","You may be anxious that it just sets the bar higher for next time."],
+        "examples": ["Your boss gives you positive feedback on the project.","Your teenage thanks you for being fair."],
+        "opposites": ["receiving criticism"],
+        "guidance": [{
+            "description": "Here are some references that may help deal more gracefully with praise.",
+            "references": ["https://www.npr.org/2025/09/14/nx-s1-5530036/tips-for-how-best-to-give-and-receive-compliments","https://www.oldsouletiquette.com/blog/compliments-how-to-give-amp-how-to-receive"]
+        }]
+    },{
+        "name": "flattering",
+        "description": "Communicating a positive appraisal about qualities or actions of something or someone with the aim of gaining favor with them.",
+        "perceptions": ["I would like to improve my relationship wit that person.","People like praise.","I'll let them know something nice about them."],
+        "desires": ["desire for social status","desire for social contact","desire for sex"],
+        "sensations": ["positive judgment","appraisal","admiration"],
+        "results": ["Maybe the person will be impressed by the praise, or maybe they'll be suspicious."],
+        "opposites": ["admiration"],
+        "personOfInterestExperiences": ["receiving praise","receiving flattery"],
+        "examples": ["Employee tells the boss she looks good.","Politician tells the audience they're all awesome."],
+        "opposites": ["criticism"],
+        "guidance": [{
+            "description": "Flattery is a type of white lie, but why would it be a problem? Doesn’t everyone like to be told good things about themselves? Sure, but false praise is not the same as a thoughtful, honest compliment.",
+            "attribution": "Jason Whiting Ph.D.",
+            "references": ["https://www.psychologytoday.com/us/blog/love-lies-and-conflict/201806/how-flatterers-can-manipulate-and-control-in-relationships"]
+        }],
+        "comparisons": [{
+            "links": ["praise"],
+            "description": "'Flattery' is insincere 'praise' done to score points with someone."
+        }]
+    },{
+        "name": "receiving flattery",
+        "description": "A sense that someone has judged you positively in a way that indicated they may want something from you.",
+        "perceptions": ["Someone has communicated something positive about me or someone close.","The context of this praise is a little off.","I wonder what they really want."],
+        "desires": ["desire for knowledge","desire for order","desire to be perceived a certain way"],
+        "sensations": ["satisfaction","suspicion","distrust","uncertainty","anxiety"],
+        "examples": ["Your employee compliments you just before performance reviews.","The politician appreciates your thoughtful feedback just before the election."],
+        "opposites": ["receiving criticism"],
+        "guidance": [{
+            "description": "Here are some references that may help deal with suspected flattery.",
+            "references": ["https://debretts.com/the-flattery-trap/","https://wademullen.substack.com/p/when-pleasant-words-hide-harmful"]
+        }]
+    }],
+    "commentaries": [{
+        "quote": "Praise is warming and desirable, what the human race lives on like bread. But praise is an earned thing.",
+        "attribution": "Phyllis McGinley"
+    },{
+        "quote": "A man who flatters his neighbor spreads a net for his feet.",
+        "attribution": "Bible Proverbs 29:5"
+    },{
+        "quote": "Undeserved praise, is satire in disguise.",
+        "attribution": "Alexander Pope"
+    },{
+        "quote": "Nothing is more effective than sincere, accurate praise, and nothing is more lame than a cookie-cutter compliment.",
+        "attribution": "Bill F. Walsh"
+    },{
+        "quote": "Blessed is he who has learned to admire but not envy, to follow but not imitate, to praise but not flatter, and to lead but not manipulate.",
+        "attribution": "William Arthur Ward"
+    },{
+        "quote": "God doesn’t want our flattery. He wants our heartfelt praise every day about what we remember, what we attribute, and what we retell.",
+        "attribution": "Wil Rice IV"
+    },{
+        "quote": "Nobody gets praised for the right reasons.",
+        "attribution": "Diana Wynne Jones"
+    },{
+        "quote": "In the best, the friendliest and simplest relations flattery or praise is necessary, just as grease is necessary to keep wheels turning.",
+        "attribution": "Leo Tolstoy"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["praise","flattery"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["praise"]
+              },
+              "2,1": {
+                "experiences": ["satisfaction"]
+              }
+            }
+        },{
+            "names": ["receiving praise"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["receiving praise"]
+              },
+              "2,1": {
+                "experiences": ["delight"]
+              }
+            }
+        },{
+            "names": ["receiving flattery"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["receiving flattery"]
+              },
+              "2,1": {
+                "experiences": ["uncertainty"]
+              }
+            }
+        }]
+    }]
+}

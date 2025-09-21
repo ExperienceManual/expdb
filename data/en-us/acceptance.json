@@ -1,11 +1,11 @@
 {
     "lang": "en/us",
     "createDate": "20250730",
-    "updateDate": "20250730",
+    "updateDate": "20250918",
     "name": "acceptance",
     "valence": 0,
     "quote": "The bad news didn't seem to bother her at all.",
-    "description": "Reacting to the reality of an uncomfortable situation with authentic calmness and without a deep desire to try and change it.",
+    "description": "Reacting to an unchangeable and unpleasant situation with authentic calmness and without significant complaint.",
     "perceptions": ["I would have preferred a different outcome.","I can't change this outcome.","There's not much point in worrying too much about it."],
     "desires": ["desire for comfort"],
     "sensations": ["dissatisfaction","discomfort"],
@@ -26,7 +26,7 @@
         "sensations": ["many"],
         "results": ["Signing your name.","Saying 'yes'."],
         "examples": ["Saying 'I do' to a wedding vow.","Signing a release waiver for skydiving.","Signing bankruptcy papers."],
-        "opposites": ["disagreement"],
+        "opposites": ["disagreement","misinterpretation"],
         "related": ["winning","losing","agreeableness"]
     },{
         "name": "unhappy acceptance",

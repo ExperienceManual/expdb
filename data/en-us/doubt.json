@@ -8,8 +8,8 @@
   "description": "The sense that you don't know whether you can rely on a particular prediction, idea, or person for a desired outcome.",
   "perceptions": ["The outcome of this situation is important, so I'd like to be able to influence it.","But I'm not sure that I know what to do or what's going to happen in this kind of situation."],
   "desires": ["desire for agency","desire for order","desire for comfort"],
-  "sensations": ["anxiety","dissonance"],
-  "related": ["prediction", "skepticism", "anticipation"],
+  "sensations": ["anxiety","distrust","dissonance"],
+  "related": ["prediction", "skepticism", "anticipation","uncertainty"],
   "opposites": ["certainty"],
   "variations": [{
       "name": "self doubt",

@@ -1,0 +1,151 @@
+{
+    "lang": "en/us",
+    "createDate": "20250911",
+    "updateDate": "20250912",
+    "name": "confusion",
+    "valence": -1,
+    "quote": "I don't know what's going on.",
+    "description": "A sense that oneself or another person is in a disordered or uncertain mental state when the situation should be more ordered and certain.",
+    "otherVariations": ["doubt","disorientation","uncertainty","chaotic","forgetting"],
+    "perceptions": ["Someone (myself or another) should be able to respond appropriately to this situation.","Instead, there's hesitance or perception of inappropriate behavior."],
+    "desires": ["desire for agency","desire for order","desire to be perceived a certain way"],
+    "sensations": ["dissatisfaction","dismay"],
+    "opposites": ["certainty"],
+    "guidance": [{
+        "description": "Here are some references that may help create more clarity.",
+        "references": ["https://imbusybeingawesome.com/how-to-get-unstuck-in-life-when-youre-confused/","https://www.wikihow.com/Face-Confusing-Thoughts","https://leadershipfreak.blog/2022/08/05/5-smart-things-to-do-when-you-feel-confused/"]
+    }],
+    "variations": [{
+        "name": "misinterpretation",
+        "alternateNames": ["misunderstanding"],
+        "tags": ["social label"],
+        "description": "The sense that someone is talking or acting as if they have an incorrect interpretation of something.",
+        "perceptions": ["That person seems to perceive things in a way that's not aligned to the environment.","They probably don't realize it."],
+        "desires": ["desire for order","desire to be correct"],
+        "sensations": ["judgment","disrespect"],
+        "results": ["If there was actually a misinterpretation, the person inside of it cannot see it.","Correcting them may be possible or impossible, obligatory or not worth it."],
+        "personOfInterestExperiences": ["many","If you realize that you've misinterpreted something, you may feel a sense of failure, embarrassment, laugh it off, or anything inbetween."],
+        "examples": ["A student doesn't understand the homework assignment.","The terse and messy note was not read correctly.","Culture war partisans trying to paint their enemies as negatively as possible."],
+        "opposites": ["agreement"],
+        "related": ["misremembering"],
+        "comparisons": [{
+            "links": ["confusion"],
+            "description": "With 'misinterpretation', you believe the other person has a 'disordered' (incorrect) mental state for the current situation."
+        }],
+        "guidance": [{
+            "description": "Some references on handling situations where there's a misunderstanding.",
+            "references": ["https://www.hurleywrite.com/what-to-do-if-writing-has-been-misunderstood-or-misinterpreted/","https://www.psychologytoday.com/us/blog/counseling-keys/201507/how-resolve-misunderstanding"]
+        }]
+    },{
+        "name": "misremembering",
+        "tags": ["social label"],
+        "description": "The sense that someone is talking or acting as if they have an incorrect memory of something.",
+        "perceptions": ["That person seems to have an incorrect recollection of something.","They probably don't realize it."],
+        "desires": ["desire for order","desire to be correct"],
+        "sensations": ["judgment","disrespect"],
+        "results": ["If there was actually a misremembering, the person inside of it cannot see it.","Correcting them may be possible or impossible, obligatory or not worth it."],
+        "personOfInterestExperiences": ["many","If you realize that you've misremembered something, you may feel a sense of failure, embarrassment, laugh it off, or anything inbetween."],
+        "examples": ["Calling someone by the wrong name.","Getting to the appointment too early because you thought it had been earlier than it was."],
+        "opposites": ["recalling"],
+        "related": ["misinterpreting"],
+        "comparisons": [{
+            "links": ["confusion"],
+            "description": "With 'misremembering', you believe the other person has a 'disordered' (incorrect) mental state for the current situation."
+        }],
+        "guidance": [{
+            "description": "Some references on handling situations where you think someone has misremembered something.",
+            "references": ["https://www.psychologytoday.com/us/blog/fulfillment-any-age/202001/what-s-the-right-way-correct-someone-who-s-wrong","https://www.atlassian.com/blog/teamwork/kindly-correct-someone-wrong"]
+        }]
+    },{
+        "name": "muddled",
+        "tags": ["social label"],
+        "description": "The sense that someone is talking or acting in a seemingly random and inconsistent way with no clear motivation.",
+        "perceptions": ["That person is acting in a strange and inconsistent way.","They probably don't realize it."],
+        "desires": ["desire for order","desire to be correct"],
+        "sensations": ["judgment","disrespect"],
+        "results": ["If the person is actually muddled, they probably cannot see it themselves.","Correcting them may be possible or impossible, obligatory or not worth it."],
+        "personOfInterestExperiences": ["forgetting","many","If you realize that you're muddled, you may feel a sense of failure, embarrassment, laugh it off, or anything inbetween."],
+        "examples": ["Someone forgets why they bought too much tape.","Someone with a little too much to drink is talking non-stop nonsense."],
+        "opposites": ["admiration"],
+        "comparisons": [{
+            "links": ["confusion"],
+            "description": "With 'muddled', you believe the other person has a 'disordered' (incorrect) mental state for the current situation."
+        }],
+        "guidance": [{
+            "description": "While a person you perceived as muddled is not always drunk, the same tips may apply.",
+            "references": ["https://peoplesafe.co.uk/blogs/13-tips-to-deal-with-drunken-individuals/"]
+        }]
+    },{
+        "name": "puzzled",
+        "description": "The sense that you aren't grasping a key pattern that would enable you to make sense of something or solve a problem.",
+        "perceptions": ["I'm faced with a problem or mystery.","I know there's a solution.","I should be able to find the solution.","There's a part of the challenge I'm not understanding."],
+        "desires": ["desire for order","desire to improve your environment"],
+        "sensations": ["frustration","dissatisfaction"],
+        "examples": ["Not understanding why your pet keeps hiding the toy.","Trying to understand why the modern world makes people crazy."],
+        "opposites": ["epiphany"],
+        "related": ["curiosity"],
+        "comparisons": [{
+            "links": ["confusion"],
+            "description": "With 'puzzled', your own thinking regarding the challenge feels disordered."
+        }]
+    },{
+        "name": "clinical confusion",
+        "tags": ["social label"],
+        "description": "An abnormal, acute, and persistent lack of effective goal-oriented behavior that may indicate a medical condition.",
+        "perceptions": ["That person is acting in a strange and inconsistent way.","They probably don't realize it.","They are going to hurt themselves or someone else."],
+        "desires": ["desire for order"],
+        "sensations": ["judgment","disrespect","sympathy"],
+        "results": ["The person may have a medical issue that needs attention."],
+        "personOfInterestExperiences": ["many"],
+        "comparisons": [{
+            "links": ["confusion"],
+            "description": "Regular confusion is an everyday thing for all of us. Clinical confusion is based on a medical condition that deserves attention."
+        }],
+        "guidance": [{
+            "description": "Many reputable medical websites have guidance on clinical confusion.",
+            "references": ["https://www.healthdirect.gov.au/confusion","https://www.mountsinai.org/health-library/symptoms/confusion","https://my.clevelandclinic.org/health/symptoms/25206-confusion"]
+        }]
+    }],
+    "commentaries": [{
+        "quote": "Confusion is better than idiotic conclusions.",
+        "attribution": "Sadhguru"
+    },{
+        "quote": "If you are sure you understand everything that is going on, you are hopelessly confused.",
+        "attribution": "Walter F. Mondale"
+    },{
+        "quote": "Confusion is the first step to knowledge.",
+        "attribution": "G.K. Chesterton"
+    },{
+        "quote": "The most confused you will ever get is when you try to convince your heart and spirit of something your mind knows is a lie.",
+        "attribution": "Shannon L. Alder"
+    },{
+        "quote": "Silence is a statement that is open to gross misinterpretation.",
+        "attribution": "Craig Reucassel"
+    },{
+        "quote": "The world is a very puzzling place. If you're not willing to be puzzled, you just become a replica of someone else's mind.",
+        "attribution": "Noam Chomsky"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["confusion","puzzled"],
+            "predominantType": "",
+            "levels": {
+              "4,3,2,1": {
+                "experiences": ["confusion"]
+              }
+            }
+        },{
+            "names": ["misinterpretation","misremembering","muddled","clinical confusion"],
+            "predominantType": "",
+            "levels": {
+              "4,3": {
+                "experiences": ["confusion"]
+              },
+              "2,1": {
+                "experiences": ["dissatisfaction"]
+              }
+            }
+        }]
+    }]
+}

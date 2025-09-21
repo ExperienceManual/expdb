@@ -1,0 +1,72 @@
+{
+    "lang": "en/us",
+    "createDate": "20250918",
+    "updateDate": "20250918",
+    "name": "intolerance",
+    "valence": 0,
+    "quote": "",
+    "description": "Outwardly reacting negatively to something annoying or painful, when you could have could have resisted reacting.",
+    "perceptions": ["There's something annoying or painful.","I could do something about it to make myself feel a little better without making the situation worse.","Of course I'll try to make it feel better."],
+    "desires": ["desire for comfort","desire for optimal"],
+    "sensations": ["annoyance","discomfort","pain","frustration","anger"],
+    "related": ["complaining"],
+    "opposites": ["tolerance"],
+    "examples": ["Yelling at the kids to be quiet while you're working at home."],
+    "variations": [{
+        "name": "social intolerance",
+        "description": "Treating someone negatively due to a social behavior or characteristic that you don't accept.",
+        "perceptions": ["Someone has a behavior or characteristic that is annoying or socially wrong.","I should do or say something about it to make them and my social group know how I feel."],
+        "desires": ["desire for social influence","desire to be perceived a certain way"],
+        "sensations": ["disrespect","annoyance","anger","disgust","contempt"],
+        "related": ["bullying contempt","impatience with people","sensitivity to stress"],
+        "opposites": ["social tolerance","patience"],
+        "examples": ["Shouting at someone who's politics you disagree with.","Treating someone negatively because they're a social outsider."],
+        "guidance": [{
+            "description": "If you decide that you'd like be more tolerant of something, see the guidance for tolerance.",
+            "references": ["tolerance"]
+        }]
+    },{
+        "name": "low tolerance of discomfort",
+        "description": "A sense that someone else cannot experience discomfort without complaining or trying to make the situation better at the expense of others.",
+        "tags": ["social label"],
+        "perceptions": ["That person is in a state of pain or discomfort.","They're overreacting to get attention or sympathy."],
+        "desires": ["desire for order","desire for comfort"],
+        "sensations": ["annoyance","sympathy"],
+        "personOfInterestExperiences": ["desire for optimal","sensitivity to stress"],
+        "related": ["complaining"],
+        "opposites": ["high tolerance of discomfort"],
+        "examples": ["Someone overreacts to a mosquito in the room.","Someone asks to turn the AC up when it's just slightly warm in the room."],
+        "guidance": [{
+          "description": "You might consider being tolerant of their low tolerance, or you could gently suggest they consider guidance on stress sensitivity.",
+          "references": ["sensitivity to stress"]
+        }]
+    }],
+    "commentaries": [{
+        "quote": "Tolerance of intolerance is cowardice.",
+        "attribution": "Ayaan Hirsi Ali"
+    },{
+        "quote": "I have seen great intolerance shown in support of tolerance.",
+        "attribution": "Samuel Taylor Coleridge"
+    },{
+        "quote": "If we extend unlimited tolerance even to those who are intolerant, if we are not prepared to defend a tolerant society against the onslaught of the intolerant, then the tolerant will be destroyed, and tolerance with them.",
+        "attribution": "Karl Popper"
+    },{
+        "quote": "Men build too many walls and not enough bridges.",
+        "attribution": "Joseph Fort Newton"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["intolerance","social intolerance","low tolerance of discomfort"],
+            "predominantType": "impulse",
+            "levels": {
+              "4,3": {
+                "experiences": ["intolerance"]
+              },
+              "2,1": {
+                "experiences": ["impatience","annoyance"]
+              }
+            }
+        }]
+    }]
+}

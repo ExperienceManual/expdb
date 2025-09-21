@@ -1,0 +1,54 @@
+{
+    "lang": "en/us",
+    "createDate": "20250914",
+    "updateDate": "20250914",
+    "name": "recalling",
+    "valence": 0,
+    "quote": "I'll remember it in a second.",
+    "description": "The act of scanning your memory for something.",
+    "perceptions": ["I should have a memory of something.","Let me look for it."],
+    "desires": ["desire for knowledge"],
+    "sensations": ["dissatisfaction"],
+    "results": ["You might remember, or you might have forgotten."],
+    "related": ["forgetting","nostalgia","just remembered","uncertain memory"],
+    "examples": ["Trying to remember the locker code.","Trying to recall where you met that person before."],
+    "guidance": [{
+        "description": "It's sobering-but-helpful to understand that our memories are not always accurate.",
+        "references": ["https://www.neurospot.co.nz/the-fallibility-of-memory","https://brain-smart.com/change/the-fallibility-of-memory-why-what-we-recall-isnt-always-reality/"]
+    },{
+        "description": "If you'd like to improve you memory, consider the guidance on 'forgetting'.",
+        "references": ["forgetting"]
+    }],
+    "comparisons": [{
+        "links": ["forgetting","just remembered","uncertain memory"],
+        "description": "'Recalling' is the act of searching for something. 'Forgetting' is when the search fails. 'Uncertain memory' is when the search results don't feel quite right. 'Just remembered' is the relief of a successful search."
+    }],
+    "commentaries": [{
+        "quote": "Every man's memory is his private literature.",
+        "attribution": "Aldous Huxley"
+    },{
+        "quote": "The work of memory collapses time.",
+        "attribution": "Walter Benjamin"
+    },{
+        "quote": "Memories are dangerous things. You turn them over and over, until you know every touch and corner, but still you'll find an edge to cut you.",
+        "attribution": "Mark Lawrence"
+    },{
+        "quote": "The heart's memory eliminates the bad and magnifies the good; and thanks to this artifice we manage to endure the burdens of the past.",
+        "attribution": "Gabriel García Márquez"
+    },{
+        "quote": "We now know that memories are not fixed or frozen... but are transformed, disassembled, reassembled, and recategorized with every act of recollection.",
+        "attribution": "Oliver Sacks"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["recalling"],
+            "predominantType": "action",
+            "levels": {
+              "4,3,2,1": {
+                "experiences": ["recalling"]
+              }
+            }
+        }]
+    }]
+}

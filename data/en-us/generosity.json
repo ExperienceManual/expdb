@@ -1,14 +1,14 @@
 {
   "lang": "en/us",
   "createDate": "20250305",
-  "updateDate": "20250902",
+  "updateDate": "20250919",
   "name": "generosity",
   "valence": 1,
   "quote": "She gave us her share of the chocolates.",
-  "description": "Giving to others something of more value than is socially expected.",
+  "description": "Giving to others something of more value than is socially expected without being forced and without expecting anything tangible in return.",
   "otherVariations": ["altruism"],
-  "perceptions": ["The other person needs this more than I need it.","There's no pressure for me to give this.","It makes me feel good to give this."],
-  "desires": ["desire for comfort","desire for meaning","desire for social status"],
+  "perceptions": ["The other person needs this more than I need it.","There's no pressure for me to give this.","It makes me feel good to give this.","I don't expect anything other than perhaps a little gratitude."],
+  "desires": ["desire for comfort","desire for meaning","desire to be perceived a certain way"],
   "sensations": ["satisfaction"],
   "guidance": [{
       "description": "There are a number of simple steps that we can take to make generosity more intentional in our lives.",
@@ -70,7 +70,7 @@
       "version": "em1",
       "variations": [{
           "names": ["generosity"],
-          "predominantType": "",
+          "predominantType": "impulse",
           "levels": {
             "4": {
               "experiences": ["narration"]
@@ -84,7 +84,7 @@
           }
       },{
           "names": ["expected generosity"],
-          "predominantType": "",
+          "predominantType": "sensation",
           "levels": {
             "4": {
               "experiences": ["narration"]
@@ -98,7 +98,7 @@
           }
       },{
           "names": ["admired generosity"],
-          "predominantType": "",
+          "predominantType": "sensation",
           "levels": {
             "4": {
               "experiences": ["narration"]
@@ -112,7 +112,7 @@
           }
       },{
           "names": ["over-generosity"],
-          "predominantType": "",
+          "predominantType": "sensation",
           "levels": {
             "4": {
               "experiences": ["narration"]

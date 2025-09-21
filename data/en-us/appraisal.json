@@ -1,7 +1,7 @@
 {
     "lang": "en/us",
     "createDate": "20250702",
-    "updateDate": "20250702",
+    "updateDate": "20250916",
     "name": "appraisal",
     "valence": 0,
     "timescale": ["unknown"],
@@ -23,6 +23,7 @@
     }],
     "variations": [{
         "name": "evaluation",
+        "alternateNames": ["critiquing"],
         "description": "A careful process of assigning characteristics and/or value to something or someone for a specific purpose. The process is meant to be fair and unbiased.",
         "perceptions": ["I need to know how to interact with this person or thing for a specific purpose.","Based on limited time and information, I need to apply a score of the relevant characteristics for this particular situation.","I need to be fair and careful about the process for accurate results."],
         "desires": ["desire for agency"],
@@ -44,7 +45,7 @@
         "desires": ["desire for agency"],
         "related": ["generalization","deduction"],
         "opposites": ["confusion"],
-        "examples": ["deciding on your favorite french fries","picking a team member for a sport"],
+        "examples": ["Deciding on your favorite french fries.","Picking a team member for a sport."],
         "guidance": [{
             "description": "Have you ever stopped to think about how many times a day you make judgments about people, situations, or events? It's a common habit that we all engage in. However, it's important to remember there's a big difference between making judgments and being judgmental.",
             "attribution": "Sanjana Gupta",
@@ -55,7 +56,7 @@
         "description": "The process of ranking multiple tasks or things against each other for a specific purpose.",
         "perceptions": ["I need to figure out what to do or choose first.","The results depend on many factors."],
         "desires": ["desire for optimal"],
-        "related": ["generalization","deduction"],
+        "related": ["generalization","deduction","clarity"],
         "opposites": ["randomness"],
         "examples": ["Choosing which task to do first.","Ranking your favorite movies."],
         "guidance": [{
@@ -65,7 +66,34 @@
         }],
         "comparisons": [{
             "links": ["judging","evaluation"],
-            "description": "'Prioritization' is a process of assigning value to multiple tasks or items, including the ordering of which one should be chosen first."
+            "description": "'Prioritization' is the outcome of judging or evaluating the value of multiple items."
+        }]
+    },{
+        "name": "negative judgment",
+        "description": "A negative appraisal about qualities or actions of something or someone.",
+        "perceptions": ["That thing or person has an aspect or doing something that I find unappealing."],
+        "desires": ["desire for comfort","desire for safety","desire for social status"],
+        "related": ["dissatisfaction","disrespect"],
+        "opposites": ["positive judgment"],
+        "examples": ["Vowing not to order that dish on the menu again.","You don't care for the new popular song."],
+        "comparisons": [{
+            "links": ["criticism"],
+            "description": "The 'negative judgment' happens first, then you'll do some justification on it and decide whether you're going to communicate it as criticism."
+        }]
+    },{
+        "name": "positive judgment",
+        "description": "A positive appraisal about qualities or actions of something or someone.",
+        "perceptions": ["That thing or person has an aspect or doing something that I find appealing."],
+        "desires": ["desire for comfort","desire for social status"],
+        "related": ["satisfaction","admiration"],
+        "opposites": ["negative judgment"],
+        "examples": ["Vowing to order that dish on the menu again.","Jamming to the new popular song."],
+        "comparisons": [{
+            "links": ["praise"],
+            "description": "The 'positive judgment' happens first, then you'll do some justification on it and decide whether you're going to communicate it as praise."
+        },{
+            "links": ["admiration"],
+            "description": "Admiration is about the consistent ability to produce positive judgements."
         }]
     }],
     "commentaries": [{

@@ -1,22 +1,37 @@
 {
     "lang": "en/us",
     "createDate": "20250819",
-    "updateDate": "20250819",
+    "updateDate": "20250917",
     "name": "melancholy",
     "valence": -1,
     "quote": "This run of dreary weather fits my mood.",
     "description": "An extended period of sadness tinged with serious thoughtful reflection. Sometimes melancholy can come with bittersweet or nostalgic experiences.",
     "alternateDefinitions": ["A severe bout of melancholy may be considered 'melancholia' -- a form of depression that may warrant professional assistance.","The 'Four Temperaments' personality profile defines a 'melancholic personality' that's only partly related to 'melancholy' as a standalone experience."],
-    "perceptions": ["I've lost something or missed an outcome I had wanted.","I'm saddened by the loss.","It's making me reflect on various things."],
+    "otherVariations": ["nostalgia"],
+    "perceptions": ["Something about the world is making me feel sad but not scared.","It's making me reflect on various things."],
     "desires": ["desire for comfort"],
-    "sensations": ["sadness","nostalgia","bittersweet"],
+    "sensations": ["sadness","bittersweet"],
     "related": ["gloom"],
     "opposites": ["joy"],
-    "examples": ["Hamlet's soliloquies.","The Raven by Edgar Allan Poe"],
+    "examples": ["Hamlet's soliloquies.","The Raven by Edgar Allan Poe","The long dark days of winter."],
     "guidance": [{
         "description": "Having a down mood from time to time is entirely normal. After all, you probably won’t feel deliriously happy with life all the time. However, when you have the blues, it can be difficult to shake it off. The good news is you have plenty of choices of things you can do to lift that melancholy mood.",
         "attribution": "Christine Field",
         "references": ["https://community.thriveglobal.com/quick-fixes-for-a-melancholy-mood/"]
+    }],
+    "variations": [{
+        "name": "wistfulness",
+        "description": "A feeling of reflective sadness brought about by something or someone gone or otherwise unattainable.",
+        "perceptions": ["I've lost something or missed an outcome I had wanted.","I'm saddened by the loss.","It's making me reflect on various things."],
+        "desires": ["desire for comfort"],
+        "sensations": ["sadness","losing","bittersweet","longing"],
+        "related": ["gloom"],
+        "opposites": ["joy"],
+        "examples": ["Wishing it was possible to visit with your grandmother again.","Missing your collection that was burnt in the fire."]
+    }],
+    "comparisons": [{
+        "links": ["wistfulness","nostalgia"],
+        "description": "'Wistfulness' is a specific type of melancholy where the driver is a specific unattainable longing. 'Nostalgia' is a specific type of wistfulness that is driven by personal memories of better times"
     }],
     "commentaries": [{
         "quote": "Melancholy is the happiness of being sad.",
@@ -33,11 +48,14 @@
     },{
         "quote": "Depression is melancholy minus its charms.",
         "attribution": "Susan Sontag"
+    },{
+        "quote": "We all feel wistfulness or regret about roads not taken.",
+        "attribution": "Deborah Tannen"
     }],
     "models": [{
         "version": "em1",
         "variations": [{
-            "names": ["melancholy"],
+            "names": ["melancholy","wistfulness"],
             "predominantType": "sensation",
             "levels": {
               "4,3": {

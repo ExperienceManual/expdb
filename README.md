@@ -75,9 +75,10 @@ Here are some guiding assumptions:
 - **Brain influences mind** - Our inside experience is related to the neurotransmitter chemicals in the brain, but it is not the same.
 - **First-person perspective** - A given experience feels very different from the inside than when observed in someone else. All of these files are from a first-person perspective, though some entries may reference what the "person of interest" may be experiencing. For example, the file for "hubris" assumes that the person in question is probably feeling "self-confidence".
 - **Go where the people are**
-    - **Accessible language** - The terminology used should be reasonably common. There are some beautifully precise words in the underlying fields that don't make a lot of sense to regular people.
+    - **Accessible language** - The terminology used should be reasonably common. There are some beautifully precise words in the underlying fields that don't make a lot of sense to regular people. Here's a non-exhausive list of some words only a professional loves: cognitive, epistemology, ontology, reaction formation.
     - **Share opposing views** - Commentaries can take provincial perspectives, but the main text should strive to explain what is seen, not what should be.
-    - **Allow what is/was** - This is about human experience, and history shows that experience revolves around: the divine supernatural, mating, violence, unfairness, imaginary things, and other things that trigger people.
+    - **Allow what is/was** - History shows that human experience commonly includes: the divine supernatural, mating, violence, unfairness, imaginary things, and other things that trigger people. Referring to these things can be done maturely.
+    - **Be welcoming** - People are here because they're curious, there's no need to turn them away with abrasive opinions or by assuming they have to believe X. For instance, the scientific worldview is that evolution is a natural fact and that it doesn't conflict with the beauty of the world's religions. However, there are many people who see otherwise. EM cannot solve this debate and there's no need to take sides.
 - **Thousand year rule** - we won't take a specific perspective other than to encourage things that our descendants 1,000 years in the future will care about. We need to let society decide which experiences to encourage and which to discourage.
 - **No Center** - The mind is an complicated emergent system with no single component or concern at the center. Just as Jerusalem was dethroned as the center of a flat earth, no particular part of the mind (ego, soul, amygdala, etc) is a keystone.
 - **Architect for multiple perspectives** - We need to allow for multiple underlying explanations for experiences as long as they're coherent and illuminating.
@@ -119,12 +120,12 @@ Notes on word usage:
 - **Subconscious** - experiences and desires that are difficult to perceive, but can be accessed with therapy, self-honesty, meditation, prayer, and/or diligence.
 - **Unconscious** - internal experiences and desires that cannot be accessed directly. Their existence must be implied.
 - **Outcome** - Our brains automatically predict things that could happen after the current situation. It's a relatively simple branching structure: for example, there's a good chance X happens next, a medium chance Y happens, and a small chance that Z happens. Each of these possible 'outcomes' may be associated with some experiences about how to influence the result.
-- **Virtue** - a characteristic of a person viewed as positive. e.g. "courage","wisdom",etc.
+- **Virtue** - a characteristic of a person viewed as positive. e.g. "courage","wisdom",etc. Note that a virtue in one subculture (e.g. 'compassion' or 'tough love') might not be viewed the same in another.
 - **Moral Rule** - A deeply important rule established by the society you live in.
 
 # Next Steps
 
-- Complete the set of files. About ~90 to go.
+- Complete the set of files. About ~60 to go.
 - Define and apply tags (e.g. 'trait','mood').
 - Build a tool to review the files and their links.
 - Build a web site and search engine to explore the files.

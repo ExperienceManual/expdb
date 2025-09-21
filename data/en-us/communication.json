@@ -4,6 +4,7 @@
     "updateDate": "20250806",
     "name": "communication",
     "valence": 0,
+    "otherVariations": ["criticism","complaining"],
     "quote": "Let's talk.",
     "description": "Taking action to share information with another.",
     "perceptions": ["I want to let another know something.","It may be a specific piece of information or an indirect signal."],
@@ -101,6 +102,24 @@
             "attribution": "James L.",
             "references": ["https://perfectmanifesto.com/2022/03/16/how-to-deal-with-a-bragger/"]
         }]
+    },{
+        "name": "clear communication",
+        "description": "A perception that someone's communication expresses the intended point in an efficient way.",
+        "perceptions": ["That person has said or done something that lets me understand something important.","Because of this information, I can consider what's next."],
+        "sensations": ["satisfaction","many"],
+        "results": ["The contents of the communication may be perceived as positive, neutral, or negative."],
+        "examples": ["The great professor made a complex subject enjoyable.","My enemy made it very clear that I'm next."],
+        "opposites": ["confusing communication"],
+        "related": ["clarity"]
+    },{
+        "name": "confusing communication",
+        "description": "A perception that someone's communication does not help us understand what's intended.",
+        "perceptions": ["That person has said or done something that does not help me understand.","Because I don't know what they're trying to say, I can't act on this information."],
+        "sensations": ["dissatisfaction","many"],
+        "results": ["The contents of the communication may be unknown, uncertain, hopeful, or worrying."],
+        "examples": ["The poor professor made a complex subject impenetrable.","My enemy made a confusing threat."],
+        "opposites": ["clear communication"],
+        "related": ["confusion"]
     }],
     "commentaries": [{
         "quote": "Communication—the human connection—is the key to personal and career success.",
@@ -120,7 +139,7 @@
     "models": [{
         "version": "em1",
         "variations": [{
-            "names": ["communication"],
+            "names": ["communication","clear communication","confusing communication"],
             "predominantType": "action",
             "levels": {
               "4,3,2,1": {

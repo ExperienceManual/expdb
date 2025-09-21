@@ -1,0 +1,48 @@
+{
+  "lang": "en/us",
+  "createDate": "20250913",
+  "updateDate": "20250913",
+  "name": "uncertainty",
+  "valence": 0,
+  "quote": "I'm not sure what's going to happen next.",
+  "description": "A sense that you're not able to predict the likelihood or desirability of outcomes in a given situation.",
+  "perceptions": ["Even if I know all the relevant information, I don't trust my ability to explain or predict an outcome."],
+  "desires": ["desire for knowledge","desire for certainty"],
+  "sensations": ["anxiety","dissatisfaction"],
+  "related": ["trust","deduction","confusion"],
+  "opposites": ["certainty"],
+  "examples": ["I don't know when the dog will stop barking.","He doesn't know what time he'll arrive."],
+  "guidance": [{
+      "description": "See the guidance for 'certainty'.",
+      "references": ["certainty"]
+  }],
+  "comparisons": [{
+      "links": ["pessimism"],
+      "description": "Being uncertain doesn't necessarily mean you predict a negative outcome. For example, you could be optimistically uncertain about whether you're going to miss the train."
+  }],
+  "commentaries": [{
+      "quote": "I can live with doubt and uncertainty and not knowing. I think it is much more interesting to live not knowing than to have answers that might be wrong.",
+      "attribution": "Richard Feynman"
+  },{
+      "quote": "Fear is often our immediate response to uncertainty.",
+      "attribution": "Gabrielle Bernstein"
+  },{
+      "quote": "Uncertainty is a sign of humility, and humility is just the ability or the willingness to learn.",
+      "attribution": "Charlie Sheen"
+  },{
+      "quote": "Uncertainty is the worst of all evils until the moment when reality makes us regret uncertainty.",
+      "attribution": "Alphonse Karr"
+  }],
+  "models": [{
+      "version": "em1",
+      "variations": [{
+          "names": ["uncertainty"],
+          "predominantType": "impulse",
+          "levels": {
+            "4,3,2,1": {
+                "experiences": ["uncertainty"]
+            }
+          }
+      }]
+  }]
+}

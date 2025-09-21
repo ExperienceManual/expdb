@@ -1,0 +1,73 @@
+{
+    "lang": "en/us",
+    "createDate": "20250908",
+    "updateDate": "20250910",
+    "name": "dissonance",
+    "valence": -1,
+    "quote": "This! But that. But this! But that.",
+    "description": "Fluctuating around a loop of unexpectedly conflicting perceptions, missed expectations, and uncertain desires. If not quickly resolved, the loop may drive various experiences depending on the context.",
+    "perceptions": ["A sense that you're helplessly shifting quickly between unexpected or conflicting perceptions, behaviors, and desires.","I need to stop this merry-go-round in the least damaging way."],
+    "desires": ["desire for comfort","desire to be perceived a certain way"],
+    "sensations": ["doubt","discomfort","anxiety","confusion","guilt","shame","anger","hope","hopelessness","irony","temptation","courage","defiance","victim","cheating","denial","repression"],
+    "results": ["The lack of certainty is bad enough, but the context may drive a number of uncomfortable experiences."],
+    "opposites": ["meaning","certainty"],
+    "examples": ["A bad thing happens to a good person.","A good friend tells an inappropriate joke.","Your family member falls for a phishing scam.","A friend betrays you.","Seeing both sides of quarelling groups."],
+    "comparisons": [{
+        "links": ["confusion"],
+        "description": "'Confusion' is when you're not clear about what's happening in some aspect of the world that you think you should be clear. 'Dissonance' is when you're clear about the choices, but not sure how to correctly resolve  them."
+    }],
+    "variations": [{
+        "name": "internal inconsistency",
+        "alternateNames": ["cognitive dissonance"],
+        "description": "Holding contradictory beliefs, desires, perceptions, or habits at the same time while expecting yourself to be consistent.",
+        "perceptions": ["I've done, our would like to do, a particular something.","Another part of my mind disagrees that this was (or would be) the right thing to do."],
+        "desires": ["desire for comfort","desire to be perceived a certain way"],
+        "sensations": ["doubt","discomfort","anxiety","confusion","guilt","shame","anger","temptation","courage","defiance","denial","repression"],
+        "results": ["The lack of certainty is bad enough, but the context may drive a number of uncomfortable experiences."],
+        "opposites": ["meaning","certainty"],
+        "examples": ["Eating a pint of ice cream while on a diet.","Wanting to go the show but needing to do something for your mom.","Doing a thing you know is dangerous."],
+        "guidance": [{
+            "description": "Cognitive dissonance is a psychological term that describes the discomfort you feel when your beliefs don’t line up with your actions. Or it could refer to the tension of holding two conflicting beliefs at once.",
+            "attribution": "Sonya Collins and Jabeen Begum, MD",
+            "references": ["https://www.webmd.com/mental-health/what-know-cognitive-dissonance"]
+        }],
+        "comparisons": [{
+            "links": ["dissonance"],
+            "description": "'Internal inconsistency' is a specific form of 'dissonance' where missed expectations or conflicting desires directly impact your self-image."
+        }]
+    }],
+    "commentaries": [{
+        "quote": "This definition puts a name on the broader sensation of 'pattern error'. It's based on the more traditional 'cognitive dissonance' definition which focuses on the 'internal inconsistency' aspect of pattern error. Both are precursors to a rush of other experiences, mostly negative.",
+        "tags": ["definition footnote"]
+    },{
+        "quote": "When dissonance is present, in addition to trying to reduce it, the person will actively avoid situations and information which would likely increase the dissonance.",
+        "attribution": "Leon Festinger"
+    },{
+        "quote": "Sometimes people hold a core belief that is very strong. When they are presented with evidence that works against that belief, the new evidence cannot be accepted. It would create a feeling that is extremely uncomfortable, called cognitive dissonance. And because it is so important to protect the core belief, they will rationalize, ignore and even deny anything that doesn't fit in with the core belief.",
+        "attribution": "Frantz Fanon"
+    },{
+        "quote": "Cognitive dissonance is often considered a failure of the human psyche. In fact, it is a vital asset. Had people been unable to hold contradictory beliefs and values, it would probably have been impossible to establish and maintain any human culture.",
+        "attribution": "Yuval Noah Harari"
+    },{
+        "quote": "To avoid the cognitive dissonance of not liking something that others seem to take so much pleasure in, we slowly change our perception of the thing we once did not enjoy.",
+        "attribution": "Ryan Hoover in 'Hooked: How to Build Habit-Forming Products'"
+    },{
+        "quote": "Wisdom is tolerance of cognitive dissonance.",
+        "attribution": "Robert Thurman"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["dissonance","cognitive dissonance"],
+            "predominantType": "sensation",
+            "levels": {
+              "4,3": {
+                "experiences": ["dissonance"]
+              },
+              "2,1": {
+                "experiences": ["anxiety"]
+              }
+            }
+        }]
+    }]
+}

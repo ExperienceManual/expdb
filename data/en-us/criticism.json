@@ -1,0 +1,84 @@
+{
+    "lang": "en/us",
+    "createDate": "20250916",
+    "updateDate": "20250919",
+    "name": "criticism",
+    "valence": -1,
+    "quote": "I think she could be more focused.",
+    "description": "Communicating a negative appraisal about qualities or actions of something or someone with the hope of trying to influence a situation.",
+    "perceptions": ["That thing or person has an aspect or doing something that I find unappealing.","Letting someone else know about my view may help them, the situation, or my standing."],
+    "desires": ["desire for comfort","desire for safety","desire for social status"],
+    "sensations": ["negative judgment","dissatisfaction","appraisal","disrespect","shaming someone"],
+    "related": ["complaining"],
+    "opposites": ["praise"],
+    "personOfInterestExperiences": ["receiving criticism"],
+    "examples": ["Movie gets a bad review by a film critic.","Giving your employee negative feedback on a project."],
+    "guidance": [{
+        "description": "Discover the true meaning of constructive criticism and learn how to deliver it effectively. Explore 10 practical examples and 8 valuable tips on how and when to use constructive criticism for positive impact.",
+        "attribution": "Ivan Andreev",
+        "references": ["https://www.valamis.com/hub/constructive-criticism"]
+    }],
+    "variations": [{
+        "name": "receiving criticism",
+        "description": "A perception that someone has judged one of your characteristics or actions in a negative way.",
+        "perceptions": ["Someone has communicated something negative about me or someone close."],
+        "desires": ["desire to be perceived a certain way"],
+        "sensations": ["failure","unfairness","shame","anger","defensiveness"],
+        "results": ["If you agree with the criticism, you may feel failure or shame.","If you disagree with the criticism, you feel unfairness or anger."],
+        "examples": ["Your boss gives you negative feedback on the project.","Your teenager says you're too controlling."],
+        "opposites": ["receiving praise"],
+        "guidance": [{
+            "description": "Here are some references that may help deal more gracefully with critcism.",
+            "references": ["https://www.wondermind.com/article/criticism/","https://highlysensitiverefuge.com/highly-sensitive-people-criticism/"]
+        }]
+    }],
+    "comparisons": [{
+        "links": ["critiquing"],
+        "description": "Ideally, a 'critique' is a balanced evaluation that is intended to help the receiver. A 'criticism' on the otherhand, is a negative judgment that is intended to push the receiver to change behavior."
+    }],
+    "commentaries": [{
+        "quote": "It’s okay to set boundaries and disagree with any comments that you receive. Unless it’s a trusted confidant and you asked for their opinion, the person judging you is probably not the most reliable source for pointing out your flaws.",
+        "attribution": "Rupali Grover, LPCC"
+    },{
+        "quote": "Being told you’ve stepped out of line—whether they’re right or wrong—can make you feel inadequate or incapable. And because we’re social creatures who don’t want other people to view us poorly for letting them down or messing up, we often get defensive when criticized.",
+        "attribution": "Sam Brodsky paraphrasing Ellen Hendriksen, PhD"
+    },{
+        "quote": "Criticism may not be agreeable, but it is necessary. It fulfills the same function as pain in the human body; it calls attention to the development of an unhealthy state of things.",
+        "attribution": "Winston Churchill"
+    },{
+        "quote": "The final proof of greatness lies in being able to endure criticism without resentment.",
+        "attribution": "Elbert Hubbard"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["criticism"],
+            "predominantType": "impulse",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["criticism"]
+              },
+              "2,1": {
+                "experiences": ["dissatisfaction"]
+              }
+            }
+        },{
+            "names": ["receiving criticism"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["receiving criticism"]
+              },
+              "2,1": {
+                "experiences": ["dismay"]
+              }
+            }
+        }]
+    }]
+}

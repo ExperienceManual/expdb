@@ -1,0 +1,84 @@
+{
+    "lang": "en/us",
+    "createDate": "20250920",
+    "updateDate": "20250920",
+    "name": "interfering",
+    "valence": 0,
+    "quote": "Maybe I can slow them down.",
+    "description": "Working to disrupt a process that you would prefer to slow down or stop.",
+    "perceptions": ["There's a process taking place that I would like to stop or slow down.","I can take an action to delay it or prevent it from happening."],
+    "desires": ["desire for a particular outcome"],
+    "sensations": ["anxiety",""],
+    "results": ["Interfering may be welcome or unwelcome depending on the context."],
+    "personOfInterestExperiences": ["frustration","anger","gratitude","delight"],
+    "related": ["attacking","defense"],
+    "opposites": ["being helpful"],
+    "examples": ["We may be able to slow the competitor's sale by pitching a lower price.","The herbicide slows down weed growth.","The basketball player tried to stop the opposing player from getting a clear shot.","Medicine slows the advance of the deadly disease."],
+    "variations": [{
+        "name": "being interfered with",
+        "description": "The sense that someone or something is slowing, disrupting, or stopping a process that you're carrying out or watching.",
+        "perceptions": ["I'm working on or watching something that's and extended process.","Something is slowing or stopping it."],
+        "desires": ["desire for a particular outcome"],
+        "sensations": ["frustration","dismay","delight"],
+        "results": ["Depending on whether the process in question is desirable or not, the results of interference may be seen as positive or negative.","The interference may cause additional work."],
+        "examples": ["Having a baby makes it harder to get good sleep.","Mildew attacks plants in your garden."],
+        "opposites": ["helpfulness"],
+        "related": ["defense","attacking"],
+        "guidance": [{
+            "description": "Often interference is a setback that can be frustrating. See guidance for 'frustration'.",
+            "references": ["frustration"]
+        }]
+    }],
+    "comparisons": [{
+        "links": ["attacking"],
+        "description": "The effect of 'interfering' is not directly to harm the target, but rather to slow or stop a certain behavior. With 'attacking' the goal is directed at the target's health."
+    }],
+    "commentaries": [{
+        "quote": "In a poem, the words happen; they just come. I let them. Otherwise, I wouldn't write. To interfere with what is happening is to distort the poem.",
+        "attribution": "Louis Dudek"
+    },{
+        "quote": "Don't let schooling interfere with your education.",
+        "attribution": "Mark Twain"
+    },{
+        "quote": "In private life I never knew anyone interfere with other people's disputes but he heartily repented of it.",
+        "attribution": "Thomas Carlyle"
+    },{
+        "quote": "I don't think you should meet the people you most admire. I don't want reality to interfere with my image.",
+        "attribution": "Ayumi Hamasaki"
+    },{
+        "quote": "Most people find facts irritating. Facts interfere with their systems of denial.",
+        "attribution": "Walter Darby Bannard"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["interfering"],
+            "predominantType": "action",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["interfering"]
+              },
+              "2,1": {
+                "experiences": ["satisfaction"]
+              }
+            }
+        },{
+            "names": ["being interfered with"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["being interfered with"]
+              },
+              "2,1": {
+                "experiences": ["dissatisfaction"]
+              }
+            }
+        }]
+    }]
+}

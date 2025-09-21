@@ -1,11 +1,12 @@
 {
   "lang": "en/us",
   "createDate": "20250205",
-  "updateDate": "20250528",
+  "updateDate": "20250921",
   "name": "aggressiveness",
   "valence": 0,
   "quote": "He's being very pushy about this.",
-  "description": "A negative perception that someone else is threatening or energetically proposing a particular change that is not welcome. The person in question likely feels justified in these actions. If the actions don't negatively effect someone, then they are 'ambition'.",
+  "description": "A negative perception that someone else is threatening or energetically proposing a particular change that is not welcome.",
+  "otherVariations": ["interfering"],
   "perceptions": ["Someone is exerting energy to get what they want.","Either the whole effort is unwelcome or they're doing it with more energy than required."],
   "sensations": ["anxiety","annoyance","resentment","fear"],
   "results": ["depends on the context and your relation to the person"],
@@ -16,7 +17,7 @@
       "references": ["https://peoplesafe.co.uk/blogs/how-to-diffuse-aggression-conflict-resolution-tips/"]
   }],
   "related": ["attack","ambition","defensiveness"],
-  "opposites": ["calmness", "introspection", "respect"],
+  "opposites": ["calmness","respect","helpfulness"],
   "variations": [{
       "name": "realized aggressiveness",
       "description": "If you recognize that recent actions have been more pushy than necessary or unfairly ignoring others' interests, you may feel some regret.",
@@ -28,6 +29,12 @@
   "comparisons": [{
       "links": ["attack"],
       "description": "'Attack' is the action taken to forcibly advance an agenda, while 'aggressiveness' is a label applied to someone who is perceived as negatively affecting others."
+  },{
+      "links": ["ambition"],
+      "description": "Sometimes people might use 'aggressive' as another way to say energetic, but if the actions don't negatively effect someone, then they're probably more 'ambition'. For example, aggressively cleaning the house."
+  },{
+      "links": ["defensiveness"],
+      "description": "'Defensiveness' can be seen as a form of aggressively defending yourself."
   }],
   "commentaries": [{
       "quote": "Some types of aggressiveness can be good. If it's seen that the intended target of your actions is beneficial and that the impact to others' interests is collateral damage, it may be forgiven. But if aggressiveness is aimed specifically at degrading others' interests, they may perceive it negatively."

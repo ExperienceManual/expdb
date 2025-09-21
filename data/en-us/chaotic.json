@@ -1,0 +1,71 @@
+{
+    "lang": "en/us",
+    "createDate": "20250914",
+    "updateDate": "20250914",
+    "name": "chaotic",
+    "valence": 0,
+    "quote": "It's a mess.",
+    "description": "Negativity from a perception that your mind or the environment is unordered or out of control.",
+    "perceptions": ["Things are not following a pattern I recognize.","I can't predict what's going to happen.","I don't feel like I have any control over what's going to happen."],
+    "desires": ["desire for order","desire for agency"],
+    "sensations": ["anxiety","confusion","disorientation","overwhelmed"],
+    "results": ["You may enjoy the stimulation for a while, but most people prefer some order in their lives."],
+    "opposites": ["calmness","boredom"],
+    "examples": ["A playground full of young kids.","A crowded airport on a holiday weekend."],
+    "guidance": [{
+        "description": "Various tips on dealing with a situation that seems chaotic.",
+        "references": ["https://www.wondermind.com/article/cope-with-chaos/","https://giving.massgeneral.org/stories/12-tips-to-help-you-make-sense-of-a-world-in-chaos"]
+    }],
+    "variations": [{
+        "name": "welcome chaos",
+        "description": "Positivity from a perception that your mind or the environment is unordered or out of control.",
+        "perceptions": ["I feel my environment has been stuck in an unpleasant way.","Things are not following a pattern I recognize.","I can't predict what's going to happen.","Maybe things will wind up better than they were."],
+    "desires": ["desire to improve","desire for stimulation"],
+    "sensations": ["excitement","hope"],
+    "results": ["You may enjoy the stimulation for a while, but most people prefer some order in their lives."],
+    "opposites": ["calmness","boredom"],
+    "examples": ["Yearly visit from the grandkids.","Joining an energetic protest for something you feel strongly about."]
+    }],
+    "commentaries": [{
+        "quote": "Chaos was the law of nature; order was the dream of man.",
+        "attribution": "Henry B. Adams"
+    },{
+        "quote": "In times of chaos, get back to who you are. Hold on to your inner light. Stay focused.",
+        "attribution": "Elena Levon"
+    },{
+        "quote": "Chaos in the midst of chaos isn't funny, but chaos in the midst of order is.",
+        "attribution": "Steve Martin"
+    },{
+        "quote": "We adore chaos because we love to produce order.",
+        "attribution": "M.C. Escher"
+    },{
+        "quote": "Chaos does not mean total disorder. Chaos means a multiplicity of possibilities.",
+        "attribution": "Jok Church"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["chaotic"],
+            "predominantType": "sensation",
+            "levels": {
+              "4,3": {
+                "experiences": ["chaotic"]
+              },
+              "2,1": {
+                "experiences": ["dissatisfaction"]
+              }
+            }
+        },{
+            "names": ["welcome chaos"],
+            "predominantType": "sensation",
+            "levels": {
+              "4,3": {
+                "experiences": ["welcome chaos"]
+              },
+              "2,1": {
+                "experiences": ["satisfaction"]
+              }
+            }
+        }]
+    }]
+}

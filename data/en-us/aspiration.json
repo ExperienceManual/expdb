@@ -3,6 +3,7 @@
   "createDate": "20250306",
   "updateDate": "20250625",
   "name": "aspiration",
+  "alternateNames": ["desire for a particular outcome"],
   "valence": 1,
   "quote": "Someday I'd like to be a good bowler.",
   "description": "A desire to achieve a particular state of being someday without a specific plan to reach it.",

@@ -1,0 +1,79 @@
+{
+    "lang": "en/us",
+    "createDate": "20250917",
+    "updateDate": "20250918",
+    "name": "tolerance",
+    "valence": 0,
+    "quote": "",
+    "description": "A calm and deliberate decision to allow something annoying or painful to persist, even when you have some power to make it better.",
+    "perceptions": ["There's something annoying or painful.","I could do something about it to make myself feel a little better without making the situation worse.","I choose not to."],
+    "desires": ["desire for comfort","desire to be perceived a certain way"],
+    "sensations": ["patience","mental endurance","annoyance"],
+    "related": ["acceptance","stoicism","suppressed anger","impatient endurance"],
+    "opposites": ["intolerance","complaining"],
+    "examples": ["Putting up with your noisy kids while trying to work at home."],
+    "guidance": [{
+        "description": "The ability to endure other people or situations that you find annoying, irritating or downright unpleasant—is a crucial part of living and interacting with others.",
+        "attribution": "skillsyouneed.com",
+        "references": ["https://www.skillsyouneed.com/ps/tolerance.html"]
+    }],
+    "comparisons": [{
+        "links": ["acceptance","suppressed anger"],
+        "description": "'Acceptance' is what you feel when there's nothing you can do to change the situation. 'Suppressed anger' is when you're afraid that doing or saying something will make the situation worse. 'Tolerance' is used when we could do or say something, but choose not to."
+    }],
+    "variations": [{
+        "name": "social tolerance",
+        "description": "A deliberate decision to allow someone to persist in a social behavior or characteristic that you find annoying or painful without complaint.",
+        "perceptions": ["Someone has a behavior or characteristic that is annoying or socially wrong.","I could do or say something about it to make myself feel a little better without making the situation worse.","I choose not to."],
+        "desires": ["desire for social status","desire to be perceived a certain way"],
+        "sensations": ["patience","mental endurance","annoyance"],
+        "related": ["acceptance","stoicism","suppressed anger","impatient endurance"],
+        "opposites": ["social intolerance","desire for social influence"],
+        "examples": ["Not shouting at someone who's politics you disagree with.","Not treating someone negatively because they're a social outsider."]
+    },{
+        "name": "high tolerance of discomfort",
+        "description": "A sense that complaining about minor discomfort is not worthwhile and not part of your identity.",
+        "perceptions": ["I'm in a state of pain or discomfort.","I could do or say something about it to make myself feel a little better.","I choose not to."],
+        "desires": ["desire to be perceived a certain way","desire for comfort"],
+        "sensations": ["patience","mental endurance","discomfort","pain"],
+        "related": ["acceptance","stoicism","impatient endurance","resilience to stress"],
+        "opposites": ["low tolerance of discomfort","complaining"],
+        "examples": ["Not complaining about an injury so as not to worry others.","Not asking to turn the temperature up when it's chilly to save on utility bills."]
+    }],
+    "commentaries": [{
+        "quote": "Tolerance isn't about not having beliefs. It's about how your beliefs lead you to treat people who disagree with you.",
+        "attribution": "John F. Kennedy"
+    },{
+        "quote": "Be tolerant with one another and forgive one another whenever any of you has a complaint against someone else.",
+        "attribution": "Bible Colossians 3:13"
+    },{
+        "quote": "In the practice of tolerance, one's enemy is the best teacher.",
+        "attribution": "Dalai Lama"
+    },{
+        "quote": "The man who is most aggressive in teaching tolerance is the most intolerant of all: he wants a world full of people too timid and ashamed to really disagree with anything.",
+        "attribution": "Criss Jami"
+    },{
+        "quote": "What is tolerance? It is the consequence of humanity. We are all formed of frailty and error; let us pardon reciprocally each other's folly - that is the first law of nature.",
+        "attribution": "Voltaire"
+    },{
+        "quote": "Chronically insecure people easily lose their altruism, tolerance, and respect for non-conformity.",
+        "attribution": "Guy Standing"
+    },{
+        "quote": "There are lots of reasons you might tolerate an annoyance. Most of them have to do with your self-identity."
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["tolerance","high tolerance of discomfort","social tolerance"],
+            "predominantType": "impulse",
+            "levels": {
+              "4,3": {
+                "experiences": ["tolerance"]
+              },
+              "2,1": {
+                "experiences": ["patience","annoyance"]
+              }
+            }
+        }]
+    }]
+}

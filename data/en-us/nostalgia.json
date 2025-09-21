@@ -1,20 +1,16 @@
 {
   "lang": "en/us",
   "createDate": "20241201",
-  "updateDate": "20250513",
+  "updateDate": "20250917",
   "name": "nostalgia",
   "valence": 0,
   "quote": "Those were the days.",
   "description": "Pleasant memories of the past along with a sense of sadness that you can no longer directly experience that world. Often the memories are centered on other people and how you felt better at that time in some way.",
-  "perceptions": ["There was a time in the past when you felt better in some way than you do now."],
+  "perceptions": ["There was a time in the past when I felt better in some way than I do now."],
   "desires": ["desire for comfort"],
-  "sensations": ["wistfulness"],
-  "results": ["desire to re-experience those times"],
-  "related": ["sadness","wistfulness", "bittersweet", "losing"],
-  "comparisons": [{
-    "links": ["wistfulness"],
-    "description": "Nostalgia is a special case of wistfulness where the unattainable experience is about a time in the past where you have pleasant memories."
-  }],
+  "sensations": ["wistfulness","longing","losing"],
+  "results": ["A desire to re-experience those times."],
+  "related": ["sadness","bittersweet","losing"],
   "variations": [
     {
       "name": "cohort bonding",

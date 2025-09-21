@@ -57,8 +57,7 @@
       "perceptions": ["I'm safer and more comfortable in an environment with certain characteristics."],
       "desires": ["desire for health","desire for safety"],
       "examples": [ "Wanting to stay away from liars who pollute your ability to perceive clearly.", "Wanting to live in a clean place with safe water.", "Wanting to stay away from people who are perceived to be a bad influence." ]
-    }
-  ],
+  }],
   "comparisons": [{
       "links": ["desire for knowledge","desire for agency"],
       "description": "We want to understand each environment so that we can predict what might happen in various scenarios and influence the outcome. So the desire for agency drives a desire for order, which drives us to put energy into gaining knowledge about the environment."

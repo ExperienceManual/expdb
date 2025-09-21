@@ -1,0 +1,95 @@
+{
+    "lang": "en/us",
+    "createDate": "20250919",
+    "updateDate": "20250919",
+    "name": "complaining",
+    "valence": -1,
+    "quote": "It's too hot outside.",
+    "description": "Expressing a negative appraisal about qualities or actions of something or someone mainly to get validation.",
+    "perceptions": ["That thing or person has an aspect or doing something that I find unappealing.","I would like someone to agree with me or at least sympathize a little."],
+    "desires": ["desire for comfort","desire for social contact"],
+    "sensations": ["negative judgment","dissatisfaction","appraisal","disrespect"],
+    "related": ["criticism","venting"],
+    "opposites": ["tolerance"],
+    "personOfInterestExperiences": ["hearing a complaint"],
+    "examples": ["Person who lives in the desert moans about the heat.","You snap at the cashier for the line moving slowly."],
+    "guidance": [{
+        "description": "Complaining is a natural part of human communication. It is often a response to problems or a way to communicate dissatisfaction. Sometimes, however, people might find themselves wondering if they complain too much. In such cases, knowing how to stop complaining can help you manage your stress in more adaptive ways.",
+        "attribution": "Elizabeth Scott, PhD",
+        "references": ["https://www.verywellmind.com/how-and-why-stop-complaining-3144882"]
+    }],
+    "variations": [{
+        "name": "hearing a complaint",
+        "description": "A perception that someone is seeking validation or sympathy for something everyone else is dealing with as well.",
+        "perceptions": ["Someone has communicated something negative about something that can't be easily changed.","Others are dealing with it."],
+        "desires": ["desire for order"],
+        "sensations": ["annoyance","sympathy","disrespect"],
+        "personOfInterestExperiences": ["criticism"],
+        "results": ["If the complaint is valid, you may take it as criticism and have some sympathy.","If you disagree with the complaint, you feel disrespect for the person."],
+        "examples": ["Customer complains about the prices going up.","People at the airport upset about weather causing flight delays."],
+        "opposites": ["receiving praise"],
+        "guidance": [{
+            "description": "Strategies for Dealing With Chronic Complainers",
+            "attribution": "Ilene Strauss Cohen Ph.D.",
+            "references": ["https://www.psychologytoday.com/us/blog/your-emotional-meter/202406/managing-chronic-complainers"]
+        }]
+    }],
+    "comparisons": [{
+        "links": ["criticism"],
+        "description": "The goals of 'criticism' are to make others aware of a particular aspect of something and to bring positive attention to your perceptiveness. The goals of 'complaining' are to relieve stress and to draw sympathy."
+    }],
+    "commentaries": [{
+        "quote": "Complaining is a complete waste of one's energy. Those who complain the most accomplish the least.",
+        "attribution": "Robert Tew"
+    },{
+        "quote": "The wheel that squeaks the loudest is the one that gets the grease.",
+        "attribution": "proverb"
+    },{
+        "quote": "Every complaint is a little story the mind makes up that you completely believe in.",
+        "attribution": "Byron Katie"
+    },{
+        "quote": "Complaining about a problem without posing a solution is called whining.",
+        "attribution": "Teddy Roosevelt"
+    },{
+        "quote": "I will hear not those who weep and complain, for their disease is contagious.",
+        "attribution": "Og Mandino"
+    },{
+        "quote": "God help me... that I be not as those are who spend the day in complaining of headache, and the night in drinking the wine which gives the headache!",
+        "attribution": "Johann Wolfgang von Goethe"
+    },{
+        "quote": "If you see something wrong, complain about it, but do something about it, too.",
+        "attribution": "Dr. Barbara Shaw"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["complaining"],
+            "predominantType": "impulse",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["complaining"]
+              },
+              "2,1": {
+                "experiences": ["dissatisfaction"]
+              }
+            }
+        },{
+            "names": ["hearing a complaint"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["hearing a complaint"]
+              },
+              "2,1": {
+                "experiences": ["dismay"]
+              }
+            }
+        }]
+    }]
+}

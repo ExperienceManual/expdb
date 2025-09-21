@@ -20,6 +20,7 @@
   }],
   "variations": [{
       "name": "desire to improve your environment",
+      "alternateNames": ["desire to solve a problem"],
       "description": "Dissatisfaction with some aspect of your environment that prompts you to want to make a change.",
       "perceptions": ["Some part of my environment is not ideal.","I could make it better."],
       "sensations": ["dissatisfaction"],

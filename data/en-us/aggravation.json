@@ -1,0 +1,45 @@
+{
+    "lang": "en/us",
+    "createDate": "20250917",
+    "updateDate": "20250917",
+    "name": "aggravation",
+    "alternateNames": ["exacerbation"],
+    "valence": -1,
+    "quote": "When it rains, it pours.",
+    "description": "A sense that more negatives are being added to already negative situation.",
+    "alternateDefinitions": ["Sometimes 'aggravated' is used to mean 'angry'."],
+    "perceptions": ["Things were already bad.","Now something happened to make things worse."],
+    "desires": ["desire for comfort","desire for safety"],
+    "sensations": ["annoyance","sadness","frustration","pain","anger","fear"],
+    "opposites": ["consolation"],
+    "examples": ["You get the flu while having a broken arm.","You're already late for an important appointment and get a flat tire.","You break your favorite mug slamming it on the counter in anger."],
+    "guidance": [{
+        "description": "See guidance for anger or frustration.",
+        "references": ["anger","frustration"]
+    }],
+    "commentaries": [{
+        "quote": "If you have a job without any aggravations, you don't have a job.",
+        "attribution": "Malcolm Forbes"
+    },{
+        "quote": "The effect of power and publicity on all men is the aggravation of self, a sort of tumor that ends by killing the victim's sympathies.",
+        "attribution": "Henry Adams"
+    },{
+        "quote": "A vacation trip is one-third pleasure, fondly remembered, and two-thirds aggravation, entirely forgotten.",
+        "attribution": "Robert Breault"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["aggravation"],
+            "predominantType": "sensation",
+            "levels": {
+              "4,3": {
+                "experiences": ["aggravation"]
+              },
+              "2,1": {
+                "experiences": ["many negative"]
+              }
+            }
+        }]
+    }]
+}

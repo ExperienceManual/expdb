@@ -1,0 +1,55 @@
+{
+    "lang": "en/us",
+    "createDate": "20250915",
+    "updateDate": "20250915",
+    "name": "clarity",
+    "valence": 1,
+    "quote": "We know what the goal is.",
+    "description": "Having a solid sense of what's important and why.",
+    "perceptions": ["I know what aspects and outcomes are important.","I can communicate why they're important."],
+    "desires": ["many"],
+    "sensations": ["many"],
+    "results": ["You may or may not have a plan to achieve the desired outcome.","You may or may not be certain the outcome is possible."],
+    "related": ["certainty","priortization","meaning"],
+    "opposites": ["confusion"],
+    "examples": ["We need to win this game to stay in the championship.","We have to get to the hospital as soon as possible."],
+    "guidance": [{
+        "description": "These articles may help strategies to find clarity about what's important.",
+        "references": ["https://www.psychologytoday.com/us/blog/quantum-leaps/202012/how-to-get-clarity-and-make-important-decisions","https://bemorewithless.com/clarity/"]
+    }],
+    "comparisons": [{
+        "links": ["certainty"],
+        "description": "'Certainty' is having confidence in a particular explanation or outcome. 'Clarity' is knowing which experiences and outcomes are important to you and why."
+    }],
+    "commentaries": [{
+        "quote": "You must first clearly see a thing in your mind before you can do it.",
+        "attribution": "Alex Morrison"
+    },{
+        "quote": "Clarity is a state of mind. It is the result of an inquiry that clears the mind. It allows us to know the next step without having to know every aspect of the outcome.",
+        "attribution": "Tony Zampella"
+    },{
+        "quote": "Waiting for clarity is like being a sculptor staring at a piece of marble, waiting for the statue within to cast off the unneeded pieces. Do not wait for clarity to spontaneously materialize—grab a chisel and get busy!",
+        "attribution": "Steve Pavlina"
+    },{
+        "quote": "There's a lot of clarity in hindsight.",
+        "attribution": "Julia Hartz"
+    },{
+        "quote": "It's amazing the clarity that comes with psychotic jealousy.",
+        "attribution": "Rupert Everett"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["clarity"],
+            "predominantType": "",
+            "levels": {
+              "4,3,2": {
+                "experiences": ["clarity"]
+              },
+              "1": {
+                "experiences": ["satisfaction"]
+              }
+            }
+        }]
+    }]
+}
