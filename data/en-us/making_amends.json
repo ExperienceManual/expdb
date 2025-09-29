@@ -1,0 +1,113 @@
+{
+    "lang": "en/us",
+    "createDate": "20250926",
+    "updateDate": "20250926",
+    "name": "making amends",
+    "valence": 0,
+    "quote": "I'll make it right.",
+    "description": "Working towards trying to repair a situation viewed as your own mistake or failure directly with the person or group affected.",
+    "perceptions": ["I did something wrong.","I can at least partially fix things with the person I wronged."],
+    "desires": ["desire for order","desire for comfort"],
+    "sensations": ["regret","guilt","shame","apologetic","hope"],
+    "results": ["The recipient may or may not accept the amends."],
+    "personOfInterestExperiences": ["gratitude","uncertainty","distrust"],
+    "opposites": ["sabotage"],
+    "examples": ["Doing community service.","Confession to someone you wronged."],
+    "guidance": [{
+        "description": "If you want to try to patch a damaged relationship, here are some references to consider.",
+        "references": ["https://www.psychologytoday.com/us/blog/beyond-mental-health/202309/have-we-forgotten-how-to-make-amends","https://www.wikihow.com/Make-Amends"]
+    }],
+    "variations": [{
+        "name": "indirect amends",
+        "description": "Working towards trying to repair a situation viewed as your own mistake or failure by doing something that they would approve of.",
+        "perceptions": ["I did something wrong.","I can't interact with the person I wronged.","I could at least do something they would approve of if they found out."],
+        "desires": ["desire for order","desire for comfort"],
+        "sensations": ["regret","guilt","shame","apologetic","hope"],
+        "examples": ["The person you want to make amends with has passed.","The person you want to make amends with won't talk to you so you give to a charity they support."],
+        "guidance": [{
+            "description": "Sometimes, a person will simply not be willing to accept your apology or efforts to compensate them for the harm you’ve caused. They may be dealing with their own mental health issues or the effects of past trauma and not be ready to move forward. Even though this may be painful, you need to accept that you cannot control how others respond to this part of your recovery journey.",
+            "references": ["https://waypointrecoverycenter.com/blog/making-amends-a-crucial-part-of-the-12-steps/"]
+        }],
+        "opposites": ["sabotage"]
+    },{
+        "name": "restitution",
+        "description": "Providing something of financial value to someone as compensation for what you perceive as your mistake.",
+        "perceptions": ["I harmed someone and made them lose assets or money.","I want to apologize in part by providing something of equal financial value."],
+        "desires": ["desire for order","desire for comfort"],
+        "sensations": ["regret","guilt","shame","apologetic","hope"],
+        "personOfInterestExperiences": ["gratitude","uncertainty","distrust"],
+        "results": ["The recipient will probably accept the money, but they may or may not forgive."],
+        "examples": ["You accidentally broke someone's vase and paid for a replacement.","You knocked someone over and paid for their medical examination."],
+        "opposites": ["stealing"],
+        "related": ["justice"]
+    },{
+        "name": "mandated restitution",
+        "description": "Being forced to provide something of financial value to someone as compensation for what others perceive as your mistake.",
+        "perceptions": ["I harmed someone and made them lose assets or money.","I am being forced to give them something of equal financial value."],
+        "desires": ["desire for order","desire for social status"],
+        "sensations": ["dissonance","resentment","shame"],
+        "personOfInterestExperiences": ["gratitude","uncertainty","distrust"],
+        "results": ["The recipient will probably accept the money, but they may or may not forgive."],
+        "examples": ["The court orders you to pay for minor damages.","Parents make their child pay for the deliberately broken item from his allowance."],
+        "opposites": ["stealing"],
+        "related": ["justice"]
+    },{
+        "name": "reconciliation",
+        "description": "A two-sided process of trying to repair a damaged relationship.",
+        "perceptions": ["I harmed someone and they harmed me.","We are working together to sort it all out.","The goal is to try and patch things up to whatever extend possible."],
+        "desires": ["desire for order","desire for social contact"],
+        "sensations": ["dissonance","regret","uncertainty","distrust","hope"],
+        "personOfInterestExperiences": ["reconciliation"],
+        "examples": ["A couple goes through marriage counseling.","Business partners come to the negotiating table."],
+        "opposites": ["attack"]
+    }],
+    "comparisons": [{
+        "links": ["restitution"],
+        "description": "'Making amends' is about trying to repair the relationship or return the environment closer to what it was before. It may or may not involve giving away money or physical assets. 'Restitution' is about the value of the material items, and not focused on the relationship. You can make amends without money, and you can perform restitution without attempting to patch the trust."
+    },{
+        "links": ["reconciliation"],
+        "description": "'Reconciliation' is when both sides admit to having wronged each other and both want to make amends."
+    }],
+    "commentaries": [{
+        "quote": "Making amends is not only saying the words but also being willing to listen to how your behavior caused another’s pain, and then the really hard part…changing behavior.",
+        "attribution": "David W. Earle"
+    },{
+        "quote": "Restitution cannot be a half-hearted act. It demands complete surrender. It even requires that it is carried out to its completion before a believer can offer sacrifice or prayer to God.",
+        "attribution": "Akwasi O. Ofori"
+    },{
+        "quote": "It's not a persons mistakes which define them - it's the way they make amends.",
+        "attribution": "Freya North"
+    },{
+        "quote": "Sometimes you only get one chance to rewrite the qualities of the character you played in a person's life story. Always take it. Never let the world read the wrong version of you.",
+        "attribution": "Shannon L. Alder"
+    },{
+        "quote": "While it is good to apologize and ask forgiveness from God, it’s just as important (perhaps more so) to extend it towards the person you wronged. Becoming a better person or trying to make amends with the universe only works when you start with the one you owe it to.",
+        "attribution": "Donna Lynn Hope"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["making amends","indirect amends","reconciliation","restitution"],
+            "predominantType": "impulse",
+            "levels": {
+              "4,3": {
+                "experiences": ["making amends"]
+              },
+              "2,1": {
+                "experiences": ["dissonance","hope"]
+              }
+            }
+        },{
+            "names": ["mandated restitution"],
+            "predominantType": "sensation",
+            "levels": {
+              "4,3": {
+                "experiences": ["mandated restitution"]
+              },
+              "2,1": {
+                "experiences": ["dissonance","resentment","hope"]
+              }
+            }
+        }]
+    }]
+}

@@ -1,0 +1,70 @@
+{
+    "lang": "en/us",
+    "createDate": "20250922",
+    "updateDate": "20250922",
+    "name": "incompetence",
+    "valence": -1,
+    "quote": "She didn't help at all.",
+    "description": "A sense of mild negativity that someone else's actions or knowledge did not meet your expectations for improving a situation in some way.",
+    "perceptions": ["I wanted a particular change in the environment.","Someone else tried but they took too long or make mistakes that made things worse."],
+    "desires": ["desire for a particular outcome"],
+    "sensations": ["dissatisfaction","disrespect","frustration","expectation error"],
+    "personOfInterestExperiences": ["denial","failure"],
+    "related": ["distrust"],
+    "opposites": ["competence"],
+    "examples": ["Clerk messes up the paperwork.","The handyman broke the sink while fixing the leaky faucet."],
+    "guidance": [{
+        "description": "Everyone's incompetent at something. If you need to depend on someone who's not competent, consider these references.",
+        "references": ["https://tommcfarlin.com/work-with-incompetent-people/","https://bemycareercoach.com/soft-skills/deal-others-incompetence-5-tips.html","https://www.linkedin.com/pulse/how-deal-incompetent-people-work-deepak-shukla"]
+    }],
+    "comparisons": [{
+        "links": ["expectation error"],
+        "description": "'Incompetence' is a specific type of expectation error about a person's results."
+    }],
+    "variations": [{
+        "name": "uselessness",
+        "description": "A sense that you won't be able to rely on a particular person, thing, or action to help with a particular desired scenario.",
+        "perceptions": ["I wanted a particular change in the environment.","The person or tool I'm considering has not helped or is not going to be able to help."],
+        "desires": ["desire for a particular outcome"],
+        "sensations": ["dissatisfaction","frustration","expectation error"],
+        "opposites": ["usefulness"],
+        "examples": ["The new tool did not work to fix the problem.","Don't bring a knife to a sword fight."],
+        "comparisons": [{
+            "links": ["incompetence"],
+            "description": "'Uselessness' is more often applied to inanimate objects, processes, and people who you don't expect to be able to solve a particular problem. 'Incompetence' applies to a person who you had hoped would be able to help."
+        }]
+    }],
+    "commentaries": [{
+        "quote": "In a hierarchy, every employee tends to rise to his level of incompetence.",
+        "attribution": "Laurence J. Peter"
+    },{
+        "quote": "Always assume incompetence before looking for conspiracy.",
+        "attribution": "Niccolò Machiavelli"
+    },{
+        "quote": "A king, realizing his incompetence, can either delegate or abdicate his duties. A father can do neither. If only sons could see the paradox, they would understand the dilemma.",
+        "attribution": "Marlene Dietrich"
+    },{
+        "quote": "Sometimes incompetence is useful. It helps you keep an open mind.",
+        "attribution": "Roberto Cavalli"
+    },{
+        "quote": "Luck is always the last refuge of laziness and incompetence.",
+        "attribution": "James Cash Penney"
+    },{
+        "quote": "Uselessness is often better than incompetence."
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["incompetence","uselessness"],
+            "predominantType": "sensation",
+            "levels": {
+              "4,3": {
+                "experiences": ["incompetence"]
+              },
+              "2,1": {
+                "experiences": ["satisfaction"]
+              }
+            }
+        }]
+    }]
+}

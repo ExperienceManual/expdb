@@ -1,0 +1,111 @@
+{
+    "lang": "en/us",
+    "createDate": "20250923",
+    "updateDate": "20250923",
+    "name": "mortality",
+    "valence": -1,
+    "quote": "",
+    "description": "An awareness that life is fragile and that death could happen any time.",
+    "perceptions": ["Something happened to remind me that life is precious and fragile.","We cannot always control when death happens."],
+    "desires": ["will to live","desire for comfort"],
+    "sensations": ["anxiety","fear","calmness"],
+    "results": ["You may feel anxiety or calmness depending on your outlook."],
+    "examples": ["Someone close dies suddenly.","You're in a bad car accident."],
+    "guidance": [{
+        "description": "One day, we’re all going to die. It’s an unavoidable fact of life, and something that many of us would prefer not to think too hard about. However, the truth is that preparing for death can make things easier for both yourself and those who love you. By getting your affairs in order, you can save them from added stress, while also making sure your wishes are heard.",
+        "attribution": "untanglegrief.com",
+        "references": ["https://untanglegrief.com/end-of-life-planning-checklist"]
+    }],
+    "variations": [{
+        "name": "impending mortality of self",
+        "description": "A sense of certainty that your life will end soon.",
+        "perceptions": ["Something happened to reveal that my life is going to end soon."],
+        "desires": ["will to live"],
+        "sensations": ["fear","calmness"],
+        "results": ["You may feel anxiety or calmness depending on your outlook."],
+        "examples": ["You've been given a terminal medical diagnosis.","You've been mortally wounded in an accident or battle."],
+        "comparisons": [{
+            "links": ["mortality"],
+            "description": "You know the timeline for 'impending mortality' while 'mortality' is still vague."
+        }],
+        "guidance": [{
+            "description": "This may be a time to reflect on the larger picture of life. See guidance for 'faith'.",
+            "references": ["faith"]
+        }]
+    },{
+        "name": "impending mortality of someone close",
+        "description": "A sense of certainty that the life of someone you love.",
+        "perceptions": ["Something happened to reveal that a person or animal that is close to me will die soon."],
+        "desires": ["will to live"],
+        "sensations": ["grief","fear","calmness"],
+        "results": ["You may feel grief, anxiety, and/or calmness depending on your outlook."],
+        "examples": ["A person or animal you love been given a terminal medical diagnosis."],
+        "guidance": [{
+            "description": "These articles may help prepare for the loss of a close person or animal.",
+            "references": ["https://www.psychologytoday.com/us/blog/in-flux/202008/7-ways-to-prepare-for-the-death-of-a-loved-one","https://www.thelivingwater.com.au/blog/the-spirituality-of-dying-a-personal-experience","https://caringpathways.com/blog/when-you-know-its-time-preparing-for-the-loss-of-a-pet/"]
+        }]
+    },{
+        "name": "near death experience",
+        "description": "A sense that you were at the very edge of dying and returned to life.",
+        "perceptions": ["I almost died.","Somehow I survived."],
+        "desires": ["will to live"],
+        "sensations": ["relief","meaning","fear","gratitude","sadness"],
+        "results": ["There are a range of experiences possible."],
+        "examples": ["You're in a bad accident."],
+        "guidance": [{
+            "description": "These articles may help recover from a near death experience.",
+            "references": ["https://www.bbc.co.uk/programmes/articles/1TRbqlFtvb3ynmsrrBC1hpx/life-after-a-near-death-experience-seven-tips-to-live-your-life-more-fully","https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/near-miss-experiences-and-traumatic-events"]
+        }]
+    }],
+    "commentaries": [{
+        "quote": "Death smiles at us all; all a man can do is smile back.",
+        "attribution": "Marcus Aurelius"
+    },{
+        "quote": "Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life.",
+        "attribution": "Steve Jobs"
+    },{
+        "quote": "I do not fear death. I had been dead for billions and billions of years before I was born, and had not suffered the slightest inconvenience from it.",
+        "attribution": "Mark Twain"
+    },{
+        "quote": "Don't fear your mortality, because it is this very mortality that gives meaning and depth and poignancy to all the days that will be granted to you.",
+        "attribution": "Paul Tsongas"
+    },{
+        "quote": "And the dust returns to the earth as it was, and the spirit returns to God who gave it.",
+        "attribution": "Bible Ecclesiastes 12:7"
+    },{
+        "quote": "Death is not extinguishing the light; it is only putting out the lamp because the dawn has come.",
+        "attribution": "Robindranath Tagore"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["mortality"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["mortality"]
+              },
+              "2,1": {
+                "experiences": ["anxiety"]
+              }
+            }
+        },{
+            "names": ["impending mortality of self","impending mortality of someone close","near death experience"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["impending mortality"]
+              },
+              "2,1": {
+                "experiences": ["many"]
+              }
+            }
+        }]
+    }]
+}

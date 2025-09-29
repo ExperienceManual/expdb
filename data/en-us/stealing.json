@@ -1,0 +1,137 @@
+{
+    "lang": "en/us",
+    "createDate": "20250925",
+    "updateDate": "20250925",
+    "name": "stealing",
+    "valence": 0,
+    "quote": "I needed the money.",
+    "description": "Taking something from someone else that is not yours without their permission.",
+    "perceptions": ["I want or need something that belongs to someone else.","they won't give it to me.","I'll just take it."],
+    "desires": ["desire for wealth","desire for social status","desire for safety"],
+    "sensations": ["excitement","guilt","anxiety"],
+    "personOfInterestExperiences": ["victim"],
+    "related": ["cheating"],
+    "opposites": ["generosity"],
+    "guidance": [{
+        "description": "Some people diagnose an addiction to stealing as a mental health problem. Others think it's unwise to legitimize addiction to the excitement of getting back at 'the man'.",
+        "references": ["https://my.clevelandclinic.org/health/diseases/9878-kleptomania","https://www.psychologytoday.com/us/blog/inside-the-criminal-mind/201703/explanation-or-excuses-stealing"]
+    }],
+    "variations": [{
+        "name": "theft",
+        "alternateNames": ["larceny","shoplifting","robbery","burglary"],
+        "description": "Taking something valuable from someone else that is not yours without their permission with the intention of keeping it.",
+        "perceptions": ["I want or need something valuable that belongs to someone else.","They won't give it to me.","I'll just take it.","I think I can get away with it."],
+        "desires": ["desire for wealth","desire for social status","desire for safety"],
+        "sensations": ["excitement","guilt","anxiety","fear","committing a crime"],
+        "personOfInterestExperiences": ["victim"],
+        "examples": ["Robbing a bank.","Taking confidential documents.","Hacking to obtain personal data.","Using someone's patented idea without their permission."],
+        "opposites": ["generosity"],
+        "related": ["attacking","cheating"],
+        "guidance": [{
+            "description": "Most people considering a criminal act are desperate for money or adrenaline, but it may be worthwhile considering the likely perspective of the victim.",
+            "references": ["committing a crime"]
+        },{
+            "description": "If you're primarily into the adrenaline aspect, it may be worth considering that there are lots of other things to do.",
+            "references": ["https://www.wikihow.com/Get-an-Adrenaline-Rush","https://greenlight.com/learning-center/parenting-and-family/top-50-fun-activities-for-teens"]
+        }]
+    },{
+        "name": "identity theft",
+        "description": "Posing as someone else to do something in their name that brings you benefit without their permission.",
+        "perceptions": ["I want or need something valuable.","They won't give it to me.","I'll pretend I'm them and get it for myself."],
+        "desires": ["desire for wealth","desire for social status","desire for safety"],
+        "sensations": ["excitement","guilt","anxiety","fear","committing a crime"],
+        "personOfInterestExperiences": ["victim"],
+        "examples": ["Credit scams.","Using stolen passwords."],
+        "related": ["attacking","cheating"],
+        "guidance": [{
+            "description": "Most people considering a criminal act are desperate, but it may be worthwhile considering the likely perspective of the victim.",
+            "references": ["committing a crime"]
+        }]
+     },{
+        "name": "swiping",
+        "alternateNames": ["pilfering"],
+        "description": "Taking something of low value that is not yours without permission and with the intention of keeping it.",
+        "perceptions": ["I want or need something of low value that belongs to someone else.","They won't give it to me.","I'll just take it.","It's no big deal."],
+        "desires": ["desire for social status","desire for wealth"],
+        "sensations": ["excitement","guilt","anxiety","fear"],
+        "personOfInterestExperiences": ["victim"],
+        "examples": ["Taking extra office supplies to use at home.","Taking some of your sibling's gum when they told you not to."],
+        "opposites": ["generosity"],
+        "related": ["attacking","cheating"],
+        "commentaries": [{
+            "quote": "Taking a low-value item from someone outside of your immediate family is still considered illegal theft. Just because the store or office won't press charges doesn't mean taking their stuff is ok.",
+            "tags": ["definition footnote"]
+        }]
+     },{
+        "name": "stealth borrowing",
+        "description": "Taking something of low value that is not yours without permission, but with the intention of returning it.",
+        "perceptions": ["I want or need something of low value that belongs to someone else.","They won't give it to me.","I'll just borrow it for a while."],
+        "desires": ["desire for social status"],
+        "sensations": ["excitement","guilt","anxiety","fear"],
+        "personOfInterestExperiences": ["victim"],
+        "related": ["cheating"],
+        "examples": ["Taking your siblings clothing to wear when they told you not to.","Taking money from the family piggy bank with the intention of returning it."],
+        "commentaries": [{
+            "quote": "Taking a low-value item from someone outside of your immediate family is still considered illegal theft. Just because the store or office won't press charges doesn't mean taking their stuff is ok.",
+            "tags": ["definition footnote"]
+        }]
+    }],
+    "commentaries": [{
+        "quote": "No one likes to work for free. To copy an artist's work and download it free is stealing. It's hard work writing and recording music, and it's morally wrong to steal it.",
+        "attribution": "Gary Wright"
+    },{
+        "quote": "The petty thief is imprisoned but the big thief becomes a feudal lord.",
+        "attribution": "Zhuangzi"
+    },{
+        "quote": "But there are some things, child, that you should steal. That you must steal, if you have enough love and courage in your heart. You must snatch freedom from the hands of the tyrant. You must spirit away innocent lives before they are destroyed. You must hide secret and sacred places.",
+        "attribution": "Lian Tanner"
+    },{
+        "quote": "Stealing is a lazy man's way. Something for nothing, leaves you hell to pay.",
+        "attribution": "Michael Peterson"
+    },{
+        "quote": "The eighth commandment reads, 'Thou shalt not steal.' It does not read, 'Thou shalt not steal from the rich man.' It does not read, 'Thou shalt not steal from the poor man.' It reads simply and plainly, 'Thou shalt not steal.'",
+        "attribution": "Theodore Roosevelt"
+    },{
+        "quote": "Some people steal to stay alive, and some steal to feel alive. Simple as that.",
+        "attribution": "V.E. Schwab"
+    },{
+        "quote": "One man's larceny is another's just distribution of goods.",
+        "attribution": "Robert Bork"
+    },{
+        "quote": "Habitual thieves experience a rush or 'high' at every phase of the crime. It is the excitement of the enterprise that is paramount – deciding which store to target, entering and scanning the premises, pinpointing weakness in security, figuring out the best way to swipe the item, then making a clean getaway.",
+        "attribution": "Stanton E. Samenow Ph.D."
+    },{
+        "quote": "Shoplifting is often not about the monetary value of the items but rather about unresolved emotional or psychological issues. For individuals who live stable and privileged lives, the act of shoplifting can stem from deeper, often subconscious, triggers.",
+        "attribution": "Jonathan Andrew Paul"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["stealing","theft","swiping"],
+            "predominantType": "impulse",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2,1": {
+                "experiences": ["stealing"],
+                "description": "Theft is unforunately well-integrated to the natural world."
+              }
+            }
+        },{
+            "names": ["identity theft","stealth borrowing"],
+            "predominantType": "impulse",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["stealing"]
+              },
+              "2,1": {
+                "experiences": ["anxiety","excitement"]
+              }
+            }
+        }]
+    }]
+}

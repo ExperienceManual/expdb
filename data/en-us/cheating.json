@@ -6,6 +6,7 @@
   "valence": 0,
   "quote": "I'm just gonna peek.",
   "description": "The sensation of breaking a social rule that you view as justified in this case.",
+  "otherVariations": ["stealing"],
   "perceptions": ["I know there's a social rule for this context.","It's not critical in the large scale of things.","Everyone else does it.","I need to win or not lose."],
   "desires": ["desire for comfort","desire to ditch constraints"],
   "sensations": ["defiance","dissonance"],

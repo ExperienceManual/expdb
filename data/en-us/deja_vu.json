@@ -1,0 +1,51 @@
+{
+    "lang": "en/us",
+    "createDate": "20250923",
+    "updateDate": "20250923",
+    "name": "deja vu",
+    "valence": 0,
+    "quote": "I've been here before.",
+    "description": "The momentary sense that you've experienced this before but knowing rationally this is the first time.",
+    "alternateDefinitions": ["The term 'deja vu' can be used to just mean 'This literally happened before.' For EM, that sense of the word falls under the 'recalling' experience."],
+    "perceptions": ["It feels like I've seen this before.","But I know this has to be first time."],
+    "desires": ["desire for order"],
+    "sensations": ["surprise","uncertainty","dissonance"],
+    "results": ["Deja vu generally only lasts few seconds."],
+    "related": ["uncertain memory"],
+    "guidance": [{
+        "description": "Though most times, déjà vu is not a sign of anything serious—such as a mental illness—there are some possible factors that you might want to pay attention to if episodes of déjà vu are making you uncomfortable.",
+        "attribution": "Theodora Blanchfield, AMFT",
+        "references": ["https://www.verywellmind.com/what-is-deja-vu-why-do-we-experience-it-5272526"]
+    }],
+    "commentaries": [{
+        "quote": "The phrase 'déjà vu' is French for 'already seen'. This entry includes experiences involving sight, sound, taste, thoughts, etc.",
+        "tags": ["definition footnote"]
+    },{
+        "quote": "An estimated 97% of people have experienced déjà vu at least once in their lives. Most of the time, it’s nothing more than a quick sensation that gives you pause for just a moment. Then, it’s back to normal.",
+        "attribution": "Cleveland Clinic"
+    },{
+        "quote": "How come I love having an episode of deja vu? It's akin to an out-of-body experience, I would think. It sits with me, happily, begging me to delve into my memory to find its match point.",
+        "attribution": "Rachel Nichols"
+    },{
+        "quote": "As Boirac explained, this sense of déjà vu is characteristically accompanied by a feeling that something strange, weird, and eerie is happening to the witness.",
+        "attribution": "Lionel Fanthorpe paraphrasing Émile Boirac"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["deja vu"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2": {
+                "experiences": ["deja vu"]
+              },
+              "1": {
+                "experiences": ["dissonance"]
+              }
+            }
+        }]
+    }]
+}

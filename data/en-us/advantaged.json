@@ -6,11 +6,11 @@
   "alternateNames": ["powerful","expertise"],
   "valence": 0,
   "quote": "I know how to solve this problem.",
-  "description": "The sense that you have an ability to understand or influence an aspect of the shared environment more than others. This sense is based on a perception of a relative advantage in skill, characteristics, or other assets. It does not necessarily mean you feel yourself generally 'better' than others.",
+  "description": "The sense that you have an ability to understand or influence an aspect of the shared environment more than others. It does not necessarily mean you feel yourself generally 'better' than others.",
   "perceptions": ["I have the ability to change the environment or solve a problem.","I can do this better than many other people."],
   "desires": ["desire for a particular outcome","desire for social influence"],
   "sensations": ["pride","responsibility","self-confidence","optimism"],
-  "related": ["agency"],
+  "related": ["agency","competence"],
   "opposites": ["disadvantaged"],
   "comparisons": [{
       "links": ["agency"],

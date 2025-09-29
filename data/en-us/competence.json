@@ -1,0 +1,102 @@
+{
+    "lang": "en/us",
+    "createDate": "20250922",
+    "updateDate": "20250922",
+    "name": "competence",
+    "valence": 1,
+    "quote": "She did a good job.",
+    "description": "A sense of mild positivity or relief that someone else's actions or knowledge have met your expectations in improving a situation in some way.",
+    "perceptions": ["I wanted a particular change in the environment.","Someone else made it happen or pointed the correct way.","They did it with reasonable quality, speed, and cost."],
+    "desires": ["desire for a particular outcome"],
+    "sensations": ["satisfaction","respect","expectation confirmed"],
+    "related": ["trust"],
+    "opposites": ["incompetence"],
+    "examples": ["Clerk handles the paperwork on time.","The handyman quickly fixed the leaky faucet."],
+    "guidance": [{
+        "description": "Your journey toward mastering a new skill or achieving a formidable goal may seem daunting—akin to standing at the base of a mountain, looking up. But remember, 'We tend to overestimate what we can do in a day and underestimate what we can do in a year.'",
+        "attribution": "Maurilio Amorim",
+        "references": ["https://www.linkedin.com/pulse/how-cultivate-confidence-competence-maurilio-amorim-7fhte"]
+    }],
+    "variations": [{
+        "name": "expertise",
+        "description": "A sense of positivity or relief that someone else's actions or knowledge quickly met or exceeded your expectations and improved a complex situation in some way.",
+        "perceptions": ["I wanted a particular change in the environment.","The problem or environment were complex.","Someone else made it happen or pointed the correct way.","They did it with good quality, speed, and cost.","They made it look easy."],
+        "desires": ["desire for a particular outcome"],
+        "sensations": ["satisfaction","respect","admiration","expectation confirmed"],      
+        "related": ["trust"],
+        "opposites": ["incompetence"],
+        "examples": ["The mechanic diagnosed the engine problem just by the sound.","The lawyer handled the difficult court case with grace."],
+
+        "comparisons": [{
+            "links": ["competence"],
+            "description": "'Expertise' is strong competence in a complex task."
+        }]
+    },{
+        "name": "usefulness",
+        "description": "A sense that a particular thing or action was effective at making a desired change.",
+        "perceptions": ["I wanted a particular change in the environment.","The person or tool I worked with was able to help."],
+        "desires": ["desire for a particular outcome"],
+        "sensations": ["satisfaction","delight","advantaged"],
+        "opposites": ["uselessness"],
+        "examples": ["The new tool worked to fix the problem.","Putting the data into a chart helped see the pattern."],
+        "comparisons": [{
+            "links": ["competence"],
+            "description": "'Usefulness' is more often applied to inanimate objects and processes that you applied to a particular problem. 'Competence' applies to a person who met your expectations at helping with the problem. You don't normally call a hammer 'competent'."
+         },{
+            "links": ["advantaged"],
+            "description": "when you come to rely on the usefulness of a particular tool or process, you may feel a sense of being 'advantaged' in relation to others or your past self."
+         }]
+    }],
+    "comparisons": [{
+        "links": ["expectation confirmed"],
+        "description": "'Competence' is a specific type of confirmed expectation about a person's results."
+    }],
+    "commentaries": [{
+        "quote": "I am, as I've said, merely competent. But in an age of incompetence, that makes me extraordinary.",
+        "attribution": "Billy Joel"
+    },{
+        "quote": "Trust is a function of two things: character and competence. Character includes your integrity, your motive and your intent with people. Competence includes your capabilities, your skills, and your track record. Both are vital.",
+        "attribution": "Steven Covey"
+    },{
+        "quote": "Competence means keeping your head in a crisis, sticking with a task even when it seems hopeless, and improvising good solutions to tough problems when every second counts. It encompasses ingenuity, determination and being prepared for anything.",
+        "attribution": "Chris Hadfield"
+    },{
+        "quote": "The single most exciting thing you encounter in government is competence, because it's so rare.",
+        "attribution": "Daniel Patrick Moynihan"
+    },{
+        "quote": "Everybody's got a different circle of competence. The important thing is not how big the circle is. The important thing is staying inside the circle.",
+        "attribution": "Warren Buffett"
+    },{
+        "quote": "Of all the human qualities, the one I admire the most is competence. A tailor who is really able to cut and fit a coat seems to me an admirable man, and by the same token a university professor who knows little or nothing of the thing he presumes to teach seems to me to be a fraud and a rascal.",
+        "attribution": "H. L. Mencken"
+    },{
+        "quote": "An expert is someone who knows some of the worst mistakes that can be made in his subject, and how to avoid them.",
+        "attribution": "Werner Heisenberg"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["competence","expertise"],
+            "predominantType": "sensation",
+            "levels": {
+              "4,3": {
+                "experiences": ["competence"]
+              },
+              "2,1": {
+                "experiences": ["satisfaction"]
+              }
+            }
+        },{
+            "names": ["usefulness"],
+            "predominantType": "sensation",
+            "levels": {
+              "4,3": {
+                "experiences": ["usefulness"]
+              },
+              "2,1": {
+                "experiences": ["satisfaction"]
+              }
+            }
+        }]
+    }]
+}

@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250505",
-  "updateDate": "20250815",
+  "updateDate": "20250927",
   "name": "regret",
   "valence": -1,
   "quote": "I should have chosen a different brand.",
@@ -24,8 +24,11 @@
   },{
       "links": ["failure"],
       "description": "A sense of 'failure' is when a desired outcome was not achieved. You may regret the failure immediately, but regret can also happen after you achieved the desired outcome, only to feel later on that a different outcome would have been better."
+  },{
+      "links": ["apologetic"],
+      "description": "An apology is sincerely expressed regret."
   }],
-  "related": ["sadness", "losing", "failure"],
+  "related": ["sadness", "losing", "failure","making amends"],
   "opposites": ["happiness", "gaining"],
   "examples": ["The concert was an unfortunate waste of time.","It's a bummer I lost touch with an old friend."],
   "variations": [{
@@ -66,6 +69,25 @@
           "references": ["https://news.virginia.edu/content/regret-can-be-all-consuming-psychologist-explains-how-overcome-it"]
       }],
       "examples": [ "I shouldn't have gone into this career.", "I should have started saving for retirement earlier." ]
+  },{
+      "name": "repentance",
+      "description": "A sadness from recognizing that you previously had a mistaken thought or behavior pattern, along wth humility and commitment from an internal promise to change that pattern for the better.",
+      "perceptions": ["I used to think or act in a particular pattern.","I see now that I was wrong and may have harmed others.","I'm going to act differently now."],
+      "desires": ["desire for social status","desire for agency","desire for a particular outcome"],
+      "sensations": ["sadness","failure","humility","hope"],
+      "related": ["making amends"],
+      "guidance": [{
+          "description": "Repenting something is a commitment to change that features prominently in major religions and can be an important milestone in life.",
+          "references": ["https://en.wikipedia.org/wiki/Repentance","https://www.churchofjesuschrist.org/study/manual/gospel-principles/chapter-19-repentance","https://tzuchi.us/blog/the-practice-of-repentance","https://www.myjewishlearning.com/article/repentance/"]
+      }],
+      "commentaries": [{
+          "quote": "Repentance means you change your mind so deeply that it changes you.",
+          "attribution": "Bruce Wilkinson"
+      },{
+          "quote": "Four marks of true repentance are: acknowledgement of wrong, willingness to confess it, willingness to abandon it, and willingness to make restitution.",
+          "attribution": "Corrie Ten Boom"
+      }],
+      "examples": ["Realizing that you haven't been treating your family very well.","Recognizing that you've care more about money than relationships."]
   }],
   "commentaries": [{
       "quote": "I haven't lived a perfect life. I have regrets. But that's from a lifetime of taking chances, making decisions, and trying not to be frozen. The only thing that I can do with my regrets is understand them.",
@@ -76,6 +98,9 @@
   },{
       "quote": "We must all suffer from one of two pains: the pain of discipline or the pain of regret. The difference is discipline weighs ounces while regret weighs tons.",
       "attribution": "Jim Rohn"
+  },{
+      "quote": "Anger begins with folly, and ends with repentance.",
+      "attribution": "Pythagoras"
   }],
   "spectrum": {
       "regret": 5,
@@ -117,6 +142,17 @@
             },
             "2,1": {
               "experiences": ["sadness"]
+            }
+          }
+      },{
+          "names": ["repentance"],
+          "predominantType": "impulse",
+          "levels": {
+            "4,3": {
+              "experiences": ["repentance"]
+            },
+            "2,1": {
+              "experiences": ["sadness","hope"]
             }
           }
       }]

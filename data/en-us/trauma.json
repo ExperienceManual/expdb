@@ -1,0 +1,67 @@
+{
+    "lang": "en/us",
+    "createDate": "20250927",
+    "updateDate": "20250927",
+    "name": "trauma",
+    "valence": -1,
+    "quote": "The memory still haunts me.",
+    "description": "A strong negative experience from the perception that a recent event changed your world for the worse.",
+    "perceptions": ["A very bad thing happened to me or someone close.","I'm overwhelmed with negative emotions."],
+    "desires": ["desire for safety","desire for comfort","desire for order","desire for agency"],
+    "sensations": ["fear","grief","horror","losing","betrayal","victim","shame"],
+    "related": [],
+    "opposites": ["calmness"],
+    "examples": ["Being in a car accident.","Being the victim of a violent crime.","Relationship cheating."],
+    "guidance": [{
+        "description": "Real trauma is no joke. Consider learning more and perhaps seeking help.",
+        "references": ["https://www.rcpsych.ac.uk/mental-health/mental-illnesses-and-mental-health-problems/coping-after-a-traumatic-event","https://jedfoundation.org/resource/how-to-cope-with-psychological-trauma"]
+    },{
+        "description": "If a parent or romantic partner violates your trust, you may experience betrayal trauma. This trauma may affect your self-esteem, emotional health, and relationships with others, but support can help you heal.",
+        "attribution": "healthline.com",
+        "references": ["https://www.healthline.com/health/mental-health/betrayal-trauma"]
+    }],
+    "variations": [{
+        "name": "post-traumatic stress disorder",
+        "alternateNames": ["ptsd"],
+        "description": "A strong negative experience from the memories of a long-ago event that changed your world for the worse.",
+        "perceptions": ["A very bad thing happened to me or someone close.","The event was a long time ago.","I'm still overwhelmed with negative emotions."],
+        "desires": ["desire for safety","desire for comfort","desire for order","desire for agency"],
+        "sensations": ["fear","grief","horror","losing","betrayal","victim","shame"],
+        "opposites": ["calmness"],
+        "examples": ["Memories of a violent crime.","Being a soldier in war."],
+        "guidance": [{
+            "description": "PTSD can seriously decrease the quality of your life. Please consider learning about it and seeking help.",
+            "references": ["https://www.mayoclinic.org/diseases-conditions/post-traumatic-stress-disorder/diagnosis-treatment/drc-20355973","https://www.mind.org.uk/information-support/types-of-mental-health-problems/post-traumatic-stress-disorder-ptsd-and-complex-ptsd/self-care/"]
+        }]
+    }],
+    "commentaries": [{
+        "quote": "Trauma is when a negative sensation takes over your life, whether it's grief, fear, betrayal, horror, shame or something else."
+    },{
+        "quote": "Trauma creates change you don't choose. Healing is about creating change you do choose.",
+        "attribution": "Michele Rosenthal"
+    },{
+        "quote": "Even if you've accumulated a house full of nice things and the picture of your life fits inside a beautiful frame, if you have experienced trauma but haven't excavated it, the wounded parts of you will affect everything you've managed to build.",
+        "attribution": "Oprah Winfrey"
+    },{
+        "quote": "To live in the body of a survivor is to never be able to leave the scene of the crime. I cannot ignore the fact that I live here.",
+        "attribution": "Blythe Baird"
+    },{
+        "quote": "There are wounds that never show on the body that are deeper and more hurtful than anything that bleeds.",
+        "attribution": "Laurell K. Hamilton"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["trauma","post-traumatic stress disorder"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2,1": {
+                "experiences": ["trauma"]
+              }
+            }
+        }]
+    }]
+}

@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250120",
-  "updateDate": "20250719",
+  "updateDate": "20250927",
   "name": "desire for social influence",
   "valence": 0,
   "quote": "Listen up people...",
@@ -57,8 +57,9 @@
       "examples": ["blogging","graffiti","tracking up a fresh snowfall"]
   },{
       "name": "desire to impact negatively",
-      "description": "Wanting to annoy or scare people from one group for revenge or to gain status with another group.",
-      "perceptions": ["I think negatively of some person or group.","It would be fun to see them irritated or scared.","My social group will praise me for attacking them."],
+      "alternateNames": ["spite"],
+      "description": "Wanting to annoy, scare, or harm a person or group for revenge or to gain status with another group.",
+      "perceptions": ["I think negatively of some person or group.","It would be fun to see them irritated, scared, or harmed.","My social group will praise me for attacking them."],
       "desires": ["desire for social status","desire for agency","desire for stimulation"],
       "sensations": ["vengefulness","attack"],
       "related": ["desire to make your mark","commiting a social violation","vengefulness"],

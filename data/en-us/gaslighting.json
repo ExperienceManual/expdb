@@ -1,0 +1,86 @@
+{
+    "lang": "en/us",
+    "createDate": "20250924",
+    "updateDate": "20250924",
+    "name": "gaslighting",
+    "alternateNames": ["coercive emotional control"],
+    "valence": 0,
+    "quote": "You're overreacting.",
+    "description": "A long-term series of actions where you manipulate another person into questioning their memory, perception, or sanity with the aim of controlling them.",
+    "perceptions": ["I need to control someone close to me.","I can keep them dependent on me with deception tactics and occasional validation."],
+    "desires": ["desire for agency","desire for wealth","desire for sex"],
+    "sensations": ["superior","advantaged"],
+    "personOfInterestExperiences": ["being gaslighted"],
+    "related": ["offensive deception","narcissism"],
+    "guidance": [{
+        "description": "It may be helpful to understand the effect that gaslighting has on others.",
+        "references": ["https://www.newportinstitute.com/resources/mental-health/what_is_gaslighting_abuse","https://health.clevelandclinic.org/gaslighting"]
+    }],
+    "variations": [{
+        "name": "being gaslighted",
+        "description": "A sense that someone important in your life is psychologically manipulating you to question your own memory, perception, or sanity with the goal of making you dependent on them.",
+        "perceptions": ["That person is trying to make me doubt my own perceptions.","They claim to be the only one who can really tolerate me."],
+        "desires": ["desire for agency","desire for social contact","desire for social status"],
+        "sensations": ["dismay","confusion","shame"],
+        "opposites": ["admiration"],
+        "guidance": [{
+            "description": "If you suspect someone close to you or a co-worker is messing with your sense of reality or self-regard, you may want to understand gaslighting.",
+            "references": ["https://www.respectvictoria.vic.gov.au/news/red-flags-what-gaslighting-and-why-it-dangerous","https://www.psychologytoday.com/us/basics/gaslighting"]
+        }]
+    }],
+    "commentaries": [{
+        "quote": "This term is used in the 1944 Ingrid Bergman film Gaslight, in which a husband purposely drives his wife insane by flickering lights, making noises in the attic, and then claiming the very real experience was all in her head.",
+        "attribution": "Samantha Rodman",
+        "tags": ["definition footnote"]
+    },{
+        "quote": "Gaslighting is an insidious form of manipulation and psychological control. Victims of gaslighting are deliberately and systematically fed false information that leads them to question what they know to be true, often about themselves. They may end up doubting their memory, their perception, and even their sanity. Over time, a gaslighter’s manipulations can grow more complex and potent, making it increasingly difficult for the victim to see the truth.",
+        "attribution": "Psychology Today"
+    },{
+        "quote": "A friend who is being gaslit isn’t likely to tell you it’s happening while it’s occurring. If you’re worried about a friend, keep an ear out for phrases like: 'They don’t really mean it, they just...' or '...but it’s OK because I know they love me.'",
+        "attribution": "respectvictoria.vic.gov.au"
+    },{
+        "quote": "While gaslighting is a manipulation tactic commonly associated with narcissistic individuals, not all narcissists use gaslighting.",
+        "attribution": "Anna Drescher"
+    },{
+        "quote": "Gaslighting, brainwashing, cults, hostage situations, and totalitarian propaganda have a common basis. They use similar techniques to confuse, intimidate, and disempower people.",
+        "attribution": "Linda Hatch"
+    },{
+        "quote": "Kindness from a narcissist is called an illusion.",
+        "attribution": "Alice Little"
+    },{
+        "quote": "Gaslighting is confusing because they switch to intermittent concern.",
+        "attribution": "Tracy Malone"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["gaslighting"],
+            "predominantType": "impulse",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["gaslighting"]
+              },
+              "2,1": {
+                "experiences": ["offensive deception"]
+              }
+            }
+        },{
+            "names": ["being gaslighted"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["being gaslighted"]
+              },
+              "2,1": {
+                "experiences": ["dismay"]
+              }
+            }
+        }]
+    }]
+}

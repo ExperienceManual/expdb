@@ -1,0 +1,114 @@
+{
+    "lang": "en/us",
+    "createDate": "20250924",
+    "updateDate": "20250924",
+    "name": "narcissism",
+    "valence": 0,
+    "quote": "It's all about you, isn't it?",
+    "description": "A sense that someone has an inflated sense of their own importance, status, or appearance and that they diminish the experience of others.",
+    "tags": ["social label"],
+    "perceptions": ["That person seems to think the world revolves around them.","I don't think anyone else is really important to them unless there's praise involved."],
+    "desires": ["desire for order"],
+    "sensations": ["resentment","contempt","pity"],
+    "personOfInterestExperiences": ["unhealthy self-regard","The narcissist will think of themselves as just protecting their interests.","pride"],
+    "related": ["superiority","arrogance","entitlement","hubris"],
+    "opposites": ["humility","empathy"],
+    "guidance": [{
+        "description": "Dealing with a narcissist can be one of the most challenging interpersonal situations we face.  Whether it’s a family member, romantic partner, or colleague, knowing how to handle a narcissist is crucial for maintaining our mental health and well-being.",
+        "attribution": "counselingcentergroup.com",
+        "references": ["https://counselingcentergroup.com/how-to-handle-a-narcissist/"]
+    }],
+    "variations": [{
+        "name": "grandiose narcissism",
+        "description": "A sense that someone has an inflated sense of their own importance, status, or appearance and that they diminish the experience of others. They are consistently confident and aggressive in advocating for themselves and exploit others for their own gain.",
+        "tags": ["social label"],
+        "perceptions": ["That person seems to think the world revolves around them.","They are always confident and aggressive.","I don't think anyone else is really important to them unless there's praise involved."],
+        "desires": ["desire for order"],
+        "sensations": ["resentment","contempt","pity"],
+        "personOfInterestExperiences": ["unhealthy self-regard","The narcissist will think of themselves as just protecting their interests.","pride","superiority"],
+        "related": ["superiority", "arrogance", "entitlement"],
+        "opposites": ["humility","empathy"]
+    },{
+        "name": "vulnerable narcissism",
+        "description": "A sense that someone has an inflated sense of their own importance, status, or appearance and that they diminish the experience of others. They are perceived to be unstable, anxious, and vengeful.",
+        "tags": ["social label"],
+        "perceptions": ["That person seems to think the world revolves around them.","They are often unstable, anxious, and vengeful.","I don't think anyone else is really important to them unless there's praise involved."],
+        "desires": ["desire for order"],
+        "sensations": ["resentment","contempt","pity"],
+        "personOfInterestExperiences": ["unhealthy self-regard","The narcissist will think of themselves as just protecting their interests.","pride","anxiety","vengefulness"],
+        "related": ["superiority", "arrogance", "entitlement"],
+        "opposites": ["humility","empathy"]
+    },{
+        "name": "narcissistic personality disorder",
+        "alternateNames": ["addicted to feeling special"],
+        "description": "A realization that an unhealthy sense of self-importance has consistently damaged your relationships and is causing sadness and life difficulties.",
+        "perceptions": ["I've pushed away most of the people that I care about.","I'm not handling things well.","Maybe I could use some help."],
+        "desires": ["desire for comfort","desire for social contact"],
+        "sensations": ["impatience","anger","failure","gloom"],
+        "related": ["unhealthy self-regard"],
+        "commentaries": [{
+            "quote": "Narcissism isn't illegal, so those affected must choose to seek help if they perceive it's causing them problems.",
+            "tags": ["definition footnote"]
+        }],
+        "guidance": [{
+            "description": "People with narcissistic personality disorder may not want to think that anything could be wrong, so they usually don't seek treatment. If they do seek treatment, it's more likely to be for symptoms of depression, drug or alcohol misuse, or another mental health problem. What they view as insults to self-esteem may make it difficult to accept and follow through with treatment.",
+            "attribution": "mayoclinic.org",
+            "references": ["https://www.mayoclinic.org/diseases-conditions/narcissistic-personality-disorder/symptoms-causes/syc-20366662"]
+        }]
+    }],
+    "comparisons": [{
+        "links": ["grandiose narcissism","vulnerable narcissism","narcissistic personality disorder"],
+        "description": "Psychologists recognize two specific flavors of narcissism. The 'grandiose' variety shows up as arrogant confidence. The 'vulnerable' variety shows up as anxious and quick to anger. Someone with extreme narcissism may exhibit both varieties."
+    }],
+    "commentaries": [{
+        "quote": "Realize that narcissists have an addiction disorder. They are strongly addicted to feeling significant. Like any addict they will do whatever it takes to get this feeling often.",
+        "attribution": "Shannon L. Alder"
+    },{
+        "quote": "People who show signs of narcissism can be charming and charismatic. They often don’t show negative behavior right away, especially in relationships. People with narcissism often surround themselves with people who feed their ego. They build relationships to reinforce their ideas about themselves, even if the relationships are shallow.",
+        "attribution": "Martha Anne Tudor"
+    },{
+        "quote": "Narcissists don’t change because they don’t see anything wrong with their behavior.",
+        "attribution": "Dr. Les Carter"
+    },{
+        "quote": "Narcissists are consumed with maintaining a shallow false self to others.",
+        "attribution": "Shahida Arabi"
+    },{
+        "quote": "They don’t love you. They love how you make them feel about themselves.",
+        "attribution": "Dr. Craig Malkin"
+    },{
+        "quote": "It’s not your job to fix people. It’s your job to heal and protect your energy.",
+        "attribution": "Alex Elle"
+    },{
+        "quote": "Each person has a bit of normal narcissism within them. This can take the form of having self-confidence and even a modicum of entitlement while still displaying empathy and emotion.",
+        "attribution": "April Nisan Ilkmen"
+    },{
+        "quote": "We’re not all narcissistic in the same way, or to the same degree, but we do all have narcissistic tendencies. Not only is self-absorption universal, it’s also a vital aspect of health.",
+        "attribution": "Michael Kinsey"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["narcissism","grandiose narcissism","vulnerable narcissism"],
+            "predominantType": "sensation",
+            "levels": {
+              "4,3": {
+                "experiences": ["narcissism"]
+              },
+              "2,1": {
+                "experiences": ["dissatisfaction"]
+              }
+            }
+        },{
+            "names": ["narcissistic personality disorder"],
+            "predominantType": "impulse",
+            "levels": {
+              "4,3": {
+                "experiences": ["narcissistic personality disorder"]
+              },
+              "2,1": {
+                "experiences": ["dissatisfaction"]
+              }
+            }
+        }]
+    }]
+}

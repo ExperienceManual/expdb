@@ -41,8 +41,7 @@
       "quote": "It really is a fact that liberals are much higher than conservatives on a major personality trait called 'openness to experience.' People who are high on openness to experience just crave novelty, variety, diversity, new ideas, travel. People low on it like things that are familiar, that are safe and dependable.",
       "attribution": "Jonathan Haidt"
   }],
-  "models": [
-    {
+  "models": [{
       "version": "em1",
       "variations": [{
           "names": ["*"],
