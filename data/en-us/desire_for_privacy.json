@@ -1,18 +1,18 @@
 {
   "lang": "en/us",
   "createDate": "20250120",
-  "updateDate": "20250516",
+  "updateDate": "20250929",
   "name": "desire for privacy",
   "valence": 0,
   "quote": "I'm not going out tonight.",
   "description": "A desire to avoid unnecessary social attention at the moment.",
   "perceptions": ["Being very social seems unimportant or unappealing right now."],
+  "desires": ["desire for quiet","desire for comfort"],
   "guidance": [{
       "description": "It's ok if you get a social invitation that you want to decline.",
       "attribution": "",
       "references": ["https://www.self.com/story/saying-no-to-invitations","https://parade.com/living/how-to-politely-decline-an-invitation"]
   }],
-  "related": ["desire for quiet", "desire for comfort"],
   "opposites": ["desire for social contact"],
   "comparisons": [{
     "links": ["desire for quiet"],
@@ -20,20 +20,35 @@
   }],
   "variations": [{
       "name": "desire for social rest",
-      "description": "Social withdrawal driven by a simple need for some downtime. Depending your personality, this may be infrequent or often.",
+      "description": "Social withdrawal driven by an internal need for some downtime. Depending your personality, this may be infrequent or often.",
       "perceptions": ["A social interaction may cost more energy than I have right now."],
       "related": ["tiredness","overwhelmed","desire for quiet"]
     },{
       "name": "desire for social recovery",
-      "description": "Social withdrawal after negative social experience like anxiety, cynicism, shame, ennui, or contempt.",
+      "description": "Social withdrawal after a negative social experience like anxiety, cynicism, shame, or contempt.",
       "sensations": ["social tension"],
-      "perceptions": ["After what happened, I need a break from that group."]
+      "perceptions": ["After what happened, I need a break from the group."]
   },{
       "name": "limit what others know about you",
       "description": "Desire to keep certain information from certain people. Some people live their lives on social media, others prefer a smaller circle.",
       "perceptions": ["Concern about what someone may do with a particular piece of information.","Concern about how someone might perceive you if they had this detail."],
       "sensations": ["desire for agency","distrust"],
-      "examples": ["salary","home address","political/tribal affiliation"]
+      "examples": ["People don't generally share how much they make.","Not letting someone know your home address.","Avoiding political/tribal affiliation."],
+      "comparisons": [{
+          "links": ["desire for privacy"],
+          "description": "You may be comfortable talking about the weather or your hobbies, but maybe you prefer to avoid certain topics."
+      }]
+  },{
+      "name": "aversion to social attention",
+      "description": "A general desire to avoid social contact as much as possible.",
+      "perceptions": ["Dealing with social attention is difficult and tiresome.","I cannot control how people react to me.","It's easier to just minimize contact with others."],
+      "desires": ["desire for comfort","desire to be perceived a certain way"],
+      "sensations": ["shyness","reticence","introversion"],
+      "related": ["social tension"],
+      "comparisons": [{
+          "links": ["desire for privacy"],
+          "description": "Trying to avoid social attention for an extended period is the strongest form of desire for privacy."
+      }]
   }],
   "commentaries": [{
       "quote": "It can be hard for us to balance being an individual integrated as part of several groups, some of which we may not be fully aligned with. We like to have a sense of safety and control, and we may sometimes perceive that a social situation causes as much anxiety as joy."
@@ -49,6 +64,8 @@
   },{
       "quote": "I don't know why people are so keen to put the details of their private life in public; they forget that invisibility is a superpower.",
       "attribution": "Banksy"
+  },{
+      "quote": "Avoiding social attention is one strategy for not losing social status."
   }],
   "models": [{
       "version": "em1",
@@ -89,6 +106,20 @@
             },
             "3,2": {
               "experiences": ["desire for privacy","distrust"]
+            },
+            "1": {
+              "experiences": ["desire for quiet", "desire for comfort"]
+            }
+          }
+      },{
+          "names": ["aversion to social attention"],
+          "predominantType": "impulse",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3,2": {
+              "experiences": ["aversion to social attention"]
             },
             "1": {
               "experiences": ["desire for quiet", "desire for comfort"]

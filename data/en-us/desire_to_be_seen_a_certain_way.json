@@ -1,0 +1,146 @@
+{
+    "lang": "en/us",
+    "createDate": "20250929",
+    "updateDate": "20250930",
+    "name": "desire to be perceived a certain way",
+    "alternateNames": ["social signaling"],
+    "valence": 0,
+    "quote": "Our team is the best!",
+    "description": "Wanting to be seen with (or without) certain characteristics in a particular social context.",
+    "perceptions": ["It's important to be perceived well by a certain person or social group.","I want to show a particular characteristic that I think they care about.","I want to avoid showing any characteristic that they might not like."], 
+    "desires": ["desire for social status","desire for safety"],
+    "related": ["group bond","aversion to social attention"],
+    "examples": ["Wanting to be seen as nice, tough, competent, helpful, etc.","Wanting to avoid looking weak, dumb, etc.","Posting articles on social media", "Flying a flag.", "Which car you drive.", "Which foods you talk about."],
+    "guidance": [{
+        "description": "There's nothing wrong with trying to manage your social perception - we all do it all the time simply by living in the world. But it's worth understanding that signaling strongly for one group is likely to lower your status with other groups. If you feel trapped by the need to conform in certain ways, it may help to consider which actions are for yourself and which are for the group.",
+        "references": ["https://connectepsychology.com/en/2021/08/31/connecting-with-others-the-importance-of-what-we-dont-say-an-introduction-to-social-signaling/","https://personalmba.com/social-signals/"]
+    }],
+    "variations": [{
+        "name": "desire to conform",
+        "alternateNames": ["conformity"],
+        "description": "Wanting to be seen with certain characteristics that align with the expectations of a particular social group.",
+        "perceptions": ["It's important to be perceived well by a certain social group.","I want to show a particular characteristic that I think they generally display.","I want to avoid showing any characteristic that they don't generally display."],
+        "desires": ["desire for social status","desire for safety"],
+        "sensations": ["group bond"],
+        "related": ["aversion signaling"],
+        "examples": ["Wearing a sports team logo to the stadium.", "Wearing a clothing style to fit with the group.","Swearing with the guys."],
+        "opposites": ["desire to differentiate","desire to ditch constraints"],
+        "comparisons": [{
+            "links": ["desire to be perceived a certain way"],
+            "description": "Aligning with perceived social expectation is a very common way people want to be perceived."
+        }],
+        "guidance": [{
+            "description": "Conformity doesn't happen in every situation. Some people might resist conformity while being more susceptible to these influences in others.",
+            "attribution": "Kendra Cherry MSEd",
+            "references": ["https://www.verywellmind.com/what-is-conformity-2795889"]
+        }]
+    },{
+        "name": "desire to differentiate",
+        "alternateNames": ["individuality"],
+        "description": "Wanting to be seen with certain characteristics that make you stand out against the expectations of a particular social group.",
+        "perceptions": ["It's important to be perceived well by a certain social group.","But it's also important for me to be a little different than others."],
+        "desires": ["desire for agency","desire for social status"],
+        "sensations": ["group bond"],
+        "related": ["weird"],
+        "examples": ["Unusual clothing or hairstyle.","Always rooting for the underdog.","Taking an unpopular stance on a topic."],
+        "opposites": ["desire to conform"],
+        "comparisons": [{
+            "links": ["desire to be perceived a certain way"],
+            "description": "People often want to have a small harmless difference in the way they present themselves to the social group. In more individualistic societies, the differences get larger, with elaborate tatoos, unusual hairstyles, etc. In some groups, minor differences may be required to gain social status. It's ironic to conform by sticking out."
+        }],
+        "guidance": [{
+            "description": "Focusing on your own individuality doesn’t mean you have to throw all the rules and social conventions out the window.",
+            "attribution": "Menno van der Land",
+            "references": ["https://medium.com/@mennovanderland/individuality-conformity-and-our-need-for-social-acceptance-954d70c6b4b3"]
+        }]
+    },{
+        "name": "desire to be provocative",
+        "description": "A desire to draw attention to yourself or align yourself with a group by adopting an unusual appearance or behavior that's neither traditionally admirable nor terrible.",
+        "perceptions": ["Being normal is boring.","I'm better off signaling that I'm not a normal boring person."],
+        "desires": ["desire for agency","desire for stimulation","desire for social status","desire to make your mark","desire to impact negatively"],
+        "sensations": ["disrespect","excitement","dissonance"],
+        "related": ["weird"],
+        "examples": ["Odd piercings","Wearing a dress made of meat.","Controversial artistic expression."],
+        "opposites": ["desire to conform"],
+        "comparisons": [{
+            "links": ["desire to differentiate"],
+            "description": "Being provocative is deliberately behaving in an anti-social way as a way of drawing attention or social signaling. Differentiating yourself in a small-but-still-acceptable way is not anti-social."
+        },{
+            "links": ["desire to impact negatively"],
+            "description": "Being provocative is one way to impact someone negatively. Probably the nicest way."
+        }],
+        "guidance": [{
+            "description": "Provoking others is often a sign of unmet emotional needs. While the behavior may be unpleasant, it is often driven by their own insecurities, needs, or emotional struggles. These are worthy of compassion…and careful navigation.",
+            "attribution": "Sherri Fisher",
+            "references": ["https://www.learnandflourish.com/provocative-people-7-ways-to-understand-their-motivation"]
+        }]
+    }],
+    "comparisons": [{
+        "links": ["desire for social status"],
+        "description": "Wanting to be perceived in a certain way is the specific strategy we have for holding or gaining status with a particular group."
+    }],
+    "commentaries": [{
+        "quote": "One of the most paradoxical aspects of human behavior, if you ask me, is the universally felt need for freedom to be yourself and the simultaneous tendency to conform to your environment. Between making your own choices and doing what ‘everyone else’ does. That paradox creates a tension that many people struggle with.",
+        "attribution": "Menno van der Land"
+    },{
+        "quote": "Conformity is not inherently positive or negative. When conformity occurs because of fear, concern for one’s social standing, or has dangerous consequences, it may be seen as negative. However, conformity that protects the overall well-being of the group—mutually deciding to respect private property, for instance—can help societies succeed.",
+        "attribution": "Psychology Today"
+    },{
+        "quote": "It is no measure of health to be well adjusted to a profoundly sick society.",
+        "attribution": "Jiddu Krishnamurti"
+    },{
+        "quote": "There is a definite need for conformity in any society.  I conform to social norms every time that I get in my car and drive on the correct side of the road, obeying the speed limits and using my turn signals.",
+        "attribution": "Malcolm Muggeridge"
+    },{
+        "quote": "All progress has resulted from people who took unpopular positions.",
+        "attribution": "Adlai Stevenson"
+    },{
+        "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+        "attribution": "Ralph Waldo Emerson"
+    },{
+        "quote": "Don't kid yourself that provocative behavior is always 'resisting social pressure'. Most of the time, it's just a different interpretation for how to position your identity against the social background. Few people would do stupid, expensive, painful, inconvenient things were it not driven as a reaction to social pressure."
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["desire to be perceived a certain way","desire to conform"],
+            "predominantType": "impulse",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2": {
+                "experiences": ["desire for social status"]
+              },
+              "1": {
+                "experiences": ["desire for comfort","desire for safety"]
+              }
+            }
+        },{
+            "names": ["desire to differentiate"],
+            "predominantType": "impulse",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2": {
+                "experiences": ["desire desire to differentiate"]
+              },
+              "1": {
+                "experiences": ["desire for agency"]
+              }
+            }
+        },{
+            "names": ["desire to be provocative"],
+            "predominantType": "impulse",
+            "levels": {
+              "4,3": {
+                "experiences": ["desire to be provocative","disrepect"]
+              },
+              "2,1": {
+                "experiences": ["desire for agency","dissonance","excitement"]
+              }
+            }
+        }]
+    }]
+}

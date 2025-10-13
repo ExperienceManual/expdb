@@ -1,0 +1,72 @@
+{
+    "lang": "en/us",
+    "createDate": "20251009",
+    "updateDate": "20251009",
+    "name": "problem solving",
+    "valence": 0,
+    "timescale": ["unknown"],
+    "rarity": ["unknown"],
+    "frequency": ["unknown"],
+    "quote": "I should do well on the test.",
+    "description": "The mental process of determining which techniques can be used to effectively resolve a mental challenge.",
+    "perceptions": ["I'm in a situation that requires some sequence of actions.","But I don't know which actions.","I need to figure out the underlying patterns to find the right techniques and sequence."],
+    "desires": ["desire to improve your environment","desire for social status","desire for comfort","desire for safety"],
+    "sensations": ["challenge","anxiety","self-confidence","frustration","prediction error","prediction confirmed"],
+    "results": ["Succeeding at solving the problem may result in happiness from 'winning', while failing may result in frustration or shame.","Either way, you probably learn something."],
+    "related": ["generalization","deduction","imagination","learning"],
+    "examples": ["Crossword puzzles.","Computer programming.","DIY projects."],
+    "guidance": [{
+        "description": "There are a number of solid resources to help improve problem-solving skills. Here are some.",
+        "references": ["https://www.verywellmind.com/problem-solving-2795008","https://www.betterup.com/blog/problem-solving-strategies","https://charitylearning.org/2014/07/top-tips-for-effective-problem-solving/"]
+    }],
+    "variations": [{
+        "name": "following a procedure",
+        "description": "The process of performing a sequence of steps to resolve a physical or mental challenge.",
+        "perceptions": ["I'm in a situation requiring a specific sequence of actions.","I know a procedure that should work.","I need to follow the steps."],
+        "desires": ["desire to improve your environment","desire for social status","desire for comfort","desire for safety"],
+        "sensations": ["challenge","anxiety","self-confidence","frustration","prediction error","prediction confirmed"],
+        "results": ["Succeeding at solving the problem may result in happiness from 'winning', while failing may result in frustration or shame."],
+        "related": ["generalization","deduction","imagination"],
+        "examples": ["Long division.","Filling out a form."],
+        "comparisons": [{
+            "links": ["problem solving"],
+            "description": "The hard part of 'problem solving' is understanding what procedure(s) should be used to complete parts of the challenge. Once you've settled on a procedure you already know, that part should be relatively smooth."
+        }]
+    }],
+    "commentaries": [{
+        "quote": "Problem-solving isn't one size fits all. There are many ways to go about solving a problem. Sometimes you might have to try a few options to decide which works best, but there will also be times that you just trust your immediate 'gut feeling.'",
+        "attribution": "Kendra Cherry, MSEd"
+    },{
+        "quote": "Finding the best solution to a problem is a process. Remember to take breaks and get enough rest. Sometimes, a walk around the block can bring inspiration, but you should sleep on it if possible.",
+        "attribution": "Elizabeth Perry, ACC"
+    },{
+        "quote": "We cannot solve our problems with the same thinking that created them.",
+        "attribution": "Albert Einstein"
+    },{
+        "quote": "If the only tool you have is a hammer, you tend to see every problem as a nail.",
+        "attribution": "Abraham Maslow"
+    },{
+        "quote": "All life is problem solving.",
+        "attribution": "Karl Popper"
+    },{
+        "quote": "A problem exists when someone has a goal but does not know how to achieve it. Problems can be classified as routine or nonroutine, and as well defined or ill-defined. The major cognitive processes in problem solving are representing, planning, executing, and monitoring.",
+        "attribution": "Mayer, R. E. in 'Problem solving'"
+    },{
+        "quote": "Mental power is just as important as physical in the modern world. If you've never balanced a spreadsheet, your new business is likely to fail. If you've never solved an equation, your bridge is probably going to collapse. Knowledge and mental skills are important in shaping a complex environment."
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["problem solving","following a procedure"],
+            "predominantType": "action",
+            "levels": {
+              "4,3": {
+                "experiences": ["problem solving"]
+              },
+              "2,1": {
+                "experiences": ["challenge"]
+              }
+            }
+        }]
+    }]
+}

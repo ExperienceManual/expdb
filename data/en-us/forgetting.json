@@ -11,7 +11,7 @@
     "sensations": ["dissatisfaction","dismay"],
     "results": ["Maybe something will jog your memory, or maybe not."],
     "related": ["confusion"],
-    "opposites": ["recalling"],
+    "opposites": ["recalling","learning"],
     "examples": ["Not remembering a family member's birth date.","Not remembering the code for getting into the building."],
     "guidance": [{
         "description": "Tips for better remembering.",

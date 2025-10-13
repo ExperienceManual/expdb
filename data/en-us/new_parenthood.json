@@ -1,0 +1,59 @@
+{
+    "lang": "en/us",
+    "createDate": "20250930",
+    "updateDate": "20250930",
+    "name": "new parenthood",
+    "valence": 1,
+    "quote": "We made a baby!",
+    "description": "A deep sense of amazement, pride, and meaning from interacting with your young child.",
+    "alternateDefinitions": ["Parenthood in general is a wide range of experiences covered elsewhere. The experience of marvelling at your newborn is unique."],
+    "perceptions": ["That baby or toddler is my child.","Wow.","Life is amazing."],
+    "desires": ["desire to protect","desire for social contact"],
+    "sensations": ["love","baby love","happiness","pride","wonder","aww","tiredness"],
+    "results": ["Tiring, expensive, life changing, yes. But many find this experience worthwhile."],
+    "related": ["desire for parenthood"],
+    "guidance": [{
+        "description": "See guidance for 'baby love'.",
+        "references": ["baby love"]
+    }],
+    "comparisons": [{
+        "links": ["baby love"],
+        "description": "'Baby love' is more about your feelings towards the young one. 'New parenthood' is about the wonder, pride, and meaning you feel about being a parent."
+    }],
+    "commentaries": [{
+        "quote": "The most precious jewels you'll ever have around your neck are the arms of your children.",
+        "attribution": "Cardinal Mermillod"
+    },{
+        "quote": "Children are not things to be molded, but are people to be unfolded.",
+        "attribution": "Jess Lair"
+    },{
+        "quote": "Making the decision to have a child is momentous. It is to decide forever to have your heart go walking around outside your body.",
+        "attribution": "Elizabeth Stone"
+    },{
+        "quote": "Parenting is the art of guiding a child to discover the world while rediscovering it through their innocent eyes, and in doing so, finding the magic in everyday moments.",
+        "attribution": "Diane Loomans"
+    },{
+        "quote": "A baby is God's opinion that the world should go on.",
+        "attribution": "Carl Sandburg"
+    },{
+        "quote": "It's good that a love of our offspring is built in - that phase of their existence is much longer and more difficult than the brief reward of conception."
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["new parenthood"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2": {
+                "experiences": ["new parenthood"]
+              },
+              "1": {
+                "experiences": ["happiness"]
+              }
+            }
+        }]
+    }]
+}

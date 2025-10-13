@@ -6,6 +6,7 @@
   "valence": 0,
   "quote": "Ok, I can do this.",
   "description": "In a situation with several possible outcomes, you desire to influence the result towards or away from a particular outcome.",
+  "otherVariations": ["problem solving"],
   "perceptions": ["This situation has several possible outcomes.","I prefer some of the outcomes or want to prevent some of them.","I have agency to influence the final outcome."],
   "desires": ["desire for a particular outcome","desire for agency","desire to win"],
   "sensations": ["anxiety","optimism","pessimism"],

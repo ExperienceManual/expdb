@@ -6,19 +6,54 @@
     "alternateNames": ["being correct"],
     "valence": 1,
     "quote": "I knew it.",
-    "description": "A twinge of positivity coming from a perception that an expectation was confirmed. It's a brief mild happiness about being correct, separate from the implications of being right.",
+    "description": "Moderate positivity coming from a perception that an important expectation was confirmed. It's a brief mild happiness about being correct, separate from the implications of being right.",
+    "alternateNames": ["core assumption confirmed"],
     "tags": ["pattern processing"],
     "otherVariations": ["competence"],
-    "perceptions": ["To survive in the world, I need to understand it.","A perception matching my expectation proves that I understand this part of the world correctly."],
+    "perceptions": ["To survive in the world, I need to understand it.","A perception matching my expectation proves that I understand this part of the world correctly.","I had prepared myself for a particular outcome that seemed to be important."],
     "desires": ["desire to be correct"],
     "sensations": ["satisfaction"],
-    "results": ["Confirming a prediction is just the first spark of what may be an avalanche of sensations. If you were right about predicting something good, you'll be happy. If you were right about something bad, you'll still be sad, but you may feel some consolation in having predicted the bad thing."],
+    "results": ["Confirming an expectation is just the first spark of what may be an avalanche of sensations. If you were right about expecting something good, you'll be happy. If you were right about something bad, you'll still be sad, but you may feel some consolation in having correctly expected the bad thing."],
     "related": ["validation","deduction","generalization","gaining"],
     "opposites": ["expectation error"],
-    "examples": ["Solving a sudoku puzzle.","Correctly predicting your uncle would be very late to dinner."],
+    "examples": ["Correctly expecting your uncle would be late to dinner.","The election went the way you expected."],
     "guidance": [{
         "description": "Being right feels nice. So nice that your brain can actually bend perception through several different cognitive biases. This is why scientists try to be careful before celebrating. Most people much happier when they feel they can trust their intuitions about being right, but for really important things you might consider at least being aware of common biases.",
         "references": ["https://health.clevelandclinic.org/cognitive-bias","https://www.clearerthinking.org/post/how-to-avoid-cognitive-biases","https://www.lesswrong.com/about"]
+    }],
+    "variations": [{
+        "name": "prediction confirmed",
+        "description": "A twinge of positivity coming from a perception that a low-impact prediction was found to be correct. It's a brief mild happiness about being correct, separate from the implications of being right.",
+        "tags": ["pattern processing"],
+        "perceptions": ["In order to live in the world, I need to understand it.","This perception confirming my prediction suggests that I understand this part correctly.","It's a good I was right, but it doesn't affect me all that much."],
+        "desires": ["desire to be correct"],
+        "sensations": ["satisfaction","many"],
+        "results": ["A prediction succeeding is the first spark of what may be many sensations. If you were right about predicting something good, you may be doubly satisfied. If you were right about a prediction of something bad happening, you'll still have to deal with the bad thing, but have the consolation of having predicted correctly."],
+        "related": ["deduction","generalization"],
+        "opposites": ["prediction error"],
+        "examples": ["Finishing the Wordle after thinking you would solve it.","The sports team won as predicted."],
+        "guidance": [{
+            "description": "See guidance for 'expectation confirmed'.",
+            "references": ["expectation confirmed"]
+        }]
+    },{
+        "name": "guess confirmed",
+        "description": "A mild satisfaction coming from a perception that a low-impact prediction was found to be correct.",
+        "tags": ["pattern processing"],
+        "perceptions": ["In order to live in the world, I need to understand it.","This perception confirming my guess suggests that I understand this part correctly.","Cool."],
+        "desires": ["desire to be correct"],
+        "sensations": ["satisfaction"],
+        "results": ["A correct guess is perceived as no big deal."],
+        "related": ["deduction","generalization"],
+        "opposites": ["guess error"],
+        "examples": ["Getting a trivia question right.","You correctly estimated the number of beans in a jar."]
+    }],
+    "comparisons": [{
+        "links": ["prediction confirmed","guess confirmed"],
+        "description": "These are all similar, differing in how much confidence you had in the pattern and the impact to your life. You're most invested in 'core assumptions' and 'expectations', so finding one that's right gives you a little satisfaction even if the outcome turns out to be negative. You're not very invested in 'predictions' so a 'prediction confirmation' doesn't matter so much in the big picture. Finally, you're not emotionally invested in a 'guess' at all, so after a tiny rush of satisfaction about being right, you've already moved on."
+    },{
+        "links": ["expectation error"],
+        "description": "Being wrong about something generally creates more negativity than being right creates positivity. The brain's reward system is asymmetric: it rewards us a little for being right, but can punish us sternly for being wrong."
     }],
     "commentaries": [{
         "quote": "A correct answer is like an affectionate kiss.",
@@ -39,7 +74,7 @@
     "models": [{
         "version": "em1",
         "variations": [{
-            "names": ["expectation confirmed"],
+            "names": ["expectation confirmed","prediction confirmed","guess confirmed"],
             "predominantType": "capacity",
             "levels": {
               "4,3,2,1": {

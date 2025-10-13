@@ -22,13 +22,13 @@
       "description": "A profound sense of joy from interacting with a baby or child who depends on you.",
       "perceptions": ["Part of my life's journey is to help this little person.","They need my help and they deserve it.","Being with them and helping them is a positive experience for me, even when difficult."],
       "desires": ["desire to protect","desire for social influence"],
-      "sensations": ["love","delight","meaning","many"],
+      "sensations": ["aww","love","delight","meaning","many"],
       "guidance": [{
           "description": "Tips for caregivers are helpful for anyone caring for and guiding children as they grow. As a caregiver, you’re often the main source of emotional and physical support for the child you’re looking after, and can greatly shape their development and happiness.",
           "attribution": "abbycare.org",
           "references": ["https://www.abbycare.org/blog/tips-for-caregivers"]
       }],
-      "related": ["pride"],
+      "related": ["pride","new parenthood"],
       "examples": ["parents", "caregivers"]
   },{
       "name": "parent love",

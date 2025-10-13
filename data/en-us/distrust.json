@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250426",
-  "updateDate": "20250710",
+  "updateDate": "20251008",
   "name": "distrust",
   "alternateNames": ["mistrust"],
   "valence": -1,
@@ -21,6 +21,28 @@
   "comparisons": [{
       "links": ["pessimism"],
       "description": "Pessimism focuses more on the general outcome, for example, that you're probably going to lose the game. Distrust is about specific things, for instance, that you have bad luck or that your opponent is probably going to cheat."
+  }],
+  "variations": [{
+      "name": "suspicion",
+      "description": "An uncertain sense that someone or something has a chance of surprising you in some way, often negative.",
+      "perceptions": ["This person, group, idea, or tool is socially expected to behave in a certain way.","There's something weird about what's actually happening."],
+      "desires": ["desire for agency","desire for control"],
+      "sensations": ["dissatisfaction","doubt","anxiety"],
+      "results": ["A suspicion may lead to anxiety about a negative outcome, or less often it may hint about something positive."],
+      "guidance": [{
+          "description": "Suspicion can indicate a problem of trust in a relationship.",
+          "references": ["https://lepageassociates.com/articles-and-podcasts/the-suspicion-is-killing-me/","https://shaunti.com/2023/11/always-suspicious-of-your-spouse-or-others-heres-what-to-do-nix-the-negativity-part-1/"]
+      },{
+          "description": "This article has advice for recognizing suspicious individuals in the workplace.",
+          "references": ["https://thereceptionist.com/blog/how-to-handle-suspicious-activity-in-your-lobby"] 
+      }],
+      "related": ["pessimism","ill will","cynicism","skeptical","paranoia"],
+      "opposites": ["trust", "optimism"],
+      "examples": ["It's weird that stranger seems to be following us.","My friend is acting strangely."], 
+      "comparisons": [{
+          "links": ["distrust"],
+          "description": "'Distrust' is when you're certain enough to take action. 'Suspicion' is a distrust that is still doubtful."
+      }]
   }],
   "commentaries": [{
       "quote": "Trust and distrust in new area is based on generalizing characteristics from something similar we do have experience with. Yes, this is basically stereotyping, and it's the way the brain handles the unknown. What matters is the manner of how we approach someone that is not initially trusted."

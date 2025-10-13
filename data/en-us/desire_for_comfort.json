@@ -30,11 +30,12 @@
       "examples": ["I'm not cold but could use an extra blanket anyhow","Getting popcorn at the movie theater"]
     },{
       "name": "desire for better surroundings",
+      "alternateNames": ["desire for beautiful surroundings"],
       "description": "Wanting for your surroundings to be better aligned with preferences.",
-      "perceptions": ["my surroundings could be more comfortable"],
+      "perceptions": ["My surroundings could be more comfortable or more attractive to my tastes."],
       "desires": ["desire to improve"],
-      "sensations": ["discomfort"],
-      "examples": ["wish it were sunnier","wish the hotel carpet wasn't stained"]
+      "sensations": ["dissatisfaction","discomfort"],
+      "examples": ["I wish it were sunnier.","Would be nicer if the hotel carpet wasn't stained.","We need a painting for that blank wall."]
     },{
       "name": "desire to feel better about yourself",
       "description": "Wanting to avoid negative feelings about yourself.",

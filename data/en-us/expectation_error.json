@@ -1,22 +1,70 @@
 {
     "lang": "en/us",
     "createDate": "20250825",
-    "updateDate": "20250825",
+    "updateDate": "20251008",
     "name": "expectation error",
     "alternateNames": ["being incorrect"],
     "valence": -1,
-    "quote": "I was wrong.",
-    "description": "A twinge of negativity coming from a perception that an expectation was found to be incorrect. It's a brief mild sadness about being wrong, separate from the implications of being wrong.",
-    "perceptions": ["In order to live in the world, I need to understand it.","This perception conflicting with my expectation suggests that I may not understand this part correctly."],
+    "quote": "I was very wrong.",
+    "description": "Moderate negativity coming from a perception that an important expectation was found to be incorrect. It's a brief sadness about being wrong, separate from the implications of being wrong.",
+    "tags": ["pattern processing"],
+    "perceptions": ["In order to live in the world, I need to understand it.","This perception conflicting with my expectation suggests that I may not understand this part correctly.","I had prepared myself for a particular outcome that seemed to be important."],
     "desires": ["desire to be correct"],
-    "sensations": ["dissatisfaction"],
-    "results": ["An expectation failing is just the first spark of what may be an avalanche of sensations. If you were wrong about predicting and something good happened, you may not care about being wrong. If you were wrong and something bad happened, you'll be doubly sad."],
+    "sensations": ["dissatisfaction","many"],
+    "results": ["An expectation failing is just the first spark of what may be an avalanche of sensations. If you were wrong about expecting something bad happened, you may not care much about being wrong. If you were wrong about something good happening, you may be doubly sad."],
     "related": ["failure","deduction","generalization"],
     "opposites": ["expectation confirmed"],
-    "examples": ["Failing the Wordle.","The voting didn't go the way you'd predicted."],
+    "examples": ["Being wrong about thinking they were going to throw you a surprise party.","The voting didn't go the way you'd predicted."],
     "guidance": [{
         "description": "See guidance for 'expectation confirmed'.",
         "references": ["expectation confirmed"]
+    }],
+    "variations": [{
+        "name": "prediction error",
+        "description": "A twinge of negativity coming from a perception that a low-impact prediction (or assumption) was found to be incorrect. It's a brief mild sadness about being wrong, separate from the implications of being wrong.",
+        "alternateNames": ["peripheral assumption error"],
+        "tags": ["pattern processing"],
+        "perceptions": ["In order to live in the world, I need to understand it.","This perception conflicting with my prediction suggests that I may not understand this part correctly.","It's a bummer I was wrong, but it doesn't affect me all that much."],
+        "desires": ["desire to be correct"],
+        "sensations": ["dissatisfaction","many"],
+        "results": ["A prediction failing is the first spark of what may be many sensations. If you were wrong about predicting something bad, you may not care much about being wrong. If you were wrong about a prediction of something good happening, you may be doubly dissatisfied."],
+        "related": ["failure","deduction","generalization"],
+        "opposites": ["prediction confirmed"],
+        "examples": ["Failing the Wordle after thinking you would solve it.","The sports team didn't win as predicted."],
+        "guidance": [{
+            "description": "See guidance for 'expectation confirmed'.",
+            "references": ["expectation confirmed"]
+        }]
+    },{
+        "name": "guess error",
+        "description": "A mild dissatisfaction coming from a perception that a low-impact prediction was found to be incorrect.",
+        "tags": ["pattern processing"],
+        "perceptions": ["In order to live in the world, I need to understand it.","This perception conflicting with my guess suggests that I may not understand this part correctly.","That's ok. Live and learn."],
+        "desires": ["desire to be correct"],
+        "sensations": ["dissatisfaction"],
+        "results": ["A failed guess is perceived as no big deal. It means future guesses may be more accurate."],
+        "related": ["deduction","generalization"],
+        "opposites": ["guess confirmed"],
+        "examples": ["Getting a trivia question wrong.","You didn't guess the lottery number right."]
+    },{
+        "name": "core assumption error",
+        "description": "A tidal wave of negativity coming from a perception that a high-impact assumption or belief was found to be incorrect.",
+        "tags": ["pattern processing"],
+        "perceptions": ["In order to live in the world, I need to understand it.","This perception conflicting with my prediction suggests that I may not understand this part correctly.","It's a complete disaster or triump for a core identity that I was wrong.","It will have a major effect on me."],
+        "desires": ["desire to be correct"],
+        "sensations": ["dissatisfaction","many"],
+        "results": ["A failed assumption or belief is the first spark of what may be an avalanche sensations. If you were wrong about assuming something bad, you may be happy about being wrong. If you were wrong about a prediction of something good happening, you may experience grief."],
+        "related": ["failure","deduction","generalization","joy","grief"],
+        "opposites": ["core assumption confirmed"],
+        "examples": ["You had assumed your dad's politics were very different than your own.","You're forced to change a belief about the honor of your country."],
+        "guidance": [{
+            "description": "See guidance for 'expectation confirmed'.",
+            "references": ["expectation confirmed"]
+        }]
+    }],
+    "comparisons": [{
+        "links": ["prediction error","core assumption error","guess error"],
+        "description": "These are all similar, differing in how much confidence you had in the pattern and the impact to your life. You're most invested in 'core assumptions', so finding one that's wrong can be a shock, normally in negative way. You're somewhat less invested in 'expectations', so being wrong about them has a notable impact. You're not very invested in 'predictions' so a 'prediction error' doesn't matter so much in the big picture. Finally, you're not emotionally invested in a 'guess' at all, so after a tiny disappointment about being wrong, you've already moved on."
     }],
     "commentaries": [{
         "quote": "The proactive approach to a mistake is to acknowledge it instantly, correct and learn from it.",
@@ -30,11 +78,13 @@
     },{
         "quote": "We all can be wrong, some more often than others.",
         "attribution": "C.A.A. Savastano"
+    },{
+        "quote": "The unconscious mind will often warp perceptual reality to avoid being faced with the realization that a core belief is wrong."
     }],
     "models": [{
         "version": "em1",
         "variations": [{
-            "names": ["expectation error"],
+            "names": ["expectation error","prediction error","core assumption error"],
             "predominantType": "capacity",
             "levels": {
               "4,3,2,1": {

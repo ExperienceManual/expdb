@@ -61,6 +61,26 @@ All of this work is useful and illuminating. We welcome professional
 emotion researchers to comment on the entries for their specialty area.
 We will certainly consider linking to well-established scientific resources.
 
+Instead of just 'emotions', this project focuses on the broader experience of creatures living in the world. 'Experience' is defined as what it feels like when the brain or body has some kind of stimulation: a sensation, thought, feeling, desire, whatever. Experiences are often complicated and multi-leveled, happening across multiple parts of the brain, heart, gut, and other .
+
+### Experience, Awareness, Beliefs
+
+The many experiences happening in the mind and body are often subtle and confusing.
+It's almost always too much to deal with, so the brain selects a subset of experiences to focus on. This subset is 'awareness'.
+
+For example, as you're reading this right now, your body is feeling many things: pressure on your back or feet, hunger/fullness, temperature, etc. You may have anxiety about a family situation, an upcoming event, etc. Most of the time you tune these things out to focus on the task-at-hand, but they affect your mood, patience, ability to focus, and perhaps your perception of these words.
+
+At least with these sensations, we can become aware of them if we want. There are things that shape our perceptions that we can't be directly aware of: beliefs, assumptions, desires, and biological biases all bend perceptions. We're simply not built to see their impact. You know of their existence mainly when they cause a failure so obvious that you can't ignore it.
+
+### Summary
+
+- The world and your desires cause your nervous system to wiggle in a complicated way.
+- How those crazy dissonant stimulations feel from the inside is the 'experience'.
+- 'Awareness' is the slice of the overall experience that you're currently focusing on.
+- Awareness is flavored by:
+    - Fragments of experience you're ignoring or blocking.
+    - The lensing of perception by assumptions and beliefs.
+
 ## Core Philosophies
 
 Each JSON file here describes an experience. In the book of a human life, a single experience is like a single 'letter' in the 'alphabet' of our inner world. They can be combined with others to form 'words', which are then strung together to form 'sentences' and ultimately the crazy autobiography we each live inside. For example, you can probably imagine how it might be possible to feel "fear/anger/guilt" that dissipates into "admiration/humor/relief/shame".
@@ -106,17 +126,20 @@ Distinctions between some experiences can be subtle, so these files try to shed 
 
 ## Terminology
 
-Notes on word usage: 
-
-- **Agent/Agency** - this is a general term for a complex system acts upon the world stage. It can be applied to a single person/creature or a group of them. For example a group of people might also express their agency.
-- **Environment** - we use this term in the most general sense of "surroundings", not just the natural environment. I.e. classrooms and offices are environments just as much as a rainforest.
+- **Experience** - what it feels like on the inside of brain and body activity.
+- **Outcome** - one event that happens in the branching flow of events as the environment smoothly or suddenly changes.
+- **Prediction** - a recognition that a particular outcome is possible, but without feeling particularly invested in whether that outcome happens or not.
+- **Expectation** - a recognition that a particular outcome is possible, along with a strong desire for this outcome to happen or not happen.
+- **Assumption** - a prediction or expectation about the world that's nearly invisible until broken.
+- **Agent/Agency** - a complex system that acts upon the world stage. It can be a single person/creature or a group of them. For example a group of people can express their agency.
+- **Environment** - we use this term in the most general sense of "surroundings", not just the natural environment. I.e. homes, classrooms, and offices are environments just as much as a rainforest.
 - **Dismay** - this term is used as the opposite of "delight". Some people may find "dismay" to be too strong, but other alternatives like "disappointment" seem imperfect as well.
 - **Pure/Purity** - this just means anything that is close to 100%. It can apply to anything we want to be spotless, whether that's your reputation, your health, your amorous activities, or anything else. 
 - **Existential/Existential Self** - this term is used to represent the idealized part of yourself that is concerned about its relationship to the Universe. Many people call this "soul" or "spirit". Whether or not we ever find a "soul" in an FMRI scan is irrelevant -- history shows that the human brain gives special deference to its relationship with life's biggest mysteries.
 - **Patterns** - a human brain is the most amazing pattern-matching-prediction system in the known universe. It's exposed to a flood of input and nose, and has the impossible job of trying to make sense of an infinitely complex world. It does this by creating fuzzy matching structures triggered by input that link to predictions about what could come next and how various actions could influence the outcomes. EM definitions may refer to "patterns", which includes the matching conditions as well as the resulting predictions. For example, you might have a pattern that suggests when there's a giant pyramid-shaped object, what comes next might have something to do with ancient Egypt, even if it's made of cheese rather than stone.
 - **Inner model** - everything and everyone important in our life gets associated with a collection of many patterns - dozens or thousands. You know what's likely to come next when your spouse gets 'that look' or has a bad day at work. And it's not just people – you have patterns of expectations for your car (the seats get hot in the summer), your job (the end of quarter crunch). The collection of all the patterns surrounding a given topic is your 'inner model' of that person or thing.
 - **Truth** - Turns out 'truth' is a [tough concept](https://iep.utm.edu/truth/). We focus only on 'subjective truth' since that's what the human brain actually deals with. While we hope there is such a thing as 'objective truth', it's sadly not all that relevant when dealing with people. EM defines 'subjective truth' as a "pattern that's reliable enough that you're willing to base important decisions on it."
-- **Conscious** - the experiences and desires for which you have ready access to describe to others.
+- **Consciousness** - the experiences and desires for which you have ready access to describe to others.
 - **Subconscious** - experiences and desires that are difficult to perceive, but can be accessed with therapy, self-honesty, meditation, prayer, and/or diligence.
 - **Unconscious** - internal experiences and desires that cannot be accessed directly. Their existence must be implied.
 - **Outcome** - Our brains automatically predict things that could happen after the current situation. It's a relatively simple branching structure: for example, there's a good chance X happens next, a medium chance Y happens, and a small chance that Z happens. Each of these possible 'outcomes' may be associated with some experiences about how to influence the result.

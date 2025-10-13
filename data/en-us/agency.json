@@ -6,14 +6,16 @@
   "valence": 0,
   "quote": "I got this.",
   "description": "The sense that your actions or decisions are your own and they're important.",
-  "perceptions": ["I'm acting in the world on my own."],
+  "perceptions": ["I'm capable of influencing or changing the environment.","That would make me feel alive and useful."],
   "desires": ["desire for agency"],
   "guidance": [{
-      "description": "Well-Law suggests '3 Actionable Steps to Exercise Agency' are: Name What You Can Control, Interrupt the Victim Narrative, and Celebrate Tiny Wins.",
+      "description": "Well-Law suggests that '3 Actionable Steps to Exercise Agency' are: Name What You Can Control, Interrupt the Victim Narrative, and Celebrate Tiny Wins.",
       "references": ["https://www.well-law.com/blog/3-actionable-steps-to-exercise-personal-agency-during-chaos"]
   }],
+  "sensations": ["satisfaction","dissatisfaction"],
+  "results": ["You may be satisfied with your ability to influence the world, or dissatisfied about with your skill, constraints, or results."],
   "related": ["healthy self-regard", "aspiration", "ambition"],
-  "opposites": ["subordination", "hopelessness", "ennui"],
+  "opposites": ["subordination","hopelessness","apathy","ennui"],
   "variations": [{
       "name": "insubordination",
       "description": "Making your own decision in conflict to a request or demand from an important person or social group. This may come with consequence or a loss of status with that group.",

@@ -8,7 +8,8 @@
   "description": "Unattractiveness to the senses or sensibilities in purely subjective arena.",
   "perceptions": ["Something brings dismay by being judged as a poorly-formed instance of its type of thing."],
   "results": ["preference to not experience this often"],
-  "related": [ "dismay", "disgust", "ill will", "disrespect", "contempt", "aversion to cheaters", "aversion to strangers", "aversion to dangerous creatures", "hate" ],
+  "related": [ "dismay", "disgust","ill will","disrespect","contempt","hate" ],
+  "otherVariations": [ "aversion to cheaters", "aversion to strangers", "aversion to dangerous creatures", "aversion to social attention" ],
   "opposites": ["appreciation", "desire"],
   "comparisons": [{
     "links": ["disgust"],
@@ -48,7 +49,7 @@
           "references": ["https://yourlifecounts.org/learning-center/peer-pressure/20-ways-to-avoid-peer-pressure/","https://wholejourneywellness.com/social-pressure-resisting-peer-pressure-and-staying-true-to-yourself-during-the-holidays/"]
       }],
       "related": ["desire for social status"],
-      "examples": ["culture war cooties"]
+      "examples": ["Culture war cooties."]
     }
   ],
   "commentaries": [{

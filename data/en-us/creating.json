@@ -1,0 +1,64 @@
+{
+    "lang": "en/us",
+    "createDate": "20251010",
+    "updateDate": "20251010",
+    "name": "creating",
+    "valence": 0,
+    "timescale": ["unknown"],
+    "rarity": ["unknown"],
+    "frequency": ["unknown"],
+    "quote": "It's almost done.",
+    "description": "A sense that you are in the process of changing something into something else, generally with the intention of creating some kind of order in the environment.",
+    "perceptions": ["The world could use more of something.","I can help make that happen.","I have the materials, tools, and time needed."],
+    "desires": ["desire for agency","desire for better surroundings","desire for order","desire for social influence"],
+    "sensations": ["agency","excitement","satisfaction","dissatisfaction","imagination"],
+    "results": ["If creating something is for fun, it can be a joy.","If it's your job and you've created the same thing many times, it may not be fun."],
+    "related": ["maintaining"],
+    "opposites": ["destroying"],
+    "examples": ["A kid drawing a picture for grandma.","Writing a story.","Building a house.","Founding a startup business."],
+    "guidance": [{
+        "description": "There are many sites that give ideas on how to cultivate creativity. Here are a few.",
+        "references": ["https://achievecentre.com/blog/cultivate-creativity/","https://homeschoolcompass.com/cultivating-creativity","https://www.media.mit.edu/groups/media-lab-research-theme-cultivating-creativity/overview/"]
+    }],
+    "comparisons": [{
+        "links": ["destroying","fixing"],
+        "description": "Generally 'creating' is about increasing order in the world, or at least preserving order while changing its form. 'Destroying' is about decreasing order - breaking something into smaller parts. 'Fixing' is about restoring something to it's desired form or functionality after having been degraded in some way."
+    }],
+    "commentaries": [{
+        "quote": "To be creative means to be in love with life. You can be creative only if you love life enough that you want to enhance its beauty, you want to bring a little more music to it, a little more poetry to it, a little more dance to it.",
+        "attribution": "Osho"
+    },{
+        "quote": "A rock pile ceases to be a rock pile the moment a single man contemplates it, bearing within him the image of a cathedral.",
+        "attribution": "Antoine de Saint-Exupery"
+    },{
+        "quote": "The whole difference between construction and creation is exactly this: that a thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.",
+        "attribution": "Charles Dickens"
+    },{
+        "quote": "Another flaw in the human character is that everybody wants to build and nobody wants to do maintenance.",
+        "attribution": "Kurt Vonnegut"
+    },{
+        "quote": "Consciousness expresses itself through creation. This world we live in is the dance of the creator.",
+        "attribution": "Michael Jackson"
+    },{
+        "quote": "The biggest emotion in creation is the bridge to optimism.",
+        "attribution": "Brian May"
+    },{
+        "quote": "We don't make things out of nothing. We assemble them out of graphite, paint, blank paper, keyboards, time, inspiration, and other scraps."
+    },{
+        "quote": "Sometimes you have to destroy something to create something else. We pull weeds to have a garden, cut trees to have a house, and let go of one relationship for another."
+    },{
+        "quote": "It's worth pointing out that creating isn't always good, and destroying isn't always bad. After all, we can create indiscriminately powerful weapons and we can destroy a wasp nest on the front door."
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["creating"],
+            "predominantType": "action",
+            "levels": {
+              "4,3,2,1": {
+                "experiences": ["creating"]
+              }
+            }
+        }]
+    }]
+}

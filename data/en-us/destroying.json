@@ -1,0 +1,66 @@
+{
+    "lang": "en/us",
+    "createDate": "20251010",
+    "updateDate": "20251010",
+    "name": "destroying",
+    "valence": 0,
+    "timescale": ["unknown"],
+    "rarity": ["unknown"],
+    "frequency": ["unknown"],
+    "quote": "",
+    "description": "A sense that you are in the process of breaking something that was ordered into something with less order.", 
+    "perceptions": ["The world could use less of something.","I can help make that happen.","I have the materials, tools, and time needed."],
+    "desires": ["desire for agency","desire for better surroundings","desire for social influence"],
+    "sensations": ["agency","attack","excitement","satisfaction","dissatisfaction"],
+    "results": ["The purpose of the destruction may be to help others or hurt them."],
+    "related": ["maintaining"],
+    "opposites": ["creating","fixing"],
+    "examples": ["Beach bully kicking the sand castle.","Shredding old financial statements.","Knocking down an old shed to build a new one."],
+    "comparisons": [{
+        "links": ["attack"],
+        "description": "'Destroying' isn't always aimed at making someone else miserable - it can be a way to prepare the environment for something new. 'Attack' is about conflicting with someone or something."
+    }],
+    "commentaries": [{
+        "quote": "It's worth thinking twice about an act of destruction that's just a mindless expression of agency that will negatively affect someone."
+    },{
+        "quote": "The more clearly we can focus our attention on the wonders and realities of the universe about us, the less taste we shall have for destruction.",
+        "attribution": "Rachel Carson"
+    },{
+        "quote": "I guess humans like to watch a little destruction. Sand castles, houses of cards, that's where they begin.",
+        "attribution": "Markus Zusak"
+    },{
+        "quote": "It's easy to attack and destroy an act of creation. It's a lot more difficult to perform one.",
+        "attribution": "Chuck Palahniuk"
+    },{
+        "quote": "The war has ruined us for everything.",
+        "attribution": "Erich Maria Remarque in 'All Quiet on the Western Front'"
+    },{
+        "quote": "Herein lies the paradox of progress. A society cannot reap the rewards of creative destruction without accepting that some individuals might be worse off, not just in the short term, but perhaps forever.",
+        "attribution": "Richard Alm and W. Michael Cox"
+    },{
+        "quote": "Anger rooms and other physical outlets for anger may temporarily expel the bad feelings. But they don’t address the underlying cause of anger, or help people learn healthier ways to manage their emotions.",
+        "attribution": "Cleveland Clinic"
+    }],
+    "spectrum": {
+        "vandalize": 3,
+        "shatter": 4,
+        "smash": 4,
+        "destroying": 5,
+        "destruction": 5,
+        "demolish": 5,
+        "devastate": 7,
+        "annihilate": 8
+    },
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["destroying"],
+            "predominantType": "action",
+            "levels": {
+              "4,3,2,1": {
+                "experiences": ["destroying"]
+              }
+            }
+        }]
+    }]
+}

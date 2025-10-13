@@ -1,0 +1,64 @@
+{
+    "lang": "en/us",
+    "createDate": "20251011",
+    "updateDate": "20251012",
+    "name": "maintaining",
+    "valence": 0,
+    "timescale": ["unknown"],
+    "rarity": ["unknown"],
+    "frequency": ["unknown"],
+    "quote": "Sorry, gotta charge my phone.",
+    "description": "A sense that you are in the process of providing necessary resources or attention to something so that it stays looking or operating in the appropriate way.",
+    "perceptions": ["I want this thing to keep working or looking a certain way.","It sometimes needs resources, cleaning, or other activities to say in proper working order.","It's part of my role to keep it running."],
+    "desires": ["desire for order"],
+    "sensations": ["satisfaction","dissatisfaction","annoyance"],
+    "results": ["Maintaining something is rarely considered fun or glamorous, but it's often necessary."],
+    "related": ["creating","destroying"],
+    "examples": ["Cleaning the house.","Charging your devices.","Calling your mother.","Adding hydraulic fluid to the tractor."],
+    "guidance": [{
+        "description": "Maintenance can feel repetitive and uninteresting. Check out these articles for a different perspective.",
+        "references": ["https://www.ifixit.com/News/41358/the-importance-of-repair-and-maintenance-for-mental-wellbeing","https://www.shoestringcottage.com/how-to-make-home-maintenance-less-of-a-chore","https://certifiedsource.com/how-to-survive-repetitive-tasks-at-work/"]
+    }],
+    "variations": [{
+        "name": "fixing",
+        "description": "A sense that something was broken and you are in the process of restoring it to looking or operating in the appropriate way.",
+        "perceptions": ["This thing is not working or looking as it should.","I want this thing to start working or looking as it should.","It's part of my role to get it back to its preferred state."],
+    "desires": ["desire for order"],
+    "sensations": ["satisfaction","dissatisfaction"],
+    "results": ["Trying to fix things can be rewarding or frustrating."],
+    "related": ["creating"],
+    "examples": ["Taping a ripped poster.","Gluing a broken mug.","Replacing a cracked phone case."],
+        "opposites": ["destroying"]
+    }],
+    "commentaries": [{
+        "quote": "A stitch in time saves nine.",
+        "attribution": "Thomas Fuller"
+    },{
+        "quote": "Another flaw in the human character is that everybody wants to build and nobody wants to do maintenance.",
+        "attribution": "Kurt Vonnegut"
+    },{
+        "quote": "I said from the very beginning, I don't want a big house, I don't want big grounds, I don't want the trouble with the maintenance and all of that.",
+        "attribution": "Nancy Reagan"
+    },{
+        "quote": "Building takes passion and energy. Maintenance is awful. It's nothing but fatigue. Once you reach the top, maintaining that beast is awful.",
+        "attribution": "Urban Meyer"
+    },{
+        "quote": "I'm high maintenance, but I'm worth it.",
+        "attribution": "Lara Logan"
+    },{
+        "quote": "The study of the art of motorcycle maintenance is really a miniature study of the art of rationality itself. Working on a motorcycle, working well, caring, is to become part of a process, to achieve an inner peace of mind.",
+        "attribution": "Robert M. Pirsig in 'Zen and the Art of Motorcycle Maintenance'"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["maintaining","fixing"],
+            "predominantType": "action",
+            "levels": {
+              "4,3,2,1": {
+                "experiences": ["maintaining"]
+              }
+            }
+        }]
+    }]
+}

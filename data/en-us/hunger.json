@@ -1,25 +1,31 @@
 {
   "lang": "en/us",
   "createDate": "20250208",
-  "updateDate": "20250529",
+  "updateDate": "20251009",
   "name": "hunger",
   "valence": -1,
   "quote": "When's dinner?",
-  "description": "Physical need to eat or drink. Of course we often desire food when we're not actually hungry.",
+  "description": "Physical need or desire to eat or drink.",
+  "alternateDefinitions": ["'Hunger' can also be used to mean a strong desire of any type, e.g. a hunger for acceptance."],
   "perceptions": ["I have a hungry feeling in my stomach or feel lightheaded from lack of food."],
   "desires": ["desire for comfort","will to live"],
-  "results": ["find a way to get some food"],
+  "results": ["Find a way to get some food"],
   "related": ["desire for food"],
-  "variations": [{
-      "name": "strong desire",
-      "description": "Besides food, 'hunger' can be any kind of desire like a 'hunger for acceptance'.",
-      "related": ["desire"]
-  }],
   "spectrum": {
       "hunger": 5,
       "thirst": 5,
       "starving": 9
   },
+  "commentaries": [{
+      "quote": "There are people in the world so hungry, that God cannot appear to them except in the form of bread.",
+      "attribution": "Mahatma Gandhi"
+  },{
+      "quote": "Bread, soup - these were my whole life. I was a body. Perhaps less than that even: a starved stomach. The stomach alone was aware of the passage of time.",
+      "attribution": "Elie Wiesel"
+  },{
+      "quote": "When you're hungry, everything tastes good.",
+      "attribution": "John Witherspoon"
+  }],
   "models": [{
       "version": "em1",
       "variations": [{
@@ -32,14 +38,6 @@
             "4,3,2": {
               "experiences": ["narration"]
             }
-          }
-      },{
-          "names": ["strong desire"],
-          "predominantType": "node",
-          "levels": {
-              "4,3,2,1": {
-                  "experiences": ["desire"]
-              }
           }
       }]
   }]

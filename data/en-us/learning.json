@@ -1,0 +1,85 @@
+{
+    "lang": "en/us",
+    "createDate": "20251009",
+    "updateDate": "20251010",
+    "name": "learning",
+    "valence": 0,
+    "timescale": ["unknown"],
+    "rarity": ["unknown"],
+    "frequency": ["unknown"],
+    "quote": "Let me try that again.",
+    "description": "Establishing a new skill or mind pattern by experiencing something new.",
+    "perceptions": ["Something happened that could happen again.","I'll remember it for next time."],
+    "desires": ["desire for knowledge","desire for control"],
+    "results": ["Learning from experience can be a joy, or it can come from the school of hard knocks."],
+    "related": ["generalization","problem solving"],
+    "opposites": ["forgetting"],
+    "examples": ["Discovering a time saving trick.","Getting better at a sport just by logging the hours."],
+    "guidance": [{
+        "description": "The things we learn are not always correct. Sometimes we live in a lopsided environment. Sometimes we're exposed to random stuff. It may be helpful to recognize that sometimes it may help to 'unlearn' errant patterns.",
+        "references": ["https://www.psychologytoday.com/us/blog/the-gen-y-psy/202004/the-power-of-unlearning"]
+    }],
+    "variations": [{
+        "name": "learning from a source",
+        "description": "Establishing new skills or mind patterns by engaging with a school, book, recording, or coach.",
+        "perceptions": ["I want or need to acquire a new skill or pattern.","I'm engaging with someone or something that will help me do this."],
+        "desires": ["desire for knowledge","desire for social status"],
+        "sensations": ["challenge","generalization","problem solving","deduction"],
+        "results": ["You may or may not master a subject or skill quickly, but with the right source, you'll be better than before."],
+        "examples": ["Reading an instruction manual.","Formal schooling.","Taking a lesson."],
+        "comparisons": [{
+            "links": ["learning"],
+            "description": "We all learn from experience, becoming better pattern-predictors with every success and failure. When you engage in proactive learning from a reputable source, it will significantly speed your ability to acquire skills and knowledge."
+        }],
+        "guidance": [{
+            "description": "Studying 101: Study Smarter Not Harder",
+            "attribution": "The Learning Center at University of North Carolina Chapel Hill",
+            "references": ["https://learningcenter.unc.edu/tips-and-tools/studying-101-study-smarter-not-harder/"]
+        }]
+    }],
+    "commentaries": [{
+        "quote": "Tell me and I forget, teach me and I may remember, involve me and I learn.",
+        "attribution": "Benjamin Franklin"
+    },{
+        "quote": "For the things we have to learn before we can do them, we learn by doing them.",
+        "attribution": "Aristotle"
+    },{
+        "quote": "The beautiful thing about learning is that no one can take it away from you.",
+        "attribution": "B.B. King"
+    },{
+        "quote": "Any fool can know. The point is to understand.",
+        "attribution": "Albert Einstein"
+    },{
+        "quote": "Anyone who isn't embarrassed of who they were last year probably isn't learning enough.",
+        "attribution": "Alain de Botton"
+    },{
+        "quote": "The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn.",
+        "attribution": "Alvin Toffler"
+    },{
+        "quote": "The only thing that interferes with my learning is my education.",
+        "attribution": "Mark Twain"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["learning"],
+            "predominantType": "action",
+            "levels": {
+              "4,3,2,1": {
+                "experiences": ["learning"]
+              }
+            }
+        },{
+            "names": ["learning from a source"],
+            "predominantType": "action",
+            "levels": {
+              "4,3,2": {
+                "experiences": ["learning from a source"]
+              },
+              "1": {
+                "experiences": ["learning"]
+              }
+            }
+        }]
+    }]
+}

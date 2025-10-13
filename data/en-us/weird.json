@@ -48,14 +48,6 @@
       "desires": ["desire for order"],
       "sensations": ["curiosity","contempt for the unusual"],
       "examples": ["an unusual outfit on a movie star that you dislike","a bad hallucination"]
-  },{
-      "name": "provocative weird",
-      "description": "A desire to draw attention to yourself or align yourself with a group by adopting an unusual appearance or behavior that's neither traditionally admirable nor terrible.",
-      "perceptions": ["Being normal is boring.","I'm better off signaling that I'm not a normal boring person."],
-      "desires": ["desire for social influence","desire for stimulation","desire to make your mark","desire to impact negatively"],
-      "sensations": ["disrespect","excitement","dissonance"],
-      "related": ["social signaling","attention-seeking weird"],
-      "examples": ["pink hair","odd piercings","wearing a dress made of meat"]
   }],
   "commentaries": [{
       "quote": "People who have a taste for novelty probably like 'weird' more than those that have more constrained preferences."
@@ -102,17 +94,6 @@
             },
             "2,1": {
               "experiences": ["dissatisfaction"]
-            }
-          }
-      },{
-          "names": ["provocative weird"],
-          "predominantType": "impulse",
-          "levels": {
-            "4,3": {
-              "experiences": ["provacative weird","disrespect"]
-            },
-            "2,1": {
-              "experiences": ["dissonance","excitement"]
             }
           }
       }]

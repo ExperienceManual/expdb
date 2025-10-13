@@ -1,19 +1,19 @@
 {
   "lang": "en/us",
   "createDate": "20250217",
-  "updateDate": "20250822",
+  "updateDate": "20251008",
   "name": "anticipation",
   "valence": 0,
   "quote": "Looking forward to finding out what happens.",
-  "description": "Waiting to perceive which of several predicted outcomes happens. While waiting, you may cycle through positive and negative sensations as you imagine the results.",
+  "description": "Waiting to perceive whether an important predicted outcome will happen. While waiting, you may cycle through positive and negative sensations as you imagine the results.",
   "perceptions": ["I am waiting for something to happen.","I have predictions about what might happen.","I hope for the better outcomes."],
   "desires": ["desire for order","desire for comfort"],
-  "sensations": ["hope","worry","hopelessness", "optimism", "pessimism", "doubt","anxiety","fear"],
+  "sensations": ["hope","worry","hopelessness", "optimism", "pessimism", "doubt","anxiety","fear","impatient endurance"],
   "related": ["prediction"],
   "opposites": ["confusion"],
   "comparisons": [{
-      "links": ["hope","worry","hopelessness"],
-      "description": "'Anticipation' is the emotionless mental prediction. 'Hope' and 'worry' are value judgements that get layered onto uncertain predictions. 'Hopelessness' is assuming the worst is definitely going to happen."
+      "links": ["hope","worry","fear","hopelessness"],
+      "description": "'Anticipation' is the mental loop of imagining the desired or feared outcome. 'Hope', 'worry', and 'fear' are value judgements that get layered onto uncertain predictions. 'Hopelessness' is assuming the worst will happen."
   }],
   "commentaries": [{
       "quote": "We automatically predict what things might happen next, we may try to influence the outcome, and then have to wait to see which prediction happens. That period of anticipation may be pleasant or unpleasant, hopeful or hopeless."

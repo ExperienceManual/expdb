@@ -8,8 +8,8 @@
     "description": "Reacting to the threat of a negative social evaluation by shifting your behavior to better signal what you perceive the social context expects in order to restore or confirm your status.",
     "tags": ["unconscious","defense mechanism"],
     "perceptions": ["I'm at risk of being judged in a negative way.","I don't want to lose points over this.","I should make an effort to demonstrate that I conform to the expected social norms."],
-    "desires": ["desire for social status","desire to be perceived a certain way"],
-    "sensations": ["social anxiety","social signaling"],
+    "desires": ["desire for social status","desire to be perceived a certain way","desire for safety"],
+    "sensations": ["social anxiety"],
     "results": ["Maybe you'll react strongly by signaling the exact opposite of you actually feel.","Or maybe you'll just stay silent and shade your behavior differently."],
     "examples": ["Donating to a minority charity after being accused of racism.","A man being vocally respectful to women after being accused of sexism."],
     "guidance": [{
