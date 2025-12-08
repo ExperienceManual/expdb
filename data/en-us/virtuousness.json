@@ -42,7 +42,7 @@
         }]
     },{
         "name": "integrity",
-        "description": "The perception that someone acts in a way consistently aligned with pro-social virtues and social codes.",
+        "description": "The perception that someone acts in a way consistently aligned with acceptable virtues and social codes.",
         "perceptions": ["That person's words and actions are aligned with admirable qualities that help our community."],
         "desires": ["desire for order"],
         "sensations": ["admiration","trust"],

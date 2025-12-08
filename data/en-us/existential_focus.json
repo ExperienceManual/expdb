@@ -1,0 +1,48 @@
+{
+    "lang": "en/us",
+    "createDate": "20251207",
+    "updateDate": "20251207",
+    "name": "existential focus",
+    "alternateNames": [""],
+    "valence": 0,
+    "timescale": ["unknown"],
+    "rarity": ["unknown"],
+    "frequency": ["unknown"],
+    "quote": "Why ask why?",
+    "description": "The set of perspectives covering how you relate to the Big Questions of existing as a human being. These include things like 'Why do I exist?', 'Is there a world beyond what we can perceive?', 'What is death?', 'What is expected of me by the forces of existence?', etc.",
+    "otherVariations": ["religious spirituality","nonreligious spirituality","social religiousness","humanist"],
+    "desires": ["desire for meaning","desire for agency","desire for knowledge"],
+    "related": ["nihilism"],
+    "comparisons": [{
+        "links": ["desire for meaning","meaning"],
+        "description": "The 'desire' part is how much you care about answers to the 'Big Questions'. Your 'existential focus' is the set of beliefs and behaviors aimed at meeting that desire. A sense of 'meaning' is what you get if it all lines up."
+    }],
+    "commentaries": [{
+        "quote": "Man is the only animal for whom his own existence is a problem which he has to solve.",
+        "attribution": "Erich Fromm"
+    },{
+        "quote": "Throughout the ages, human beings have yearned to know how the universe came to exist and what role we play in this vast world with its limitations of space and time.",
+        "attribution": "Nuri Delen"
+    },{
+        "quote": "Why ask why? What is the purpose of asking the questions? Is it again humanness that makes us ask questions, and question the question itself? Is it the human nature to wonder about the universe? Even though animals may have their own, however primitive, way of questioning, and discovering the answer, deeper questions of nature have been the territory of humans.",
+        "attribution": "Dr. K.R.S Murthy"
+    },{
+        "quote": "As far as we can discern, the sole purpose of human existence is to kindle a light in the darkness of mere being.",
+        "attribution": "Carl Jung"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["existential focus"],
+            "predominantType": "node",
+            "levels": {
+              "4,3": {
+                "experiences": ["existential focus"]
+              },
+              "2,1": {
+                "experiences": ["many"]
+              }
+            }
+        }]
+    }]
+}

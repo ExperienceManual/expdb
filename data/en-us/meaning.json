@@ -1,13 +1,13 @@
 {
   "lang": "en/us",
   "createDate": "20250402",
-  "updateDate": "20250703",
+  "updateDate": "20251206",
   "name": "meaning",
   "valence": 1,
   "quote": "I know where I belong and what I'm supposed to do.",
-  "description": "A sense of certainty that your life situation is closely aligned with your important values.",
-  "perceptions": ["I know where I belong and what I'm supposed to do."],
-  "desires": ["desire for meaning"],
+  "description": "A sense of certainty that your life situation is closely aligned with your existential view of the world and that you posess the agency needed to obtain or maintain a desired existential status.",
+  "perceptions": ["I know where I deeply belong, what important things I'm supposed to do, and I think I can do them.","I have an acceptable status within an important social or existential context.","I can continue to generate a desired level of status."],
+  "desires": ["desire for meaning","desire for social status"],
   "sensations": ["satisfaction","joy"],
   "guidance": [{
       "description": "If you've found meaning, congratulations. If you're still looking for meaning, consider the guidance in 'desire for meaning'.",

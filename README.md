@@ -14,12 +14,7 @@ What you find in most dictionaries about these experiences is pretty thin and
 sometimes circular. In everyday conversation, we sometimes use overlapping
 concepts as synonyms when they're not.
 
-The goal is to have a well-curated and community-owned database of 
-experiences that can be communicated in language. These
-sensations and impulses consume our lives, but the words
-and concepts we have for them are surface froth. We hope that a
-more comprehensive and disciplined framework can become a valued
-psycho-technology that points towards inner motivations that don't yet have words.
+We perceive that sensations and impulses consume our lives, but the concepts and words we have for them are sometimes inadequate. The goal of EM is to have a well-curated and community-owned database of human experiences that can be communicated with language. We hope that a more comprehensive and disciplined framework may become a valued psycho-technology that points towards inner structures that don't yet have words.
 
 Each culture, and perhaps each person, may have a slightly
 different understanding of these experiences. You can open an issue

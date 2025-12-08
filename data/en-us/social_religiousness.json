@@ -1,0 +1,60 @@
+{
+    "lang": "en/us",
+    "createDate": "20251207",
+    "updateDate": "20251207",
+    "name": "social religiousness",
+    "alternateNames": ["superficial religiosity"],
+    "valence": 1,
+    "quote": "I've been busy with church.",
+    "description": "A sense that someone is excessively focused on the socially-visible aspects of the religious experience rather than internal communion and improvement.",
+    "tags": ["social label"],
+    "perceptions": ["That person is mostly involved in this religious or spiritual group for the social signaling."],
+    "desires": ["desire for social contact","desire for meaning"],
+    "sensations": ["disappointment"],
+    "personOfInterestExperiences": ["desire for shared meaning"],
+    "comparisons": [{
+        "links": ["desire for shared meaning"],
+        "description": "It might be hard to tell what is driving someone's involvement in the religious community, but those with wisdom will see it over time."
+    }],
+    "guidance": [{
+        "description": "Maybe it's ok if someone is involved in the religion for 'superficial' reasons at this point in their lives. It may be best to leave this perception with a religious leader and let them manage it.",
+        "references": ["religious spirituality"]
+    }],
+    "commentaries": [{
+        "quote": "EM defines 'religion' as 'A system of beliefs, practices, and moral codes that affirms a social community and provides a way to connect with a perceived existential reality.'",
+        "tags": ["definition footnote"]
+    },{
+        "quote": "I grew up in a little Methodist church that was very rural, very community support-oriented, made up of great people who talked about love and grace and the spiritual experience, but only in rhetorical terms.",
+        "attribution": "James Redfield"
+    },{
+        "quote": "Superficial religion will always be fashionable because it does not require self-denial.",
+        "attribution": "Charles Spurgeon"
+    },{
+        "quote": "The curse of superficial religion: the constant attempt to do outward things apart from inward transformation.",
+        "attribution": "David Platt"
+    },{
+        "quote": "These people draw near to Me with their mouths and honor Me with their lips, but their hearts are far from Me, and their worship of Me is but rules taught by men.",
+        "attribution": "The Bible Isaiah 29:13"
+    },{
+        "quote": "In American religious history, theological qualms tend to get pushed aside when politics intervenes.",
+        "attribution": "Rick Perlstein"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["social religiousness"],
+            "predominantType": "pattern",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2": {
+                "experiences": ["social religiousness"]
+              },
+              "1": {
+                "experiences": ["disappointment"]
+              }
+            }
+        }]
+    }]
+}

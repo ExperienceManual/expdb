@@ -1,7 +1,7 @@
 {
     "lang": "en/us",
     "createDate": "20250927",
-    "updateDate": "20250927",
+    "updateDate": "20251124",
     "name": "trauma",
     "valence": -1,
     "quote": "The memory still haunts me.",
@@ -33,9 +33,21 @@
             "description": "PTSD can seriously decrease the quality of your life. Please consider learning about it and seeking help.",
             "references": ["https://www.mayoclinic.org/diseases-conditions/post-traumatic-stress-disorder/diagnosis-treatment/drc-20355973","https://www.mind.org.uk/information-support/types-of-mental-health-problems/post-traumatic-stress-disorder-ptsd-and-complex-ptsd/self-care/"]
         }]
+    },{
+        "name": "victim of crime",
+        "description": "A strong negative experience from another person having harmed you physically or socially in an unfairly aggressive way.",
+        "perceptions": ["A very bad thing happened to me or someone close.","It was caused by another person's aggressive greed or selfishness.","I think there should be justice."],
+        "desires": ["desire for safety","desire for comfort","desire for justice","desire for agency"],
+        "sensations": ["fear","grief","horror","losing","betrayal","distrust","victim","shame"],
+        "opposites": ["calmness","committing a violent crime"],
+        "examples": ["Robbery.","Rape."],
+        "guidance": [{
+            "description": "Being a victim of crime can destroy your sense of safety and control. If you're struggling to cope, consider seeking help.",
+            "references": ["https://crcvc.ca/wp-content/uploads/2021/09/Recovering-from-Violent-Crime_DISCLAIMER_Revised-May2022_final.pdf","https://www.anokacountymn.gov/840/Coping-With-Victimization"]
+        }]
     }],
     "commentaries": [{
-        "quote": "Trauma is when a negative sensation takes over your life, whether it's grief, fear, betrayal, horror, shame or something else."
+        "quote": "Trauma is when a negative sensation takes over your life, whether it's grief, fear, betrayal, horror, shame, or something else."
     },{
         "quote": "Trauma creates change you don't choose. Healing is about creating change you do choose.",
         "attribution": "Michele Rosenthal"
@@ -48,11 +60,14 @@
     },{
         "quote": "There are wounds that never show on the body that are deeper and more hurtful than anything that bleeds.",
         "attribution": "Laurell K. Hamilton"
+    },{
+        "quote": "Rape is one of the most terrible crimes on earth and it happens every few minutes. The problem with groups who deal with rape is that they try to educate women about how to defend themselves. What really needs to be done is teaching men not to rape. Go to the source and start there.",
+        "attribution": "Kurt Cobain"
     }],
     "models": [{
         "version": "em1",
         "variations": [{
-            "names": ["trauma","post-traumatic stress disorder"],
+            "names": ["trauma","post-traumatic stress disorder","victim of crime"],
             "predominantType": "sensation",
             "levels": {
               "4": {

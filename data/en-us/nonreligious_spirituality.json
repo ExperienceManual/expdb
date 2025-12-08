@@ -1,0 +1,94 @@
+{
+    "lang": "en/us",
+    "createDate": "20251207",
+    "updateDate": "20251208",
+    "name": "nonreligious spirituality",
+    "valence": 1,
+    "quote": "My cathedral is a forest glade.",
+    "description": "A perspective that your answers to the Big Questions are rooted only in a personal relationship with existence and not through a human social institution.",
+    "perceptions": ["My spiritual practice provides satisfactory answers to the Big Questions.","I'm skeptical about the potential for groupthink in some religious organizations.","I believe what I'm doing is good for my deepest self.","I know what's expected of me."],
+    "desires": ["desire for meaning","desire for knowledge"],
+    "sensations": ["faith","meaning"],
+    "examples": ["Daily prayer or meditation.","'New Age' thinking.","Eclectic spiritual path."],
+    "opposites": ["confusion"], 
+    "related": ["prayer","meditation","social religiousness"],
+    "guidance": [{
+        "description": "There are many guides for living in a more spiritually connected way without a traditional religion.",
+        "references": ["https://www.gaiam.com/blogs/discover/5-ways-to-put-spirituality-into-practice","https://www.npr.org/sections/13.7/2014/11/23/366104014/exploring-the-religious-naturalist-option","https://dogchurch.blogspot.com/p/about-us.html"]
+    }],
+    "variations": [{
+        "name": "mystical spiritual experience",
+        "description": "A short, profound sense of existential clarity and personal connectedness with a deeper order of existence.",
+        "perceptions": ["My sense as a separate being was weakened.","I felt at peace.","I knew what I needed to do.","It all made sense."],
+        "desires": ["desire for meaning","desire for knowledge"],
+        "sensations": ["faith","meaning","happiness","joy"],
+        "results": ["You may have a lowered anxiety and sense of purpose, or you may feel disoriented about having core perspectives challenged."],
+        "examples": ["Visions.","Shamanic rituals.","Religious naturalism."],
+        "related": ["prayer","meditation","mystical religious experience"],
+        "guidance": [{
+            "description": "These articles may help you process a mystical experience that you've had.",
+            "references": ["https://www.kirstiformoso.com/blog/articles/should-i-talk-about-my-mystical-experience","https://asoulfulrebellion.com/blog/elevate-mystical-experiences","https://lonerwolf.com/mystical-experience/"]
+        },{
+            "description": "These articles describe paths that may lead towards a mystical experience.",
+            "references": ["https://perennialfollower.wordpress.com/2019/05/22/the-mystical-experience-meeting-the-face-of-god/","https://ninahirlaender.com/mystical-experience-and-gnosis/"]
+        }],
+        "comparisons": [{
+            "links": ["nonreligious spirituality"],
+            "description": "Most people have no more than a few deeply mystical experiences in their lives. These short glimpses may help sustain the everyday practices."
+        }]
+    }],
+    "commentaries": [{
+        "quote": "EM defines 'religion' as 'A system of beliefs, practices, and moral codes that affirms a social community and provides a way to connect with a perceived existential reality.'.",
+        "tags": ["definition footnote"]
+    },{
+        "quote": "While you may have experienced direct knowledge, wisdom, and insight, knowing whether to share your oneness spiritual experience is not always obvious. It's difficult to see into the future and know for sure whether talking about your mystical experience will serve you or not. Perhaps not knowing is one of the things that can keep us humble as we tumble back into our egoic selves.",
+        "attribution": "Kirsti Formoso"
+    },{
+        "quote": "Mystical experiences are experiences that cut through all the things that normally block us from touching our deepest selves, and they are rare because normally our consciousness is cut off from our deep, true, virginal self by the influence of ego, wound, history, social pressure, ideology, false fear, and all the various affectations we don and shed like clothing.",
+        "attribution": "Fr. Ron Rolheiser"
+    },{
+        "quote": "We are not human beings having a spiritual experience. We are spiritual beings having a human experience.",
+        "attribution": "Pierre Teilhard de Chardin"
+    },{
+        "quote": "I think any spiritual experience that's worthwhile is not about ego and it will humble you in some way. And also, a Zen monk once said to me, 'If you're not laughing, then you're not getting it.'",
+        "attribution": "David O. Russell"
+    },{
+        "quote": "Science is not only compatible with spirituality; it is a profound source of spirituality.",
+        "attribution": "Carl Sagan"
+    },{
+        "quote": "There is more to religion than pleasing your Imaginary Friend!",
+        "attribution": "Scooper at dogchurch.blogspot.com"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["nonreligious spirituality"],
+            "predominantType": "pattern",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2": {
+                "experiences": ["nonreligious spirituality"]
+              },
+              "1": {
+                "experiences": ["many"]
+              }
+            }
+        },{
+            "names": ["mystical experience"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2": { 
+                "experiences": ["mystical experience","awe"]
+              },
+              "1": {
+                "experiences": ["delight"]
+              }
+            }
+        }]
+    }]
+}

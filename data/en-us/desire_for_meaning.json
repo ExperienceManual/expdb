@@ -1,12 +1,13 @@
 {
   "lang": "en/us",
   "createDate": "20250203",
-  "updateDate": "20250526",
+  "updateDate": "20251206",
   "name": "desire for meaning",
   "valence": 0,
-  "quote": "",
-  "description": "Wanting to feel certain and good about your relationship to existence. To do this, we need to feel that we are participating in something clearly important.",
-  "perceptions": ["How I behave matters beyond my own current comfort.","I don't know if I'm on the right track."],
+  "quote": "I don't know what to do with my life.",
+  "description": "Wanting to feel positively about your relationship to existence.",
+  "perceptions": ["How I behave matters beyond my own current comfort.","I want to know if I'm on the right track.","I want to know if what I'm doing is important to someone important."],
+  "desires": ["desire for social status"],
   "guidance": [{
       "description": "What do people value in life? How much of what gives people satisfaction in their lives is fundamental and shared across cultures, and how much is unique to a given society? To understand these and other issues, Pew Research Center posed an open-ended question about the meaning of life to nearly 19,000 adults across 17 advanced economies. ",
       "attribution": "Pew Research Center",
@@ -21,6 +22,17 @@
   }],
   "related": ["meaning", "doubt", "desire for safety","faith"],
   "opposites": ["self-worth"],
+  "variations": [{
+        "name": "desire for shared meaning",
+        "alternateNames": ["religiosity"],
+        "description": "A desire for everyday religious or spiritual experience.",
+        "alternateDefinitions": ["Sometimes this term is used to describe 'excessive' or 'annoying' religious or spiritual behavior. For that, see 'social religiousness'."],
+        "perceptions": ["I want to want to be more connected to my deeper self.","I want to feel a deeper connection with others."],
+        "desires": ["desire for social contact","desire for meaning","desire for knowledge","desire to impact positively"],
+        "sensations": ["faith","anxiety"],
+        "results": ["People with higher religiosity are more likely to become involved their local religious communities."],
+        "related": ["social religiousness"]
+  }],
   "commentaries": [{
       "quote": "Doubt is pain. Existential doubt is existential pain. If we ask ourselves 'Am I doing the right things with my life?' and the answer is fuzzy, it doesn't feel good."
   },{
@@ -39,7 +51,7 @@
   "models": [{
       "version": "em1",
       "variations": [{
-          "names": ["desire for meaning"],
+          "names": ["desire for meaning","desire for shared meaning"],
           "predominantType": "impulse",
           "levels": {
             "1": {

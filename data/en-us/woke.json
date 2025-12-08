@@ -1,0 +1,138 @@
+{
+    "lang": "en/us",
+    "createDate": "20251130",
+    "updateDate": "20251205",
+    "name": "woke",
+    "alternateNames": ["woke left"],
+    "tags": ["pattern","social label"],
+    "valence": 0,
+    "timescale": ["unknown"],
+    "rarity": ["unknown"],
+    "frequency": ["unknown"],
+    "quote": "It's all about power.",
+    "description": "A perception of systemic social injustices and unconscious biases that negatively affect certain social groups.",
+    "alternateDefinitions": ["Many definitions of 'woke' include corrective activism as a core component. See 'woke left activist' for that definition."],
+    "perceptions": ["In general, some groups of people are treated with less tolerance, generosity, and/or equality than others.","This creates obstacles for some people that don't exist for others.","The obstacles may be small or large.","It would be better if the obstacles didn't exist and there was a truly level playing field for us all."],
+    "desires": ["desire for justice","desire for knowledge"],
+    "sensations": ["dissatisfaction","angst","injustice","distrust","anger","cynicism"],
+    "results": ["Some people bear this outlook with hopeful patience, others may become activists."],
+    "personOfInterestExperiences": ["Perhaps others are actually racist/sexist/bigots/etc., or perhaps they're just optimizing their own experiences in the ways they know."],
+    "related": ["anti-woke"],
+    "guidance": [{
+        "description": "This article explores the difficulty in defining the term 'woke', which means different things to different people. What's clear is that 'woke' activists have made themselves unpopular and many people conflate the underlying social concerns with impatient and ill-advised solutions to those concerns.",
+        "references": ["https://www.currentaffairs.org/news/2023/03/time-to-end-the-use-of-woke-as-a-pejorative"]
+    }],
+    "variations": [{
+        "name": "woke left activist",
+        "alternateNames": ["political correctness"],
+        "tags": ["social label"],
+        "description": "A perception of systemic social injustices and unconscious biases that negatively affect certain social groups, along with a desire to help make the environment better for those groups.",
+        "alternateDefinitions": ["A radical belief system suggesting that our institutions are built around discrimination, and claiming that all disparity is a result of that discrimination. It seeks a radical redefinition of society in which equality of group result is the endpoint, enforced by an angry mob. (Bethany Mandel)","Wokeness is effectively a religion, just with God replaced by protected classes. (Paul Graham)"],
+        "perceptions": ["In general, some groups of people are treated with less tolerance, generosity, and/or equality than others.","This creates obstacles for some people that don't exist for others.","The obstacles may be small or large.","It would be better if the obstacles didn't exist and there was a truly level playing field for us all.","I need to be part of the solution."],
+        "desires": ["desire for justice","desire for agency","desire for social status","desire for meaning"],
+        "sensations": ["dissatisfaction","angst","injustice","distrust","group hostility","anger","attack","defense"],
+        "results": ["Judging by the cultural response to intolerant activism, people with this pattern have stirred up a fair amount of anger. Perhaps they've succeeded at some level, or perhaps their efforts are a net negative for the groups they're aiming help."],
+        "personOfInterestExperiences": ["Perhaps others are actually racist/sexist/bigots/etc., or perhaps they're just optimizing their own experiences in the ways they know."],
+        "related": ["anti-woke"],
+        "examples": ["Black Lives Matter"],
+        "guidance": [{
+            "description": "Social-justice activists have generated fairly intense animosity. See 'anti-woke'.",
+            "references": ["anti-woke"]
+        },{
+            "description": "This article suggests that the underlying concerns of social justice may still be worth considering despite the overreach of some woke activists and the cultural backlash.",
+            "references": ["https://www.greenpeace.org/canada/en/story/68567/reclaiming-wokeness-and-wokeism/"]
+        }]
+    },{
+        "name": "woke right",
+        "description": "A perception of intolerance, misunderstanding, and unfair attacks against the majority culture.",
+        "tags": ["social label"],
+        "perceptions": ["The cultural majority is being unfairly critized by fringe elements of society.","We are being blamed and disrespected for the world we've created."],
+        "desires": ["desire for justice","desire for knowledge","desire for social status"],
+        "sensations": ["dissatisfaction","angst","injustice","distrust","anger"],
+        "results": ["Some people bear this outlook with hopeful patience, others may become activists."],
+        "personOfInterestExperiences": ["Perhaps others are actually anti-establishment, or perhaps they're just optimizing their own experiences in the ways they know."],
+        "related": ["anti-woke"],
+        "comparisons": [{
+            "links": ["woke left"],
+            "description": "Both 'woke left' and 'woke right' perceive bias against themselves. The difference is in whether the bias is against a minority group or the majority."
+        }],
+        "guidance": [{
+            "description": "Here are some articles suggesting that a 'woke right' has emerged as a reaction to the 'woke left'.",
+            "references": ["https://newdiscourses.com/2025/07/a-beginners-guide-to-the-woke-right/","https://reason.com/2025/06/11/the-rise-of-the-woke-right/"]
+        }]
+    },{
+        "name": "woke right activist",
+        "description": "A perception of intolerance, misunderstanding, and unfair attacks against the conservative majority culture, along with a desire to help protect the environment for that group.",
+        "tags": ["social label"],
+        "perceptions": ["The cultural majority is being unfairly critized by fringe elements of society.","We are being blamed and disrespected for the world we've created.","It would be better if this criticism didn't exist.","I need to be part of the solution."],
+        "desires": ["desire for justice","desire for meaning","desire for social status","desire for agency"],
+        "sensations": ["dissatisfaction","angst","injustice","distrust","group hostility","anger","attack","defense"],
+        "results": ["Perhaps explicit actions to defend the majority are warranted, or perhaps they justify the actions of the original 'woke left activist'."],
+        "personOfInterestExperiences": ["Perhaps others are actually anti-white/anti-male/anti-establishment, or perhaps they're just optimizing their own experiences in the ways they know."],
+        "related": ["anti-woke"],
+        "comparisons": [{
+            "links": ["woke left activist"],
+            "description": "The tactics of these groups are similar, including intolerance, distrust, and promotion of radical social change. The difference is in the target of the tactics."
+        }],
+        "guidance": [{
+            "description": "Right-wing culture activists have generated fairly intense animosity. See 'anti-woke'.",
+            "references": ["anti-woke"]
+        },{
+            "description": "There are ways to counter a 'woke left activist' without becoming one of them.",
+            "references": ["https://nypost.com/2021/01/31/10-ways-to-fight-back-against-woke-culture/"]
+        }]
+    }],
+    "commentaries": [{
+        "quote": "The phrase 'stay woke' was used in African-American circles for many decades before taking on meaning beyond the original usage.",
+        "tags": ["definition footnote"]
+    },{
+        "quote": "The Oxford English Dictionary definition of woke is well-informed, up to date and chiefly alert to racial discrimination and injustice. And on that basis, who would not want to be woke?",
+        "attribution": "Theresa May"
+    },{
+        "quote": "Suddenly, all these other voices which have long been silenced are finally being heard, now is when you say things have gone too far, because you don’t like the way that they are using their newfound voice?",
+        "attribution": "Issac J. Bailey quoted on forward.com"
+    },{
+        "quote": "Decades and decades of data show the myriad ways Black and brown people are still being harmed by systemic racism — racism that has been part of this nation stretching back centuries. Acknowledging this truth doesn’t make you part of some insidious subculture out to pervert America. It’s simply knowing American history. It’s also knowing America’s present.",
+        "attribution": "LZ Granderson"
+    },{
+        "quote": "Companies are more than twice as likely to call minority applicants for interviews if they submit whitened resumes than candidates who reveal their race—and this discriminatory practice is just as strong for businesses that claim to value diversity as those that don’t.",
+        "attribution": "Dina Gerdeman for Harvard Business School"
+    },{
+        "quote": "Unlike many with power and privilege who perpetuate unawakened hegemony, sociology wakens learners to the realities of social structure, just as Jesus called everyone to wakefulness. Would that more, not fewer, students of human social life waken, listen, and learn. Indeed, as Jesus exhorted us all, “Let anyone with ears listen!” (Matt. 11:15)",
+        "attribution": "Dennis Hiebert"
+    },{
+        "quote": "Throwing terms like ‘woke’ around as a way to dismiss the very real and consequential concerns of an entire group of people is just another way of saying, ‘I don’t want to be inconvenienced by your pain.’",
+        "attribution": "Tara Jaye Frank as quoted on forbes.com"
+    },{
+        "quote": "Every step of progress is overcoming you. Ask yourself, ‘What sort of villain does each event of progress have in common?’ The straight white male. That is the chief out-group of New America, the embodiment of regression and oppression.",
+        "attribution": "Stephen Wolfe"
+    },{
+        "quote": "Some woke left activists seem to feel all that's needed is a little more constraint. Civilization restrains human behavior in many ways: we do not poop wherever we get the urge, and we do not punch whoever slightly annoys us. They might suggest that it's just one more step to edit the discrimination that creates a virtual caste system. What the anti-woke crowd perceives, though, is not a small extension of politeness, but rather a monumental power grab that crosses the boundary of behavior into the realm of thoughts."
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["woke","woke right"],
+            "predominantType": "pattern",
+            "levels": {
+              "4,3": {
+                "experiences": ["woke"]
+              },
+              "2,1": {
+                "experiences": ["many negative"]
+              }
+            }
+        },{
+            "names": ["woke left activist","woke right activist"],
+            "predominantType": "pattern",
+            "levels": {
+              "4,3": {
+                "experiences": ["woke","desire for meaning"]
+              },
+              "2,1": {
+                "experiences": ["many negative"]
+              }
+            }
+        }]
+    }]
+}

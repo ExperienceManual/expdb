@@ -1,0 +1,93 @@
+{
+    "lang": "en/us",
+    "createDate": "20251204",
+    "updateDate": "20251208",
+    "name": "religious spirituality",
+    "valence": 1,
+    "timescale": ["unknown"],
+    "rarity": ["unknown"],
+    "frequency": ["unknown"],
+    "quote": "Amen.",
+    "description": "A perspective that your answers to the Big Questions are rooted in both a personal relationship with existence and through the social institution of your religion.",
+    "perceptions": ["My religion provides satisfactory answers to the Big Questions.","I'm amongst like-minded people.","I'm involved in something bigger than myself.","I believe what I'm doing is good for my deepest self.","I know what's expected of me.","I have a relationship and perhaps influence with a supernatural agent."],
+    "desires": ["desire for meaning","desire for social contact","desire for knowledge","desire for shared meaning"],
+    "sensations": ["faith","social contact","meaning"],
+    "examples": ["Regular religious attendance.","Daily prayer or meditation."],
+    "opposites": ["confusion"],
+    "related": ["prayer","meditation","social religiousness"],
+    "guidance": [{
+        "description": "There are many guides for living in a more spiritually connected way while under the social umbrella of a religion. Consider starting with a local priest, rabbi, imam, rinpoche, or guru.",
+        "references": ["https://christiancounselingco.com/living-your-faith-7-ways-to-integrate-christian-values-into-your-daily-life/","https://reformjudaism.org/learning/torah-study/torah-commentary/pathway-daily-jewish-spiritual-practice","https://handfulofleaves.life/whats-stopping-us-from-applying-buddhism-into-our-lives"]
+    }],
+    "variations": [{
+        "name": "mystical religious experience",
+        "description": "A short, profound sense of existential clarity and personal connectedness with one or more of your religion's supernatural agents.",
+        "perceptions": ["My sense as a separate being was weakened.","I felt at peace.","I knew what I needed to do.","It all made sense.","My religion is correct and awesome."],
+        "desires": ["desire for meaning","desire for knowledge"],
+        "sensations": ["faith","meaning","happiness","joy"],
+        "results": ["You may have a lowered anxiety and sense of purpose, or you may feel disoriented about having core perspectives challenged."],
+        "examples": ["Religious visions."],
+        "guidance": [{
+            "description": "See guidance for 'mystical experience'.",
+            "references": ["mystical experience"]
+        }],
+        "comparisons": [{
+            "links": ["mystical experience"],
+            "description": "An unusually profound experience may stand alone, or it may be experienced through the lense of your religion and serve as a source of faith and bond with that community."
+        },{
+            "links": ["religious spirituality"],
+            "description": "Most people have no more than a few deeply mystical experiences in their lives. These short glimpses may help sustain the everyday practices."
+        }]
+    }],
+    "commentaries": [{
+        "quote": "A religion is a system of beliefs, practices, and moral codes that affirms a social community and provides a way to connect with a perceived existential reality.",
+        "tags": ["definition footnote"]
+    },{
+        "quote": "In the mystical experience, you come to fully believe in God because you have been swallowed up by God—you have entered into the Divine but you have also come to understand that the Divine dwells within you as well. It always has been there. But now you know it beyond all doubt.",
+        "attribution": "Nina Hirlaender"
+    },{
+        "quote": "Were one asked to characterize the life of religion in the broadest and most general terms possible, one might say that it consists of the belief that there is an unseen order, and our supreme good lies in harmoniously adjusting ourselves thereto.",
+        "attribution": "William James"
+    },{
+         "quote": "It does not follow, because our ancestors made so many errors of fact and mixed them with their religion, that we should therefore leave off being religious at all.",
+        "attribution": "William James"
+    },{
+        "quote": "Religion is belief in another’s experience. Spirituality is one’s own experience.",
+        "attribution": "Deepak Chopra"
+    },{
+        "quote": "Religion is the finger pointing at the moon of spirituality. Religion is the menu describing the food of spirituality. But, many get stuck in religion and completely miss spirituality. They worship the finger or read the menu and never see the moon or eat the food.",
+        "attribution": "Kyle Kowalski"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["religious spirituality"],
+            "predominantType": "pattern",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2": {
+                "experiences": ["religious spirituality"]
+              },
+              "1": {
+                "experiences": ["many"]
+              }
+            }
+        },{
+            "names": ["mystical religious experience"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2": {
+                "experiences": ["mystical religious experience","awe"]
+              },
+              "1": {
+                "experiences": ["delight"]
+              }
+            }
+        }]
+    }]
+}

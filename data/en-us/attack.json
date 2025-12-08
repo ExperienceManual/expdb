@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250205",
-  "updateDate": "20250925",
+  "updateDate": "20251124",
   "name": "attack",
   "valence": 0,
   "quote": "It's mine now.",
@@ -21,7 +21,7 @@
       "perceptions": ["My group or I are struggling with another group or person for some objective.","There will be social or physical conflict."],
       "desires": ["desire for safety","desire for wealth","desire for social status","desire for territory", "desire for social status"],
       "sensations": ["anger","excitement","courage","ill will", "disrespect"],
-      "examples": ["War","Boardroom schism."]
+      "examples": ["War.","Boardroom schism."]
   },{
       "name": "sabotage",
       "description": "Effort to damage something that belongs to someone else without their consent or knowledge.",
@@ -38,7 +38,17 @@
       "sensations": ["many"],
       "personOfInterestExperiences": ["defense","anger","anxiety","fear"],
       "related": ["desire for social status", "desire for social influence", "hate", "ill will", "disrespect", "fear", "anger","vengeance"],
-      "examples": ["crime","war","torture"]
+      "examples": ["War.","Torture."]
+  },{
+      "name": "committing a violent crime",
+      "description": "Using socially unsactioned physical force to harm, rape, or kill another person.",
+      "perceptions": ["I want something from this person or I have orders to get it.","It may be against the rules, but I don't care.","I don't care if they are harmed by my action.","They deserve the treatment or I deserve the reward."],
+      "desires": ["many"],
+      "sensations": ["many"],
+      "personOfInterestExperiences": ["defense","victim of crime","anger","fear","trauma"],
+      "related": ["attacking life or health of a person","desire for wealth", "desire for social status", "desire for sex", "hate", "ill will", "disrespect", "fear", "anger","vengeance"],
+      "opposites": ["compassion"],
+      "examples": ["Mugging.","Rape."]
   },{
       "name": "attacking life or health of a non-person",
       "description": "Taking action to seriously injure or kill someone or something that is not a person, for example an animal or an organization.",
@@ -46,7 +56,7 @@
       "desires": ["many"],
       "sensations": ["many"],
       "related": ["desire for food", "desire to improve", "desire for knowledge"],
-      "examples": ["hunting","lab experiment"]
+      "examples": ["Hunting.","Lab experiment."]
   },{
       "name": "attacking reputation",
       "description": "Taking action to degrade the social status of another.",
@@ -67,7 +77,7 @@
   "commentaries": [{
       "quote": "Advancing an agenda at the expense of others often creates conflict in the short term. If it's done in way that minimizes unnecessary damage, others may come to see the wisdom. Otherwise, it may set up a chain of resentful actions."
   },{
-      "quote": "History is a dense timeline of people attacking each other for every conceivable reason, so the cult of the warrior has had a lot of time in the sun. That doesn't mean that every human is violent by nature, but it does suggest that aggression and cooperation can be tapped for intentions both good and bad."
+      "quote": "History is a dense timeline of people attacking each other for every conceivable reason, so the cult of the warrior has had a lot of time in the sun. That doesn't mean that every human is violent by nature, but it may be worth observing that aggression and cooperation can be tapped for intentions both good and bad."
   },{
       "quote": "The best defense is a good offense.",
       "attribution": "adage"
@@ -103,14 +113,14 @@
             }
           }
       },{
-          "names": ["attacking life or health of a person"],
+          "names": ["attacking life or health of a person","committing a violent crime"],
           "predominantType": "action",
           "levels": {
             "4": {
               "experiences": ["narration"]
             },
             "3": {
-              "experiences": ["attack","desire for social status","vengenace"]
+              "experiences": ["attack","desire for wealth","desire for social status","vengeance","desire for sex"]
             },
             "2,1": {
               "experiences": ["attack"]

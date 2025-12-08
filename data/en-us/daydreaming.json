@@ -1,0 +1,95 @@
+{
+    "lang": "en/us",
+    "createDate": "20251125",
+    "updateDate": "20251125",
+    "name": "daydreaming",
+    "valence": 0,
+    "timescale": ["unknown"],
+    "rarity": ["unknown"],
+    "frequency": ["unknown"],
+    "quote": "Sorry, I got distracted.",
+    "description": "Allowing your experience to wander through thoughts perceived as more pleasant than your actual situation.",
+    "perceptions": ["My environment is not satisfactory.","It's more pleasant to imagine other things."],
+    "desires": ["desire for comfort"],
+    "sensations": ["many"],
+    "results": ["Perhaps time passes more enjoyably, or perhaps time gets away from you."],
+    "related": ["imagination","boredom","nostalgia"],
+    "opposites": ["sustained attention"],
+    "guidance": [{
+        "description": "Perhaps day dreaming is something that should be encouraged.",
+        "attribution": "thesimplethings.com",
+        "references": ["https://www.thesimplethings.com/blog/how-to-daydream"]
+    },{
+        "description": "We all have times when we really want to daydream but shouldn’t.",
+        "attribution": "Kyla Borcherds",
+        "references": ["https://daydreamplace.com/how-to-resist-the-urge-to-daydream/"]
+    }],
+    "variations": [{
+        "name": "maladaptive daydreaming",
+        "description": "Your experience is pulled into thoughts perceived as less pleasant than your actual situation.",
+        "timescale": ["unknown"],
+        "rarity": ["unknown"],
+        "frequency": ["unknown"],
+        "perceptions": ["Something negative is pulling my attention.","It's difficult to focus on my actual situation."],
+        "desires": ["desire for control","desire for comfort"],
+        "sensations": ["anxiety"],
+        "results": ["Perhaps you'll find an angle to resolve a negative situation, but you may just sustain your anxiety."],
+        "related": ["imagination","boredom"],
+        "opposites": ["sustained attention"],
+        "examples": ["Simmering on how your ex treated you."],
+        "guidance": [{
+            "description": "While occasional mind-wandering is common, when these daydreams become prolonged or delusional they can affect your mental and even physical health.",
+            "attribution": "Jennifer Fisher, MMSc, PA-C",
+            "references": ["https://www.health.harvard.edu/mind-and-mood/maladaptive-daydreaming-what-it-is-and-how-to-stop-it"]
+        }]
+    }],
+    "comparisons": [{
+        "links": ["imagination"],
+        "description": "Imagination is the general capacity to mentally experience something that you have't experienced in real life before. Daydreaming often includes a stream of imaginative thoughts, but sometimes it centers on reliving experiences."
+    }],
+    "commentaries": [{
+        "quote": "It is better to be lost in a beautiful daydream than trapped in a dim reality.",
+        "attribution": "Sydney J. Shields"
+    },{
+        "quote": "That daydreaming mode turns out to be restorative. It's like hitting the reset button in your brain.",
+        "attribution": "Daniel Levitin"
+    },{
+        "quote": "Television is simply automated daydreaming.",
+        "attribution": "Lee Loevinger"
+    },{
+        "quote": "I'm often daydreaming, and it's because I've always liked the idea of there being something more than the normal world.",
+        "attribution": "Samantha Shannon"
+    },{
+        "quote": "If you aren't focused on what's right here in front of you, if you're daydreaming about what might be, you really aren't focused at all.",
+        "attribution": "Mike Leach"
+    },{
+        "quote": "A daydream is a meal at which images are eaten. Some of us are gourmets, some gourmands, and a good many take their images precooked out of a can and swallow them down whole, absent-mindedly and with little relish.",
+        "attribution": "W.H. Auden"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["daydreaming"],
+            "predominantType": "action",
+            "levels": {
+              "4,3": {
+                "experiences": ["daydreaming"]
+              },
+              "2,1": {
+                "experiences": ["many"]
+              }
+            }
+        },{
+            "names": ["maladaptive daydreaming"],
+            "predominantType": "action",
+            "levels": {
+              "4,3": {
+                "experiences": ["daydreaming"]
+              },
+              "2,1": {
+                "experiences": ["anxiety"]
+              }
+            }
+        }]
+    }]
+}

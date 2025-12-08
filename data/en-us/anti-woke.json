@@ -1,0 +1,60 @@
+{
+    "lang": "en/us",
+    "createDate": "20251201",
+    "updateDate": "20251201",
+    "name": "anti-woke",
+    "tags": ["pattern"],
+    "valence": -1,
+    "quote": "That is overreaching.",
+    "description": "A perception that another social group is trying to use a personal characteristic as leverage in an attempt to alter a core social foundation for their benefit.",
+    "perceptions": ["A social group is taking action to limit my agency.","I do not agree with their goal or rationale.","It is not right for them to be doing this."],
+    "desires": ["desire for order","desire for justice","desire for agency"],
+    "sensations": ["dissatisfaction","angst","injustice","distrust","anger","cynicism","defense"],
+    "results": ["Some people bear this outlook with hopeful patience, others may become activists for their perceived tribe."],
+    "personOfInterestExperiences": ["Perhaps others are actually engaging in social warfare, or perhaps they're just optimizing their own experiences in the ways they know."],
+    "related": ["woke"],
+    "guidance": [{
+        "description": "Effective countering perceived 'wokeness' of any variety will likely require patience, time, and a willingness to communicate. See guidance for 'woke'.",
+        "references": ["woke"]
+    },{
+        "description": "If you consider yourself 'woke' and are trying to understand why others bristle at the activism, you might consider articles like these.",
+        "references": ["https://www.cato.org/commentary/pushback-against-wokeness-legitimate","https://www.aljazeera.com/opinions/2021/6/24/what-is-woke-culture-and-why-has-it-become-so-toxic"]
+    }],
+    "commentaries": [{
+        "quote": "Racial essentialism is very reductive and actually oppressive. Ironically, it reduces us as individuals to our immutable characteristics, which is precisely what we were supposed to be fighting against.",
+        "attribution": "Chloe Valdary quoted on forward.com"
+    },{
+        "quote": "The fundamental problem with wokeness isn’t just that it offers the wrong answer to the question of who we are. The deeper problem is that it forecloses the possibility of shared solidarity as Americans. If we see each other as nothing more than the color of our skin, our gender, our sexual orientation, or the number of digits in our bank accounts, then it becomes impossibly difficult to find commonality with those who don’t share those characteristics. Yet if we define ourselves on a plurality of attributes, then we find our path to true solidarity as a people.",
+        "attribution": "Vivek Ramaswamy"
+    },{
+        "quote": "In this ideology, the past cannot be understood on its own terms, but must be judged through the morals and mores of the present. … In this ideology, the equality of opportunity is replaced with equality of outcome as a measure of fairness. If everyone doesn’t finish the race at the same time, the course must have been defective. … In this ideology, you are guilty for the sins of your fathers. In other words: You are not you. You are only a mere avatar of your race or your religion or your class.",
+        "attribution": "Bari Weiss"
+    },{
+        "quote": "Wokeness also implies that those not in the club are asleep, deluded or wrong. This instant judgement forms a dividing line, forcing the other side to become defensive and further entrenching the debate.",
+        "attribution": "Johnny Luk"
+    },{
+        "quote": "My friend and I discussed some of the breaking points that were crossed for us and for people we know. For me, it was something between seeing unfair witchhunt-like haranguing applied to public figures I respected (falsely accusing them of racism and sexism), the subversive manipulation of language, and, especially, the brazen attacks on science coming from both the activist and scholarly communities around Critical Social Justice. For my friend, it was the undeniable real racism and blatant double-standards at the heart of much of the Woke activist enterprise. For some of our friends, the public defense of riots in Woke language—like 'whiteness is property,' so it’s okay to burn down a business—was a bridge too far. For others, it was being bullied into allyship that’s never good enough. For so many more, it’s just the outright racism. Of course, I also hear from people citing the tearing down of statues (including George Washington’s), people losing their jobs, people being afraid to lose their jobs, 'Shut down STEM,' people’s relationships falling apart (including otherwise healthy interracial marriages, in particular), and a wide variety of other clear signals that things have gone too far with this moral panic and the bad ideas rising to prominence within it. For more and more people, these need to stop.",
+        "attribution": "James Lindsay"
+    },{
+        "quote": "The postmodern right is not the same as the postmodern left; but they share a family resemblance. Like the postmodern left, the postmodern right subverts truth, traduces norms, and mocks and abuses opponents, achieving success by steamrolling its ideological rivals—both on the left and, no less important, within the conservative coalition.",
+        "attribution": "Jonathan Rauch"
+    },{
+        "quote": "Right-wing wokeness appropriates techniques of the illiberal left-wing variety—language policing, historical revisionism, expansive claims of ethnic oppression—but deploys them in the service of the MAGA coalition, above all white Christian males, rather than racial and sexual minorities.",
+        "attribution": "Jonathan Chait in the Atlantic"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["anti-woke"],
+            "predominantType": "pattern",
+            "levels": {
+              "4,3": {
+                "experiences": ["anti-woke"]
+              },
+              "2,1": {
+                "experiences": ["many negative"]
+              }
+            }
+        }]
+    }]
+}

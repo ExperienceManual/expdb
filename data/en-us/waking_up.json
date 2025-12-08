@@ -1,0 +1,49 @@
+{
+    "lang": "en/us",
+    "createDate": "20251125",
+    "updateDate": "20251125",
+    "name": "waking up",
+    "valence": 0,
+    "timescale": ["unknown"],
+    "rarity": ["unknown"],
+    "frequency": ["unknown"],
+    "quote": "Good morning.",
+    "description": "The sense that you had been physically asleep, that time has passed without you being aware of the world.",
+    "perceptions": ["I've been asleep."],
+    "desires": ["desire for sleep","desire for stimulation"],
+    "sensations": ["many"],
+    "results": ["Maybe you'll want to go back to sleep, maybe you'll feel refreshed, or maybe you'll want a cup of caffeine."],
+    "related": ["dreaming"],
+    "opposites": ["trying to sleep"],
+    "commentaries": [{
+         "quote": "This entry is about waking up from physical sleep. This phrase is also commonly used in a metaphoric way to mean 'social realization', 'epiphany', or 'woke'.",
+         "tags": ["definition footnote"]
+    },{
+         "quote": "Waking up this morning, I smile. 24 brand new hours are before me. I vow to live fully in each moment.",
+         "attribution": "Thich Nhat Hanh"
+    },{
+        "quote": "Every morning I wake up and thank God.",
+        "attribution": "Aaron Neville"
+    },{
+        "quote": "I arise in the morning torn between a desire to improve the world and a desire to enjoy the world.",
+        "attribution": "E. B. White"
+    },{
+        "quote": "You’ve got to wake up each day and understand what that day is about; you’ve got to have personal goals. Be flexible in getting to those goals, but if you do not have goals, you will not achieve them.",
+        "attribution": "Cary Cohn"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["waking up"],
+            "predominantType": "action",
+            "levels": {
+              "4,3,2": {
+                "experiences": ["narration"]
+              },
+              "1": {
+                "experiences": ["waking up"]
+              }
+            }
+        }]
+    }]
+}

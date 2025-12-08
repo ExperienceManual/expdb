@@ -1,0 +1,59 @@
+{
+    "lang": "en/us",
+    "createDate": "20251126",
+    "updateDate": "20251126",
+    "name": "trying to sleep",
+    "valence": 0,
+    "timescale": ["unknown"],
+    "rarity": ["unknown"],
+    "frequency": ["unknown"],
+    "quote": "I'm too excited about tomorrow.",
+    "description": "A sense that you should be sleeping, but are struggling to do so.",
+    "perceptions": ["I should be sleeping.","Something is preventing me from sleeping."],
+    "desires": ["desire for sleep","desire for comfort"],
+    "sensations": ["frustration","excitement","pain"],
+    "opposites": ["waking up"],
+    "examples": ["Physical pain.","Insomnia.","Nervous about tomorrow."],
+    "guidance": [{
+        "description": "Here are some articles that may help prepare yourself for a better night's rest.",
+        "references": ["https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/","https://www.thensf.org/sleep-tips/"]
+    }],
+    "commentaries": [{
+        "quote": "Anything seems possible at night when the rest of the world has gone to sleep.",
+        "attribution": "David Almond"
+    },{
+        "quote": "Before you sleep, read something that is exquisite, and worth remembering.",
+        "attribution": "Desiderius Erasmus"
+    },{
+        "quote": "Without enough sleep, we all become tall two-year-olds.",
+        "attribution": "Jojo Jensen"
+    },{
+        "quote": "You know you're in love when you can't fall asleep because reality is finally better than your dreams.",
+        "attribution": "Dr. Seuss"
+    },{
+        "quote": "The night is the hardest time to be alive and 4am knows all my secrets.",
+        "attribution": "Poppy Z. Brite"
+    },{
+        "quote": "Paying attention to sleep hygiene is one of the most straightforward ways that you can set yourself up for better sleep. Strong sleep hygiene means having both a bedroom environment and daily routines that promote consistent, uninterrupted sleep.",
+        "attribution": "Eric Suni and David Rosen, MD"
+    }],
+    "spectrum": {
+        "trying to sleep": 3,
+        "insomnia": 8
+    },
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["trying to sleep"],
+            "predominantType": "action",
+            "levels": {
+              "4,3,2": {
+                "experiences": ["narration"]
+              },
+              "1": {
+                "experiences": ["trying to sleep"]
+              }
+            }
+        }]
+    }]
+}

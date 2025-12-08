@@ -3,7 +3,7 @@
     "createDate": "20250819",
     "updateDate": "20250819",
     "name": "nihilism",
-    "alternateNames": ["existential nihilism"],
+    "alternateNames": ["existential nihilism","nihilist"],
     "valence": 0,
     "quote": "Life sucks and then you die.",
     "description": "A pattern of belief that there's no meaning to life, so our actions don't matter.",
@@ -71,7 +71,7 @@
         "version": "em1",
         "variations": [{
             "names": ["*"],
-            "predominantType": "impulse",
+            "predominantType": "pattern",
             "levels": {
               "4": {
                 "experiences": ["nihilism"]

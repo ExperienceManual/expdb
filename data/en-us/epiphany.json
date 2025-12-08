@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20241201",
-  "updateDate": "20250626",
+  "updateDate": "20251125",
   "name": "epiphany",
   "valence": 1,
   "quote": "Eureka!",
@@ -15,10 +15,26 @@
   "opposites": ["frustration"],
   "comparisons": [{
     "links": ["triumph"],
-    "description": "An epiphany is a special form of mental triumph where the solution comes in a sudden realization."
+    "description": "An epiphany is a special form of mental triumph where the solution comes in a sudden burst."
   },{
     "links": ["inspiration"],
     "description": "An epiphany is a powerful and profound inspiration."
+  }],
+  "variations": [{
+        "name": "social realization",
+        "description": "The sense that you had been metaphorically asleep - unaware of some aspect of the social world or yourself that you wish you had known sooner.",
+        "timescale": ["unknown"],
+        "rarity": ["unknown"],
+        "frequency": ["unknown"],
+        "perceptions": ["I was not seeking this particular viewpoint or observation.","Now that I'm here, I perceive the situation differently.","Would have been better to know this sooner."],
+        "desires": ["many"],
+        "sensations": ["epiphany","many"],
+        "results": ["Maybe the realization is about something good, or maybe it's about something negative."],
+        "examples": ["Realizing that you weren't grateful about the good things.","Recognizing that your manager has not been treating you well."],
+        "comparisons": [{
+            "links": ["epiphany"],
+            "description": "These experiences may be similar, but generally a social realization will feel 'deeper'. An 'epiphany' is a 'Eureka moment' about a specific fact of the mental world. It feels more intellectual and remote than a 'social realization' which probably has more emotional content."
+        }]
   }],
   "commentaries": [{
     "quote": "An artist's duty is rather to stay open-minded and in a state where he can receive information and inspiration. You always have to be ready for that little artistic Epiphany.",
@@ -33,8 +49,7 @@
   "models": [
     {
       "version": "em1",
-      "variations": [
-        {
+      "variations": [{
           "names": ["epiphany"],
           "predominantType": "sensation",
           "levels": {
@@ -48,8 +63,21 @@
               "experiences": ["delight"]
             }
           }
-        }
-      ]
+      },{
+          "names": ["social realization"],
+          "predominantType": "sensation",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["social realization","many"]
+            },
+            "2,1": {
+              "experiences": ["many"]
+            }
+          }
+      }]
     }
   ]
 }

@@ -1,0 +1,105 @@
+{
+    "lang": "en/us",
+    "createDate": "20251208",
+    "updateDate": "20251208",
+    "name": "humanism",
+    "valence": 0,
+    "quote": "Strong morals are enough.",
+    "description": "A perspective that 'religion' and 'spirituality' do not provide appealing answers to the Big Questions.",
+    "perceptions": ["Adhering to pro-social human morality is enough to guide my behavior.","I'm skeptical about the potential for groupthink in some religious organizations.","I suspect that non-traditional 'spiritual practices' are just making things up.","I don't have a deep-seated need to focus effort on a 'deeper self'."],
+    "desires": ["desire for meaning","desire for knowledge"],
+    "sensations": ["many","deduction"],
+    "examples": ["Secular life."],
+    "related": ["nihilism","desire for certainty"],
+    "guidance": [{
+        "description": "Humanism is a democratic, non-theistic, and ethical life stance which affirms that human beings have the right and responsibility for giving meaning and shape to their own lives. It therefore rejects supernatural views of reality.",
+        "attribution": "Humanists International",
+        "references": ["https://humanists.international/what-is-humanism"]
+    }],
+    "variations": [{
+        "name": "agnosticism",
+        "alternateNames": ["agnostic"],
+        "description": "A perception that the Big Questions are probably unanswerable, so it's not worth spending a lot of time on them.",
+        "perceptions": ["It's not clear to me that anyone knows what they're really talking about when it comes to existence and the supernatural.","Adhering to pro-social human morality is enough to guide my behavior.","I don't have a deep-seated need to focus effort on a 'deeper self'."],
+        "desires": ["desire for meaning","desire for knowledge"],
+        "sensations": ["many","deduction"],
+        "guidance": [{
+            "description": "In a magazine called Look, published in 1953, the philosopher Bertrand Russell clarified what being an atheistically-inclined agnostic meant for him, via a series of questions.",
+            "attribution": "Mark Vernon",
+            "references": ["https://www.markvernon.com/how-to-be-an-agnostic-russell-socrates-debate"]
+        }]
+    },{
+        "name": "atheism",
+        "alternateNames": ["atheist"],
+        "description": "A pattern of believing that there is no 'God' or other supernatural force that will answer the Big Questions of life.",
+        "perceptions": ["There isn't a God.","Adhering to pro-social human morality is enough to guide my behavior.","I don't have a deep-seated need to focus effort on a 'deeper self'."],
+        "desires": ["desire for meaning","desire for knowledge"],
+        "sensations": ["many","deduction"],
+        "related": ["desire for certainty"],
+        "guidance": [{
+            "description": "Despite the troubles atheists might face, it is quite possible to be a happy (and moral) person without religion.",
+            "references": ["https://www.wikihow.com/Be-a-Happy-Person-Without-Religion"]
+        }],
+        "comparisons": [{
+            "links": ["agnosticism"],
+            "description": "An atheist denies the existence of a God and other supernatural agents. Agnostics aren't sure, but suspect these things are unknowable and not worth spending much time on."
+        }]
+    },{
+        "name": "deism",
+        "alternateNames": ["deist"],
+        "description": "A perspective that 'religion' and 'spirituality' do not provide appealing answers to the Big Questions because God or the Universe does not interact with humanity.",
+        "perceptions": ["I'm fine with the idea of a God or originating supernatural force, but do not believe it's possible to communicate with him/it.","Adhering to pro-social human morality is enough to guide my behavior.","I'm skeptical about the potential for groupthink in some religious organizations.","I suspect that non-traditional 'spiritual practices' are just making things up."],       
+        "desires": ["desire for meaning","desire for knowledge"],
+        "sensations": ["many","deduction"],
+        "related": ["nonreligious spirituality"],
+        "guidance": [{
+            "description": "How to Become and Practice Deism",
+            "attribution": "NeoDeism",
+            "references": ["https://www.neodeism.com/how-to-become-and-practice-deism/"]
+        }]
+    }],
+    "comparisons": [{
+        "links": ["nihilism"],
+        "description": "A nihilist thinks there's no meaning in life. A humanist says that positive human social relations and discovering the world is meaning enough."
+    }],
+    "commentaries": [{
+        "quote": "EM defines 'religion' as 'A system of beliefs, practices, and moral codes that affirms a social community and provides a way to connect with a perceived existential reality.'",
+        "tags": ["definition footnote"]
+    },{
+        "quote": "Agnosticism is open to the many intermediate possibilities: including a God that is more than man but less than nature, and a deity that is real but nothing like the kingly figure of the scripture.",
+        "attribution": "Gregg Easterbrook"
+    },{
+        "quote": "There are lots and lots of reasons to be moral whether or not God exists and whether or not a person believes in him.",
+        "attribution": "Bart Ehrman"
+    },{
+        "quote": "There are many prejudices among atheists (as there are among all humans). One of them is that agnostics are somehow cowardly atheists or simply afraid to take a side.",
+        "attribution": "Alejandro Borgo"
+    },{
+        "quote": "Are agnostics atheists? No. An atheist, like a Christian, holds that we can know whether or not there is a God. The Christian holds that we can know there is a God; the atheist, that we can know there is not. The Agnostic suspends judgment, saying that there are not sufficient grounds either for affirmation or for denial. At the same time, an Agnostic may hold that the existence of God, though not impossible, is very improbable; he may even hold it so improbable that it is not worth considering in practice.",
+        "attribution": "Bertrand Russell"
+    },{
+        "quote": "But I was scarce 15 when, after doubting by turns of several Points as I found them disputed in the different Books I read, I began to doubt of Revelation itself. Some Books against Deism fell into my Hands; they were said to be the Substance of Sermons preached at Boyle's Lectures. It happened that they wrought an Effect on me quite contrary to what was intended by them: For the Arguments of the Deists which were quoted to be refuted, appeared to me much Stronger than the Refutations. In short I soon became a thorough Deist.",
+        "attribution": "Benjamin Franklin"
+    },{
+        "quote": "If there is a Creator-God, it has used methods of creation that are indistinguishable from nature, it has declined to make itself known for all of recorded history, it doesn't intervene in affairs on earth, and has made itself impossible to observe. Even if you believe in that God... why would you think it would want to be worshiped?",
+        "attribution": "David G. McAfee"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["humanism","atheism","agnosticism","deism"],
+            "predominantType": "pattern",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2": {
+                "experiences": ["humanism"]
+              },
+              "1": {
+                "experiences": ["many"]
+              }
+            }
+        }]
+    }]
+}
