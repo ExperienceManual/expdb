@@ -35,7 +35,7 @@
   }],
   "variations": [{
       "name": "naivety",
-      "alternateNames": ["overly trusting","gullible"],
+      "alternateNames": ["overly trusting","gullibility"],
       "description": "The sense that someone is trusting in an outcome that is much less likely than they believe.",
       "perceptions": ["That person is relying on something to be true.","My sense is that the odds are against the outcome they're predicting."],
       "sensations": ["negative judgment"],

@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250318",
-  "updateDate": "20250702",
+  "updateDate": "20251217",
   "name": "challenge",
   "valence": 0,
   "quote": "Ok, I can do this.",
@@ -44,7 +44,8 @@
       "examples": ["battle"]
   },{
       "name": "social challenge`",
-      "description": "A situation with multiple outcomes where social factors such as wit, appearance, or personality will decide the outcome.",
+      "alternateNames": ["social competition"],
+      "description": "A social situation with multiple outcomes where social factors such as wit, appearance, or personality will decide the outcome.",
       "perceptions": ["This situation has several possible outcomes.","I prefer some of the outcomes or want to prevent some of them.","I have agency to influence the final outcome."],
       "desires": ["desire for a particular outcome","desire for stimulation","desire for agency","desire to win","desire for social status","desire for order"],
       "sensations": ["excitement","anxiety","optimism","pessimism"],

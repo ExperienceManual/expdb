@@ -1,39 +1,42 @@
 {
   "lang": "en/us",
   "createDate": "20250119",
-  "updateDate": "20250516",
+  "updateDate": "20251230",
   "name": "desire for sex",
   "valence": 0,
   "quote": "Your place or mine?",
-  "description": "Desire for sexual contact.",
-  "perceptions": ["The body or mind desires sexual contact."],
+  "description": "Desire for the stimulation of the genital organ and associated brain chemicals.",
+  "desires": ["desire for stimulation","desire for comfort chemicals"],
+  "related": [ "desire for parenthood", "temptation", "validation" ],
   "guidance": [{
-      "description": "Human beings are sexual creatures, but Western culture is pretty shy about about the subject. If this topic is causing you problems, consider researching it.",
-      "references": ["https://siecus.org/homeschool-style-sex-ed-resources/","https://sexualhealthalliance.com/nymphomedia-blog/sex-education-tools-for-adults"]
-    }
-  ],
-  "related": [ "desire for stimulation", "desire for pleasure", "temptation", "validation" ],
-  "opposites": ["desire for quiet"],
-  "variations": [{
-      "name": "biological desire for sex",
-      "description": "The purely biological desire for sexual contact is a small part of the story for most of us. If this is causing a problem, consider the guidance under the main section.",
-      "perceptions": ["biological desire for sexual contact"],
-      "related": ["desire for parenthood"]
+        "description": "Seeking sexual pleasure and validation is a major driver for many people. Its a basic primeval force that many cultures and people struggle to balance. There are more flavors of sex and sexuality than will be covered in the Experience Manual. You might consider finding reputable and mature sources of information.",
+        "references": ["https://siecus.org/homeschool-style-sex-ed-resources/","https://sexualhealthalliance.com/nymphomedia-blog/sex-education-tools-for-adults","https://www.psychologytoday.com/us/basics/sex/human-sexuality","https://www.hopkinsmedicine.org/health/wellness-and-prevention/safer-sex-guidelines"]
     },{
+        "description": "If you stuggle with addiction to the brain chemicals released during sexual activity to the point that it's causing problems for you or others, consider seeking reputable and mature sources of help.",
+        "references": ["https://my.clevelandclinic.org/health/diseases/22690-sex-addiction-hypersexuality-and-compulsive-sexual-behavior"]
+    },{
+        "description": "Sex can compete with religion for dominance in influence over human behavior, so major religions have a lot to say about it. Because intercourse can cause real-world problems, it  may be worth considering what they have to say.",
+        "references": ["https://en.wikipedia.org/wiki/Religion_and_sexuality","https://ronrolheiser.com/the-human-struggle-with-sexual-energy/","https://www.reddit.com/r/explainlikeimfive/comments/2o8g3d/eli5_why_do_most_religions_seem_to_have_such_an/","https://woventraumatherapy.com/blog/religious-trauma-and-delayed-sexual-development","https://www.moodybible.org/beliefs/human-sexuality/"]
+    },{
+        "description": "Scientists present different perspectives that may explain aspects of sexuality and the grip it has on us. Some of these perspectives are controversial, perhaps due to lack of correctness, or perhaps for cultural reasons. Deep waters.",
+        "references": ["https://ejop.psychopen.eu/index.php/ejop/article/view/290/290.html","https://www.csun.edu/~vcpsy00h/students/sexual.htm","https://en.wikipedia.org/wiki/The_Evolution_of_Human_Sexuality","https://en.wikipedia.org/wiki/Sex_at_Dawn"]
+  }],
+  "variations": [{
       "name": "desire for validation sex",
-      "description": "Being attractive enough to find a partner can fulfill a desire for social validation.",
-      "perceptions": ["being sexually active means you're not ugly"],
-      "desires": ["desire for social status"]
+      "description": "A desire for sexual contact as evidence for being attractive enough to find a partner.",
+      "perceptions": ["Being sexually active means you're not ugly."],
+      "desires": ["desire for validation","desire for social status"],
+      "sensations": ["unhealthy self-regard"]
     },{
       "name": "peer pressure desire for sex",
-      "description": "Some may feel the need to be sexually active to stay in the graces of a social group.",
-      "perceptions": ["being sexually active means you're cool"],
+      "description": "A sense that being sexually active is a way of staying in the good graces of a social group.",
+      "perceptions": ["Being sexually active means you're cool."],
       "desires": ["desire for social status"]
   }],
   "commentaries": [{
       "quote": "Conflicting social norms can make any kind of sex complicated. It may help to understand where your own desire is coming from: social pressures, habits, escape, or biology."
   },{
-      "quote": "There are many that consider sex to be a private matter that shouldn't be openly discussed in case it encourages young people. This is understandable, as the consequences can be significant. Not only is having a baby life changing, but you don't really want to think about your grandparents in that way."
+      "quote": "There are many that consider sex a private matter that shouldn't be openly discussed because it might encourage young people. This is understandable, as the consequences can be significant. Not only is having a baby life changing, but you might not want to think about your grandparents in that way."
   },{
       "quote": "It is clear that sexual desire is one of the — if not the — strongest of human needs. Typically, it takes up a huge portion of our time, emotional energy, and lives.",
       "attribution": "Elijah Wolfson on healthline.com"
@@ -49,7 +52,7 @@
     {
       "version": "em1",
       "variations": [{
-          "names": ["desire for sex","biological desire for sex"],
+          "names": ["desire for sex"],
           "predominantType": "impulse",
           "levels": {
             "4": {
@@ -60,7 +63,7 @@
             }
           }
       },{
-          "names": ["validating desire for sex","peer pressure desire for sex"],
+          "names": ["desire for validation sex","peer pressure desire for sex"],
           "predominantType": "impulse",
           "levels": {
             "4": {

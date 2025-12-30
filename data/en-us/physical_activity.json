@@ -1,0 +1,86 @@
+{
+    "lang": "en/us",
+    "createDate": "20251217",
+    "updateDate": "20251217",
+    "name": "physical activity",
+    "valence": 0,
+    "quote": "I'm exhausted.",
+    "description": "The sensations involved in moving your body.",
+    "desires": ["desire to move your body","desire for desire to improve the self"],
+    "sensations": ["physical challenge"],
+    "opposites": ["laziness"],
+    "related": ["physical pain"],
+    "examples": ["Taking a walk.","Exercising.","Working at the standing desk."],
+    "guidance": [{
+        "description": "Whatever your age, there's strong scientific evidence that being physically active can help you lead a healthier and happier life. Exercise can reduce your risk of major illnesses, such as coronary heart disease, stroke, type 2 diabetes and cancer, and lower your risk of early death by up to 30%.",
+        "attribution": "UK National Health Service",
+        "references": ["https://www.nhs.uk/live-well/exercise/exercise-health-benefits"]
+    }],
+    "variations": [{
+        "name": "social physical activity",
+        "description": "Performing a physical activity with other people.",
+        "desires": ["desire to move your body","desire for desire to improve the self","desire for social contact"],
+        "sensations": ["social contact","physical challenge"],
+        "examples": ["Sports.","Dance.","Working out at the health club."],
+        "guidance": [{
+            "description": "The physical and mental benefits of working out are well known, but there’s another way regular exercise may improve your health: It can strengthen your sense of community. In turn, that can make it easier to maintain existing friendships, make new ones, and reduce loneliness.",
+            "references": ["https://www.onepeloton.com/blog/social-benefits-of-exercise"]
+        }]
+    },{
+        "name": "physical labor",
+        "description": "Performing a strenuous physical activity that is required to achieve a particular goal.",
+        "desires": ["desire for a particular outcome","desire for social status"],
+        "sensations": ["physical tiredness","satisfaction","resentment","group bond"],
+        "results": ["Hard work can feel good when you're doing something you want to do with people you like.","Hard work can feel miserable when you're forced to do something you don't want to do for someone you don't particularly like."],
+        "opposites": ["laziness"],
+        "guidance": [{
+            "description": "If your job involves physical labor, you should consider whether there are long-term safety guidelines.",
+            "references": ["https://pmc.ncbi.nlm.nih.gov/articles/PMC8528053/","https://www.hoffmannworkcomp.com/7-tips-to-prevent-a-work-injury-if-you-have-a-physically-demanding-job"]
+        }]
+    }],
+    "commentaries": [{
+        "quote": "If you've never chopped down a tree or dug a big hole, it may be hard to understand why our ancestors valued physical strength so much. It's difficult work and we humans really like our wood and our holes."
+    },{
+        "quote": "True enjoyment comes from activity of the mind and exercise of the body; the two are united.",
+        "attribution": "Wilhelm von Humboldt"
+    },{
+        "quote": "Physical fitness is not only one of the most important keys to a healthy body; it is the basis of dynamic and creative intellectual activity.",
+        "attribution": "John F. Kennedy"
+    },{
+        "quote": "Those who do not find time for exercise will have to find time for illness.",
+        "attribution": "Earl of Derby"
+    },{
+        "quote": "Exercise is amazing, from the inside out. I feel so alive and have more energy.",
+        "attribution": "Vanessa Hudgens"
+    },{
+        "quote": "The desire of activity is designed by nature to promote our physical well-being. Physical activity is the law of physical health.",
+        "attribution": "Edward Brooks"
+    },{
+        "quote": "All labor that uplifts humanity has dignity and importance and should be undertaken with painstaking excellence.",
+        "attribution": "Martin Luther King, Jr."
+    },{
+        "quote": "Manual labor to my father was not only good and decent for it's own sake but, as he was given to saying, it straightened out one's thoughts.",
+        "attribution": "Mary Ellen Chase"
+    },{
+        "quote": "Physical labor, manual labor - if you can stay close to those folks, there's always plenty to write about, 'cause their issues are real issues.",
+        "attribution": "Jason Isbell"
+    },{
+        "quote": "Encourage your child to have muddy, grassy or sandy feet by the end of each day, that's the childhood they deserve.",
+        "attribution": "Penny Whitehouse"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["physical activity","social physical activity","physical labor"],
+            "predominantType": "action",
+            "levels": {
+              "4,3,2": {
+                "experiences": ["many"]
+              },
+              "1": {
+                "experiences": ["physical activity"]
+              }
+            }
+        }]
+    }]
+}

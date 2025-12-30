@@ -1,7 +1,7 @@
 {
     "lang": "en/us",
     "createDate": "20250809",
-    "updateDate": "20250809",
+    "updateDate": "20251218",
     "name": "attention",
     "alternateNames": ["selective attention"],
     "valence": 0,
@@ -12,6 +12,7 @@
     "sensations": ["many"],
     "results": ["Perhaps you are able to focus, or perhaps not."],
     "related": ["awareness","prioritization","repression"],
+    "otherVariations": ["zoning out"],
     "opposites": ["attentionless"],
     "examples": ["Carefully pulling out of the parking lot.","Listening to your partner's explanation."],
     "guidance": [{
@@ -61,19 +62,54 @@
         }]
     },{
         "name": "sustained attention",
-        "alternateNames": ["concentration"],
         "description": "The act of focusing your mind on a sensation, goal, or perception for an extended period.",
         "perceptions": ["I need to work on achieving a particular goal within a certain time period.","I will try to keep focus on the goal."],
         "desires": ["many"],
         "sensations": ["many"],
         "results": ["You'll probably do the task better and faster if you're able to keep focus."],
         "examples": ["Work or school project.","Your favorite hobby."],
-        "opposites": ["mental fatigue"],
+        "opposites": ["mental fatigue","attentionless"],
         "related": ["flow"],
         "guidance": [{
             "description": "13 Top Tips for Improving Focus and Attention Span",
             "attribution": "Post University",
             "references": ["https://post.edu/blog/tips-for-improving-focus-and-attention-span/"]
+        }]
+    },{
+        "name": "focused attention",
+        "alternateNames": ["concentration","absorption"],
+        "description": "The act of totally and willingly focusing your mind on a single sensation, goal, or perception such that other sensations are not noticed.",
+        "perceptions": ["I'm fully focused on someone or something.","Nothing else is distracting that perception.","This focus is by choice and has a purpose."],
+        "desires": ["many"],
+        "sensations": ["many"],
+        "results": ["You'll probably do the task better and faster if you're able to focus deeply."],
+        "examples": ["A great movie.","A fascinating experience."],
+        "opposites": ["mental fatigue","attentionless"],
+        "related": ["flow","hypnotized"],
+        "guidance": [{
+            "description": "See guidance for 'sustained attention'.",
+            "references": ["sustained attention"]
+        }],
+        "comparisons": [{
+            "links": ["sustained attention"],
+            "description": "'Focused attention' excludes all other sensations, while 'sustained attention' may be somewhat less focused and spread out over time. It's certainly possible for them to happen at the same time."
+        }]
+    },{
+        "name": "listening",
+        "description": "Focusing on someone else's communication with the intention to understand their perspective and without injecting your own thoughts other than to encourage them to continue communicating.",
+        "perceptions": ["I'm fully focused on someone's communication.","I'm trying to understand their perspective.","I can ask questions that encourage them to continue, but am not trying to share my perspective."],
+        "desires": ["desire for knowledge","desire for social contact","desire to impact positively"],
+        "sensations": ["social contact","many"],
+        "examples": ["Attending a lecture.","One of the 7 habits of highly effective people."],
+        "opposites": ["selfishness"],
+        "related": ["self control","empathy"],
+        "guidance": [{
+            "description": "There are a number of guides for how to be a better listener. Here are some.",
+            "references": ["https://www.wikihow.com/Be-a-Good-Listener","https://in.indeed.com/career-advice/career-development/how-to-be-a-good-listener"]
+        }],
+        "comparisons": [{
+            "links": ["empathy"],
+            "description": "Trying to understand someone's perspective by listening to them certainly involves empathy. Remember that you don't have to agree with their perspective to listen to it, but in any case, they will appreciate your attention."
         }]
     }],
     "commentaries": [{
@@ -100,6 +136,12 @@
     },{
         "quote": "If you are struggling to focus, he said, just try monotasking for ten minutes, and then allow yourself to be distracted for a minute, then monotask for another ten minutes, and so on.",
         "attribution": "Johann Hari"
+    },{
+        "quote": "The most important thing in communication is to hear what isn't being said.",
+        "attribution": "Peter Drucker"
+    },{
+        "quote": "Listen with curiosity. Speak with honesty. Act with integrity. The greatest problem with communication is we don't listen to understand. We listen to reply.",
+        "attribution": "Roy T. Bennett"
     }],
     "models": [{
         "version": "em1",

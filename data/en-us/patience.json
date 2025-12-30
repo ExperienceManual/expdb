@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250807",
-  "updateDate": "20250831",
+  "updateDate": "20251218",
   "name": "patience",
   "valence": -1,
   "quote": "We've got all day.",
@@ -19,20 +19,34 @@
   }],
   "opposites": ["impatience"],
   "comparisons": [{
-      "links": ["self control","mental endurance","persistence"],
-      "description": "'Patience' is the calmness that allows you to wait for a result. 'Mental endurance' is the goal-directed energy that allows you to withstand the unpleasant sensations of the process. 'Persistence' is the drive that keeps you actively moving toward the goal. All three are aspects of 'self control'"
+      "links": ["self control","mental endurance","physical endurance","persistence"],
+      "description": "'Patience' is the calmness that allows you to wait for a result. 'Mental endurance' is a goal-directed energy that allows you to withstand unpleasant sensations while waiting for something. 'Physical endurance' is similar, but focuses on what your body can handle more than your mind. 'Persistence' is the drive that keeps you actively moving toward the goal. All four are aspects of 'self control'"
   }],
   "variations": [{
       "name": "mental endurance",
       "alternateNames": ["mental stamina"],
       "description": "Tolerating an uncomfortable situation for an extended period of time.",
-      "perceptions": ["A desired experience is not happening as soon as I had expected.","The situation is uncomfortable or even painful.","I'm managing the negative sensations."],
-      "desires": ["desire for the experience","desire for agency","desire for comfort"],
+      "perceptions": ["This situation is mentally uncomfortable or worse.","I'm managing the negative sensations.","I would prefer a different experience."],
+      "desires": ["desire for a particular outcome","desire for agency","desire for comfort"],
       "sensations": ["discomfort","challenge","willpower","calmness"],
       "related": ["self control","physical endurance"],
-      "results": ["Sticking it out."],
       "examples": ["Waiting in a traffic jam while you have to use the restroom."],
       "opposites": ["giving up"]
+  },{
+      "name": "physical endurance",
+      "alternateNames": ["physical stamina"],
+      "description": "Being able to make it though a physically taxing situation for an extended period of time.",
+      "perceptions": ["The situation is uncomfortable or even painful.","I'm managing the negative sensations.","My body is able to keep going.","I would prefer a different experience."],
+      "desires": ["desire for a particular outcome","desire for agency","desire for comfort"],
+      "sensations": ["discomfort","challenge","willpower","calmness"],
+      "related": ["self control","mental endurance"],
+      "examples": ["A marathon.","Training for a sport."],
+      "opposites": ["giving up"],
+      "guidance": [{
+          "description": "How to Increase Stamina: 16 Ways to Power Up a Workout",
+          "attribution": "Amanda Capritto, CPT, CSNC, CES and Tara Laferrara, CPT",
+          "references": ["https://www.verywellfit.com/build-and-improve-stamina-5085005"]
+      }]
   },{
       "name": "persistence",
       "alternateNames": ["perseverance"],
@@ -77,7 +91,7 @@
   "models": [{
       "version": "em1",
       "variations": [{
-          "names": ["patience","mental endurance","persistence"],
+          "names": ["patience","mental endurance","persistence","physical endurance"],
           "predominantType": "impulse",
           "levels": {
             "4,3,2,1": {

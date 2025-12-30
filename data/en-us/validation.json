@@ -17,6 +17,21 @@
       "attribution": "Shahida Arabi, MA",
       "references": ["https://psychcentral.com/health/steps-to-stop-seeking-approval-from-others"]
   }],
+  "variations": [{
+        "name": "being understood",
+        "alternateNames": ["being seen"],
+        "description": "A sense that someone has finally considered your perspective even if they don't necessarily agree with it.",
+        "perceptions": ["I've been hoping that someone would eventually understand my perspective.","I think this person actually gets it.","They haven't indicated agreement, but its still good progress."],
+        "desires": ["desire for validation","desire for agency"],
+        "sensations": ["relief","appreciation"],
+        "results": ["Maybe the person will end up validating your perspective, or maybe you'll be able see their perspective as well."],
+        "personOfInterestExperiences": ["listening"],
+        "opposites": ["loneliness"],
+        "comparisons": [{
+            "links": ["validation"],
+            "description": "'Being seen' is the first step towards being validated. It means someone apparently understands where you're coming from, even if they don't appear to be aligned with you. 'Validation' is when they agree and support your position."
+        }]
+  }],
   "commentaries": [{
       "quote": "If you're finding yourself constantly in search of praise or approval from others, it's important to recognize that you may be caught in a toxic and draining cycle of dissatisfaction. Reliance on external validation leaves us vulnerable to the opinions and judgments of others, eroding our self-esteem and hindering our ability to develop a strong sense of self-worth.",
       "attribution": "Laura Embry, CLC"
@@ -33,7 +48,7 @@
   "models": [{
       "version": "em1",
       "variations": [{
-          "names": ["validation"],
+          "names": ["validation","being seen"],
           "predominantType": "capacity",
           "levels": {
             "4,3,2,1": {

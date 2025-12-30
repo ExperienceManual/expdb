@@ -1,0 +1,96 @@
+{
+    "lang": "en/us",
+    "createDate": "20251222",
+    "updateDate": "20251222",
+    "name": "eating",
+    "valence": 0,
+    "quote": "Dinner time!",
+    "description": "Putting food in your mouth, chewing, and swallowing.",
+    "perceptions": ["I'm hungry.","It's time to eat."],
+    "desires": ["desire for food"],
+    "sensations": ["comfort","stimulation","surprise","delight","disgust"],
+    "results": ["Most of the time, eating is pleasurable. But it can also be disappointing, stressful, or sickening.","Eating is often combined with a social activity."],
+    "related": ["consuming"],
+    "opposites": ["no, we're not going there"],
+    "examples": ["Breakfast.","Second breakfast.","Snack."],
+    "guidance": [{
+        "description": "These articles suggest ways to categorize different types of eating habits.",
+        "references": ["https://movara.com/blog/7-types-of-eaters","https://www.vibrantdoors.co.uk/news/the-11-different-types-of-eaters-which-one-are-you/"]
+    }],
+    "variations": [{
+      "name": "social grazing",
+      "description": "Eating small amounts of food over an extended period in a social environment.",
+      "perceptions": ["Eating is a way to engage in a social environment.","It shows others I'm engaged with them.","It's free or I already paid for it."],
+      "desires": ["social appetite","desire for social contact","desire for stimulation"],
+      "sensations": ["group bond"]
+    },{
+      "name": "comfort snacking",
+      "description": "Eating primarily for the rewarding brain chemicals.",
+      "perceptions": ["It would be nice to have a snack and there's no harm in doing so."],
+      "desires": ["desire for stimulation"],
+      "sensations": ["comfort","delight"]
+    }],
+    "comparisons": [{
+        "links": ["consuming"],
+        "description": "'Eating' is a particular kind of consumption, a very important action and pleasure for most people."
+    }],
+    "commentaries": [{
+        "quote": "One cannot think well, love well, sleep well, if one has not dined well.",
+        "attribution": "Virginia Woolf"
+    },{
+        "quote": "Food brings people together on many different levels.",
+        "attribution": "James Beard"
+    },{
+        "quote": "Those who think they have no time for healthy eating, will sooner or later have to find time for illness.",
+        "attribution": "Edward Stanley"
+    },{
+        "quote": "If more of us valued food and cheer and song above hoarded gold, it would be a merrier world.",
+        "attribution": "J.R.R. Tolkien"
+  },{
+      "quote": "A party without cake is just a meeting.",
+      "attribution": "Julia Child"
+  },{ 
+      "quote": "Food is a lot of people's therapy - when we say comfort food, we really mean that. It's releasing dopamine and serotonin in your brain that makes you feel good.",
+      "attribution": "Brett Hoebel"
+    },{
+      "quote": "After a full belly all is poetry.",
+      "attribution": "Frank McCourt"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["eating"],
+            "predominantType": "action",
+            "levels": {
+              "4,3,2": {
+                "experiences": ["narration"]
+              },
+              "1": {
+                "experiences": ["eating"]
+              }
+            }
+        },{
+            "names": ["social grazing"],
+            "predominantType": "action",
+            "levels": {
+              "4,3": {
+                "experiences": ["social grazing"]
+              },
+              "2,1": {
+                "experiences": ["satisfaction"]
+              }
+            }
+        },{
+            "names": ["comfort snacking"],
+            "predominantType": "action",
+            "levels": {
+              "4,3": {
+                "experiences": ["comfort snacking"]
+              },
+              "2,1": {
+                "experiences": ["comfort"]
+              }
+            }
+        }]
+    }]
+}

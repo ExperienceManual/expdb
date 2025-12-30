@@ -3,6 +3,7 @@
   "createDate": "20250222",
   "updateDate": "20250609",
   "name": "aversion to unpopular creatures",
+  "alternateNames": ["fear of snakes","fear of spiders"],
   "valence": -1,
   "quote": "Snakes. Why'd it have to be snakes?",
   "description": "Anxiety about a type of animal perceived to be dangerous or scary.",

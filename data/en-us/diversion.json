@@ -1,0 +1,97 @@
+{
+    "lang": "en/us",
+    "createDate": "20251229",
+    "updateDate": "20251229",
+    "name": "diversion",
+    "alternateNames": ["healthy escape"],
+    "valence": 0,
+    "quote": "Up for a quick card game?",
+    "description": "Embracing an experience as a desired and healthy break from a less pleasant experience.",
+    "otherVariations": ["play as an escape","escape sleep"],
+    "perceptions": ["I'm weary of how things are going with my main task or stressed about something that's about to happen.","I'm taking a much-needed break to do something else.","I'll get back to my main task soon."],
+    "desires": ["desire for stimulation","desire for comfort","desire for social contact"],
+    "sensations": ["satisfaction"],
+    "related": ["procrastination","boredom","enthusuasm"],
+    "examples": ["Taking a short video game break.","Going bowling."],
+    "guidance": [{
+        "description": "Distractions are often seen as a bad thing. And, in some cases, that’s 100% true. Think about texting while driving, reorganizing your desk to delay work, or indulging in unhealthy habits like alcohol or substance abuse. However, distractions can also be a good thing when they’re conscious and healthy.",
+        "attribution": "Delaware Psychological Services",
+        "references": ["https://www.delawarepsychologicalservices.com/post/60-healthy-and-uplifting-distractions"]
+    },{
+        "description": "A 'distraction' is a diversion that's taken too much of your time and energy.",
+        "references": ["distraction"]
+    }],
+    "variations": [{
+        "name": "distraction",
+        "alternateNames": ["unhealthy escape"],
+        "description": "A realization that you're probably spending too much time at something enjoyable and not enough on what you should be doing.",
+        "perceptions": ["I'm weary of how things are going with my main task or stressed about something that's about to happen.","I've been taking a lot of breaks to do something else.","I'd rather do this than what I should be doing."],
+        "desires": ["desire for stimulation","desire for comfort","desire for social contact"],
+        "sensations": ["satisfaction","dissonance","guilt"],
+        "related": ["procrastination","boredom","enthusuasm","unseriousness","laziness"],
+        "opposites": ["focused attention"],
+        "examples": ["Taking an overly long video game break.","Going to the bar often."],
+        "comparisons": [{
+            "links": ["diversion"],
+            "description": "A distraction is an unhealthy diversion."
+        }],
+        "guidance": [{
+            "description": "Often it's hard to tell the difference between a diversion and a distraction from the inside. If you feel some remorse about wasting time, consider these resources.",
+            "references": ["https://www.psychologytoday.com/us/blog/automatic-you/202310/the-crucial-difference-between-distraction-and-diversion","https://www.talkspace.com/blog/binge-distractions-unhealthy"]
+        }]
+    }],
+    "commentaries": [{
+        "quote": "There should be a point to movies. Sure, you're giving people a diversion from the cold world for a bit, but at the same time, you pass on some facts and rules and maybe a little bit of wisdom.",
+        "attribution": "George Lucas"
+    },{
+        "quote": "Realizing when a diversion has gotten out of control is one of the great challenges of life.",
+        "attribution": "Douglas A. Gentile"
+    },{
+        "quote": "Of all the diversions of life, there is none so proper to fill up its empty spaces as the reading of useful and entertaining authors.",
+        "attribution": "Joseph Addison"
+    },{
+        "quote": "We live today in the grand age of diversion, and the reasons why are obvious. With our economic prosperity, our high-tech devices and the cornucopia of entertainment pressing for our attention, we can surround ourselves with diversion from the cradle to grave. We do not focus our attention on anything for long. We do not ask what 'the good life' is and what it requires. Happiness is a small circle, and it is no surprise that the last thing on most people's minds at any moment is the question of the meaning of life, the coming of death and the priorities that are needed to choose wisely.",
+        "attribution": "Os Guiness"
+    },{
+        "quote": "Sometimes a diversion is ‘the path’ is disguise.",
+        "attribution": "Craig D. Lounsbrough"
+    },{
+        "quote": "You will never reach your destination if you stop and throw stones at every dog that barks.",
+        "attribution": "Winston Churchill"
+    },{
+        "quote": "Don't blame the distractions, improve your focus.",
+        "attribution": "adage"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["diversion"],
+            "predominantType": "action",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2": {
+                "experiences": ["diversion"]
+              },
+              "1": {
+                "experiences": ["satisfaction"]
+              }
+            }
+        },{
+            "names": ["distraction"],
+            "predominantType": "action",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2": {
+                "experiences": ["distraction"]
+              },
+              "1": {
+                "experiences": ["satisfaction","dissonance"]
+              }
+            }
+        }]
+    }]
+}

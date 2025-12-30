@@ -1,0 +1,75 @@
+{
+    "lang": "en/us",
+    "createDate": "20251211",
+    "updateDate": "20251211",
+    "name": "intoxication",
+    "tags": ["altered state"],
+    "valence": 0,
+    "quote": "I was buzzed.",
+    "wikipedia": "Intoxication",
+    "description": "A mental state where chemicals have changed your brain function to the point where normal control over body, memory, and focus is reduced, with mood and perceptions are altered.",
+    "perceptions": ["many"],
+    "desires": ["desire for comfort","desire for social contact"],
+    "sensations": ["many"],
+    "results": ["Drugs and alcohol affect everyone differently at different doeses. Sometimes a slightly altered state is a nice break and social lubricant. Sometimes it's a bad experience."],
+    "examples": ["Alcohol.","Recreational drugs."],
+    "related": ["addiction","indulgence"],
+    "guidance": [{
+        "description": "It might be worth educating yourself and your teenagers on how to responsibly consume intoxicants.",
+        "references": ["https://news.stanford.edu/stories/2025/08/moderate-alcohol-consumption-drinking-health-benefits-impacts-research","https://www.responsibility.org/tips-for-drinking-responsibly/","https://www.nj.gov/cannabis/adult-personal/safe-responsible-consumption","https://www.webmd.com/mental-health/microdosing"]
+    },{
+        "description": "If you or someone you know spends enough time intoxicated to be causing life problems, consider the guidance for 'addiction'.",
+        "references": ["addiction"]
+    }],
+    "variations": [{
+        "name": "intoxicated by anger",
+        "description": "The state of being so angry that you do unwise things that hurt yourself and others.",
+        "perceptions": ["Something made me really angry.","I need to react to it.","They need to be taught a lesson and I don't care about the consequences."],
+        "desires": ["desire to control others","desire for comfort","desire for social status"],
+        "sensations": ["anger","vengefulness"],
+        "examples": ["Road rage.","Domestic violence."],
+        "related": ["addiction","indulgence"],
+        "guidance": [{
+            "description": "See guidance for 'anger'. Anger brain chemicals should not be used as an excuse for excessive actions. You don't ever have reach this state if you don't want to.",
+            "references": ["anger"]
+        }],
+        "comparisons": [{
+            "links": ["anger"],
+            "description": "Being intoxicated by anger is the same as saying 'really angry' to the point of doing irresponsible things."
+        }]
+    }],
+    "commentaries": [{
+        "quote": "Reality doesn't impress me. I only believe in intoxication, in ecstasy, and when ordinary life shackles me, I escape, one way or another.",
+        "attribution": "Anaïs Nin"
+    },{
+        "quote": "My peers, lately, have found companionship through means of intoxication - it makes them sociable. I, however, cannot force myself to use drugs to cheat on my loneliness - it is all that I have - and when the drugs and alcohol dissipate, will be all that my peers have as well.",
+        "attribution": "Franz Kafka"
+    },{
+        "quote": "Alcohol is necessary for a man so that he can have a good opinion of himself, undisturbed by the facts.",
+        "attribution": "Finley Peter Dunne"
+    },{
+        "quote": "Drinking large amounts of alcohol for many years will take its toll on many of the body's organs and may cause organ damage. Organs known to be damaged by long-term alcohol misuse include the brain and nervous system, heart, liver and pancreas. Heavy drinking can also increase your blood pressure and blood cholesterol levels, both of which are major risk factors for heart attacks and strokes. Long-term alcohol misuse can weaken your immune system, making you more vulnerable to serious infections. It can also weaken your bones, placing you at greater risk of fracturing or breaking them.",
+        "attribution": "UK National Health Service"
+    },{
+        "quote": "The intoxication of anger, like that of the grape, shows us to others, but hides us from ourselves.",
+        "attribution": "Charles Caleb Colton"
+    }],
+    "spectrum": {
+       "buzzed": 2,
+       "intoxicated": 5,
+       "drunk": 5,
+       "high": 7
+    },
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["intoxicated","intoxicated by anger"],
+            "predominantType": "sensation",
+            "levels": {
+              "4,3,2,1": {
+                "experiences": ["intoxicated"]
+              }
+            }
+        }]
+    }]
+}

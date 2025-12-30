@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250217",
-  "updateDate": "20250810",
+  "updateDate": "20251210",
   "name": "ignorance",
   "valence": 0,
   "quote": "I honestly had no idea.",
@@ -52,9 +52,10 @@
       "name": "willful ignorance",
       "description": "The awareness that you lack an area of knowledge along with a sense that the area is unimportant or even dangerous, and it's fair to disrespect others' knowledge of this area.",
       "perceptions": ["I know that I don't know this topic well.","I do not want to understand this topic because it's uncomfortable, dangerous, or could be damaging to me socially.","People who claim knowledge of this area are safe to ignore."],
-      "desires": ["desire to improve","desire for social order"],
-      "sensations": ["desire for safety","desire for social status"],
-      "examples": ["dismissing well-supported scientific research","discounting other perspectives","distrust for people who have knowledge of 'inappropriate' topics"],
+      "desires": ["desire for comfort","desire for social order","desire for agency","desire for safety","desire for social status"],
+      "sensations": ["anxiety"],
+      "examples": ["Dismissing well-supported scientific research.","Discounting other perspectives.","Distrust for people who have knowledge of 'inappropriate' topics."],
+      "related": ["delusion"],
       "guidance": [{
           "description": "You should be aware that other people might not perceive your willful ignorance as a positive. They may find it disrespectful or even contemptuous.",
           "references": ["https://www.psychologytoday.com/us/blog/strategically-delusional/202202/keeping-appearances-and-willful-ignorance","https://bigthink.com/neuropsych/people-choose-willful-ignorance/"]

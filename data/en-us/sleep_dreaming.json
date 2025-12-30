@@ -1,0 +1,78 @@
+{
+    "lang": "en/us",
+    "createDate": "20251208",
+    "updateDate": "20251208",
+    "name": "sleep dreaming",
+    "alternateNames": ["dreaming"],
+    "valence": 0,
+    "timescale": ["unknown"],
+    "rarity": ["unknown"],
+    "frequency": ["unknown"],
+    "quote": "I had a strange dream last night.",
+    "description": "An experience lived entirely in your mind while sleeping, while not being aware that you're asleep.",
+    "alternateDefinitions": ["'Dreaming' can also mean 'ambition', as in 'You dream of becoming a rock star'."],
+    "perceptions": ["I woke up and remembered a dream.","I know it was a dream because I know I was asleep."],
+    "desires": ["many"],
+    "sensations": ["many"],
+    "results": ["You may or may not remember details upon waking.","The dream may or may not reflect something important about your state of mind."],
+    "related": ["daydreaming"],
+    "examples": ["Alice in Wonderland.","A Midsummer Night's Dream."],
+    "guidance": [{
+        "description": "These articles outline how to see if your dreams might reveal something about your state of mind.",
+        "references": ["https://www.sleepfoundation.org/dreams/dream-interpretation","https://www.rafaelkruger.com/how-to-interpret-dreams-like-carl-jung"]
+    }],
+    "variations": [{
+        "name": "lucid dreaming",
+        "description": "An experience lived entirely in your mind while sleeping, while being aware that you're asleep and dreaming.",
+        "perceptions": ["I woke up and remembered a dream.","I know it was a dream because I know I was asleep.","In the dream I knew I was dreaming."],
+        "desires": ["many"],
+        "sensations": ["many"],
+        "results": ["You may or may not remember details upon waking.","The dream may or may not reflect something important about your state of mind."],
+        "related": ["daydreaming"],
+        "guidance": [{
+            "description": "These articles outline how to see if your dreams might reveal something about your state of mind.",
+            "references": ["https://www.sleepfoundation.org/dreams/dream-interpretation","https://www.rafaelkruger.com/how-to-interpret-dreams-like-carl-jung"]
+        }],
+        "comparisons": [{
+            "links": ["dreaming"],
+            "description": "In lucid dreaming, you're aware that it's a dream. Many people have experienced lucid dreaming, but for most people it's not common."
+        }],
+        "guidance": [{
+            "description": "Lucid dreaming appears to be a kind of 'hybrid' state where you aren’t fully awake but are also not quite asleep. Neuroscientists don’t know exactly how and why it happens. But they have some ideas.",
+            "attribution": "Kris Martins, Stephanie Booth, Jabeen Begum, MD",
+            "references": ["https://www.webmd.com/sleep-disorders/lucid-dreams-overview"]
+        }]
+    }],
+    "comparisons": [{
+        "links": ["daydreaming"],
+        "description": "Daydreaming happens while you're awake. Dreaming happens when you're asleep. Both of them involve the internal generation of reality."
+    }],
+    "commentaries": [{
+        "quote": "One emerging theory suggests that dreams help people process emotions by turning the emotions into memories. According to this theory, emotions experienced in dreams are real, and dreams attempt to take the emotion out of the dream and turn it into memory.",
+        "attribution": "goodtherapy.org"
+    },{
+        "quote": "The science of dreams has progressed far beyond Freud and Jung’s seminal contributions (and mistakes), but all too many therapists still see dreams within outdated Freudian or Jungian lenses. Dreams not only reflect and facilitate attachment relationships (Freud), they also help to regulate closeness in these relationships. Dreams not only promote emotional and spiritual growth (Jung), they also promote healing via their role in emotional memory consolidation.",
+        "attribution": "Patrick McNamara Ph.D."
+    },{
+        "quote": "Dreams are symbolic of what is going on inside of us. In psychotherapy dreams provide valuable opportunity to work with a client's inner world rather than purely their psychology. Through dream work the imagination has the opportunity to run free and deeper depths can be reached without our logical minds or conscious defences so easily getting in the way.",
+        "attribution": "Kim Coussell"
+    },{
+        "quote": "The study of dreams has a legitimate application in pure research, in some schools of psychology, and perhaps in a few forms of psychotherapy. But even here, doors can open to psychic exploration or spiritism. Due to space limitations, our concern will be simply to point out that an increasing number of secular researchers are questioning the validity of dream work in modern psychotherapy.",
+        "attribution": "Dr. John Ankerberg, Dr.John Weldon"
+    },{
+        "quote": "Researchers have found that, for some non-human species, brain activity while in REM sleep perfectly matches brain activity while awake. This suggests that the animals might be replaying daytime events as dreams. For example, zebra finches show a precise pattern of neural activation when they rehearse their song during the day, and an identical pattern during sleep. In the same vein, the neurons that fire when a rat navigates a maze fire again as it sleeps, in the same order.",
+        "attribution": "Cody Cottier"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["sleep dreaming","lucid dreaming"],
+            "predominantType": "action",
+            "levels": {
+              "4,3,2,1": {
+                "experiences": ["dreaming"]
+              }
+            }
+        }]
+    }]
+}

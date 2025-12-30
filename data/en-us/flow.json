@@ -1,8 +1,9 @@
 {
     "lang": "en/us",
     "createDate": "20250723",
-    "updateDate": "20250723",
+    "updateDate": "20251212",
     "name": "flow",
+    "alternateNames": ["in the zone"],
     "valence": 1,
     "timescale": ["unknown"],
     "rarity": ["unknown"],
@@ -18,6 +19,10 @@
         "description": "Flow is a state of mind in which a person becomes fully immersed in an activity. Achieving this state can help people feel greater enjoyment, energy, and involvement. So what can you do to increase your chances of achieving flow? There are some strategies you can use to help set the stage for entering a flow state.",
         "attribution": "Kendra Cherry, MSEd",
         "references": ["https://www.verywellmind.com/what-is-flow-2794768"]
+    }],
+    "comparisons": [{
+        "links": ["focused attention","sustained attention","hypnotized"],
+        "description": "Both 'flow' and 'hypnotized' involve a sustained focus of attention. 'Flow' is a two way interaction between you and a challenge rather than a one-way experience. Being 'hypnotized' by something may have no purpose, or if intentional, the purpose is to have better access to the subconscious mind."
     }],
     "commentaries": [{
         "quote": "When people feel flow, they are in a state of intense concentration. Their thoughts are focused on an experience rather than on themselves. They lose a sense of time and feel as if there is a merging of their actions and their awareness. That they have control over the situation. That the experience is not physically or mentally taxing.",

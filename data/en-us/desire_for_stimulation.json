@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250119",
-  "updateDate": "20250515",
+  "updateDate": "20251217",
   "name": "desire for stimulation",
   "valence": 0,
   "quote": "I'm going stir crazy.",
@@ -18,7 +18,13 @@
       "description": "The brain can become quite fond of stimulating chemicals consumed or released during exciting activities.",
       "perceptions": ["My brain wants to feel stimulation."],
       "examples": ["caffeine","dopamine","adrenaline"],
-      "related": ["addiction", "desire for sex"]
+      "related": ["addiction", "physical activity", "desire for sex"]
+    },{
+      "name": "desire to move your body",
+      "description": "Wanting to do a physical activity.",
+      "perceptions": ["My body is stiff and needs to move."],
+      "sensations": ["physical activity"],
+      "examples": ["Wanting to take a walk.","Kids running around the playground."]
     },{
       "name": "desire for novelty",
       "description": "Wanting to experience something different than usual. Some people enjoy new situations, others prefer to limit their experiences to the familiar.",

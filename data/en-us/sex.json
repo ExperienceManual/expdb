@@ -1,0 +1,61 @@
+{
+    "lang": "en/us",
+    "createDate": "20251229",
+    "updateDate": "20251230",
+    "name": "sex",
+    "alternateNames": ["sexual intercourse","oral sex","masturbation"],
+    "valence": 0,
+    "description": "Pleasurable sensations associated with stimulation of the genital organ.",
+    "desires": ["desire for sex","desire for stimulation","desire for validation","desire for comfort chemicals"],
+    "sensations": ["anticipation","delight","stimulation","love","validation","guilt","shame"],
+    "related": ["temptation","desire for parenthood"],
+    "guidance": [{
+        "description": "There more varieties of this experience than will be detailed here. This isn't that kind of reference. Consider seeking reputable sources and see the guidelines in 'desire for sex'.",
+        "references": ["desire for sex"]
+    }],
+    "variations": [{
+        "name": "sexual arousal",
+        "alternateNames": [""],
+        "description": "Pleasurable sensations associated with anticipation of sexual activity.",
+        "perceptions": ["Sexual contact is a possibility."],
+        "desires": ["desire for sex","desire for stimulation","desire for validation","desire for comfort chemicals"],
+        "sensations": ["anticipation","delight","stimulation","love","guilt","shame"],
+        "related": ["temptation","desire for parenthood"],
+        "examples": ["Watching naughty movies.","Seductive signals."],
+        "related": ["temptation"]
+    }],
+    "commentaries": [{
+        "quote": "The desire to make babies is not generally part of the sexual experience. It may be worthwhile to consider your brain's deception in this area.",
+        "tags": ["definition footnote"]
+    },{
+        "quote": "Sex without love is a meaningless experience, but as far as meaningless experiences go it's pretty damn good.",
+        "attribution": "Woody Allen"
+    },{
+        "quote": "Sex is a part of nature. I go along with nature.",
+        "attribution": "Marilyn Monroe"
+    },{
+        "quote": "Physics is like sex: sure, it may give some practical results, but that's not why we do it.",
+        "attribution": "Richard P. Feynman"
+    },{
+        "quote": "Sex: the thing that takes up the least amount of time and causes the most amount of trouble.",
+        "attribution": "John Barrymore"
+    },{
+        "quote": "It is God’s will that you should be sanctified: that you should avoid sexual immorality; that each of you should learn to control your own body in a way that is holy and honorable, not in passionate lust like the pagans, who do not know God;",
+        "attribution": "The Bible 1 Thessalonians 4:3-5"
+    },{
+        "quote": "Sex does work. Why? The benefit of sex is survival over evolutionary time. Lacking sex, clonal species are evolutionary dead ends.",
+        "attribution": "Joan Roughgarden"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["sex","sexual arousal"],
+            "predominantType": "action",
+            "levels": {
+              "4,3,2,1": {
+                "experiences": ["sex"]
+              }
+            }
+        }]
+    }]
+}

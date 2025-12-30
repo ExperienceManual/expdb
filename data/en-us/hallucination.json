@@ -1,0 +1,64 @@
+{
+    "lang": "en/us",
+    "createDate": "20251211",
+    "updateDate": "20251211",
+    "name": "hallucination",
+    "valence": 0,
+    "quote": "I swear I heard you say something.",
+    "description": "Suspecting or realizing that a sensory perception was not real.",
+    "wikipedia": "Hallucination",
+    "tags": ["altered state"],
+    "perceptions": ["I was certain about sensing something, but now I realize it was probably not real."],
+    "desires": ["desire for knowledge","desire for comfort"],
+    "sensations": ["dissonance","confusion","embarrassment","many"],
+    "results": ["You may downplay the perception error, draw a lesson from it, or defensively cling to it."],
+    "examples": ["Fever dream.","Psychotic drugs."],
+    "related": ["intoxication","trauma","delusion","realized misinterpretation"],
+    "comparisons": [{
+        "links": ["dreaming"],
+        "description": "There's no shame or concern about waking up from a sleep where the dream feels real. But realizing that you had hallucinated in the waking world might have disturbing implications to yourself or others."
+    },{
+        "links": ["delusion"],
+        "description": "A hallucination is a sensory experience that you later come to question. A delusion is clinging tightly to a belief that seems unfounded."
+    },{
+        "links": ["realized misinterpretation"],
+        "description": "A hallucination is a sensory experience that you later come to question. You might have actually see the shadow, but had originally misinterpreted what was causing the shadow."
+    }],
+    "guidance": [{
+        "description": "If you or a loved one is experiencing regular hallucinations, you should consider seeking professional help. These articles may be of interest.",
+        "references": ["https://my.clevelandclinic.org/health/symptoms/23350-hallucinations","https://www.verywellmind.com/what-are-hallucinations-378819"]
+    }],
+    "commentaries": [{
+        "quote": "It's not a hallucination until you realize it's your own brain generating the experience.",
+        "tags": ["definition footnote"]
+    },{
+        "quote": "It’s possible to experience hallucinations while being aware that they aren't real. For example, some people grieving the death of a loved one may momentarily hear their deceased loved one’s voice or see them, but they know that what they’re hearing or seeing is impossible. Most people are also able to tell that the hallucinations that happen when they’re falling asleep or waking up aren’t real. In these cases, you can use context clues and your environment to tell that what you’re 'experiencing' isn’t real. However, some people don’t realize that they’re hallucinating. This is more common in chronic conditions like schizophrenia and dementia.",
+        "attribution": "Cleveland Clinic"
+    },{
+        "quote": "Indeed, the line between perceiving and hallucinating is not as crisp as we like to think. In a sense, when we look at the world, we are hallucinating all the time. One could almost regard perception as the act of choosing the one hallucination that best fits the incoming data.",
+        "attribution": "Vilayanur S. Ramachandran"
+    },{
+        "quote": "You have to learn how to stay in a good mood as you overthrow the sour, puckered hallucination that is mistakenly referred to as reality.",
+        "attribution": "Rob Brezsny"
+    }],
+    "spectrum": {
+        "mirage": 2,
+        "vision": 4,
+        "hallucination": 5
+    },
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["hallucination"],
+            "predominantType": "sensation",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2,1": {
+                "experiences": ["hallucination"]
+              }
+            }
+        }]
+    }]
+}

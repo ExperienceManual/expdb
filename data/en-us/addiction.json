@@ -10,13 +10,11 @@
   "desires": ["desire for comfort"],
   "sensations": ["temptation"],
   "results": ["desire for particular brain chemicals"],
-  "related": ["desire for stimulation", "temptation", "indulgence"],
-  "guidance": [
-    {
+  "related": ["desire for stimulation", "temptation", "indulgence","intoxication"],
+  "guidance": [{
       "description": "If you're struggling with an addiction that's causing problems, you should consider seeking group support or professional help.",
       "references": ["https://www.google.com/search?q=addiction+support+group","https://www.psychologytoday.com/us/therapists?category=addiction"]
-    }
-  ],
+  }],
   "variations": [{
       "name": "something you really like",
       "description": "In some common usage, 'addiction' can just mean a 'strong desire' as in being 'addicted' to peanut butter. But when there's nothing psychoactive involved, it's just a strong desire or appreciation.",

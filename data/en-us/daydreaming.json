@@ -25,8 +25,23 @@
         "references": ["https://daydreamplace.com/how-to-resist-the-urge-to-daydream/"]
     }],
     "variations": [{
-        "name": "maladaptive daydreaming",
-        "description": "Your experience is pulled into thoughts perceived as less pleasant than your actual situation.",
+        "name": "zoning out",
+        "alternateNames": ["spacing out","wandering attention"],
+        "description": "Unintentionally falling into a state that lacks focus, often negatively impacting something you're supposed to be doing.",
+        "perceptions": ["What I'm supposed to be doing is not holding my attention.","It's difficult to focus on my actual situation."],
+        "desires": ["desire for comfort","desire for stimulation"],
+        "sensations": ["boredom"],
+        "related": ["imagination"],
+        "opposites": ["sustained attention"],
+        "examples": ["Difficulty focusing while working on a project."],
+        "guidance": [{
+            "description": "Zoning out is a mild and common form of dissociation. It can serve as a coping mechanism when you’re bored, stressed, or dealing with a difficulty in your life.",
+            "attribution": "Crystal Raypole and Timothy J. Legg, PhD, PsyD",
+            "references": ["https://www.healthline.com/health/zoning-out"]
+        }]
+    },{
+        "name": "negative daydreaming",
+        "description": "Your thoughts are pulled in ways that are perceived as less pleasant than your actual situation.",
         "timescale": ["unknown"],
         "rarity": ["unknown"],
         "frequency": ["unknown"],

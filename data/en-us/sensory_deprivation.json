@@ -1,0 +1,54 @@
+{
+    "lang": "en/us",
+    "createDate": "20251212",
+    "updateDate": "20251212",
+    "name": "sensory deprivation",
+    "valence": 0,
+    "timescale": ["unknown"],
+    "rarity": ["unknown"],
+    "frequency": ["unknown"],
+    "quote": "I was trapped in the cave for hours.",
+    "wikipedia": "Sensory_deprivation",
+    "description": "An unusually low volume of sensory input has caused your brain to relax or desire stimulation.",
+    "perceptions": ["It's rare for it to be so dark and quiet."],
+    "desires": ["desire for comfort","desire for quiet","desire for stimulation"],
+    "sensations": ["calmness","solitude","boredom","disorientation"],
+    "results": ["For short durations, the quiet may help reduce anxiety.","For longer durations, sensory deprivation can cause disorientation and other problems."],
+    "examples": ["Sensory deprivation tank.","Solitary confinement."],
+    "opposites": ["overwhelmed"],
+    "guidance": [{
+        "description": "If you're considering sensory deprivation as an exniety therapy, here are some articles that may be of interest.",
+        "references": ["https://www.healthline.com/health/sensory-deprivation-tank","https://buffer.com/resources/the-power-of-shutting-down-your-senses-how-to-boost-your-creativity-and-have-a-clear-mind/","https://emotions.market/blog/31-reasons-to-avoid-sensory-deprivation/"]
+    },{
+        "description": "If you're having a negative experience of sensory deprivation, you should consider seeking help.",
+        "references": ["https://ntrs.nasa.gov/api/citations/20120002722/downloads/20120002722.pdf"]
+    }],
+    "commentaries": [{
+        "quote": "Short-term sessions of sensory deprivation are described as relaxing and conducive to meditation; however, extended or forced sensory deprivation can result in extreme anxiety, hallucinations, bizarre thoughts, and depression.",
+        "attribution": "Belle Beth Cooper"
+    },{
+        "quote": "When I first tried a sensory deprivation tank, people thought I had lost my mind. In fact, I had found it.",
+        "attribution": "Ryan Lilly"
+    },{
+        "quote": "Sensory deprivation has a devastating psychological impact and can lead to the complete dissolution of the personality accompanied by hallucinations, delusional thinking and general incoherence. It is presently acknowledged as a form of torture.",
+        "attribution": "Brian Moss"
+    },{
+        "quote": "After meditating daily for well over a year, I found the practice of the sensory deprivation tank familiar and, in some ways, an even better experience than my daily meditation. Why, you might ask? It’s because there are no distractions. It’s just you in this saline solution bath floating, no light, no sound, and nothing to distract you from your thoughts and your breath.",
+        "attribution": "No Sorensen"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["sensory deprivation"],
+            "predominantType": "",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2,1": {
+                "experiences": ["sensory deprivation"]
+              }
+            }
+        }]
+    }]
+}

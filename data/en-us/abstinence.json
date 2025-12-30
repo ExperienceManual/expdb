@@ -8,8 +8,8 @@
   "description": "Long term goal of avoiding something that may have brought pleasure or relief. Each instance of abstinence may be easy or a very difficult act of willpower.",
   "desires": [ "desire to improve", "desire for social status" ],
   "related": [ "temptation", "sacrifice", "self control", "willpower" ],
-  "opposites": [ "indulgence" ],
-  "examples": ["no dessert","no alcohol","vegetarian"],
+  "opposites": [ "indulgence", "consuming" ],
+  "examples": ["No dessert.","No alcohol.","Vegetarian."],
   "guidance": [{
       "description": "If you need help abstaining from something addictive, consider finding a support group or professional help.",
       "references": ["https://www.addictioncenter.com/treatment/support-groups/"]

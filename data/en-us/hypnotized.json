@@ -1,0 +1,69 @@
+{
+    "lang": "en/us",
+    "createDate": "20251212",
+    "updateDate": "20251212",
+    "name": "hypnotized",
+    "alternateNames": ["hypnosis"],
+    "valence": 0,
+    "timescale": ["unknown"],
+    "rarity": ["unknown"],
+    "frequency": ["unknown"],
+    "quote": "",
+    "description": "A state of intense focus on an external object or person limiting other sensations and decreasing personal initiative.",
+    "perceptions": ["I'm fully focused on someone or something.","Nothing else is distracting that perception.","My sense of social identity is somewhat weakened."],
+    "sensations": ["focused attention"],
+    "related": [],
+    "variations": [{
+        "name": "naturally hypnotized",
+        "description": "Unintentionally falling into a state of intense focus on an external object or person such that other sensations are not noticed.",
+        "perceptions": ["This thing or person is really fascinating."],
+        "sensations": ["focused attention"],
+        "results": ["Time passes quickly.","There may be something you should be paying more attention to."],
+        "examples": ["Watching the fish in the aquarium.","The steady hum of the tires on a long roadtrip."]
+    },{
+        "name": "clinically hypnotized",
+        "alternateNames": ["therapeutic hypnosis"],
+        "description": "A state of mind intensely focused on the words of someone you trust to guide you through introspection without self-critical evaluation getting in the way.",
+        "perceptions": ["I have a recurring behavioral problem I'd like help with.","I trust this person to help by using hypnosis."],
+        "desires": ["desire to improve the self"],
+        "sensations": ["trust","hope","anxiety"],
+        "examples": ["Trained hypnotherapist."],
+        "guidance": [{
+            "description": "Hypnotherapy (sometimes called hypnotic suggestion) is a therapeutic practice that uses guided hypnosis to help a client reach a trance-like state of focus, concentration, diminished peripheral awareness, and heightened suggestibility. A trained clinical hypnotherapist can help clients in this state relax and turn their attention inward to discover and utilize resources within themselves that can help them achieve desired behavioral changes or better manage pain or other physical concerns.",
+            "attribution": "Psychology Today",
+            "references": ["https://www.psychologytoday.com/us/therapy-types/hypnotherapy"]
+        },{
+            "description": "Many people hold misconceptions about hypnosis. One common myth is that a person loses control during hypnosis. This is not true. Individuals remain aware and can reject any suggestion. Another misconception is that people can be hypnotized against their will. Consent is crucial for hypnosis to work.",
+            "attribution": "Rob Perin, CCHT",
+            "references": ["https://blog.hypnotechs.com/posts/hypnosis-will"]
+        }]
+    }],
+    "commentaries": [{
+        "quote": "You use hypnosis not as a cure but as a means of establishing a favorable climate in which to learn.",
+        "attribution": "Milton H. Erickson"
+    },{
+        "quote": "Our job as a hypnotherapist is to make sure that the seed we plant is firmly planted, and we have all the nutrients surrounding the subconscious so it can deal with things in life.",
+        "attribution": "Igor Ledochowski"
+    },{
+        "quote": "For, with music of that quality, one is hypnotized into rapt attention: there is no division between 'me' and 'my experience'.",
+        "attribution": "Robert Anton Wilson"
+    },{
+        "quote": "Several celebrities have used hypnosis to stop smoking, including Ellen DeGeneres, Ashton Kutcher, Adele, Matt Damon, Drew Barrymore, and even former U.S. President Barack Obama.",
+        "attribution": "hemispherehypnotherapy.com"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["hypnotized","naturally hypnotized","clinically hypnotized"],
+            "predominantType": "sensation",
+            "levels": {
+              "4,3": {
+                "experiences": ["hypnotized"]
+              },
+              "2,1": {
+                "experiences": ["focused attention"]
+              }
+            }
+        }]
+    }]
+}

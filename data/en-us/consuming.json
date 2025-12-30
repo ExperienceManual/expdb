@@ -1,0 +1,74 @@
+{
+    "lang": "en/us",
+    "createDate": "20251220",
+    "updateDate": "20251222",
+    "name": "consuming",
+    "alternateNames": ["material consumption"],
+    "valence": 0,
+    "quote": "Shop 'til you drop!",
+    "description": "The experience of acquiring or using a resource to satisfy a need or want. Generally the material resource is devalued or depleted with use.",
+    "otherVariations": ["eating"],
+    "perceptions": ["I have a need or want that can be fulfilled with a resource of some kind.","I have access to the resource, and am utilizing it to satisfy the desire.","The resource will be less valuable after I've used it."],
+    "desires": ["desire for comfort","desire for social status"],
+    "sensations": ["agency","discomfort","pain","relief","satisfaction"],
+    "results": ["Consuming the resource might satisfy you for a time."],
+    "related": ["indulgence","greed","addiction"],
+    "opposites": ["abstinence"],
+    "examples": ["Taking pain medicine.","Buying stuff.","Toilet paper."],
+    "guidance": [{
+        "description": "If you feel like you may sometimes buy unnecessary stuff, here are some articles that may be of interest.",
+        "references": ["https://bemorewithless.com/the-psychology-of-stuff/","https://www.nationaldebtrelief.com/blog/financial-wellness/financial-education/why-do-we-buy-stuff-we-dont-need","https://www.scientificamerican.com/article/why-we-become-so-attached-to-our-belongings/"]
+    }],
+    "variations": [{
+        "name": "consuming media",
+        "description": "The experience of internalizing the information content of a resource to satisfy a need or want. Generally the media resource is not devalued or depleted with use.",
+        "perceptions": ["I have an informational need or want that can be fulfilled by "],
+        "desires": ["desire for knowledge","desire for social status"],
+        "sensations": ["many"],
+        "examples": ["Reading a book.","Watching a movie.","Social media."],
+        "guidance": [{
+            "description": "Just as physical health is influenced by the quality and quantity of the food we consume, mental well-being is significantly affected by the type and amount of digital content we engage with. The term 'digital nutrition' refers to the mindful and intentional consumption of online content to support mental and emotional well-being. It involves making conscious choices about the information we expose ourselves to and being aware of the potential impact on our mental health.",
+            "attribution": "integrishealth.org",
+            "references": ["https://integrishealth.org/resources/on-your-health/2024/january/digital-nutrition"]
+        }]
+    }],
+    "commentaries": [{
+        "quote": "The act of buying something can also trigger a release of dopamine into the brain. And that’s why you might feel the urge to buy something whenever you don’t feel that well. You’re just craving dopamine because that’s what makes you feel good.",
+        "attribution": "Marc Russell"
+    },{
+        "quote": "Consciously or not, many of us feel that our possessions are part of our extended self. A deeper, even less conscious belief is that through physical contact, our things actually become imbued with our essence.",
+        "attribution": "Francine Russo"
+    },{
+        "quote": "Consumerism is at once the engine of America and simultaneously one of the most revealing indicators of our collective shallowness.",
+        "attribution": "Henry Rollins"
+    },{
+        "quote": "Human beings are primarily focused on themselves. Capitalism, probably the most successful economic system the world has ever known, is built on that understanding. For what motivates us more than anything else is the desire to do better and to earn more so that we can have more. And it works.",
+        "attribution": "Terry Bookman"
+    },{
+        "quote": "Social media is something of a double-edged sword. At its best, social media offers unprecedented opportunities for marginalized people to speak and bring much needed attention to the issues they face. At its worst, social media also offers 'everyone' an unprecedented opportunity to share in collective outrage without reflection.",
+        "attribution": "Roxane Gay"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["consuming"],
+            "predominantType": "action",
+            "levels": {
+              "4,3,2,1": {
+                "experiences": ["consuming"]
+              }
+            }
+        },{
+            "names": ["consuming media"],
+            "predominantType": "action",
+            "levels": {
+              "4": {
+                "experiences": ["consuming media"]
+              },
+              "3,2,1": {
+                "experiences": ["consuming"]
+              }
+            }
+        }]
+    }]
+}

@@ -1,0 +1,62 @@
+{
+    "lang": "en/us",
+    "createDate": "20251213",
+    "updateDate": "20251216",
+    "name": "delusion",
+    "valence": 0,
+    "quote": "They're claiming cold fusion.",
+    "description": "You perceive that someone is clinging tightly to an unusual idea and is resistant to proof that contradicts the idea.",
+    "alternateDefinitions": ["In everyday usage, the term 'delusion' can just mean being very wrong about something."],
+    "tags": ["social label"],
+    "perceptions": ["That person is claiming something that doesn't belong to the world I'm familiar with.","Their justification for believing it seems based more on a hallucination or a desire than on evidence or reason."],
+    "desires": ["desire for order","desire to be correct"],
+    "sensations": ["curiosity","surprise","disrespect","frustration","skepticism","anxiety"],
+    "personOfInterestExperiences": ["certainty"],
+    "related": ["hallucination","paranoia","conspiracy minded","willful ignorance"],
+    "examples": ["Reacting to a hallucination as if it were real.","Unfounded conspiracy theories."],
+    "guidance": [{
+        "description": "True delusions can be difficult to manage because the person may react poorly to being told that they're delusional. Consider checking out these articles and determining whether professional help is needed.",
+        "references": ["https://screening.mhanational.org/content/will-talking-about-someones-delusions-make-them-sicker/","https://www.lpft.nhs.uk/contact-us/support/carers-support/advice-how-manage-expressions-strange-beliefs-delusional-thoughts"]
+    }],
+    "comparisons": [{
+        "links": ["paranoia"],
+        "description": "A person gripped with paranoia may be delusional, or there may be some basis to their actions. With 'delusion', there's no basis at all. For example, it might not be unreasonable to be concerned about the possible behavior of an aggressive ex, but it probably is unreasonable to be afraid of alien abduction."
+    },{
+        "links": ["willful ignorance"],
+        "description": "A delusional person will reject considering anything that would threaten their belief system, so they're also being 'willfully ignorant'. However, someone can be willfully ignorant without being delusional. e.g. Someone who prefers not to understand to follow the news might just be trying to avoid anxiety."
+    },{
+        "links": ["faith"],
+        "description": "'Delusions' are about something that a reasonable person finds odd. There are many reasonable people who find belief in their religion to be of value."
+    }],
+    "commentaries": [{
+        "quote": "Delusions are held with total conviction and cannot be altered by the presentation of facts or by appeal to logic or reason. They may be understood as attempts to make sense of abnormal internal experiences such as hallucinations or feelings of anxiety or distress.",
+        "attribution": "www.health.qld.gov.au"
+    },{
+        "quote": "Delusions are a very common symptom of schizophrenia. They include illogical ideas, bizarre fantasies, and false beliefs not based in reality. Even though delusions are not real, they feel real to the person experiencing them.",
+        "attribution": "British Columbia Schizophrenia Society"
+    },{
+        "quote": "In an era of stress and anxiety, when the present seems unstable and the future unlikely, the natural response is to retreat and withdraw from reality, taking recourse either in fantasies of the future or in modified visions of a half-imagined past.",
+        "attribution": "Alan Moore"
+    },{
+        "quote": "It is so easy at times for a lonely individual to begin fantasizing about what the people outside are saying about him and, in result, irrationally and fearfully, and sometimes angrily, fancy himself a villain.",
+        "attribution": "Criss Jami"
+    },{
+        "quote": "Deluded or not, supporters of superstition and pseudoscience are human beings with real feelings, who, like the skeptics, are trying to figure out how the world works and what our role in it might be. Their motives are in many cases consonant with science. If their culture has not given them all the tools they need to pursue this great quest, let us temper our criticism with kindness. None of us comes fully equipped.",
+        "attribution": "Carl Sagan"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["delusion"],
+            "predominantType": "sensation",
+            "levels": {
+              "4,3": {
+                "experiences": ["delusion"]
+              },
+              "2,1": {
+                "experiences": ["dissatisfaction"]
+              }
+            }
+        }]
+    }]
+}
