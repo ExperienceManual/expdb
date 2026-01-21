@@ -31,6 +31,7 @@
       }]
   },{
       "name": "desire for validation",
+      "alternateNames": ["desire for approval"],
       "description": "Wanting to have your social value confirmed.",
       "perceptions": ["I'm not sure where I stand with a particular social group.","I would like to confirm that my standing is still positive."],
       "sensations": ["anxiety"],

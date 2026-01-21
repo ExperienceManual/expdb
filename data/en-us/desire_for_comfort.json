@@ -1,14 +1,16 @@
 {
   "lang": "en/us",
   "createDate": "20250119",
-  "updateDate": "20250918",
+  "updateDate": "20260112",
   "name": "desire for comfort",
   "valence": 0,
   "quote": "Is it Friday yet?",
-  "description": "Wanting to attain an experience with less discomfort. If we can imagine a more optimal situation, we often want to get there.",
-  "perceptions": ["The situation could and should be easier and more comfortable."],
+  "description": "Wanting to improve the current experience with fewer negative or more positive sensations.",
+  "perceptions": ["This situation could and should be easier and/or more comfortable."],
+  "desires": ["desire for excellence","desire for agency"],
   "sensations": ["discomfort"],
-  "related": [ "desire for food", "sickness", "boredom", "desire for comfort chemicals", "desire for sex", "pleasure", "pain", "relief" ],
+  "related": [ "desire to improve", "desire for food", "sickness", "boredom", "desire to improve your environment", "desire for reward chemicals", "pleasure", "pain", "relief" ],
+  "examples": ["I'm a little chilly and could use another blanket.","I'm not hungry, but always like popcorn at the movie theater."],
   "opposites": ["sacrifice"],
   "guidance": [{
       "description": "If you'd like expand your comfort zone, consider making it a goal.",
@@ -22,13 +24,6 @@
       "results": ["seeking ways to reduce the pain such as medicine or distraction"],
       "examples": ["taking a pill for a headache","watching a movie to distract yourself"]
     },{
-      "name": "more comfort is better",
-      "related": ["desire for pure body"],
-      "description": "Wanting to optimize an experience that has no discomfort or pain.",
-      "perceptions": ["things could be even better"],
-      "desires": ["desire to improve"],
-      "examples": ["I'm not cold but could use an extra blanket anyhow","Getting popcorn at the movie theater"]
-    },{
       "name": "desire for better surroundings",
       "alternateNames": ["desire for beautiful surroundings"],
       "description": "Wanting for your surroundings to be better aligned with preferences.",
@@ -41,12 +36,6 @@
       "description": "Wanting to avoid negative feelings about yourself.",
       "perceptions": ["I sometimes have negative feelings about myself.","These are uncomfortable.","Avoiding them is good."],
       "sensations": ["repression","entitled","victim","unhealthy self-regard"]
-  },{
-      "name": "desire for optimal",
-      "description": "Wanting something to happen in the top tier of speed, quality, and cost for that category of thing, and having a negative reaction if it doesn't.",
-      "perceptions": ["I know the good qualities of this kind of thing or activity.","Every instance of that thing or activity should share those good qualities.","If they don't, I will be disappointed."],
-      "desires": ["desire for order"],
-      "examples": ["wanting to traffic to be good","wanting the lines to be short","wanting the new burrito place to be as good as your favorite"]
   }],
   "commentaries": [{
       "quote": "It may be helpful to be aware if longing for the presence or absence of specific brain chemicals is distracting you needlessly from the present."
@@ -61,8 +50,6 @@
   },{
       "quote": "Choosing to avoid uncomfortable feelings offers immediate short-term relief, but avoidance can lead to long-term consequences.",
       "attribution": "Amy Morin"
-  },{
-      "quote": "The tyranny of peak experience: always comparing things against the best of their class can degrade the experience of the moment as you pick apart the differences with sparks of disappointment. 'This sauce isn't as savory as I like.' 'This line is longer than usual.'"
   }],
   "spectrum": {
     "desire for comfort": 3,
@@ -73,7 +60,7 @@
     {
       "version": "em1",
       "variations": [{
-          "names": ["desire for comfort","desire for better surroundings","low discomfort tolerance","more comfort is better"],
+          "names": ["desire for comfort","desire for better surroundings","low discomfort tolerance"],
           "predominantType": "impulse",
           "levels": {
             "3,2,1": {

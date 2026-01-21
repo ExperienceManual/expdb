@@ -1,11 +1,12 @@
 {
   "lang": "en/us",
   "createDate": "20250120",
-  "updateDate": "20250519",
+  "updateDate": "20260114",
   "name": "desire for agency",
+  "alternateNames": ["desire for self-responsibility"],
   "valence": 0,
   "quote": "Dad, I'm not a little kid anymore.",
-  "description": "A desire to be involved in the decisions about your actions and experiences in life or a part of life.",
+  "description": "A desire to be involved in the decisions and activities that affect your experiences.",
   "perceptions": ["I should be involved in making this decision that affects me."],
   "desires": ["desire for social influence","desire to improve"],
   "guidance": [{
@@ -28,18 +29,6 @@
       "desires": ["want to to be given a chance"],
       "sensations": ["frustration"],
       "examples": ["overbearing relationships","micromanagement"]
-    },{
-      "name": "desire for control",
-      "description": "Wanting to choose which experiences you have, including perhaps on behalf of others. Wanting 'control' is stronger than wanting agency.",
-      "perceptions": ["I'm capable of decisions on this topic.","I should be allowed to make decisions."],
-      "desires": ["want to have things come out in a certain way"],
-      "sensations": ["confidence"],
-      "examples": ["I'm going to drive"],
-      "guidance": [{
-          "description": "The desire for control may be rooted in a fear of uncertainty.",
-          "attribution": "Emma Dibdin",
-          "references": ["https://psychcentral.com/blog/why-you-need-to-control-everything"]
-      }]
   },{
       "name": "desire to ditch constraints",
       "description": "A desire to ignore some of the social constraints are limiting your agency.",

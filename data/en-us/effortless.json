@@ -3,6 +3,7 @@
   "createDate": "20250323",
   "updateDate": "20250703",
   "name": "effortless",
+  "alternateNames": ["simple"],
   "valence": 1,
   "quote": "No problem.",
   "description": "An implicit sense that a preferred state will be easy to achieve in a situation with several possible outcomes.",
@@ -19,7 +20,7 @@
       "results": ["more likely to appreciate things we do effortlessly for a while"],
       "related": ["gaining", "delight"],
       "opposites": ["challenge"],
-      "sensations": ["gratitude"]
+      "sensations": ["relief","gratitude"]
   }],
   "commentaries": [{
       "quote": "Most of what we do every day is automatic and effortless. The only time we might actually think about our capabilities is when challenged by another or after healing from an injury."

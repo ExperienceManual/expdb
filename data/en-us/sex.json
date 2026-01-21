@@ -6,7 +6,7 @@
     "alternateNames": ["sexual intercourse","oral sex","masturbation"],
     "valence": 0,
     "description": "Pleasurable sensations associated with stimulation of the genital organ.",
-    "desires": ["desire for sex","desire for stimulation","desire for validation","desire for comfort chemicals"],
+    "desires": ["desire for sex","desire for stimulation","desire for validation","desire for reward chemicals"],
     "sensations": ["anticipation","delight","stimulation","love","validation","guilt","shame"],
     "related": ["temptation","desire for parenthood"],
     "guidance": [{
@@ -18,7 +18,7 @@
         "alternateNames": [""],
         "description": "Pleasurable sensations associated with anticipation of sexual activity.",
         "perceptions": ["Sexual contact is a possibility."],
-        "desires": ["desire for sex","desire for stimulation","desire for validation","desire for comfort chemicals"],
+        "desires": ["desire for sex","desire for stimulation","desire for validation","desire for reward chemicals"],
         "sensations": ["anticipation","delight","stimulation","love","guilt","shame"],
         "related": ["temptation","desire for parenthood"],
         "examples": ["Watching naughty movies.","Seductive signals."],

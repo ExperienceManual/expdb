@@ -1,0 +1,54 @@
+{
+    "lang": "en/us",
+    "createDate": "20251230",
+    "updateDate": "20251230",
+    "name": "passive aggressive",
+    "valence": -1,
+    "quote": "",
+    "description": "The sense that someone is trying to present a positive or neutral interaction while indirectly expressing disagreement or something negative.",
+    "tags": ["social label"],
+    "perceptions": ["That person seems nice on the surface.","But they are not cooperating or are actively working against me."],
+    "desires": ["desire for knowledge"],
+    "sensations": ["dissatisfaction","frustration"],
+    "results": [""],
+    "personOfInterestExperiences": ["anxiety","anger","dissonance"],
+    "related": ["disagreeableness","aggressiveness"],
+    "opposites": ["honesty"],
+    "examples": ["Avoiding responsibility.","Backhanded compliments."],
+    "guidance": [{
+        "description": "Here are some references that may help recognize and deal with passive-aggressive behavior.",
+        "references": ["https://www.helpguide.org/relationships/social-connection/passive-aggressive-behavior","https://www.psychologytoday.com/us/basics/passive-aggression"]
+    }],
+    "comparisons": [{
+        "links": ["aggressiveness"],
+        "description": "Someone being 'passive aggressive' is relatively mild form of aggression, but it can still affect relationships. Many people would prefer open expressin of concerns."
+    }],
+    "commentaries": [{
+        "quote": "Passive-aggressive behavior is a pattern of indirectly expressing negative feelings instead of openly addressing them. There's a disconnect between what a person who exhibits passive-aggressive behavior says and what he or she does.",
+        "attribution": "Mayo Clinic"
+    },{
+        "quote": "Everyone avoids conflict sometimes. The problem starts when it becomes your main way of coping with negative feelings. Instead of being honest and direct, and discussing those feelings, you resort to passive-aggressive behaviors as a way to punish or impede the other person. It can happen in any type of relationship—with a parent, coworker, friend, or romantic partner.",
+        "attribution": "Charlotte Hilton Andersen, MS"
+    },{
+        "quote": "I’d rather have an enemy who admits that they hate me than a friend who secretly puts me down.",
+        "attribution": "Karen Salmansohn"
+    },{
+        "quote": "You cannot become a peacemaker without communication. Silence is a passive-aggressive grenade thrown by insecure people that want war, but they don’t want the accountability of starting it.",
+        "attribution": "Shannon L. Alder"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["passive aggressive"],
+            "predominantType": "pattern",
+            "levels": {
+              "4,3": {
+                "experiences": ["passive aggressive"]
+              },
+              "2,1": {
+                "experiences": ["dissatisfaction"]
+              }
+            }
+        }]
+    }]
+}

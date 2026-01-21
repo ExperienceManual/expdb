@@ -5,7 +5,7 @@
     "name": "aversion to loss",
     "valence": -1,
     "quote": "I need to buy it now in case the price goes up.",
-    "description": "A perception that losing a particularly valued thing is something to be avoided if at all possible.",
+    "description": "A desire to avoid losing a particularly valued thing if at all possible.",
     "perceptions": ["If I lose this game or asset I'll regret it forever."],
     "desires": ["desire for comfort","desire for social status"],
     "sensations": ["anxiety","fear"],
@@ -16,6 +16,34 @@
         "description": "Loss aversion is a natural human tendency that exists to keep us from incurring losses. That being said, it is essential to know how to avoid loss aversion to prevent it from influencing our decisions, especially when there are potential gains to be made. There are two main strategies we can use to fight back against this bias: framing and putting loss into perspective.",
         "attribution": "The Decision Lab",
         "references": ["https://thedecisionlab.com/biases/loss-aversion"]
+    }],
+    "variations": [{
+        "name": "aversion to regret",
+        "description": "A desire to avoid doing something (or not doing something) that could result in a negative self-evaluation.",
+        "perceptions": ["If I do (or don't do) this thing, I may regret it.","I would prefer to avoid that negative feeling."],
+        "desires": ["desire for comfort","desire to be seen a certain way","desire for excellence"],
+        "sensations": ["anxiety"],
+        "related": ["regret"],
+        "guidance": [{
+            "description": "Regret aversion is when the anticipation of regret is factored into a decision, leading us to a preference that minimizes potential regret. Fear of regret can play a significant role in either motivating a person to take action or dissuading them from making a decision.",
+            "attribution": "The Decision Lab",
+            "references": ["https://thedecisionlab.com/biases/regret-aversion"]
+        }],
+        "comparisons": [{
+            "links": ["fear of missing out"],
+            "description": "FOMO is a specific kind of 'aversion to regret' that's focused on social experiences."
+        }]
+    },{
+        "name": "aversion to change",
+        "description": "A desire to avoid change of some type that could possibly result in doubt, a loss, or regret.",
+        "perceptions": ["I understand the current state of things.","If I let them change, I may not understand it as well or it may not be as good.","Best to resist change in this area."],
+        "desires": ["desire for comfort","desire for order","desire to be seen a certain way"],
+        "sensations": ["anxiety"],
+        "related": ["doubt","regret"],
+        "guidance": [{
+            "description": "There are many references to help you understand and manage a fear of change. Here are some.",
+            "references": ["https://www.intercom.com/blog/navigating-the-complexity-of-change-aversion","https://www.verywellmind.com/i-fear-change-how-to-cope-with-the-unknown-5189851","https://thedecisionlab.com/reference-guide/sociology/resistance-to-change"]
+        }]
     }],
     "comparisons": [{
         "links": ["losing"],
@@ -33,6 +61,15 @@
     },{
         "quote": "Loss aversion plays a significant role in cheating behavior. Players are more likely to cheat to avoid losing progress or status than to gain something new. This mirrors real-world behaviors where people are more likely to cheat on taxes to avoid owing money than to get a bigger refund.",
         "attribution": "sobrief.com review of Jamie Madigan in 'Getting Gamers'"
+    },{
+        "quote": "Behavioral and neuroscience would tell us that, on average, one dollar of loss creates twice as much pain as one dollar of gain creates happiness.",
+        "attribution": "Joe Maier, JD, CPA"
+    },{
+        "quote": "Change is never painful. Only the resistance to change is painful.",
+        "attribution": "The Buddha"
+    },{
+        "quote": "If it ain't broke, don't fix it.",
+        "attribution": "adage"
     }],
     "spectrum": {
         "aversion to loss": 5,
@@ -41,7 +78,7 @@
     "models": [{
         "version": "em1",
         "variations": [{
-            "names": ["aversion to loss"],
+            "names": ["aversion to loss","aversion to regret"],
             "predominantType": "impulse",
             "levels": {
               "4": {

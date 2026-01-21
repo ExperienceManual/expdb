@@ -38,6 +38,7 @@
       "perceptions": ["There's a social activity that's going to happen.","If I'm not involved, I might be excluded from important information or weaken a group bond."],
       "desires": ["desire for social contact","desire for social status"],
       "sensations": ["anxiety","losing"],
+      "related": ["aversion to regret"],
       "guidance": [{
           "description": "If it feels like FOMO and social media have taken over your life, know that there are ways to regain control. It starts with developing a better understanding of yourself, including your feelings, motives, and values. Then, you can cut down on worry and rumination by developing mindfulness, managing anxiety, and limiting your social media usage.",
           "attribution": "Sheldon Reid and Casey Clark",

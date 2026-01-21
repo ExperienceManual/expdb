@@ -34,6 +34,19 @@
             "attribution": "Justin Lioi, LCSW",
             "references": ["https://parkslopetherapist.com/being-taken-advantage-of/"]
         }]
+  },{
+        "name": "aversion to misinformation",
+        "description": "A dislike of information you perceive as wrong or incomplete. May come with disrespect for people communicating polluted information.",
+        "perceptions": ["This information is not correct.","Interacting with people who believe this can be challenging."],
+        "desires": ["desire for order","desire for knowledge"],
+        "sensations": ["frustration","resentment","distrust"],
+        "examples": ["A thinking person's reaction to most conspiracy theories."],
+        "related": ["conspiracy minded"],
+        "opposites": ["desire for social influence"],
+        "guidance": [{
+            "description": "There are many guides to help identify misinformation.",
+            "references": ["https://www.unicef.org/eca/stories/quick-guide-spotting-misinformation","https://www.apa.org/topics/journalism-facts/misinformation-recommendations","https://www.coe.int/en/web/campaign-free-to-speak-safe-to-learn/dealing-with-propaganda-misinformation-and-fake-news"]
+        }]
   }],
   "commentaries": [{
       "quote": "A social system may be able to handle a small number of cheaters, but without strong aversion signals, there could become too many cheaters to deal with. This applies to many taboos like cutting in line, freeloading off handouts, stealing, extra-marital affairs, etc."

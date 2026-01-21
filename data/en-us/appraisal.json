@@ -55,7 +55,7 @@
         "name": "prioritization",
         "description": "The process of ranking multiple tasks or things against each other for a specific purpose.",
         "perceptions": ["I need to figure out what to do or choose first.","The results depend on many factors."],
-        "desires": ["desire for optimal"],
+        "desires": ["desire for excellence"],
         "related": ["generalization","deduction","clarity"],
         "opposites": ["randomness"],
         "examples": ["Choosing which task to do first.","Ranking your favorite movies."],

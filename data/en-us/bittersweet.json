@@ -1,15 +1,27 @@
 {
   "lang": "en/us",
   "createDate": "20241201",
-  "updateDate": "20250514",
+  "updateDate": "20260107",
   "name": "bittersweet",
   "valence": 0,
   "quote": "Romeo and Juliet is a tragic love story.",
-  "description": "An event that provokes both a positive and negative sensation at the same time.",
-  "perceptions": ["Something happens that provokes roughly equal amounts of positive and negative sensations."],
-  "sensations": ["any postitive","any negative"],
-  "results": ["dissonance"],
-  "related": ["melancholy","consolation","dissonance"],
+  "description": "An experience or memory that provokes both positive and negative sensations at the same time.",
+  "perceptions": ["Something has happened (or is remembered) that provokes roughly equal amounts of positive and negative sensations."],
+  "sensations": ["any positive","any negative"],
+  "related": ["melancholy","consolation","dissonance","nostalgia"],
+  "examples": ["Graduating from high school.","A retirement party."],
+  "variations": [{
+      "name": "poignant",
+      "description": "A strong emotional responses where a deep positive sensation is mixed with sadness.",
+      "perceptions": ["Something has happened (or is remembered) that provokes deep positive sensations as well as sadness."],
+      "sensations": ["any positive","sadness"],
+      "related": ["consolation","dissonance","grief"],
+      "examples": ["A surprise ending to a book that's deep but sad.","A philosophical eulogy."],
+      "comparisons": [{
+          "links": ["bittersweet"],
+          "description": "'Poignant' is a specific form of 'bittersweet' where the negative sensation is sadness, but it's balanced by an emotional depth."
+      }]
+  }],
   "comparisons": [{
     "links": ["dissonance"],
     "description": "Dissonance is any kind of scenario where multiple sensations are firing. Bittersweet is a special case of dissonance where the sensations are roughly equal parts positive and negative."
@@ -20,13 +32,18 @@
   },{
       "quote": "If you go back to your home town or you're reunited with school friends, its always slightly bittersweet because as much as there's nice things in terms of seeing them again, the town has changed without you, and you're no longer a part of it.",
       "attribution": "Edgar Wright"
+  },{
+      "quote": "As a pastor, you get invited into the most poignant moments of people's lives. Whether it's a wedding or a funeral or a hospital visit, you get invited into the center of the event, whether or not you know the people.",
+      "attribution": "Rob Bell"
+  },{
+      "quote": "I think one of the most poignant things is unrequited love and loneliness.",
+      "attribution": "Wilbur Smith"
   }],
   "models": [
     {
       "version": "em1",
-      "variations": [
-        {
-          "names": ["bittersweet"],
+      "variations": [{
+          "names": ["bittersweet","poignant"],
           "predominantType": "sensation",
           "levels": {
             "4": {
@@ -39,8 +56,7 @@
               "experiences": ["delight", "dismay"]
             }
           }
-        }
-      ]
+      }]
     }
   ]
 }

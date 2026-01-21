@@ -1,0 +1,77 @@
+{
+    "lang": "en/us",
+    "createDate": "20260104",
+    "updateDate": "20260105",
+    "name": "complacency",
+    "valence": 0,
+    "quote": "She seems kind of stuck at that level.",
+    "description": "A sense that someone is more satisfied about their situation than they should be. That they could and should be doing more in some area.",
+    "tags": ["social label"],
+    "perceptions": ["There's something that person should be considering.","They seem satisfied with the status quo or don't seem to be aware of what they're missing.","I think they should be doing more."],
+    "sensations": ["negative judgment","disrespect"],
+    "personOfInterestExperiences": ["satisfaction","comfort"],
+    "related": ["acceptance","laziness","ignorance"],
+    "examples": ["A gardener who accepts insect damage when maybe they could plant bug repellant herbs.","A student who's happy with a B when they could get an A if they worked a little harder."],
+    "opposites": ["ambition"],
+    "guidance": [{
+        "description": "From the inside, it can be difficult to balance 'satisfaction' and 'complacency'. Sometimes accepting some part of your situation might be healthier than stressing about it.",
+        "references": ["https://www.roi-fg.com/blog/the-delicate-balance-between-contentment-and-complacency","https://www.jeffhavens.com/personal-development/the-upside-of-complacency","https://positiveacorn.com/are-happy-people-complacent/"]
+    },{
+        "description": "If you feel that you or someone important to you is letting something important slip by, here are some references.",
+        "references": ["https://www.linkedin.com/pulse/ten-ways-live-less-complacent-life-tyler-cowen","https://kerrysiggins.com/blog/5-ways-to-stop-being-complacent"]
+    }],
+    "variations": [{
+        "name": "underappreciation",
+        "alternateNames": ["take for granted"],
+        "description": "A sense that someone doesn't notice something that they should, or value something as much as they should.",
+        "perceptions": ["There's something that person doesn't seem to be valuing appropriately.","They don't seem to be aware of what they're neglecting.","I think they should be doing more."],
+        "sensations": ["negative judgment","disrespect"],
+        "personOfInterestExperiences": ["satisfaction","comfort"],
+        "related": ["acceptance","laziness","ignorance"],
+        "examples": ["A person who complains about one aspect of their spouse, but doesn't praise an important positive.","Being hard on yourself about something while not recognizing a partial success.","Not taking good care of your houseplants."],
+        "opposites": ["bragging"],
+        "comparisons": [{
+            "links": ["ingratitude"],
+            "description": "With 'underappreciate', the assumption is that the person is not aware of the value. With 'ingratitude', the person is aware of the value but feels entitled to it."
+        }],
+        "guidance": [{
+            "description": "Displaying appreciation to someone includes gratitude, but also just interacting with someone and noticing small things. Here are some references that may be of interest.",
+            "references": ["https://www.verywellmind.com/7-things-to-do-if-you-feel-unappreciated-5081881","https://firstthings.org/spouse-feels-unappreciated"]
+        }]
+    }],
+    "comparisons": [{
+        "links": ["laziness"],
+        "description": "With 'laziness', there's an awareness that you should be doing the thing. With 'complacency', you're satisfied that thing isn't necessary."
+    }],
+    "commentaries": [{
+        "quote": "The tragedy of life is often not in our failure, but rather in our complacency; not in our doing too much, but rather in our doing too little.",
+        "attribution": "Benjamin E. Mays"
+    },{
+        "quote": "'If it ain't broke, don't fix it' is the slogan of the complacent, the arrogant or the scared. It's an excuse for inaction.",
+        "attribution": "Colin Powell"
+    },{
+        "quote": "In the pursuit of a fulfilling life, two concepts often find themselves at odds: contentment and complacency. While on the surface, these words may appear similar, they represent vastly different states of mind and being. Contentment is essential to living a rich life where one is liberated from insecurities and savor their achievements, while complacency is murky prison of fear, inaction and stagnation.",
+        "attribution": "Kyle Roy"
+    },{
+        "quote": "People don’t notice the things we do for them until we stop doing them.",
+        "attribution": "Mike Skinner"
+    },{
+        "quote": "It is really sad that those who really do contribute to the community are not thanked a lot, and those who are living off of society's expense are celebrated.",
+        "attribution": "Brett Petit"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["complacency","underapprecation"],
+            "predominantType": "pattern",
+            "levels": {
+              "4,3": {
+                "experiences": ["complacency"]
+              },
+              "2,1": {
+                "experiences": ["dissatisfaction"]
+              }
+            }
+        }]
+    }]
+}

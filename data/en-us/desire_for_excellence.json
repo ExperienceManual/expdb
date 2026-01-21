@@ -1,0 +1,120 @@
+{
+    "lang": "en/us",
+    "createDate": "20260114",
+    "updateDate": "20260117",
+    "name": "desire for excellence",
+    "valence": 0,
+    "quote": "Only the best.",
+    "description": "Wanting something to happen in the top tier of speed, quality, and cost for that category of thing.",
+    "perceptions": ["I know the good qualities of this kind of thing or activity.","Every instance of that thing or activity should share those good qualities."],
+    "desires": ["desire for order","desire for comfort"],
+    "sensations": ["anticipation","hope"],
+    "related": ["ambition","flow","desire to improve","desire for social status"],
+    "examples": ["Wanting to traffic to be good.","Wanting the new burrito place to be as good as your favorite."],
+    "guidance": [{
+        "description": "At one level, pushing for excellence in yourself and your environment can lead to more efficiency, productivity, satisfaction, enjoyment, and perhaps leisure time.",
+        "references": ["https://deliberateowl.com/blog/why-you-should-pursue-excellence-not-success","https://www.psychologytoday.com/us/blog/how-to-do-life/202201/pursue-excellence-for-its-own-sake"]
+    },{
+        "description": "Here are some articles that highlight the unhealthy anxiety that can be produced by trying keep everything 'optimal' all the time.", 
+        "references": ["https://www.insidehook.com/mental-health/optimization-culture-burnout","https://www.birchwoodclinic.com/the-dangers-of-optimization-culture"]
+    }],
+    "variations": [{
+      "name": "desire to be spotless",
+      "alternateNames": ["socially prescribed perfectionism","desire for purity"],
+      "description": "A sense that others will reject you if a particular behavior or aspect does not meet an exacting standard.",
+      "perceptions": ["It's critical for social reasons to maintain a certain aspect of life and reputation."], 
+      "desires": ["desire for validation","desire for social status"],
+      "sensations": ["abstinence","anxiety","ambition","fear"],
+      "results": ["Failure to maintain a pristine reputation in the desired area may cause a sense of disappointment or failure."], 
+      "examples": ["Culture of honor.","Preferring organic food.","Religious confession."],
+      "guidance": [{
+          "description": "Socially prescribed perfectionism is the sense that significant others demand perfection from you in significant areas. This individual then internalizes these demands in the sense that they become a significant part of one’s habits and associated expectations of oneself.",
+          "attribution": "Leon Garber LMHC",
+          "references": ["https://www.psychologytoday.com/us/blog/perfectionism/202508/socially-prescribed-perfectionism-and-the-false-self"]
+      }]
+    },{
+        "name": "internal perfectionism",
+        "alternateNames": ["self-oriented perfectionism"],
+        "description": "A desire for a certain characteristic to meet a very demanding standard of excellence, and a sense of deep failure when the high bar is not always met.", 
+        "perceptions": ["I have to behave or look perfect in order to be viewed positively and maintain my position."],
+        "desires": ["desire for social status"],
+        "sensations": ["anxiety"],
+        "results": ["It's not possible to be perfect all the time."],
+        "examples": ["Straight-A student is hard on himself for getting a B.","Cheerleader is distraught about acne."],
+        "related": ["failure","judgment"],
+        "guidance": [{
+            "description": "It is important to recognise the difference between perfectionism and motivation to achieve excellence.  A person who is striving for excellence may have more realistic goals and expectations for themselves. They are also able to be more accepting when things don’t go right, rather than blame themselves or feel like a failure.",
+            "attribution": "Nicole Hann",
+            "references": ["https://www.nicolehannpsychology.com.au/perfectionism"]
+        },{
+            "description": "For me to overcome Perfectionism, it was crucial to distinguish between Perfectionism and Striving for Excellence. Below are what I learnt through years of disorientation over the blur line: Striving for Excellence focuses on the process, 'Striving for Excellent' people don’t measure their self-worth by the result, 'Striving for Excellence' people compare themselves today with themselves of yesterday, ...",
+            "attribution": "Milena Nguyen",
+            "references": ["https://milenanguyen.com/blog/2014/10/15/perfectionism-and-striving-for-excellence-a-thin-line"]
+        }]
+    },{
+        "name": "external perfectionism",
+        "alternateNames": ["other-oriented perfectionism"],
+        "tags": ["social label"],
+        "description": "A sense that someone has unreasonably demanding expectations about others, and is hard on them when the high bar is not always met.", 
+        "perceptions": ["That person has high standards and demands they be met.","They are unreasonably judgmental if the standards are not met."],
+        "sensations": ["injustice"],
+        "results": ["The tough boss or coach may inspire others to be better, or they may turn people off."],
+        "examples": ["Tough boss.","Demanding coach."],
+        "personOfInterestExperiences": ["ambition","desire for social influence","desire for excellence","disappointment","distrust"],
+        "related": ["failure","judgment"],
+        "guidance": [{
+            "description": "Much of the popular material on perfectionism is geared toward deepening one’s understanding of how to address self-oriented perfectionism, the impossibly high standards some of us hold ourselves to. But seldom addressed is what’s been labeled as other-oriented perfectionism, the impossibly high standards some of us hold others to.",
+            "attribution": "Leon Garber LMHC",
+            "references": ["https://www.psychologytoday.com/us/blog/perfectionism/202503/is-my-other-oriented-perfectionism-the-problem"]
+        }]
+    },{
+        "name": "desire for optimal balance",
+        "alternateNames": ["desire for efficiency"],
+        "description": "Wanting to achieve a certain positive outcome with reasonable or customary effort.",
+        "perceptions": ["I should be able to accomplish something.","I expect to be able to do it with a certain amount of effort.","I'm willing to put that effort into it if the results are a satisfactory tradeoff."],
+        "sensations": ["hope"],
+        "examples": ["Spending more time on the project versus getting better results.","Doing the commute to work just slightly off peak rush hour."],
+        "related": ["failure"],
+        "guidance": [{
+            "description": "We constantly balance tradeoffs like now-vs-later, self-vs-other, risk-vs-reward, effort-vs-payoff, etc.",
+            "references": ["https://capitalpreferences.com/blog/foundations-lifes-three-key-tradeoffs/","https://www.thecuriosityvine.com/post/life-is-a-series-of-tradeoffs","https://www.psychologytoday.com/us/blog/being-your-best-self/202201/working-through-tradeoffs-is-key-to-your-personal-growth-and"]
+        }]
+    }],
+    "comparisons": [{
+        "links": ["ambition"],
+        "description": "Ambition is a desire and a plan towards reaching a specific goal. Generally ambition has a component of 'success' where there's some kind of public recognition. 'Excellence' can be quiet and assuming, like doing a good job cleaning the kitchen."
+    },{
+        "links": ["desire to improve"],
+        "description": "The path through improvement moves through beginner, intermediate, and finally one day reaches excellence. But you don't necessarily need to be excellent in everything. You may want to improve into being average for something."
+    }],
+    "commentaries": [{
+        "quote": "Many people prioritize some aspect of their life as being extremely important to protect and optimize. Anything short of pure perfection in this area can cause anxiety. It varies from person to person, but commonly includes reputation, safety, social matters, health, spirituality, knowledge, or sexuality."
+    },{
+        "quote": "Excellence isn't a one-week or one-year ideal. It is constant.",
+        "attribution": "Michael Jordan"
+    },{
+        "quote": "Striving for Excellence people compare themselves today with themselves of yesterday, while Perfectionists compare themselves with others or with an ideal image of self.",
+        "attribution": "Milena Nguyen"
+    },{
+        "quote": "Success is how good you are in relation to the rest of the world. Success is winning medals in competitions, good grades, and gold stars. Excellence, on the other hand, is how good you are in relation to how good you individually can be. Achieving excellence is being the best you can be, regardless of how good anyone else is.",
+         "attribution": "Jacqueline M. Kory-Westlund"
+    },{
+         "quote": "Relationships: Who are the few people that have the most positive impact on my life? Spend more time with them. Priorities: What are the few actions that have the most positive impact on my day? Prioritize them. Learning: What are the few information sources I learn the most from? Focus on them. Stress: What are the few sources that cause most of the stress and friction in my life? Eliminate them.",
+          "attribution": "James Clear"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["*"],
+            "predominantType": "impulse",
+            "levels": {
+              "4,3": {
+                "experiences": ["desire for excellence"]
+              },
+              "2,1": {
+                "experiences": ["hope"]
+              }
+            }
+        }]
+    }]
+}

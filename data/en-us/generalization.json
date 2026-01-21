@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250223",
-  "updateDate": "20250510",
+  "updateDate": "20251231",
   "name": "generalization",
   "valence": 0,
   "quote": "I've observed that birds have feathers.",
@@ -20,20 +20,39 @@
         "description": "Stereotypes can be accurate statements about current statistical group differences, but they can be inaccurate when applied to individuals.",
         "references": ["https://www.allsides.com/translator/stereotypes"]
       }]
+  },{
+      "name": "analogizing",
+      "alternateNames": ["using a metaphor"],
+      "description": "Understanding a pattern in one thing by making reference to a pattern from something else.",
+      "perceptions": ["An aspect of this thing seems similar to an aspect of something else.","Drawing attention to that partial similarity helps me better understand."],
+      "desires": ["desire for knowledge"],
+      "sensations": ["clarity"],
+      "related": ["imagination"],
+      "guidance": [{
+        "description": "The use of analogies and metaphors can help people understand new or complex topics.",
+        "references": ["https://www.animateyour.science/post/why-are-analogies-and-metaphors-crucial-for-science-communication","https://communispond.com/effective-communication-the-power-of-metaphor/"]
+      }]
   }],
   "commentaries": [
     {
       "quote": "'Generalization' as used here is just the thing that neurons do in the brain - they create patterns of connections that reflect some aspect of the world.  This might be similar in concept to 'inductive reasoning', but there's no feedback loop -- even a fish can link patterns together: repeat things that worked well, avoid things that hurt."
     },{
       "quote": "Just linking perceptions to results often leads to errors. A rain dance does not always bring rain. Stereotypes are what the brain does, but it can be helpful to re-evaluate established patterns."
-    }
-  ],
+  },{
+      "quote": "Analogies and metaphors are the underdogs of science communication, making the complex comprehensible and the tricky tangible.",
+      "attribution": "Dr. Miguel Balbin"
+  },{
+      "quote": "One good analogy is worth three hours discussion.",
+      "attribution": "Dudley Field Malone"
+  },{
+      "quote": "Metaphors provide the illusion of knowledge, so they must be used with care.",
+      "attribution": "Lisa Feldman Barrett"
+  }],
   "models": [
     {
       "version": "em1",
-      "variations": [
-        {
-          "names": ["generalization"],
+      "variations": [{
+          "names": ["generalization","sterotyping"],
           "predominantType": "capacity",
           "levels": {
             "4,3,2,1": {
@@ -41,8 +60,18 @@
               "experiences": ["generalization"]
             }
           }
-        }
-      ]
+      },{
+          "names": ["analogizing"],
+          "predominantType": "action",
+          "levels": {
+            "4,3": {
+              "experiences": ["analogizing"]
+            },
+            "2,1": {
+              "experiences": ["clarity"]
+            }
+          }
+      }]
     }
   ]
 }

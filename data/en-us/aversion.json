@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20241211",
-  "updateDate": "20250708",
+  "updateDate": "20260114",
   "name": "aversion",
   "valence": -1,
   "quote": "That painting is ugly as sin.",
@@ -11,6 +11,14 @@
   "related": [ "dismay", "disgust","ill will","disrespect","contempt","hate" ],
   "otherVariations": [ "aversion to cheaters", "aversion to strangers", "aversion to dangerous creatures", "aversion to social attention" ],
   "opposites": ["appreciation", "desire"],
+  "variations": [{
+      "name": "aversion for a particular outcome",
+      "description": "The sensation of not wanting a particular thing to happen while being aware it might happen.",
+      "desires": ["desire for agency","many"],
+      "sensations": ["hope", "anxiety", "anticipation", "fear"],
+      "examples": ["Not wanting your kid to get hurt in the competition.","Not wanting to find a spider under your bed."],
+      "opposites": ["desire for a particular outcome"]
+  }],
   "comparisons": [{
     "links": ["disgust"],
     "description": "Disgust is the perception that the target could somehow contaminate you. Aversion is simply not liking the thing without perceiving that it could somehow taint you."

@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250217",
-  "updateDate": "20250605",
+  "updateDate": "20260118",
   "name": "doubt",
   "valence": 0,
   "quote": "I don't know if she's going to be ok.",
@@ -11,6 +11,10 @@
   "sensations": ["anxiety","distrust","dissonance"],
   "related": ["prediction", "skepticism", "anticipation","uncertainty"],
   "opposites": ["certainty"],
+  "comparisons": [{
+      "links": ["uncertainty"],
+      "description": "These concepts are very close to each other. 'Doubt' is not being able to fully trust a statement, promise, or explanation while 'uncertainty' is not even having something to doubt. For instance, you can doubt your sibling's movie recommendation, or you can be uncertain about whether you actually ended up enjoying it."
+  }],
   "variations": [{
       "name": "self doubt",
       "description": "Being uncertain that your knowledge or skills are up to a particular task.",

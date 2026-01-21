@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250120",
-  "updateDate": "20250927",
+  "updateDate": "20260114",
   "name": "desire for social influence",
   "valence": 0,
   "quote": "Listen up people...",
@@ -37,14 +37,17 @@
       "description": "Being ready to threaten someone else's agency with negative consequences in order to get them to behave the way you want.",
       "perceptions": ["Others are not behaving the way I think they should.","They won't respond to a nice approach.","There should be consequences for them not following my guidance."],
       "desires": ["desire for social status","desire for agency","desire for order"],
-      "sensations": ["annoyance"],
-      "results": ["considering the consequences to use"],
+      "sensations": ["annoyance","distrust","confidence"],
       "guidance": [{
-          "description": "There are parenting and workplace guides to help think about reasonable consequences.",
+          "description": "Here are parenting and workplace guides to help think about reasonable consequences for guiding people you're in charge of.",
           "references": ["https://www.cdc.gov/parenting-toddlers/discipline-consequences/consequences.html","https://www.aihr.com/blog/disciplinary-action/"]
+      },{
+          "description": "The desire for control may be rooted in a fear of uncertainty.",
+          "attribution": "Emma Dibdin",
+          "references": ["https://psychcentral.com/blog/why-you-need-to-control-everything"]
       }],
       "related": ["advantaged"],
-      "examples": ["parenting","managing a business","dictatorship"]
+      "examples": ["Parenting","Managing a business","Dictatorship"]
   },{
       "name": "desire to make your mark",
       "description": "Wanting to express your agency in a social context whether for the good or bad.",

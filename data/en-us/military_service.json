@@ -1,0 +1,93 @@
+{
+    "lang": "en/us",
+    "createDate": "20251230",
+    "updateDate": "20251230",
+    "name": "military service",
+    "alternateNames": ["voluntary military service"],
+    "valence": 0,
+    "quote": "He fought in the war.",
+    "description": "Risking injury and death to voluntarily join an armed conflict sub-group in support of the social structure against outside groups.",
+    "perceptions": ["My social group needs help in defense or offense against another group.","I am helping."],
+    "desires": ["desire for military service","desire to protect","desire for order","desire for social status"],
+    "sensations": ["group bond","pride","anxiety","discomfort"],
+    "related": ["courage","combat","sacrifice","hardship-tested ally"],
+    "examples": ["Joining the army.","Becoming a spy in a high-risk area."],
+    "guidance": [{
+        "description": "If you're considering military service, see guidance for 'desire for military service'.",
+        "references": ["desire for military service"]
+    },{
+        "description": "Members of military organizations have experiences ranging from positive and adaptive to negative and traumatic. If you or someone you know is having trouble with integrating back into civilian life, consider seeking help.",
+        "references": ["https://www.va.gov/asheville-health-care/stories/from-service-to-reintegration-advancing-veterans-well-being/","https://www.anxiousminds.co.uk/veterans-transition-to-civilian-life"]
+    }],
+    "variations": [{
+        "name": "police service",
+        "description": "Risking injury and death to voluntarily join an armed conflict sub-group in support of the social structure to enforce internal group rules.",
+        "perceptions": ["My social group needs help with with people who are not following the rules.","I am helping."],
+        "desires": ["desire for military service","desire to protect","desire for order","desire for social status"],
+        "sensations": ["group bond","pride","anxiety","discomfort"],
+        "related": ["courage","challenge","sacrifice"],
+        "examples": ["Joining the local police.","Joining a national crime service."],
+        "comparisons": [{
+            "links": ["military service"],
+            "description": "Policing is internal to the social structure while the military deals with inter-group challenges."
+        }],
+        "guidance": [{
+            "description": "Policing can be a difficult but rewarding career. Here are some articles that might help determine if it's a good fit for you.",
+            "references": ["https://www.police1.com/opinion/articles/the-pros-and-cons-of-being-a-police-officer-BaTtBZTIDtOfCg2r/","https://leb.fbi.gov/articles/perspective/perspective-characteristics-of-an-ideal-police-officer","https://www.joiningthepolice.co.uk/is-policing-right-for-me"]
+        }]
+    },{
+        "name": "conscripted military service",
+        "description": "Being obligated to risk injury and death to join an armed conflict sub-group in support of the social structure against outside groups.",
+        "perceptions": ["My social group wants help in defense or offense against another group.","I am obligated to join the effort."],
+        "desires": ["desire to protect","desire for order","desire for safety"],
+        "sensations": ["group bond","anxiety","discomfort"],
+        "related": ["combat","courage","sacrifice","hardship-tested ally"],
+        "examples": ["Being drafted by the army."]
+    }],
+    "commentaries": [{
+        "quote": "True heroism is remarkably sober, very undramatic. It is not the urge to surpass all others at whatever cost, but the urge to serve others at whatever cost.",
+        "attribution": "Arthur Ashe"
+    },{
+        "quote": "Every post is honorable in which a man can serve his country.",
+        "attribution": "George Washington"
+    },{
+        "quote": "Everything I do in my political life is colored by my military service. It was the defining moment in my life and helped me develop the leadership skills that I still utilize.",
+        "attribution": "Jason Kander"
+    },{
+        "quote": "In every battle, it is not numbers and untaught bravery so much as skill and training that generally produce the victory.",
+        "attribution": "Vegetius (Roman Soldier, c. 4th Century AD)"
+    },{
+        "quote": "The experienced soldier, once in motion, is never bewildered; once he has broken camp, he is never at a loss.",
+        "attribution": "Sun Tzu"
+    },{
+        "quote": "The police are the public and the public are the police; the police being only members of the public who are paid to give full time attention to duties which are incumbent on every citizen in the interests of community welfare and existence.",
+        "attribution": "Robert Peel"
+    },{
+        "quote": "Being a good police officer is one of the most difficult, dangerous, idealistic jobs in the world.",
+        "attribution": "Thomas Hauser"
+    },{
+        "quote": "Wars are not acts of God. They are caused by man, by man-made institutions, by the way in which man has organized his society.",
+        "attribution": "Frederick Moore Vinson"
+    },{
+        "quote": "In the councils of government, we must guard against the acquisition of unwarranted influence, whether sought or unsought, by the military-industrial complex. The potential for the disastrous rise of misplaced power exists and will persist.",
+        "attribution": "Dwight D. Eisenhower"
+    },{
+        "quote": "Can anything be stupider than that a man has the right to kill me because he lives on the other side of the river and his ruler has a quarrel with mine, though I have not quarreled with him?",
+        "attribution": "Blaise Pascal"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["*"],
+            "predominantType": "action",
+            "levels": {
+              "4,3": {
+                "experiences": ["military service"]
+              },
+              "2,1": {
+                "experiences": ["courage","discomfort"]
+              }
+            }
+        }]
+    }]
+}

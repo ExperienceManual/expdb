@@ -14,10 +14,10 @@
     "description": "Often, 'boredom' is a desire for stimulation, but sometimes you can feel bored even when you're active at the 'wrong' kind of activity."
   }],
   "variations": [{
-      "name": "desire for comfort chemicals",
+      "name": "desire for reward chemicals",
       "description": "The brain can become quite fond of stimulating chemicals consumed or released during exciting activities.",
       "perceptions": ["My brain wants to feel stimulation."],
-      "examples": ["caffeine","dopamine","adrenaline"],
+      "examples": ["Dopamine","Adrenaline","Oxytocin"],
       "related": ["addiction", "physical activity", "desire for sex"]
     },{
       "name": "desire to move your body",

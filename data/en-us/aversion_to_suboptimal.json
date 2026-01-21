@@ -1,0 +1,50 @@
+{
+    "lang": "en/us",
+    "createDate": "20250501",
+    "updateDate": "20260117",
+    "name": "aversion to suboptimal",
+    "alternateNames": ["disappointed by average","negative contrast effect"],
+    "tags": ["cognitive bias"],
+    "valence": -1,
+    "quote": "I only like New York or New Jersey pizza.",
+    "description": "Negative feelings about the actual or potential experience of something that is not in the top tier of speed, quality, and cost for that category of thing.",
+    "perceptions": ["I know the good qualities of this kind of thing or activity.","Every instance of that thing or activity should share those good qualities.","This instance does not or I predict it won't.","It disappoints me."],
+    "desires": ["desire for excellence","desire for comfort"],
+    "sensations": ["dismay","dissatisfaction"],
+    "examples": ["This pasta isn't as good as my mom's.","The movie's sequel wasn't as good as the original."],
+    "guidance": [{
+        "description": "Our brain tends to judge experiences relative to similar experiences. These articles describe this 'contrast effect'. Maybe what's going on right now is objectively bad, or maybe it's just not as good as you had hoped for.",
+        "references": ["https://effectiviology.com/contrast-effect/","https://www.melissahughes.rocks/post/compared-to-what-the-power-of-the-contrast-effect"]
+    },{
+        "description": "An experience may be enjoyable in the moment, or it may be more enjoyable in retrospect. Outdoor enthusiasts have come up with a 'fun scale' that could apply to life and work as well.",
+        "references": ["https://essentialwilderness.com/type-1-2-and-3-fun/"]
+    }],
+    "comparisons": [{
+        "links": ["dismay"],
+        "description": "'Aversion to suboptimal' is a specific 'dismay' or predicted dismay caused by comparing the current experience against a known reference. 'Dismay' itself is more general -- it can happen even if you don't have any similar past experiences."
+    }],
+    "commentaries": [{
+        "quote": "The Tyranny of Peak Experience: always banging things against the best of their kind can degrade today's experience by creating sparks of disappointment." 
+    },{
+        "quote": "To reduce the degree to which you are influenced by the contrast effect, you have to first identify it at work and then break the connection between what you’re trying to evaluate and the comparisons against it. For example, if you’re trying to evaluate the price of a product, you want to separate it from the comparison products and judge it on its own selling points.",
+        "attribution": "Melissa Hughes"
+    },{
+        "quote": "So, the next time you feel like something is unusually great (or terrible), pause for a moment. Ask yourself: Am I seeing this objectively, or is it just the contrast effect at play? Awareness is the first step to making better, more rational decisions.",
+        "attribution": "Vipin Patel"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["aversion to suboptimal"],
+            "predominantType": "impulse",
+            "levels": {
+              "4,3,2": {
+                "experiences": ["aversion to suboptimal"]
+              },
+              "1": {
+                "experiences": ["dissatisfaction"]
+              }
+            }
+        }]
+    }]
+}

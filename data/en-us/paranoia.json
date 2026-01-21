@@ -7,7 +7,7 @@
   "quote": "I'm afraid a poisonous spider will bite me at night.",
   "description": "A prediction not supported by evidence that a significant problem is likely to happen, causing stress and a desire to avoid the problem.",
   "perceptions": ["I'm in danger.","There's no evidence, but I'm sure of it."],
-  "desires": ["desire for safety","desire for control"],
+  "desires": ["desire for safety","desire for agency"],
   "sensations": ["fear"],
   "guidance": [{
       "description": "If you're experiencing paranoid thoughts, there are things you can do to help yourself cope. You may choose to try them on their own, or alongside treatment.",
@@ -21,7 +21,7 @@
       "name": "debilitating paranoia",
       "description": "Your life experience is significantly degraded by avoiding common activities due to fear of trouble not based on credible evidence.",
       "perceptions": ["I'm in danger.","There's no evidence, but I'm sure of it.","I need to be more careful than others."],
-      "desires": ["desire for safety","desire for control"],
+      "desires": ["desire for safety","desire for agency"],
       "sensations": ["fear"],
       "guidance": [{
           "description": "You should consider professional attention.",

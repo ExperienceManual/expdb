@@ -1,7 +1,7 @@
 {
     "lang": "en/us",
     "createDate": "20250806",
-    "updateDate": "20250806",
+    "updateDate": "20260109",
     "name": "unstructured",
     "valence": 0,
     "quote": "Making good progress on the to-do list.",
@@ -15,6 +15,20 @@
     "guidance": [{
         "description": "See guidance for 'conscientiousness'.",
         "references": ["conscientiousness"]
+    }],
+    "variations": [{
+        "name": "messiness", 
+        "tags": ["pattern"],
+        "description": "A pattern of keeping your mind, body, or environment poorly-ordered.",
+        "perceptions": ["Keeping things clean and neat is not worthwhile because they'll just get messy again soon enough."],
+        "desires": ["desire for efficiency","desire for comfort"],
+        "results": ["Relatively disordered environment and/or personal appearance."],
+        "opposites": ["cleanliness"],
+        "related": ["effortless"],
+        "guidance": [{
+            "description": "There are many sources that suggest a messy environment could indicate a mental health problem. This may be true, or it might not be. Here are some references that may be of interest.",
+            "references": ["https://lightfully.com/is-there-really-a-link-between-being-messy-and-depression","https://www.spiegeloog.amsterdam/athena-is-a-cluttered-desk-really-a-sign-of-a-cluttered-mind/","https://kathleenconklin.substack.com/p/january-1-2025-the-issue-of-messiness"]
+        }]
     }],
     "commentaries": [{
         "quote": "The integral being is attached to nothing and can relate to everyone with an unstructured attitude. Because of this, her very existence benefits all things.",
@@ -31,18 +45,21 @@
     },{
         "quote": "Being late is a way of saying that your own time is more valuable than the time of the person who waited for you.",
         "attribution": "Karen Joy Fowler"
+    },{
+        "quote": "Messiness ought to be celebrated. Instead, it’s a problem to solve, a bad habit to rectify, something to apologize for profusely when a visitor walks in. At best, you might forgive yourself or joke about your defect — your character flaw, really, since our culture associates messiness with laziness.",
+        "attribution": "KC Davis"
     }],
     "models": [{
         "version": "em1",
         "variations": [{
-            "names": ["unstructured"],
+            "names": ["unstructured","messiness"],
             "predominantType": "pattern",
             "levels": {
               "4,3,2": {
                 "experiences": ["unstructured"]
               },
               "1": {
-                "experiences": ["irresponsibility"]
+                "experiences": ["effortless"]
               }
             }
         }]

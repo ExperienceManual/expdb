@@ -38,6 +38,27 @@
       "links": ["love"],
       "description": "'Love' is defined by EM as a persistent desire to experience something over and over."
   }],
+  "variations": [{
+      "name": "desire for a particular outcome",
+      "description": "The sensation of wanting a particular thing to happen while being aware it might not happen.",
+      "desires": ["many"],
+      "sensations": ["hope", "anxiety", "anticipation"],
+      "examples": ["Playing roulette.","Wanting your kid to win the race."],
+      "opposites": ["aversion for a particular outcome"]
+  },{
+      "name": "desire to solve a problem",
+      "description": "Wanting to be involved in resolving a perceived problem.",
+      "desires": ["desire for agency","desire for a particular outcome","desire for comfort","desire for social status"],
+      "sensations": ["hope", "anxiety", "challenge"],
+      "examples": ["Wanting to finish your homework.","Needing to reschedule an appointment."],
+      "comparisons": [{
+          "links": ["desire for a particular outcome"],
+          "description": "Solving a problem has direct involvement, while just hoping for a particular outcome is more passive."
+      },{
+          "links": ["desire to improve your environment","desire to improve the self"],
+          "description": "Often improving yourself or the environment involves solving problems, but problems are more general -- they may just be challenges that don't actually improve anything."
+      }]
+  }],
   "commentaries": [{
       "quote": "Desires are preferences for what flows into your experience. Where possible, you may try to influence how the situation unfolds to have a better chance at obtaining the experience.",
       "tags": ["definition footnote"]

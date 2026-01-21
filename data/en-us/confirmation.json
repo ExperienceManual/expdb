@@ -25,7 +25,7 @@
       "name": "confirmation bias",
       "description": "The brain's tendency to favor perceptions that support existing expectations while ignoring perceptions that conflict with expectations.",
       "perceptions": ["The nature of biases is that you will only perceive them after being confronted with something direct."],
-      "desires": ["desire for order","desire for control"],
+      "desires": ["desire for order","desire for agency"],
       "results": ["If your expectations are shown to be wrong, then you're not going to have the level of control and agency desired. So your brain may hide some prediction errors."],
       "tags": ["cognitive bias"],
       "related": ["certainty"],

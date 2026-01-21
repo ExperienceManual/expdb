@@ -1,7 +1,7 @@
 {
     "lang": "en/us",
     "createDate": "20250719",
-    "updateDate": "20250902",
+    "updateDate": "20260106",
     "name": "unfairness",
     "valence": -1,
     "quote": "I never win!",
@@ -32,6 +32,20 @@
         },{
             "description": "If the false accusation is a relationship issue, you may consider these references.",
             "references": ["https://www.wikihow.com/Respond-to-False-Accusations","https://www.psychologytoday.com/us/blog/intimacy-a-path-toward-spirituality/201912/responding-to-false-accusations-in-intimate"]
+        }]
+    },{
+        "name": "bias",
+        "tags": ["social label"],
+        "description": "A perception that someone is unconsciously favoring someone or something by not applying rules consistently.",
+        "perceptions": ["Someone or something seems to have been given a special treatment or exception.","The person or group who is giving the special treatment may not even know they're doing it."],
+        "desires": ["desire for justice","desire for order"],
+        "sensations": ["annoyance","dismay","someone else cheating","anxiety","anger"],
+        "related": ["distrust","cynicism","woke"],
+        "opposites": ["justice"],
+        "examples": ["Paying less attention to resumes with weird-sounding names.","Someone chooses their friend for the team instead of someone more qualified."],
+        "guidance": [{
+            "description": "Sadly, the human brain is not a perfect lense for information. If you're interested in knowing how you are probably bending perceptions, here are some references.",
+            "references": ["https://thedecisionlab.com/biases","https://www.scribbr.com/research-bias/cognitive-bias","https://oxford-management.com/articles/a-guide-to-understanding-and-addressing-unconscious-bias","https://www.imd.org/blog/management/gender-bias"]
         }]
     },{
         "name": "injustice",

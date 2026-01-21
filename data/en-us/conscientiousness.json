@@ -1,14 +1,14 @@
 {
     "lang": "en/us",
     "createDate": "20250805",
-    "updateDate": "20250805",
+    "updateDate": "20260109",
     "name": "conscientiousness",
     "valence": 0,
     "quote": "Making good progress on the to-do list.",
     "description": "A pattern of being organized, disciplined, goal-directed, timely, and rule-abiding.",
     "tags": ["big5-high","pattern"],
     "perceptions": ["There's a lot to do.","Getting them all done will require prioritization and effort."],
-    "desires": ["desire for order","desire for optimal","desire to improve"],
+    "desires": ["desire for order","desire for excellence","desire to improve"],
     "sensations": ["responsibility","self control","ambition","prioritization"],
     "opposites": ["unstructured"],
     "examples": ["A good project manager.","Always on time to events."],
@@ -23,28 +23,19 @@
         "references": ["burnout"]
     }],
     "variations": [{
-        "name": "",
-        "alternateNames": [""],
-        "description": "",
-        "timescale": ["unknown"],
-        "rarity": ["unknown"],
-        "frequency": ["unknown"],
-        "perceptions": [""],
-        "desires": [""],
+        "name": "cleanliness",
+        "tags": ["pattern","virtue"],
+        "description": "A pattern of keeping your mind, body, or environment well-ordered.",
+        "perceptions": ["I feel better when things are in order and clean."],
+        "desires": ["desire for order","desire for purity"],
         "sensations": [""],
-        "results": [""],
-        "personOfInterestExperiences": [""],
-        "examples": [],
-        "opposites": [],
-        "related": [],
-        "comparisons": [{
-            "links": [],
-            "description": ""
-        }],
+        "results": ["Relatively neat environment and/or personal appearance."],
+        "examples": ["Keeping a tidy house.","Prioritizing personal hygiene."],
+        "opposites": ["messiness"],
+        "related": ["disgust"],
         "guidance": [{
-            "description": "",
-            "attribution": "",
-            "references": [""]
+            "description": "Here are some references that may be of interest.",
+            "references": ["https://www.wikihow.com/Be-Clean","https://www.goodhousekeeping.com/home/organizing/a25846191/what-is-the-konmari-method"]
         }]
     }],
     "commentaries": [{
@@ -62,11 +53,20 @@
     },{
         "quote": "Modesty and conscientiousness receive their reward only in novels. In life they are exploited and then shoved aside.",
         "attribution": "Erich Maria Remarque"
+    },{
+        "quote": "Cleanliness is next to Godliness.",
+        "attribution": "Benjamin Franklin"
+    },{
+        "quote": "Decluttering our soul is every bit as important as decluttering our home.",
+        "attribution": "Sally Clarkson"
+    },{
+        "quote": "Keep only those things that speak to your heart. Then take the plunge and discard all the rest. By doing this, you can reset your life and embark on a new lifestyle.",
+        "attribution": "Marie Kondo"
     }],
     "models": [{
         "version": "em1",
         "variations": [{
-            "names": ["conscientiousness"],
+            "names": ["conscientiousness","cleanliness"],
             "predominantType": "pattern",
             "levels": {
               "4,3,2": {

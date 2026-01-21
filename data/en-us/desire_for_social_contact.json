@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250120",
-  "updateDate": "20250626",
+  "updateDate": "20260114",
   "name": "desire for social contact",
   "valence": 0,
   "quote": "I need a friendly ear.",
@@ -38,6 +38,17 @@
           "attribution": "Victoria Heuer",
           "references": ["https://www.petmd.com/dog/care/evr_multi_10_things_consider_before_pet_adoption"]
       }]
+  },{
+      "name": "desire for trade",
+      "description": "Wanting to exchange items or information of value with another person or group.",
+      "perceptions": ["Someone else has something that I'd like to have.","I have something they might like.","Attacking them to get it won't help or is a bad idea."],
+      "desires": ["desire for social influence","desire for social status"],
+      "guidance": [{
+          "description": "Negotiation is a fundamental skill that plays a crucial role in both personal and professional life. Whether you’re negotiating a job offer, securing a contract, or resolving conflicts, strong negotiation skills can help you reach a beneficial agreement.",
+          "attribution": "Carrie Re, MBA",
+          "references": ["https://www.betterup.com/blog/how-to-negotiate"]
+      }],
+      "examples": ["Purchasing something.","Exchanging information."]
   }],
   "comparisons": [{
     "links": ["loneliness"],

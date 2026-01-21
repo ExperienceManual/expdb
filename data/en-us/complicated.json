@@ -1,0 +1,78 @@
+{
+    "lang": "en/us",
+    "createDate": "20260107",
+    "updateDate": "20260107",
+    "name": "complicated",
+    "valence": 0,
+    "quote": "Do you want the short answer or the long one?",
+    "description": "A perception that understanding or resolving a situation will involve many careful and possibly difficult steps.",
+    "perceptions": ["There's a lot to know about this topic.","There are many things that are related to each other in various ways."],
+    "desires": ["desire for knowledge","desire to improve"],
+    "sensations": ["challenge","anxiety"],
+    "results": ["You may be challenged by learning something complicated, which may become a source of pride or frustration depending on the outcome."],
+    "related": ["expertise"],
+    "opposites": ["effortless"],
+    "examples": ["Working out a family disagreement.","Becoming a doctor."],
+    "guidance": [{
+        "description": "See the guidance for 'challenge'.",
+        "references": ["challenge"]
+    }],
+    "variations": [{
+        "name": "technical",
+        "description": "The tense that a topic is complicated but involves only machines or math rather than people.",
+        "perceptions": ["There's a lot to know about this topic.","There are many things that are related to each other in various ways.","At least people and their slippery behavior aren't part of the challenge."],
+        "desires": ["desire for knowledge","desire to improve"],
+        "sensations": ["challenge","anxiety"],
+        "results": ["You may be challenged by learning something complicated, which may become a source of pride or frustration depending on the outcome."],
+        "related": ["expertise"],
+        "opposites": ["effortless"],
+        "examples": ["Building a house.","Programming a computer."],
+        "comparisons": [{
+            "links": ["complicated"],
+            "description": "'Technical' is a specific type of 'complicated' where people problems aren't the focus."
+        }],
+        "guidance": [{
+            "description": "The specifics of resolving technical problems varies across fields, but there are some general outlooks held by engineers and technicians.",
+            "references": ["https://www.linkedin.com/advice/3/how-do-you-manage-complex-technical-issues-skills-customer-service","https://www.versytalks.com/blog/best-problem-solving-frameworks-to-solve-complex-problems"]
+        }]
+    }],
+    "commentaries": [{
+        "quote": "All you really need to know for the moment is that the universe is a lot more complicated than you might think, even if you start from a position of thinking it's pretty damn complicated in the first place.",
+        "attribution": "Douglas Adams"
+    },{
+        "quote": "Some things in life are too complicated to explain in any language.",
+        "attribution": "Haruki Murakami"
+    },{
+        "quote": "I’ve yet to see any problem, however complicated, which when you looked at it the right way didn’t become still more complicated.",
+        "attribution": "Poul Anderson"
+    },{
+        "quote": "Can we go back to the way things were, before life got so complicated with the wheel and then the three other wheels?",
+        "attribution": "Jarod Kintz"
+    },{
+        "quote": "You will only be remembered for two things: the problems you solve or the ones you create.",
+        "attribution": "Mike Murdock"
+    },{
+        "quote": "The problem is not the problem, it’s your attitude about the problem.",
+        "attribution": "Ann Brashares"
+    }],
+    "spectrum": {
+        "intricate": 4,
+        "complicated": 5,
+        "byzantine": 6
+    },
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["complicated","technical"],
+            "predominantType": "sensation",
+            "levels": {
+              "4,3": {
+                "experiences": ["complicated"]
+              },
+              "2,1": {
+                "experiences": ["challenge"]
+              }
+            }
+        }]
+    }]
+}

@@ -8,7 +8,7 @@
   "quote": "They've screwed up my order too often.",
   "description": "A solid sense that someone or something has a low likelihood of conforming to a particular prediction.",
   "perceptions": ["This person, group, idea, or tool is supposed behave in a certain way.","My sense is that the odds of this outcome are so low that I'm not willing to base my actions on it."],
-  "desires": ["desire for agency","desire for control"],
+  "desires": ["desire for agency"],
   "sensations": ["dissatisfaction","doubt"],
   "results": ["The predicted outcome may occur or it might not. Either way, future prediction patterns may change."],
   "guidance": [{
@@ -26,7 +26,7 @@
       "name": "suspicion",
       "description": "An uncertain sense that someone or something has a chance of surprising you in some way, often negative.",
       "perceptions": ["This person, group, idea, or tool is socially expected to behave in a certain way.","There's something weird about what's actually happening."],
-      "desires": ["desire for agency","desire for control"],
+      "desires": ["desire for agency"],
       "sensations": ["dissatisfaction","doubt","anxiety"],
       "results": ["A suspicion may lead to anxiety about a negative outcome, or less often it may hint about something positive."],
       "guidance": [{

@@ -1,66 +1,90 @@
 {
   "lang": "en/us",
   "createDate": "20250220",
-  "updateDate": "20250520",
+  "updateDate": "20260120",
   "name": "desire for order",
+  "alternateNames": ["desire for structural order"],
   "valence": 0,
   "quote": "A place for everything, everything in its place.",
-  "description": "Wanting things to be predictable and positive within a particular range.",
-  "perceptions": ["There's a way things should be.","It's easier to predict and influence things if they are in their place."],
+  "description": "Wanting the relationship between things to follow a pattern that allows you to understand how to interact with them.",
+  "perceptions": ["There's a way things should be.","If things are following this pattern, it's easier to predict and influence them."],
   "desires": ["desire for comfort","desire for agency"],
   "guidance": [{
       "description": "If a desire for order is negatively affecting your life and relationships, you might have a form of OCD.",
       "references": ["https://my.clevelandclinic.org/health/diseases/24526-obsessive-compulsive-personality-disorder-ocpd"]
   }],
-  "related": [ "desire for comfort", "desire for control", "dissatisfaction", "anxiety" ],
+  "related": [ "dissatisfaction", "anxiety" ],
   "opposites": ["desire for change"],
   "variations": [{
       "name": "desire for social order",
-      "description": "Wanting people to behave as expected. If they don't behave as you feel would be appropriate, you may feel contempt, anger, anxiety, or fear.",
+      "description": "Wanting people to behave within expected guidelines.",
       "perceptions": ["It's better if people follow the rules."],
       "desires": ["desire for safety", "desire for social influence"],
-      "sensations": ["contempt", "anger", "anxiety","fear"],
-      "results": ["Want to find a way to get that person to behave as expected."],
+      "sensations": ["surprise","satisfaction","dismay","contempt", "anger", "anxiety"],
+      "results": ["If people don't behave within particular guidelines, you're likely to perceive the results in a negative way.","Want to find a way to get that person to behave as expected."],
       "guidance": [{
           "description": "On a near-daily basis, we’re faced with situations that we know are wrong, but saying something might make us or others feel uncomfortable.",
           "attribution": "Amen Clinics",
           "references": ["https://www.amenclinics.com/blog/10-tips-for-confronting-someone-whos-in-the-wrong/"]
       }],
-      "related": ["desire for safety", "desire for social influence"],
-      "examples": ["social norms", "law enforcement"]
+      "examples": ["Social norms.", "Law enforcement."]
     },{
-      "name": "desire for purity",
-      "description": "Many people prioritize some aspect of their life as being extremely important to protect and optimize. Anything short of pure perfection in this area can cause anxiety. It varies from person to person, but commonly includes health, reputation, spirituality, knowledge, safety, sexuality, and other aspects.",
-      "perceptions": ["It's critical to maintain a certain aspect of life."],
-      "related": ["abstinence","desire for control"],
-      "examples": ["culture of honor","preferring organic food","regular religious attendance"]
-    },{
-      "name": "desire for clear perception",
-      "alternateNames": ["desire for simplicity","desire for certainty"],
-      "description": "A desire to perceive key parts of the world clearly towards making better decisions. You may get frustrated by things that hinder clarity such as complexity, errors, and misinformation.",
-      "perceptions": ["Having an accurate understanding of things is important."],
-      "desires": ["desire for knowledge"],
-      "sensations": ["curiosity"],
-      "results": ["wanting things to be simple","desire to remove things that inhibit accurate perception"],
-      "guidance": [{
-          "description": "There are many guides to help identify misinformation.",
-          "references": ["https://www.unicef.org/eca/stories/quick-guide-spotting-misinformation","https://www.apa.org/topics/journalism-facts/misinformation-recommendations","https://www.coe.int/en/web/campaign-free-to-speak-safe-to-learn/dealing-with-propaganda-misinformation-and-fake-news"]
-      },{
-          "description": "Ten Tips For Dealing With Complex Predicaments",
-          "attribution": "Dave Pollard",
-          "references": ["https://howtosavetheworld.ca/2020/10/09/ten-tips-for-dealing-with-complex-predicaments/"]
+      "name": "desire for predictability",
+      "alternateNames": ["desire for functional order"],
+      "description": "Wanting to have and confirm a repeatable internal model of something or someone.",
+      "perceptions": ["I know how to handle someone or something that reacts the same way in a given situation."],
+      "desires": ["desire for agency", "desire for social influence"],
+      "sensations": ["satisfaction", "confusion", "anxiety","frustration"],
+      "results": ["If something or someone is not acting in a predictable way, it may result in confusion or frustration."],
+      "comparisons": [{
+          "links": ["desire for order"],
+          "description": "Being predictable doesn't mean it's simple, well-ordered, or positive. But it's better to have a complicated memorized system than none at all. For example, I might know where every book on my shelf is from memory. For me it's predictable and easy to find a given book. My brain considers this 'functional order'. But if there's no system discernable to others, they would not consider my books structurally ordered."
       }],
-      "examples": ["Wanting things to make sense."]
+      "related": ["desire for knowledge"],
+      "examples": ["The Scientific Method.", "Preference for forumlaic music or fiction.","Preference for chain restaurants where you know what you're getting."]
     },{
-      "name": "desire for better environment",
-      "description": "Wanting to live in an environment that matches important ideals relating to health, nature, or social conditions.",
-      "perceptions": ["I'm safer and more comfortable in an environment with certain characteristics."],
-      "desires": ["desire for health","desire for safety"],
-      "examples": [ "Wanting to stay away from liars who pollute your ability to perceive clearly.", "Wanting to live in a clean place with safe water.", "Wanting to stay away from people who are perceived to be a bad influence." ]
+      "name": "desire for simplicity",
+      "description": "Wanting the relationship between things to follow a basic pattern that allows you to easily understand how to interact with them.",
+      "perceptions": ["The relationships here are simple.","I can easily understand how to interact with these things."],
+      "desires": ["desire for agency"],
+      "sensations": ["satisfaction", "confusion", "anxiety","frustration"],
+      "results": ["If something or someone is not acting in a simple easy-to-understand way, it may result in confusion or frustration."],
+      "comparisons": [{
+          "links": ["desire for order"],
+          "description": "Being 'ordered' does not mean it's simple. For instance, the Periodic Table of Elements is ordered but takes some work to understand. If you don't see the order in something, you may wish it were simpler."
+      }],
+      "related": ["desire for knowledge"],
+      "guidance": [{
+          "description": "We live in a complicated world. These articles describe the benefits of simplifying your environment.",
+          "references": ["https://balancethroughsimplicity.com/psychology-of-simplicity","https://www.linkedin.com/pulse/innate-desire-simplicity-guide-writers-cheryl-stephens-ojqoc"]
+      },{
+          "description": "We have a tendency to want to over-simplify things as a form of wishful thinking. These articles suggest there are downsides to coddling your brain that you should be aware of.",
+          "references": ["https://www.forbes.com/sites/chrismyers/2016/08/05/why-oversimplification-is-bad-for-entrepreneurs-consumers-and-society-as-a-whole/","https://helpfulprofessor.com/oversimplification-examples/"]
+      }],
+      "examples": ["Decluttering your house.","Cutting unnecessary things out of your schedule.","Wishing STEM subjects were easier."]
+    },{
+      "name": "desire for clean living",
+      "description": "Wanting for a critical characteristic of an environment that affects your physical, social, or existential health to meet a very strict standard.",
+      "perceptions": ["It's critical that my environment adhere to a certain rule.","If this pattern is broken, disgusting things may happen."],
+      "desires": ["desire for comfort","desire for safety","desire to be perceived a certain way"],
+      "sensations": ["anxiety"],
+      "comparisons": [{
+          "links": ["desire for order"],
+          "description": "Being 'ordered' does not mean something is 'clean' pr 'pure'. For example, things in your home may be well-ordered but dusty."
+      }],
+      "related": ["disgust"],
+      "guidance": [{
+          "description": "Many people are worried about poisoning themselves with bad food, misinformation, or toxic chemicals.",
+          "references": ["https://worklife.ua.edu/blog/7-habits-for-clean-living","https://www.luxurytravelmagazine.com/news-articles/why-more-people-are-turning-to-cleaner-lifestyle-choices"]
+      },{
+          "description": "If you feel that anxiety about purity has become too much, you may consider researching whether this an unhealthy obsession.",
+          "references": ["https://www.bbc.com/future/article/20151118-can-you-be-too-clean","https://www.treatmyocd.com/blog/is-ocd-just-about-cleaning"]
+      }],
+      "examples": ["Focusing on healthy foods","Regularly cleaning the house.","Taking care of your body."]
   }],
   "comparisons": [{
       "links": ["desire for knowledge","desire for agency"],
-      "description": "We want to understand each environment so that we can predict what might happen in various scenarios and influence the outcome. So the desire for agency drives a desire for order, which drives us to put energy into gaining knowledge about the environment."
+      "description": "We want to understand how each environment is ordered so that we can predict what might happen in various scenarios and influence the outcome. In short, the desire for agency drives a desire for order, which drives us to put energy into gaining knowledge about the environment and perhaps trying to improve it."
   }],
   "commentaries": [{
       "quote": "Many of us have ideals that we work hard to live up to. Sometimes we can become obsessive about aligning with an ideal as a way of hoping to control negative things in our lives."
@@ -88,7 +112,7 @@
     {
       "version": "em1",
       "variations": [{
-          "names": ["desire for order"],
+          "names": ["desire for order","desire for predictability"],
           "predominantType": "impulse",
           "levels": {
             "4,3": {
@@ -110,7 +134,7 @@
             }
           }
       },{
-          "names": ["desire for clear perception"],
+          "names": ["desire for simplicity"],
           "predominantType": "impulse",
           "levels": {
             "4,3": {
@@ -121,11 +145,11 @@
             }
           }
       },{
-          "names": ["desire for pure body","desire for pure environment"],
+          "names": ["desire for clean living"],
           "predominantType": "impulse",
           "levels": {
             "4,3": {
-              "experiences": ["desire for order","desire for health"]
+              "experiences": ["desire for clean living"]
             },
             "2,1": {
               "experiences": ["desire for comfort","desire for safety"]

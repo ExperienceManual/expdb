@@ -1,11 +1,12 @@
 {
   "lang": "en/us",
   "createDate": "20241130",
-  "updateDate": "20250508",
+  "updateDate": "20260107",
   "name": "abstinence",
   "valence": 0,
   "quote": "Thanks, I don't drink.",
   "description": "Long term goal of avoiding something that may have brought pleasure or relief. Each instance of abstinence may be easy or a very difficult act of willpower.",
+  "perceptions": ["I should not experience something.","It's not healthy for my body or my spirit."],
   "desires": [ "desire to improve", "desire for social status" ],
   "related": [ "temptation", "sacrifice", "self control", "willpower" ],
   "opposites": [ "indulgence", "consuming" ],
@@ -20,25 +21,84 @@
   "variations": [{
       "name": "hesitant abstinence",
       "description": "A dissonant desire to avoid something while also partly wanting to indulge.",
-      "perceptions": [ "Something appealing tempts you away from the goal of abstinence.", "Social pressure from an important person or group tempts you away from the goal of abstinence.", "The goal isn't really that important.", "The downside of abstaining is significant." ],
+      "perceptions": [ "Someone or something is tempting me away from the goal of avoiding something.", "But avoiding the thing is very important to me.", "The downside of abstaining is significant." ],
       "desires": [ "desire for comfort", "desire for social status", "desire to improve" ],
-      "sensations": [ "dissonance" ],
-      "results": [ "satisfaction","regret" ]
+      "sensations": [ "dissonance","satisfaction","regret" ]
     },{
       "name": "satisfied abstinence",
       "description": "Successfully living up to an avoidance goal may bring satisfaction for living up to your own expectations.",
-      "perceptions": [ "Something really appealing tempts you away from the goal of abstinence.", "Social pressure from an important person or group tempts you away from the goal of abstinence.", "The goal is very important.", "There's no downside to abstaining." ],
+      "perceptions": [ "Someone or something is tempting me away from the goal of avoiding something.", "But avoiding the thing is very important to me.", "There's no downside to abstaining." ],
       "desires": [ "desire for comfort", "desire for social status", "desire to improve" ],
-      "sensations": [ "resolve" ],
-      "results": [ "satisfaction" ]
-    }
-  ],
+      "sensations": ["resolve","satisfaction"]
+    },{
+      "name": "frugality",
+      "tags": ["pattern"],
+      "description": "Avoiding unnecessary material luxuries.",
+      "perceptions": ["I'm happy with the things I have.","I don't need a new thing."],
+      "sensations": ["satisfaction"],
+      "results": ["Saving money."],
+      "guidance": [{
+          "description": "Tips on being frugal.",
+          "references": ["https://www.experian.com/blogs/ask-experian/frugal-habits-to-save-money","https://www.synchrony.com/blog/bank/12-frugal-living-tips"]
+      }]
+    },{
+      "name": "silence",
+      "tags": ["pattern","virtue"],
+      "description": "Avoiding unnecessary small talk and bragging.",
+      "perceptions": ["I'm confident in myself.","I don't need to engage in meaningless social contact.","I'll reserve my communication for meaningful things."],
+      "sensations": ["satisfaction"],
+      "results": ["You may gain a reputation as a serious person or as distant."],
+      "guidance": [{
+          "description": "Tips on focusing your conversations on things that matter.",
+          "references": ["https://clarityonfire.com/avoid-small-talk","https://booherresearch.com/skip-small-talk-get-know-someone"]
+      }] 
+    },{
+      "name": "chastity",
+      "tags": ["pattern","virtue"],
+      "description": "Avoiding unnecessary sexual contact.",
+      "perceptions": ["I'm saving myself for the right person and right time."],
+      "sensations": ["satisfaction"],
+      "results": ["You may gain a reputation as a wholesome person or a prude."],
+      "guidance": [{
+          "description": "Tips on maintaining chastity.",
+          "references": ["https://chastity.com/2015/08/10-tips-to-stay-chaste","https://www.aberdeennews.com/story/lifestyle/2014/06/30/10-tips-for-staying-chaste/44961909/"]
+      }]
+    },{
+      "name": "temperance",
+      "alternateNames": ["moderation"],
+      "tags": ["pattern","virtue"],
+      "description": "Avoiding unnecessary pleasures.",
+      "perceptions": ["I believe that indulging in pleasures is unhealthy in the long run.","I prefer to moderate my participation in certain pleasurable activities."],
+      "sensations": ["satisfaction"],
+      "results": ["You may gain a reputation as a wholesome person or a prude."],
+      "related": ["chastity","frugality"],
+      "guidance": [{
+          "description": "Tips on cultivating temperance.",
+          "references": ["https://www.thepositivepsychologypeople.com/developing-temperance","https://mindfulstoic.net/applying-temperance","https://www.fisheaters.com/becomingvirtuous-temperance.html"]
+      }]
+  }],
+  "comparisons": [{
+      "links": ["frugality","chastity","silence","temperance"],
+      "description": "'Frugality', 'chastity', 'silence', and 'temperance' are specific forms of abstinence."
+  }],
   "commentaries": [{
       "quote": "Complete abstinence is easier than perfect moderation.",
       "attribution": "St. Augustine"
   },{
       "quote": "I pass the test. I will diminish, and go into the West, and remain Galadriel.",
       "attribution": "J.R.R. Tolkien in Fellowship of the Ring"
+  },{
+      "quote": "Never go to excess, but let moderation be your guide.",
+      "attribution": "Marcus Tullius Cicero"
+  },{
+      "quote": "Too many people spend money they haven't earned to buy things they don't want to impress people they don't like.",
+      "attribution": "Will Rogers"
+  },{
+      "quote": "Chastity is the cement of civilization and progress.",
+      "attribution": "Mother Theresa"
+  },{
+      "quote": "Silence is a source of great strength.",
+      "attribution": "Lao Tzu"
   }],
   "models": [
     {
@@ -55,7 +115,7 @@
             }
           }
       },{
-          "names": [ "abstinence", "satisfied abstinence" ],
+          "names": [ "abstinence", "satisfied abstinence", "frugality","chastity","silence","temperance" ],
           "predominantType": "impulse",
           "levels": {
             "4,3": {

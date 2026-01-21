@@ -1,14 +1,13 @@
 {
   "lang": "en/us",
   "createDate": "20250202",
-  "updateDate": "20250719",
+  "updateDate": "20260114",
   "name": "desire to improve",
-  "alternateNames": ["desire for a particular outcome"],
   "valence": 0,
   "quote": "Practice makes perfect.",
   "description": "Wanting to make yourself or the situation better in a particular way.",
   "perceptions": ["Something is not ideal.","I could make it better."],
-  "related": [ "desire for comfort", "desire for social status", "desire for stimulation" , "discomfort"],
+  "related": [ "desire for comfort", "desire for social status", "desire for stimulation" , "discomfort","ambition","desire for optimal"],
   "opposites": ["laziness"],
   "comparisons": [{
       "links": ["desire for knowledge"],
@@ -20,25 +19,25 @@
   }],
   "variations": [{
       "name": "desire to improve your environment",
-      "alternateNames": ["desire to solve a problem"],
-      "description": "Dissatisfaction with some aspect of your environment that prompts you to want to make a change.",
+      "description": "Dissatisfaction with some aspect of your physical, social, or existential environment that prompts you to want to make a change.",
       "perceptions": ["Some part of my environment is not ideal.","I could make it better."],
+      "desires": ["desire for comfort","desire for health","desire for safety","desire to solve a problem"],
       "sensations": ["dissatisfaction"],
-      "results": ["try to find a way to improve the environment"],
-      "examples": ["fix the dishwasher","weed the garden","apologize to your sibling"]
+      "results": ["Try to find a way to improve the environment"],
+      "examples": ["Calling someone to fix the dishwasher.","Weeding the garden","Apologizing to your sibling","Wanting to live in a clean place with safe water.", "Wanting to stay away from people who are perceived to be a bad influence."]
   },{
       "name": "desire to improve the self",
       "description": "Engaging in physical exercise, study, or meditation toward improving your physical or mental health.",
       "perceptions": ["My body or mind could be better."],
       "sensations": ["dissatisfaction"],
-      "examples": ["lose weight","heal the carpal tunnel","stress management","better mental health"]
+      "examples": ["Get a gym membership.","Take a meditation class."]
   },{
       "name": "desire to improve skills",
       "description": "Spending time in practice toward improving skills.",
       "perceptions": ["It would be good for me to be more skilled in this area."],
       "sensations": ["dissatisfaction"],
-      "desires": ["desire for stimulation","desire for social status"],
-      "examples": ["learning an instrument","training for a marathon"]
+      "desires": ["desire for agency","desire for social status","desire for knowledge"],
+      "examples": ["Learning an instrument.","Training for a marathon.","Learn stress management skills."]
   },{
       "name": "desire to improve existential self",
       "description": "Engaging in physical exercise, study, meditation, or moral behavior with the goal of narrowing a perceived gap between your actual and ideal self.",
@@ -46,17 +45,6 @@
       "sensations": ["dissatisfaction"],
       "desires": ["desire for meaning"],
       "examples": ["going to religious services", "praying", "meditating", "random acts of kindness"]
-  },{
-      "name": "desire for trade",
-      "description": "Wanting to exchange value with another person or group.",
-      "perceptions": ["Someone else has something that I'd like to have.","I have something they might like.","Attacking them won't help or is a bad idea."],
-      "desires": ["desire for social influence","desire for social status"],
-      "guidance": [{
-          "description": "Negotiation is a fundamental skill that plays a crucial role in both personal and professional life. Whether you’re negotiating a job offer, securing a contract, or resolving conflicts, strong negotiation skills can help you reach a beneficial agreement.",
-          "attribution": "Carrie Re, MBA",
-          "references": ["https://www.betterup.com/blog/how-to-negotiate"]
-      }],
-      "examples": ["purchasing something","exchanging information"]
   }],
   "commentaries": [{
       "quote": "Optimizing things to be 'better' is the absolute core of being a 'civilized' human trying to live in a ridiculously complicated world. All that effort is why we get so upset when things get 'worse'. But either we do this, we regress to the jungle, or we join a mountaintop monastery."
