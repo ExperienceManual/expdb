@@ -53,27 +53,6 @@
             "attribution": "Menno van der Land",
             "references": ["https://medium.com/@mennovanderland/individuality-conformity-and-our-need-for-social-acceptance-954d70c6b4b3"]
         }]
-    },{
-        "name": "desire to be provocative",
-        "description": "A desire to draw attention to yourself or align yourself with a group by adopting an unusual appearance or behavior that's neither traditionally admirable nor terrible.",
-        "perceptions": ["Being normal is boring.","I'm better off signaling that I'm not a normal boring person."],
-        "desires": ["desire for agency","desire for stimulation","desire for social status","desire to make your mark","desire to impact negatively"],
-        "sensations": ["disrespect","excitement","dissonance"],
-        "related": ["weird"],
-        "examples": ["Odd piercings","Wearing a dress made of meat.","Controversial artistic expression."],
-        "opposites": ["desire to conform"],
-        "comparisons": [{
-            "links": ["desire to differentiate"],
-            "description": "Being provocative is deliberately behaving in an anti-social way as a way of drawing attention or social signaling. Differentiating yourself in a small-but-still-acceptable way is not anti-social."
-        },{
-            "links": ["desire to impact negatively"],
-            "description": "Being provocative is one way to impact someone negatively. Probably the nicest way."
-        }],
-        "guidance": [{
-            "description": "Provoking others is often a sign of unmet emotional needs. While the behavior may be unpleasant, it is often driven by their own insecurities, needs, or emotional struggles. These are worthy of compassion…and careful navigation.",
-            "attribution": "Sherri Fisher",
-            "references": ["https://www.learnandflourish.com/provocative-people-7-ways-to-understand-their-motivation"]
-        }]
     }],
     "comparisons": [{
         "links": ["desire for social status"],
@@ -97,8 +76,6 @@
     },{
         "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
         "attribution": "Ralph Waldo Emerson"
-    },{
-        "quote": "Don't kid yourself that provocative behavior is always 'resisting social pressure'. Most of the time, it's just a different interpretation for how to position your identity against the social background. Few people would do stupid, expensive, painful, inconvenient things were it not driven as a reaction to social pressure."
     }],
     "models": [{
         "version": "em1",
@@ -128,17 +105,6 @@
               },
               "1": {
                 "experiences": ["desire for agency"]
-              }
-            }
-        },{
-            "names": ["desire to be provocative"],
-            "predominantType": "impulse",
-            "levels": {
-              "4,3": {
-                "experiences": ["desire to be provocative","disrepect"]
-              },
-              "2,1": {
-                "experiences": ["desire for agency","dissonance","excitement"]
               }
             }
         }]

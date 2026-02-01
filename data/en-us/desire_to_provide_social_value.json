@@ -1,0 +1,91 @@
+{
+    "lang": "en/us",
+    "createDate": "20260130",
+    "updateDate": "20260130",
+    "name": "desire to provide social value",
+    "alternateNames": ["desire to be useful","desire to impact positively"],
+    "valence": 0,
+    "timescale": ["unknown"],
+    "rarity": ["unknown"],
+    "frequency": ["unknown"],
+    "quote": "I want to help",
+    "description": "Wanting to do something for a person or group that's definitely or highly likely to be welcomed.",
+    "perceptions": ["A person or group could use some help.","I could help","It could feel good to help, or I might gain status by helping, or I might pay off a debt by helping."],
+    "desires": ["desire for social status","aversion to owing","desire for meaning","desire for agency","desire to improve your environment"],
+    "sensations": ["many"],
+    "results": ["The outcome of desire and effort to help a person or group depends on expectations, results, difficulty, and the perceptions of the recipient."],
+    "related": ["helpfulness","responsibility","generosity","desire to impact negatively"],
+    "examples": ["Doing your chores without reminder or complaint.","Volunteering."],
+    "otherVariations": ["desire to protect"],
+    "guidance": [{
+        "description": "There are many ways to volunteer in your community. If these references don't help, try doing a search.",
+        "references": ["https://www.volunteermatch.org/","https://www.indeed.com/career-advice/finding-a-job/how-to-find-a-volunteer-opportunity"]
+    }],
+    "comparisons": [{
+        "links": ["resonsibility"],
+        "description": "'Responsibility' may be one of the sensations that emerge by providing social value, but not necessarily. Also, you can be responsible for something that's not related to a social desire."
+    },{
+        "links": ["desire to improve"],
+        "description": "You may certainly 'desire to improve' your social environment by providing value. But you 'improving' may also be more of an individual goal than something the group is asking you for."
+    }],
+    "variations": [{
+        "name": "desire to transmit knowledge",
+        "alternateNames": ["desire to teach"],
+        "description": "Wanting to help others close a perceived gap in understanding.",
+        "perceptions": ["Others could use help understanding something.","I know this thing well enough to help them understand it.","I may provide social value by helping them."],
+        "desires": ["desire for social status","desire for agency","desire for social contact","desire to improve your environment"],
+        "results": ["Perhaps the recipient welcomes your knowledge, or perhaps they don't. Either way, you hope it still provides value."],
+        "examples": ["Teachers.","Pundits.","Self-help industry.","Missionaries.","Open source reference projects.","Grandmother."],
+        "related": ["helpfulness"],
+        "guidance": [{
+            "description": "There are many references to help you learn how to teach things. Here are some to start with.",
+            "references": ["https://positivecoach.org/resource-zone/16-tips-for-the-first-time-coach/","https://noweducation.co.uk/new-to-teaching-here-are-our-top-10-tips/"]
+        }]
+    },{
+        "name": "desire to work",
+        "description": "Wanting to do a task for a person or group that you probably wouldn't do just for yourself.",
+        "perceptions": ["Others need help with some task.","I can do it.","I will receive a reward or social value by helping them."],
+        "desires": ["desire for social status","desire for agency","desire for social contact","desire to improve your environment"],
+        "results": ["The social results of your work depend mainly on the perception of others: whether it met their expectations, how difficult it was, how long it took, and other factors."],
+        "examples": ["Blue collar laborers.","White collar laborers."],
+        "related": ["helpfulness"],
+        "guidance": [{
+            "description": "There are many resources for job and career advice.",
+            "references": ["__SEARCH_LINKS__"]
+        }]
+    },{
+        "name": "desire to promote",
+        "description": "Wanting to enhance the reputation of your social group.",
+        "perceptions": ["I'm proud of my group. More people should hear good things about it."],
+        "desires": ["desire for social status","desire for social contact"],
+        "results": ["Maybe you'll improve the reputation of the group and more people will want to join it. Or perhaps it will devolve into a tribal shouting match."],
+        "examples": ["Speaking kindly of your group.","Missionary work."],
+        "related": ["desire to persuade","bragging","communication"],
+        "guidance": [{
+            "description": "Talking positively about your group to others is a form of advertising not that much different than the business world. Here are a variety of references that may be of interest.",
+            "references": ["https://www.entrepreneur.com/growing-a-business/5-tips-for-practicing-self-promotion-without-being-totally/308559","https://writingcooperative.com/how-to-self-promote-without-annoying-everyone-21984a5f3bfe","https://thecreativeindependent.com/guides/a-creative-persons-guide-to-thoughtful-promotion/"]
+        }]
+    }],
+    "commentaries": [{
+        "quote": "He who wishes to secure the good of others, has already secured his own.",
+        "attribution": "Confucius"
+    },{
+        "quote": "Earn your success based on service to others, not at the expense of others.",
+        "attribution": "H. Jackson Brown Jr."
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["*"],
+            "predominantType": "impulse",
+            "levels": {
+              "4,3": {
+                "experiences": ["desire to provide social value"]
+              },
+              "2,1": {
+                "experiences": ["hope","anxiety"]
+              }
+            }
+        }]
+    }]
+}

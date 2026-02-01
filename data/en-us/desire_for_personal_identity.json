@@ -1,0 +1,55 @@
+{
+    "lang": "en/us",
+    "createDate": "20260128",
+    "updateDate": "20260128",
+    "name": "desire for personal identity",
+    "valence": 0,
+    "timescale": ["unknown"],
+    "rarity": ["unknown"],
+    "frequency": ["unknown"],
+    "quote": "Sorry, I can't do that, it's not me.",
+    "description": "Desire to have or maintain a behavioral pattern that helps you decide how to respond to given situation and explain yourself to others.",
+    "perceptions": ["The world is complicated.","It helps to know what kind of person I am so I can make choices that are consistent with what that kind of person would do."],
+    "desires": ["desire to be correct","desire for simplicity","desire for comfort"],
+    "sensations": ["uncertainty"],
+    "related": ["desire for social identity"],
+    "examples": ["I'm a picky eater.","I'm an introvert.","I am gentle-hearted."],
+    "guidance": [{
+        "description": "A person's self-identity is one of the most important patterns, strongly influencing perceptions and reactions.",
+        "references": ["https://www.verywellmind.com/why-identity-matters-and-how-it-shapes-us-7504546","https://www.mghclaycenter.org/parenting-concerns/discovering-who-i-am-the-critical-role-of-identity"]
+    }],
+    "commentaries": [{
+        "quote": "Identity is critical for maintaining a solid sense of self. It’s the glue that holds us together, even in the most discombobulating of circumstances.",
+        "attribution": "Gene Beresin"
+    },{
+        "quote": "Who are you, really? It seems like a simple question, but the answer is often complex and plays a big role in shaping how you think, feel, and interact with the world around you. Your identity is a set of physical, mental, emotional, social, and interpersonal characteristics that are unique to you.",
+        "attribution": "Sanjana Gupta"
+    },{
+        "quote": "The most difficult thing in life is to know yourself.",
+        "attribution": "Benjamin Franklin"
+    },{
+        "quote": "Life isn't about finding yourself. Life is about creating yourself.",
+        "attribution": "George Bernard Shaw"
+    },{
+        "quote": "Unlike a drop of water which loses its identity when it joins the ocean, man does not lose his being in the society in which he lives. Man’s life is independent. He is born not for the development of the society alone, but for the development of his self.",
+        "attribution": "B. R. Ambedkar"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["desire for personal identity"],
+            "predominantType": "",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3": {
+                "experiences": ["desire for personal identity"]
+              },
+              "2,1": {
+                "experiences": ["desire for comfort"]
+              }
+            }
+        }]
+    }]
+}

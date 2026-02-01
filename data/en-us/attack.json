@@ -7,7 +7,7 @@
   "quote": "It's mine now.",
   "description": "Taking action to damage someone's body, identity, or assets without their consent and for your benefit or the benefit of an important other.",
   "perceptions": ["That person has something I want or resent.","The only way to get it or even things up is to take action.","They will not like it."],
-  "desires": ["vengefulness","desire for territory","desire for social status","desire for wealth","desire to improve","desire for stimulation","desire to impact negatively"],
+  "desires": ["vengefulness","desire for territory","desire for social status","desire for a valued asset","desire to improve","desire for stimulation","desire to impact negatively"],
   "sensations": ["aggressiveness","many"],
   "related": ["anger","desire for social status","courage","ill will","disrespect","conspiratorial"],
   "opposites": ["defense", "respect", "compassion"],
@@ -15,11 +15,12 @@
       "attack": 5,
       "violence": 7
   },
+  "otherVariations": ["stealing"],
   "variations": [{
       "name": "open hostility",
       "description": "An state of tension between multiple people or groups where each side knows the other intends to advance or defend their interests with physical or social force.",
       "perceptions": ["My group or I are struggling with another group or person for some objective.","There will be social or physical conflict."],
-      "desires": ["desire for safety","desire for wealth","desire for social status","desire for territory", "desire for social status"],
+      "desires": ["desire for safety","desire for a valued asset","desire for social status","desire for territory", "desire for social status"],
       "sensations": ["anger","excitement","courage","ill will", "disrespect"],
       "examples": ["War.","Boardroom schism."]
   },{
@@ -32,23 +33,32 @@
       "examples": ["Slashing a car's tires.","Lying to a competitor's client."]
   },{
       "name": "attacking life or health of a person",
-      "description": "Taking action to seriously injure or kill another person.",
+      "description": "Taking action to seriously injure or kill another person in order to stop their actions.",
       "perceptions": ["This person, or a group they represent, is dangerous to me or has something I need.","A peaceful resolution does not seem possible or desirable."],
       "desires": ["many"],
       "sensations": ["many"],
       "personOfInterestExperiences": ["defense","anger","anxiety","fear"],
       "related": ["desire for social status", "desire for social influence", "hate", "ill will", "disrespect", "fear", "anger","vengeance"],
-      "examples": ["War.","Torture."]
+      "examples": ["War.","Torture.","Murder."]
   },{
       "name": "committing a violent crime",
-      "description": "Using socially unsactioned physical force to harm, rape, or kill another person.",
+      "description": "Using socially unsactioned physical force to harm, rape, or kill another person in order to take something from them.",
       "perceptions": ["I want something from this person or I have orders to get it.","It may be against the rules, but I don't care.","I don't care if they are harmed by my action.","They deserve the treatment or I deserve the reward."],
       "desires": ["many"],
       "sensations": ["many"],
       "personOfInterestExperiences": ["defense","victim of crime","anger","fear","trauma"],
-      "related": ["attacking life or health of a person","desire for wealth", "desire for social status", "desire for sex", "hate", "ill will", "disrespect", "fear", "anger","vengeance"],
+      "related": ["attacking life or health of a person","desire for a valued asset", "desire for social status", "desire for sex", "hate", "ill will", "disrespect", "fear", "anger","vengeance"],
       "opposites": ["compassion"],
       "examples": ["Mugging.","Rape."]
+  },{
+      "name": "committing a non-violent crime",
+      "description": "Doing something that is against a serious rule that protects the interests of another person or group.",
+      "perceptions": ["There's a rule that's taken seriously.","I'm not going to follow it even though I could get in trouble."],
+      "desires": ["desire for a valued asset","desire for social status","many"],
+      "sensations": ["anger","anxiety","hunger","many"],
+      "personOfInterestExperiences": ["defense","victim of crime","anger","anxiety"],
+      "related": ["hate", "ill will", "disrespect", "fear", "anger","vengeance"],
+      "examples": ["Spying.","Tax evasion.","Insider trading."]
   },{
       "name": "attacking life or health of a non-person",
       "description": "Taking action to seriously injure or kill someone or something that is not a person, for example an animal or an organization.",
@@ -120,7 +130,7 @@
               "experiences": ["narration"]
             },
             "3": {
-              "experiences": ["attack","desire for wealth","desire for social status","vengeance","desire for sex"]
+              "experiences": ["attack","desire for a valued asset","desire for social status","vengeance","desire for sex"]
             },
             "2,1": {
               "experiences": ["attack"]

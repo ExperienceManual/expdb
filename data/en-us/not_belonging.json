@@ -1,11 +1,11 @@
 {
   "lang": "en/us",
   "createDate": "20250315",
-  "updateDate": "20250703",
+  "updateDate": "20260128",
   "name": "not belonging",
   "valence": -1,
   "quote": "I have nowhere to go.",
-  "description": "A desire to belong somewhere, but the sense that your situation is uncomfortable and/or unwelcoming, but you have nowhere else to go.",
+  "description": "A perception that your situation is uncomfortable and/or unwelcoming, but you have nowhere else to go.",
   "perceptions": ["I don't seem to belong anywhere.","I don't have a place in society to call my own."],
   "desires": ["desire for agency","desire for territory","desire for meaning","desire for validation"],
   "sensations": ["discomfort","doubt","disorientation","unhealthy self-regard","anxiety"],
@@ -15,9 +15,9 @@
       "attribution": "Geoffrey Cohen",
       "references": ["https://greatergood.berkeley.edu/article/item/how_to_create_more_belonging_for_yourself_and_others"]
   }],
-  "related": ["injustice","envy"],
+  "related": ["desire for social identity","desire for social contact","injustice","envy"],
   "opposites": ["home","meaning"],
-  "examples": ["couch surfing at a friends place"],
+  "examples": ["Couch surfing at a friends place."],
   "variations": [{
       "name": "homeless",
       "description": "Having no space that you can call your own, return to often, or keep your stuff.",

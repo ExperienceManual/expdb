@@ -1,0 +1,61 @@
+{
+    "lang": "en/us",
+    "createDate": "20260131",
+    "updateDate": "20260131",
+    "name": "desire for existential status",
+    "alternateNames": ["desire for divine favor"],
+    "valence": 0,
+    "timescale": ["unknown"],
+    "rarity": ["unknown"],
+    "frequency": ["unknown"],
+    "quote": "",
+    "description": "A desire to align with perceived expectations of God, karma, or the Universe.",
+    "perceptions": ["The status of my deepest self matters."],
+    "desires": ["desire for meaning","desire for comfort"],
+    "sensations": ["hope","faith"],
+    "examples": ["Modern religious people may strive for goodness, faith, and charity.","Ancient religions may have encouraged aggression and bravery."],
+    "guidance": [{
+        "description": "Religions and moral systems lay out an existential worldview and a path for self-improvement within that context.",
+        "references": ["https://www.nytimes.com/2025/02/01/opinion/religion-faith-choose.html","https://fathergoodrich.com/4-starting-points-for-choosing-a-religion-or-at-least-exploring-one/"]
+    }],
+    "comparisons": [{
+        "links": ["desire for social status"],
+        "description": "Religions often recognize different stages of holiness or enlightenment that are somewhat similar to tracks in the secular world."
+    }],
+    "commentaries": [{
+        "quote": "Seek the Kingdom of God above all else, and live righteously, and He will give you everything you need.",
+        "attribution": "Jesus (Matthew 6:33)"
+    },{
+        "quote": "The journey towards enlightenment is a journey of transformation, not just knowledge.",
+        "attribution": "Deepak Chopra"
+    },{
+        "quote": "There are no quick and easy paths to spiritual maturity.",
+        "attribution": "R.C. Sproul"
+    },{
+        "quote": "Too many believe in beliefs and are not who they profess to be, nor any closer to the truth than the totally unaware.",
+        "attribution": "Robert Cosmar"
+    },{
+        "quote": "Good things can be done for bad reasons.  Right things can be done for wrong reasons.",
+        "attribution": "Pastor Joe Wittwer"
+    },{
+        "quote": "Even those of us who don't profess a religion still cling to something deeply. We each have working answers to the Big Questions and strategies that give life a narrative. Some are happy with the traditional life arc of career, family, and retirement. Some place hope that the world is waking up from history. Some rely on their nation to keep them safe. Your existential foundations are sometimes hard to see. They might only be found once they are shaken to the core. Whatever we cling to, we desperately want to maintain a good relationship with it."
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["desire for existential status"],
+            "predominantType": "impulse",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2": {
+                "experiences": ["desire for existential status"]
+              },
+              "1": {
+                "experiences": ["desire for safety","desire for knowledge"]
+              }
+            }
+        }]
+    }]
+}

@@ -1,13 +1,14 @@
 {
   "lang": "en/us",
   "createDate": "20250120",
-  "updateDate": "20260114",
+  "updateDate": "20260129",
   "name": "desire for social contact",
   "valence": 0,
   "quote": "I need a friendly ear.",
-  "description": "A desire for social activity. Could be driven by a desires for simple companionship, social validation, or general social stimulation.",
-  "perceptions": ["It's been a while since I've interacted with people."],
+  "description": "A desire to experience an interaction with a person or animal.",
+  "perceptions": ["It's been a while since I've interacted with people.","Am feeling a little empty.","Friendly social contact would feel nice."],
   "desires": ["desire for stimulation"],
+  "sensations": ["loneliness"],
   "guidance": [{
       "description": "Ways To Get Some Quick Social Contact When You're Feeling Really Lonely And Isolated: meetups, religious service, family, friends, online chat, support group, counselor. Know there's nothing shameful about wanting social contact. It's a basic human need.",
       "attribution": "Chris MacLeod, MSW",
@@ -16,16 +17,22 @@
   "related": ["loneliness", "desire for stimulation","desire for social status"],
   "opposites": ["overwhelmed", "desire for quiet", "desire for privacy"],
   "variations": [{
-      "name": "desire to be around certain people",
-      "description": "A desire for social interactions with a specific group of people. Could be driven by a desire to meet someone special or gain the favor of that group.",
-      "perceptions": ["I'd like to be amongst people of like mind."],
+      "name": "desire for companionship",
+      "description": "Wanting for meaningful social interaction with a person or group that knows and accepts you.",
+      "perceptions": ["I'd like to be amongst people I know and am comfortable with."],
       "desires": ["desire for validation","desire for stimulation","desire for comfort"],
-      "related": ["desire for social status"]
+      "related": ["desire for social status","companionship"],
+      "comparisons": [{
+          "links": ["desire for social contact"],
+          "description": "'Desire for social contact' is more general - anyone with a pulse will do -- even just being around strangers in the food court. A 'desire for companionship' is more specific, wanting to be around people who know something about you."
+      }],
+      "examples": ["Meeting friends for dinner."]
   },{
       "name": "desire for pair bond",
+      "alternateName": ["desire for romantic love"],
       "description": "A desire to find a person to share your life with.",
       "perceptions": ["I need to find my life partner."],
-      "desires": ["desire for validation","desire for stimulation","desire for comfort","desire for sex"],
+      "desires": ["desire for companionship","desire for validation","desire for stimulation","desire for comfort","desire for sex","desire for parenthood"],
       "related": ["desire for social status"]
   },{
       "name": "desire to be around animals",
@@ -39,16 +46,22 @@
           "references": ["https://www.petmd.com/dog/care/evr_multi_10_things_consider_before_pet_adoption"]
       }]
   },{
-      "name": "desire for trade",
-      "description": "Wanting to exchange items or information of value with another person or group.",
-      "perceptions": ["Someone else has something that I'd like to have.","I have something they might like.","Attacking them to get it won't help or is a bad idea."],
-      "desires": ["desire for social influence","desire for social status"],
+      "name": "desire for any attention",
+      "alternateNames": ["attention seeking"],
+      "description": "A deep need for any kind of social attention, even negative attention.",
+      "perceptions": ["I'm so ready for social attention that even negative attention is better than none.","Being naughty will get me some attention."],
+      "desires": ["desire for agency","desire for social influence","desire for social status"],
+      "related": ["weird"],
+      "sensations": ["loneliness"],
       "guidance": [{
-          "description": "Negotiation is a fundamental skill that plays a crucial role in both personal and professional life. Whether you’re negotiating a job offer, securing a contract, or resolving conflicts, strong negotiation skills can help you reach a beneficial agreement.",
-          "attribution": "Carrie Re, MBA",
-          "references": ["https://www.betterup.com/blog/how-to-negotiate"]
+          "description": "If you or someone you know seeks attention to the point of being annoying, here are some resources that may be of interest.",
+          "references": ["https://behaviourhelp.com/a-z-challenging-behaviours/attention-seeking","https://www.verywellmind.com/attention-seeking-behavior-causes-traits-treatment-5213790"]
       }],
-      "examples": ["Purchasing something.","Exchanging information."]
+      "examples": ["Acting out.","Being provocative.","A kid crying on the playground to get sympathy."],
+      "comparisons": [{
+          "links": ["attention-seeking weird"],
+          "description": "Being 'weird' on purpose to attract attention is a specific kind of attention-seeking."
+      }]
   }],
   "comparisons": [{
     "links": ["loneliness"],
@@ -64,8 +77,16 @@
     "quote": "Human beings are social creatures. We are social not just in the trivial sense that we like company, and not just in the obvious sense that we each depend on others. We are social in a more elemental way: simply to exist as a normal human being requires interaction with other people.",
     "attribution": "Atul Gawande"
   },{
+    "quote": "Humans have evolved the basic need for social connection because it is vital to our survival. This need is rooted deep within us biologically. And we have even developed an evolutionary warning signal that tells us when our need for connection is not met.",
+    "attribution": "Stephen Braren, Ph.D."
+  },{
     "quote": "No one appreciates the very special genius of your conversation as the dog does.",
     "attribution": "Christopher Morley"
+  },{
+    "quote": "Attention seeking behaviors can take many forms. It can be an individual constantly talking, seeking validation, making noises, raising a hand, clowning around, blurting out the need for someone to help, teach or watch them do something; tattling, provoking a confrontation, incessantly questioning, bullying or teasing, fishing for compliments, being argumentative, and telling fantastical stories or exaggerated unrealistic experiences.",
+    "attribution": "behaviourhelp.com"
+  },{
+        "quote": "Don't kid yourself that provocative behavior is always 'resisting social pressure'. Most of the time, it's just a different interpretation for how to position your identity against the social background. Few people would do stupid, expensive, painful, inconvenient things were it not driven as a reaction to social pressure."
   }],
   "models": [{
       "version": "em1",

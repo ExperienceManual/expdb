@@ -116,7 +116,7 @@
       "name": "offensive deception",
       "description": "Acting or appearing in a way that hides part of your true nature in a way that allows you to get an advantage over someone else.",
       "perceptions": ["I'm hiding a portion of my true identity.","I want to gain an edge over them."],
-      "desires": ["desire for wealth","desire for social influence"],
+      "desires": ["desire for a valued asset","desire for social influence"],
       "sensations": ["attack","many"],
       "guidance": [{
           "description": "A deceptive appearance could be a gag, a sports tactic, or a prelude to crime.",

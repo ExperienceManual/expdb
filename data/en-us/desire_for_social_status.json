@@ -1,46 +1,81 @@
 {
   "lang": "en/us",
   "createDate": "20250123",
-  "updateDate": "20251010",
+  "updateDate": "20260131",
   "name": "desire for social status",
   "valence": 0,
   "quote": "One day I'm gonna be somebody.",
-  "description": "Wanting to be validated or better perceived by a particular social group. Most of us don't want to have the highest status, but we strive to avoid being the lowest status.",
-  "perceptions": ["It's important to be perceived well by a certain social group."],
+  "description": "Wanting to maintain or improve your perceived standing with a certain group.",
+  "perceptions": ["It's important to be perceived well by a certain social group.","I would like to stay in this group's graces or improve how they perceive me."],
   "desires": ["desire for social contact","desire for safety"],
-  "results": ["seek a way to validate, preserve, or improve status"],
+  "results": ["Seek a way to validate, preserve, or improve status."],
   "guidance": [{
-      "description": "You can't eliminate the desire for social status because it's built in deep. Without status in some group perceived as powerful, we may not feel safe. It may worth understanding how your interest in a particular group is effecting your experiences.",
+      "description": "Without status in some group perceived as powerful, we may not feel safe. It may worth understanding how your interest in a particular group is effecting your experiences.",
       "references": ["https://newsroom.haas.berkeley.edu/we-all-want-high-social-status-2/","https://www.shortform.com/blog/importance-of-social-status/","https://www.shortform.com/blog/importance-of-social-status/","https://www.psychologytoday.com/us/blog/beautiful-minds/201008/two-routes-to-social-status"]
   },{
-      "description": "A group that's important for many is the relationship with others of their own gender -- male bonding groups and female bonding groups.",
+      "description": "One group that's important for many is the relationship with others of their own gender -- male bonding groups and female bonding groups.",
       "references": ["https://blog.thewellnessuniverse.com/the-power-of-male-bonding/","https://mensgroup.com/mens-group-activities/","https://bayoulifemag.com/women-supporting-women-why-our-feminine-bonds-are-so-vital/","https://www.fearlesslygirl.com/blog/team-building-activities-to-foster-cooperation-and-confidence-in-girls"]
   }],
   "related": ["validation", "ambition", "group bond", "gain of social status", "loss of social status"],
-  "otherVariations": ["desire to be perceived a certain way"],
+  "otherVariations": ["desire to be perceived a certain way","desire to provide social value","desire for existential status"],
+  "comparisons": [{
+      "links": ["desire for social influence"],
+      "description": "'Desire for social influence' is trying to get people to see your way so they're more likely to help you somehow. With 'desire for social status', you're less concerned about a particular goal and more concerned with your group ranking. They are certainly related - you're likely to have more influence if you have a higher ranking."
+  }],
   "variations": [{
-      "name": "desire for identity",
-      "description": "Wanting to know what role you have in a particular social context.",
-      "perceptions": ["I want to know where I fit in the structure of a particular social group.","This will help guide my decisions."],
-      "desires": ["desire for comfort","desire for safety"],
-      "sensations": ["doubt"],
-      "guidance": [{
-          "description": "Identity is important to organizing our lives. We often create an identity that's at least partly defined by what or who we are not.",
-          "attribution": "",
-          "references": ["https://www.mghclaycenter.org/parenting-concerns/discovering-who-i-am-the-critical-role-of-identity/","https://www.scientificamerican.com/article/the-search-for-social-identity-leads-to-us-versus-them/","https://www.healthassured.org/blog/building-a-healthy-self-identity/"]
-      }]
-  },{
       "name": "desire for validation",
-      "alternateNames": ["desire for approval"],
+      "alternateNames": ["desire for approval","desire to test social status"],
       "description": "Wanting to have your social value confirmed.",
       "perceptions": ["I'm not sure where I stand with a particular social group.","I would like to confirm that my standing is still positive."],
       "sensations": ["anxiety"],
-      "results": ["seek a way to confirm approval from others"],
+      "results": ["Seek a way to confirm approval from others."],
       "related": ["unhealthy self-regard"],
       "guidance": [{
           "description": "If you find yourself seeking validation more often than healthy, consider seeking support resources.",
           "references": ["https://psychcentral.com/health/steps-to-stop-seeking-approval-from-others","https://hbr.org/2023/12/overcoming-your-need-for-constant-validation-at-work"]
       }]
+  },{
+      "name": "desire for unconditional validation",
+      "alternateNames": ["desire for unconditional love"],
+      "description": "Wanting to know that your social value is automatically confirmed by a certain person or group even if you make a mistake.",
+      "perceptions": ["It's tiring and stressful to have to constantly strive for validation.","There are certain people who should accept me without my having to do anything."],
+      "sensations": ["anxiety"],
+      "related": ["unhealthy self-regard","tolerance","general love"],
+      "guidance": [{
+          "description": "It's normal to get tired of the constant battle of social perceptions. We all want a few people who will accept us regardless of failures. Unfortunately, reality may be a little more complicated than that. It may be better to long for a 'highly tolerant love'.",
+          "references": ["https://www.psychologytoday.com/us/blog/intimacy-path-toward-spirituality/201801/is-unconditional-love-really-possible","https://www.drdaleatkins.com/love-unconditional/","https://tealswan.com/resources/articles/the-truth-and-the-myth-of-unconditional-love-r413/"]
+      }]
+  },{
+      "name": "desire to make your mark",
+      "description": "Wanting to express your agency in a social context.",
+      "perceptions": ["I want to be seen."],
+      "desires": ["desire for agency"],
+      "results": ["If you're trying to score social points, the result should be good for your group or bad for a rival group."],
+      "related": ["desire for any attention"],
+      "guidance": [{
+          "description": "The desire to be seen is a reaction to feeling unimportant. Consider finding a way to make your mark in a slow positive way.",
+          "references": ["https://www.psychologytoday.com/us/blog/us-and-them/202310/to-be-heard-and-seen","https://vocal.media/humans/allow-yourself-to-shine-without-the-desire-to-be-seen","https://www.forbes.com/sites/kathycaprino/2015/06/28/how-to-make-your-big-mark-in-the-world-with-six-essential-steps/"]
+      }],
+      "examples": ["blogging","graffiti","tracking up a fresh snowfall"],
+      "comparisons": [{
+          "links": ["desire for any attention"],
+          "description": "When striving to look good in the eyes of a particular social group, the action needs to positive or neutral and display characteristics the group values. If you're doing something just to get attention, the results don't matter as much."
+      }]
+  },{
+      "name": "desire to demonstrate skills",
+      "description": "Wanting others to see something you can do that's unusually good.",
+      "perceptions": ["I want to be seen doing this thing I'm good at."],
+      "desires": ["desire for agency","desire to be perceived a certain way"],
+      "results": ["The results will need to be considered relatively positive or the attempt may backfire."],
+      "guidance": [{
+          "description": "Some skills are easy to show off - just go out and do them. Others are harder to demo. Here are some references that may help.",
+          "references": ["https://www.linkedin.com/advice/1/how-can-you-present-your-skills-achievements","https://domain.me/how-to-show-off-skills-in-a-creative-way-with-a-personal-website/"]
+      },{
+          "description": "Showing off becomes a problem when it is more than just seeking an occasional pat on the back for a well-done job.",
+          "attribution": "Jack Nollan",
+          "references": ["https://www.aconsciousrethink.com/20249/showing-off/"]
+      }],
+      "examples": ["Juggling to impress someone.","Applying for a job."]
   },{
       "name": "desire to win",
       "description": "You want to win in a competition with another person or group.",
@@ -50,8 +85,9 @@
       "results": ["seek a way to win"],
       "related": ["gaining", "vengefulness"]
   },{
-      "name": "desire for wealth",
-      "description": "Wanting to have access to a valued asset as a sign of social status, whether the asset is money, collectibles, fame, attractiveness, or something else.",
+      "name": "desire for a valued asset",
+      "alternateNames": ["desire for wealth"],
+      "description": "Wanting to have access to something valued by a social group as a sign of social status, whether the asset is money, collectibles, fame, attractiveness, or something else.",
       "perceptions": ["Having more of this asset would make my life better."],
       "desires": ["desire for comfort","desire for safety"],
       "results": ["Seek ways to obtain an asset that scratches the itch."],
@@ -64,35 +100,38 @@
       "related": ["wealthy"],
       "examples": ["Wanting to be able to pay your bills this month.","Wanting a fancy car to impress the neighbors."]
   },{
+      "name": "desire to impact negatively",
+      "description": "Wanting to annoy, scare, or harm a person or group for revenge, to control behavior, or to gain status with another group.",
+      "perceptions": ["I think negatively of some person or group.","It would be fun to see them irritated, scared, or harmed.","My social group will praise me for attacking them."],
+      "desires": ["desire for social status","desire for agency","desire for stimulation"],
+      "sensations": ["vengefulness","attack"],
+      "results": ["The results of your attack on the outgroup will depend on the nature of the attack and whether your in-group condones knocking others down to gain.","You may have a perception that you got the upper hand in the exchange."],
+      "related": ["desire to make your mark","attack","attacking reputation"],
+      "personOfInterestExperiences": ["contempt","fear"],
+      "examples": ["Graffiti.","Online trolls."],
+      "guidance": [{
+          "description": "If you're open to considering more pro-social behaviors, there are many resources online. They're probably more boring than whatever adrenaline-soaked content got you into antisocial behavior, but they may provide a more subtle and longer-lasting feeling. This doesn't suggest everyone should be nice. Just less antagonistic and more persuasive.",
+          "references": ["https://kotaku.com/10-former-internet-trolls-explain-why-they-quit-being-j-1722649439","https://www.verywellmind.com/what-is-prosocial-behavior-2795479","https://www.ipinst.org/wp-content/uploads/publications/a_new_approach_epub.pdf"]
+      }]
+  },{
       "name": "desire to associate with high status people",
       "description": "Wanting to have access to other people partly as a sign of social status, whether they are famous, powerful, attractive, wealthy, etc.",
       "perceptions": ["Being associated with this person could raise my status."],
       "desires": ["desire for comfort","desire for safety"],
-      "results": ["Seek ways to obtain relationships that scratche the itch."],
       "related": ["utility contact"],
-      "examples": ["Wanting to have an attractive spouse.","Wanting to be in the 'cool' clique."]
-  },{
-      "name": "desire for existential status",
-      "description": "A desire to align with perceived expectations of God, karma, or the Universe.",
-      "perceptions": ["The status of my existential self matters."],
-      "desires": ["desire for meaning","desire for comfort"],
-      "guidance": [{
-          "description": "Religions and moral systems lay out an existential worldview and a path for self-improvement within that context.",
-          "references": ["https://www.nytimes.com/2025/02/01/opinion/religion-faith-choose.html","https://fathergoodrich.com/4-starting-points-for-choosing-a-religion-or-at-least-exploring-one/"]
-      }],
-      "examples": [
-        "Modern religious people may strive for goodness, faith, and charity.",
-        "Ancient religions may have encouraged aggression and bravery."
-      ]
+      "examples": ["Getting yourself invited to an important meeting.","Wanting to have an attractive spouse.","Wanting to be in the 'cool' clique."]
   },{
       "name": "desire to decrease others status",
-      "description": "A perception that relative status matters so knocking others down appears to improve your own position.",
+      "description": "A perception that relative status matters so knocking down others in your group will improve your own position.",
       "perceptions": ["Someone else has a higher status in a group I care about.","They are imperfect humans, so I can find a flaw.","Lowering their status will make my relative status higher."],
-      "desires": ["desire for social status"],
+      "desires": ["desire for social status","desire to impact negatively"],
       "sensations": ["jealousy","contempt"],
-      "results": ["seek a way to attack their status"],
       "personOfInterestExperiences": ["defense","injustice"],
-      "examples": ["online trolls"]
+      "examples": ["Tattletales.","False report about a co-worker to your manager."],
+      "comparisons": [{
+          "links": ["desire to impact negatively"],
+          "description": "'Desire to impact negatively' is focused on people outside of your group, while 'desire to decrease others status' is intra-group."
+      }]
   }],
   "commentaries": [{
       "quote": "People sacrifice so many necessities of life to impress one another that they appear to be responding to a higher, spiritual need.",
@@ -100,8 +139,6 @@
   },{
       "quote": "The deepest craving of human nature is the need to be appreciated.",
       "attribution": "William James"
-  },{
-      "quote": "Deep down people recognize that we require social support for our individual survival in the long term. So having status with a group that help keep us safe is unconsciously critical."
   },{
       "quote": "If groups are fighting, it's about relative status. It's not really about the religion. It's not primarily about ancestry. It's not primarily about income, education level, or accent. These things matter because they sort people into groups, and people in these groups can feel threatened by rival group. And sometimes the grievances are even legitimate."
   },{
@@ -118,12 +155,12 @@
       "quote": "The brain can only handle a few absolute statuses: high, medium, and low. Some people want to be high status, some do not. No one wants to be low status, but the human brain insists that there must be members in the lowest bucket, even if they're not aware of their position. Within each bucket, we're sensitive about measuring fuzzy status differences relative to others, striving to maintain or improve our relative position."
   },{
       "quote": "The very rich and the very poor have so much in common... no one expects them to conform to social niceties. It’s only those of us in the middle who must constantly prove our worth to both sides.",
-      "attribution": "Margaret Stohl in 'Jo & Laurie'"
+      "attribution": "Margaret Stohl"
   }],
   "models": [{
       "version": "em1",
       "variations": [{
-          "names": ["desire for social status","desire for wealth","desire for validation","desire for identity"],
+          "names": ["desire for social status","desire for a valued asset","desire for validation","desire for unconditional validation","desire to make your mark","desire to demonstrate skills"],
           "predominantType": "impulse",
           "levels": {
             "4": {
@@ -137,7 +174,7 @@
             }
           }
       },{
-          "names": ["desire to decrease others status"],
+          "names": ["desire to decrease others status","desire to impact negatively"],
           "predominantType": "impulse",
           "levels": {
             "4": {
@@ -147,25 +184,11 @@
               "experiences": ["desire for social status"]
             },
             "1": {
-              "experiences": ["anxiety","desire for safety"]
+              "experiences": ["anxiety","attack"]
             }
           }
       },{
-          "names": ["desire for existential status"],
-          "predominantType": "impulse",
-          "levels": {
-            "4": {
-              "experiences": ["narration"]
-            },
-            "3": {
-              "experiences": ["desire for social status","desire for meaning"]
-            },
-            "2,1": {
-              "experiences": ["anxiety","desire for safety"]
-            }
-          }
-      },{
-          "names": ["desire to win"],
+          "names": ["desire to win","desire to associate with high status people"],
           "predominantType": "impulse",
           "levels": {
             "4": {

@@ -15,7 +15,7 @@
       "description": "Effort to maintain land or other resources intact and within your control. The attacker may be a person, a group, animals, or natural forces.",
       "perceptions": ["Someone or something is trying to degrade or remove something that's mine.","I need to protect these things."],
       "desires": ["desire to protect"],
-      "related": ["desire for territory","desire for wealth","jealousy"]
+      "related": ["desire for territory","desire for a valued asset","jealousy"]
   },{
       "name": "defending life and health",
       "description": "Taking steps to keep yourself or someone else safe from perceived threats ranging from minor illness to mortal danger.",

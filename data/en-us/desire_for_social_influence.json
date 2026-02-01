@@ -5,38 +5,33 @@
   "name": "desire for social influence",
   "valence": 0,
   "quote": "Listen up people...",
-  "description": "Wanting to have an effect on how others behave or perceive the world. This can include how they spend their money, spend their time, perceive the world, vote, etc.",
-  "perceptions": ["There's something I'd like others to do or know about.","I'll also benefit from helping them doing or knowing about it."],
-  "desires": ["desire for social status","desire for agency","desire for social contact","desire for safety"],
-  "related": [ "desire for social status", "validation", "self-confidence", "ambition"],
-  "opposites": ["tolerance", "desire for privacy"],
-  "examples": ["advertising","social media","politics"],
+  "description": "Wanting to have an effect on how others behave or perceive the world so they are more aligned with your preferences.",
+  "perceptions": ["There's something I'd like others to do or know about.","I'll benefit from getting them to do or know about this."],
+  "desires": ["desire for agency","desire for social contact","desire for safety","many"],
+  "sensations": ["hope","social contact"],
+  "results": ["You may be able to get people to help you or at least stop working against you. Or you might not."],
+  "related": [ "desire for social status", "self-confidence", "ambition"],
+  "opposites": ["desire for privacy"],
+  "examples": ["Advertising.","Social media."],
   "variations": [{
-      "name": "desire to transmit knowledge",
-      "description": "Wanting to help others close a perceived gap in understanding. Communicating knowledge to others can legitimately help them while also helping to validate your perspective.",
-      "perceptions": ["Others could use help understanding something.","I know this thing well enough to help them understand it.","I may provide social value by helping them."],
-      "desires": ["desire for social status","desire for agency","desire for social contact"],
-      "guidance": [{
-          "description": "There are many references to help you learn things like academics, sports, business skills, self-improvement, etc.",
-          "references": ["https://positivecoach.org/resource-zone/16-tips-for-the-first-time-coach/","https://noweducation.co.uk/new-to-teaching-here-are-our-top-10-tips/"]
-      }],
-      "related": ["helpfulness"],
-      "examples": ["teachers","pundits","self-help industry","missionaries","open source reference projects"]
-  },{
       "name": "desire to persuade others",
-      "description": "Trying to convince others to get them to behave the way you want.",
-      "perceptions": ["Others are not behaving the way I think they should.","They would respond if they like me enough to try and understand my perspective."],
+      "description": "Trying to convince others to change a belief.",
+      "perceptions": ["Others don't perceive things the way I think they should.","I think I can convince them to adopt more of my perspective."],
       "desires": ["desire for agency","desire for order"],
+      "sensations": ["hope","social contact"],
       "guidance": [{
-          "description": "Sales and negotiation skills are arts of persuading that can be useful beyond commercial purposes.",
-          "references": ["https://www.pon.harvard.edu/daily/negotiation-skills-daily/top-10-negotiation-skills/","https://www.wikihow.com/Get-What-You-Want-from-People","https://www.badgermapping.com/blog/sales-tips-beginners/"]
+          "description": "Here are some references for persuading people.",
+          "references": ["https://www.indeed.com/career-advice/career-development/how-to-convince-someone","https://www.linkedin.com/pulse/easy-ways-persuade-people-russell-futcher-0rlmc","https://www.badgermapping.com/blog/sales-tips-beginners/"]
+      },{
+          "description": "Changing people's minds on certain topics is not an easy task.",
+          "references": ["https://greatergood.berkeley.edu/article/item/why_is_it_so_hard_to_change_peoples_minds","https://nextbigideaclub.com/magazine/facts-dont-change-peoples-minds-heres/16242/"]
       }],
-      "examples": ["sales","negotiations"]
+      "examples": ["Sales.","Politics."]
   },{
       "name": "desire to control others",
       "description": "Being ready to threaten someone else's agency with negative consequences in order to get them to behave the way you want.",
       "perceptions": ["Others are not behaving the way I think they should.","They won't respond to a nice approach.","There should be consequences for them not following my guidance."],
-      "desires": ["desire for social status","desire for agency","desire for order"],
+      "desires": ["desire for agency","desire for order"],
       "sensations": ["annoyance","distrust","confidence"],
       "guidance": [{
           "description": "Here are parenting and workplace guides to help think about reasonable consequences for guiding people you're in charge of.",
@@ -47,50 +42,28 @@
           "references": ["https://psychcentral.com/blog/why-you-need-to-control-everything"]
       }],
       "related": ["advantaged"],
-      "examples": ["Parenting","Managing a business","Dictatorship"]
-  },{
-      "name": "desire to make your mark",
-      "description": "Wanting to express your agency in a social context whether for the good or bad.",
-      "perceptions": ["I want to be seen."],
-      "desires": ["desire for agency"],
-      "guidance": [{
-          "description": "The desire to be seen is a reaction to feeling unimportant. Consider finding a way to make your mark in a positive way.",
-          "references": ["https://www.psychologytoday.com/us/blog/us-and-them/202310/to-be-heard-and-seen","https://vocal.media/humans/allow-yourself-to-shine-without-the-desire-to-be-seen","https://www.forbes.com/sites/kathycaprino/2015/06/28/how-to-make-your-big-mark-in-the-world-with-six-essential-steps/"]
-      }],
-      "examples": ["blogging","graffiti","tracking up a fresh snowfall"]
-  },{
-      "name": "desire to impact negatively",
-      "alternateNames": ["spite"],
-      "description": "Wanting to annoy, scare, or harm a person or group for revenge or to gain status with another group.",
-      "perceptions": ["I think negatively of some person or group.","It would be fun to see them irritated, scared, or harmed.","My social group will praise me for attacking them."],
-      "desires": ["desire for social status","desire for agency","desire for stimulation"],
-      "sensations": ["vengefulness","attack"],
-      "related": ["desire to make your mark","commiting a social violation","vengefulness"],
-      "personOfInterestExperiences": ["contempt","fear"],
-      "examples": ["graffiti","online trolls","terrorists"],
-      "guidance": [{
-          "description": "If you're open to considering more pro-social behaviors, there are many resources online. They're probably more boring than whatever adrenaline-soaked content got you into antisocial behavior, but they may provide a more subtle and longer-lasting feeling. This doesn't suggest everyone should be nice. Just less antagonistic and more persuasive.",
-          "references": ["https://kotaku.com/10-former-internet-trolls-explain-why-they-quit-being-j-1722649439","https://www.verywellmind.com/what-is-prosocial-behavior-2795479","https://www.ipinst.org/wp-content/uploads/publications/a_new_approach_epub.pdf"]
-      }]
-  },{
-      "name": "desire to impact positively",
-      "alternateNames": ["desire to help"],
-      "description": "Wanting to help people.",
-      "perceptions": ["A person or group could use some help.","I could help","It could feel good to help."],
-      "desires": ["desire for meaning","desire for social status","desire for agency"],
-      "related": ["generosity","desire to make your mark"],
-      "personOfInterestExperiences": ["gratitude"],
-      "examples": ["volunteers"],
-      "guidance": [{
-          "description": "There are many ways to volunteer in your community.",
-          "references": ["https://www.volunteermatch.org/","https://www.indeed.com/career-advice/finding-a-job/how-to-find-a-volunteer-opportunity"]
-      }]
+      "examples": ["Parenting.","Managing a business.","Dictatorship."]
   },{
       "name": "desire for justice",
-      "description": "A preference for an outcome that is perceived to be aligned with important rules.",
+      "description": "Desire to convice others to obtain an outcome that is perceived to be aligned with important rules.",
       "perceptions": ["A person or group is going to influence the outcome of an event.","I want them to abide by important rules for making this decision."],
       "desires": ["desire for order"],
-      "examples": ["Wanting an apology from someone.","Wanting a court case to go a certain way."]
+      "examples": ["Wanting an apology from someone.","Wanting a court case to go a certain way."],
+      "comparisons": [{
+          "links": ["desire to persuade others"],
+          "description": "Pushing for 'justice' is trying to persuade someone that your perspective is aligned with the rules or the 'right thing to do.'"
+      }]
+  },{
+      "name": "desire for trade",
+      "description": "Wanting to exchange items, activities, or information of value with another person or group.",
+      "perceptions": ["Someone else has something that I'd like to have.","I have something they might like.","Attacking them to get it won't help or is a bad idea.","Let's try cooperation."],
+      "desires": ["desire to improve","desire for comfort","desire for social contact"], 
+      "guidance": [{
+          "description": "Negotiation is a fundamental skill that plays a crucial role in both personal and professional life. Whether you’re negotiating a job offer, securing a contract, or resolving conflicts, strong negotiation skills can help you reach a beneficial agreement.",
+          "attribution": "Carrie Re, MBA",
+          "references": ["https://www.betterup.com/blog/how-to-negotiate"]
+      }],
+      "examples": ["Negotiating a contract.","Purchasing something.","Exchanging information."]
   }],
   "commentaries": [{
       "quote": "If you would persuade, you must appeal to interest rather than intellect.",
@@ -120,45 +93,17 @@
   "models": [{
       "version": "em1",
       "variations": [{
-          "names": ["desire for social influence","desire to make your mark","desire to persuade others","desire to transmit knowledge"],
+          "names": ["desire for social influence","desire to persuade others","desire for justice","desire for trade"],
           "predominantType": "impulse",
           "levels": {
             "4": {
               "experiences": ["narration"]
             },
             "3,2": {
-              "experiences": ["desire for social influence","desire for social status","desire for agency","desire for social contact"]
+              "experiences": ["desire for social influence"]
             },
             "1": {
               "experiences": ["desire for comfort","desire for safety"]
-            }
-          }
-      },{
-          "names": ["desire to impact negatively"],
-          "predominantType": "impulse",
-          "levels": {
-            "4": {
-              "experiences": ["narration"]
-            },
-            "3,2": {
-              "experiences": ["desire for social influence","desire for social status","desire for agency","vengefulness"]
-            },
-            "1": {
-              "experiences": ["desire for stimulation"]
-            }
-          }
-      },{
-          "names": ["desire to impact positively"],
-          "predominantType": "impulse",
-          "levels": {
-            "4": {
-              "experiences": ["narration"]
-            },
-            "3,2": {
-              "experiences": ["desire for social influence","desire for social status","desire for agency","desire for meaning"]
-            },
-            "1": {
-              "experiences": ["desire for stimulation","desire for comfort"]
             }
           }
       },{
@@ -169,7 +114,7 @@
               "experiences": ["narration"]
             },
             "3,2": {
-              "experiences": ["desire for social influence","desire for social status","desire for agency","annoyance","advantaged"]
+              "experiences": ["desire to control others"]
             },
             "1": {
               "experiences": ["desire for stimulation","desire for safety"]

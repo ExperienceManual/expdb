@@ -1,0 +1,62 @@
+{
+    "lang": "en/us",
+    "createDate": "20260128",
+    "updateDate": "20260128",
+    "name": "desire for social identity",
+    "alternateNames": ["desire to belong"],
+    "valence": 0,
+    "timescale": ["unknown"],
+    "rarity": ["unknown"],
+    "frequency": ["unknown"],
+    "quote": "I want to be on that team.",
+    "description": "Wanting to have or maintain a role in a social context that is perceived as supporting your interests and survival.",
+    "perceptions": ["I want to be part of a social group that can help me in life.","I want to know where I fit into the structure of that group."],
+    "desires": ["desire for comfort","desire for safety","desire for social contact"],
+    "sensations": ["not belonging","anxiety","loneliness"],
+    "related": ["desire for personal identity"],
+    "examples": ["Wanting to be part of a particular team.","Wanting to volunteer.","Wanting a cohesive family."],
+    "guidance": [{
+        "description": "Identity is important to organizing our lives. We often create an identity that's at least partly defined by what or who we are not.",
+        "references": ["https://www.mghclaycenter.org/parenting-concerns/discovering-who-i-am-the-critical-role-of-identity/","https://www.scientificamerican.com/article/the-search-for-social-identity-leads-to-us-versus-them/","https://www.healthassured.org/blog/building-a-healthy-self-identity/"]
+    }],
+    "comparisons": [{
+        "links": ["desire for social status"],
+        "description": "'Desire for social identity' is the basic urge to be part of a group that helps us and gives structure to our lives. Being part of the right group is important no matter what your status is within that group. The drive for status within the group is a separate thing."
+    },{
+        "links": ["desire for social contact"],
+        "description": "'Desire for social contact' is the basic urge to interact with people. An hour at the bar while on a business trip is not about joining a group."
+    },{
+        "links": ["desire for personal identity"],
+        "description": "A 'personal identity' is something that you are when by yourself and across most groups. A 'social identity' is something that becomes important in a certain social context."
+    }],
+    "commentaries": [{
+        "quote": "Deep down people recognize that we require social support for our individual survival in the long term. So having status with a group that help keep us safe is unconsciously critical."
+    },{
+        "quote": "Being part of a group brings you closer to other people. You have a common activity to pursue. You have a shared interest in a subject or activity.",
+        "attribution": "Gretchen Rubin"
+    },{
+        "quote": "It’s important to be discerning about the groups you commit to joining. I recently dove into an appealing group without checking it out fully first. I was flattered to be invited in, so I didn’t do my due diligence to understand expectations and to investigate others experiences in the group. As some negative aspects came to light, I discovered it was difficult to gracefully exit the group without alienating allies and offending others. You have to look before you leap.",
+        "attribution": "People First Productivity Solutions"
+    },{
+        "quote": "It isn’t right for us to be alone. We live in community. We thrive in community. We are born alone and we die alone, yet while we are on this Earth we are in community. Community helps bring meaning to our lives. Working and playing with our fellow human beings is what brings the most meaning to our lives.",
+        "attribution": "Jeremy Day"
+    }],
+    "models": [{
+        "version": "em1",
+        "variations": [{
+            "names": ["desire for social identity"],
+            "predominantType": "impulse",
+            "levels": {
+              "4": {
+                "experiences": ["narration"]
+              },
+              "3,2": {
+                "experiences": ["desire for social identity"]
+              },
+              "1": {
+                "experiences": ["anxiety","loneliness"]
+              }
+            }
+        }]
+    }]
+}
