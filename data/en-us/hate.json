@@ -5,6 +5,7 @@
   "name": "hate",
   "valence": -1,
   "description": "A sense that you would strongly prefer not to experience a particular person, group, animal, thing, idea, or sensation because it would be negative, unhealthy, or an unwelcome part of your life.",
+  "alternateDefinitions": ["Some people use the word 'hate' to mean stereotyped group hostility."],
   "perceptions": ["This experience is likely to be negative.","This person or thing conflicts with part of how I see myself.","This experience is not healthy for me."],
   "desires": ["desire for comfort","desire for safety"],
   "sensations": ["dismay","disrespect","contempt","fear","anger"],

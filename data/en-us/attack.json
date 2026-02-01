@@ -18,7 +18,7 @@
   "otherVariations": ["stealing"],
   "variations": [{
       "name": "open hostility",
-      "description": "An state of tension between multiple people or groups where each side knows the other intends to advance or defend their interests with physical or social force.",
+      "description": "A state of tension between multiple people or groups where each side knows the other intends to advance or defend their interests with physical or social force.",
       "perceptions": ["My group or I are struggling with another group or person for some objective.","There will be social or physical conflict."],
       "desires": ["desire for safety","desire for a valued asset","desire for social status","desire for territory", "desire for social status"],
       "sensations": ["anger","excitement","courage","ill will", "disrespect"],
@@ -42,7 +42,7 @@
       "examples": ["War.","Torture.","Murder."]
   },{
       "name": "committing a violent crime",
-      "description": "Using socially unsactioned physical force to harm, rape, or kill another person in order to take something from them.",
+      "description": "Using socially unsanctioned physical force to harm, rape, or kill another person in order to take something from them.",
       "perceptions": ["I want something from this person or I have orders to get it.","It may be against the rules, but I don't care.","I don't care if they are harmed by my action.","They deserve the treatment or I deserve the reward."],
       "desires": ["many"],
       "sensations": ["many"],

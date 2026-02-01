@@ -36,17 +36,17 @@
     },{
       "name": "just remembered",
       "description": "Recalling from memory something after having forgotten it for a time.",
-      "perceptions": ["I had trouble getting this thing from memory.","But now tht I rememebered it, I'm pretty confident about it."],
+      "perceptions": ["I had trouble getting this thing from memory.","But now that I remembered it, I'm pretty confident about it."],
       "desires": ["desire to be correct"],
       "sensations": ["satisfaction","delight"],
       "examples": ["Ok, now I remember that I for sure, closed the garage door.","I think I remember the door code now."],
       "comparisons": [{
           "links": ["forgetting"],
-          "description": "'Just rememebered' is a temporary forgetfulness."
+          "description": "'Just remembered' is a temporary forgetfulness."
       }]
     },{
       "name": "someone else forgot",
-      "description": "A perception that someone else should have done something important by now, but has not made any effort towards doing so, nor expained why.",
+      "description": "A perception that someone else should have done something important by now, but has not made any effort towards doing so, nor explained why.",
       "perceptions": ["That person was supposed to do this task.","They haven't.","And they haven't mentioned a delay.","They must have forgotten."],
       "desires": ["desire for order"],
       "sensations": ["dissatisfaction","distrust"],

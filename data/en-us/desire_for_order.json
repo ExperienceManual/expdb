@@ -38,10 +38,10 @@
       "results": ["If something or someone is not acting in a predictable way, it may result in confusion or frustration."],
       "comparisons": [{
           "links": ["desire for order"],
-          "description": "Being predictable doesn't mean it's simple, well-ordered, or positive. But it's better to have a complicated memorized system than none at all. For example, I might know where every book on my shelf is from memory. For me it's predictable and easy to find a given book. My brain considers this 'functional order'. But if there's no system discernable to others, they would not consider my books structurally ordered."
+          "description": "Being predictable doesn't mean it's simple, well-ordered, or positive. But it's better to have a complicated memorized system than none at all. For example, I might know where every book on my shelf is from memory. For me it's predictable and easy to find a given book. My brain considers this 'functional order'. But if there's no system discernible to others, they would not consider my books structurally ordered."
       }],
       "related": ["desire for knowledge"],
-      "examples": ["The Scientific Method.", "Preference for forumlaic music or fiction.","Preference for chain restaurants where you know what you're getting."]
+      "examples": ["The Scientific Method.", "Preference for formulaic music or fiction.","Preference for chain restaurants where you know what you're getting."]
     },{
       "name": "desire for simplicity",
       "description": "Wanting the relationship between things to follow a basic pattern that allows you to easily understand how to interact with them.",

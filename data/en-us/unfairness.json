@@ -44,7 +44,7 @@
         "opposites": ["justice"],
         "examples": ["Paying less attention to resumes with weird-sounding names.","Someone chooses their friend for the team instead of someone more qualified."],
         "guidance": [{
-            "description": "Sadly, the human brain is not a perfect lense for information. If you're interested in knowing how you are probably bending perceptions, here are some references.",
+            "description": "Sadly, the human brain is not a perfect lens for information. If you're interested in knowing how you are probably bending perceptions, here are some references.",
             "references": ["https://thedecisionlab.com/biases","https://www.scribbr.com/research-bias/cognitive-bias","https://oxford-management.com/articles/a-guide-to-understanding-and-addressing-unconscious-bias","https://www.imd.org/blog/management/gender-bias"]
         }]
     },{

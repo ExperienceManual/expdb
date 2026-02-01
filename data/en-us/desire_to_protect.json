@@ -38,6 +38,22 @@
           "references": ["https://www.four-paws.org/our-stories/publications-guides/checklist-what-to-consider-before-adopting-a-pet"]
       }],
       "related": ["animal companion"]
+  },{
+      "name": "desire to suppress concepts from others",
+      "alternateNames": ["desire to censor"],
+      "description": "Wanting to keep a certain concept away from a person or group perceived as susceptible to being harmed or causing harm with the idea.",
+      "perceptions": ["There's a thing that's dangerously attractive to think about.","A certain person or group may not be behave as I would prefer if they think about that thing.","Better that they don't consider it."],
+      "desires": ["desire for safety"],
+      "sensations": ["anxiety","distrust","responsibility"],
+      "guidance": [{
+          "description": "Censorship is a difficult topic. On one hand, there are 'corrosive' ideas that are attractive to the comfort-loving human brain that would be best to minimize. On the other hand, it's not clear who gets to decide which ideas are 'corrosive'. And how many.",
+          "references": ["https://knightcolumbia.org/content/whats-the-harm","https://global.georgetown.edu/events/is-censorship-ever-necessary-or-justified"]
+      },{
+          "description": "Parents have decisions to make about what information their kids are exposed to at what age. Here are some references which may help with that.",
+          "references": ["https://reimaginepeacefulparenting.com/keeping-free-range-kids-safe/","https://survivingmomblog.com/blog/the-14-surprising-things-you-should-not-hide-from-your-kids/","https://www.educateagainsthate.com/what-can-i-do-to-protect-my-child/"]
+      }],
+      "related": ["group hostility","woke"],
+      "examples": ["Suppressing 'hate' speech.","Not talking about certain things in front of the kids."]
   }],
   "models": [{
       "version": "em1",

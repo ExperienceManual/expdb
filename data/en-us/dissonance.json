@@ -11,10 +11,10 @@
     "sensations": ["doubt","discomfort","anxiety","confusion","guilt","shame","anger","hope","hopelessness","irony","temptation","courage","defiance","victim","cheating","denial","repression"],
     "results": ["The lack of certainty is bad enough, but the context may drive a number of uncomfortable experiences."],
     "opposites": ["meaning","certainty"],
-    "examples": ["A bad thing happens to a good person.","A good friend tells an inappropriate joke.","Your family member falls for a phishing scam.","A friend betrays you.","Seeing both sides of quarelling groups."],
+    "examples": ["A bad thing happens to a good person.","A good friend tells an inappropriate joke.","Your family member falls for a phishing scam.","A friend betrays you.","Seeing both sides of quarreling groups."],
     "comparisons": [{
         "links": ["confusion"],
-        "description": "'Confusion' is when you're not clear about what's happening in some aspect of the world that you think you should be clear. 'Dissonance' is when you're clear about the choices, but not sure how to correctly resolve  them."
+        "description": "'Confusion' is when you're not clear about what's happening in some aspect of the world that you think you should be clear. 'Dissonance' is when you're clear about the choices, but not sure how to correctly resolve them."
     }],
     "variations": [{
         "name": "internal inconsistency",
