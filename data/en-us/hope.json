@@ -71,6 +71,14 @@
   }],
   "spectrum": {"optimism": 1, "hope": 3, "dream": 5, "wish": 7},
   "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "hope",
+            "modelName": "hopeful",
+            "spoke": "powerful",
+            "parent": "powerful"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["hope","hopeful outlook"],

@@ -73,6 +73,27 @@
     "panic": 9
   },
   "models": [{
+      "version": "plutchik",
+      "entries": [{
+          "experience": "fear",
+          "modelName": "terror",
+          "spokes": ["terror"],
+          "weaker": "fear"
+      },{
+          "experience": "fear",
+          "modelName": "fear",
+          "spokes": ["terror"],
+          "stronger": "terror",
+          "weaker": "apprehension"
+      }]
+  },{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "fear",
+            "modelName": "scared",
+            "spoke": "scared"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["fear","phobia","panic attack"],

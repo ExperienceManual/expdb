@@ -63,6 +63,14 @@
       "attribution": "Belinda Ellsworth"
   }],
   "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "enthusiasm",
+            "modelName": "stimulating",
+            "spoke": "joy",
+            "parent": "motivation"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["enthusiasm"],

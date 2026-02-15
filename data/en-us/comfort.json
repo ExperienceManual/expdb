@@ -45,6 +45,22 @@
       "attribution": "Frank A. Clark"
   }],
   "models": [{
+      "version": "plutchik",
+      "entries": [{
+          "experience": "comfort",
+          "modelName": "serenity",
+          "spokes": ["ecstacy"],
+          "stronger": ["joy"]
+      }]
+  },{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "mental comfort",
+            "modelName": "content",
+            "spoke": "peaceful",
+            "parent": "peaceful"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["comfort"],

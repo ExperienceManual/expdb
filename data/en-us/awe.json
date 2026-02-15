@@ -8,12 +8,13 @@
   "description": "A vivid sensation that challenges your inner model of the everyday world in a humbling or even frightening way, sometimes diminishing your sense of self for a while.",
   "perceptions": ["This perception makes me realize how big, complex, and powerful the world can be.","I am tiny/huge/complex/simple."],
   "desires": ["desire for agency"],
+  "sensations": ["surprise", "fear"],
   "results": ["Sometimes humbling, sometimes inspiring, sometimes scary"],
   "guidance": [{
       "description": "Awe helps make life more meaningful, but it's more likely to come to you if you're in a receptive frame of mind. These articles may help experience awe more often.",
       "references": ["https://greatergood.berkeley.edu/article/item/six_ways_to_incorporate_awe_into_your_daily_life","https://dhwblog.dukehealth.org/cultivate-a-sense-of-awe-6-ideas-to-experience-wonder/","https://www.psychologytoday.com/us/blog/awakening-to-awe/202503/slow-simmer-vs-quick-boil-awe"]
   }],
-  "related": ["wonder", "fear", "humility"],
+  "related": ["wonder", "humility"],
   "opposites": ["boredom", "ennui"],
   "variations": [{
       "name": "existential awe",
@@ -68,6 +69,13 @@
   }],
   "spectrum": {"wonder": 2, "awe": 5, "stupefying": 8},
   "models": [{
+      "version": "plutchik",
+      "entries": [{
+          "experience": "awe",
+          "modelName": "awe",
+          "spokes": ["amazement","terror"]
+      }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["awe","existential awe","awe of nature"],

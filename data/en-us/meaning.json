@@ -41,6 +41,14 @@
       "quote": "Both sides of the war find meaning in battle."
   }],
   "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "meaning",
+            "modelName": "serene",
+            "spoke": "peaceful",
+            "parent": "loving"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["meaning","everyday meaning"],

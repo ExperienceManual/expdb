@@ -67,6 +67,14 @@
       "isolation": 8
   },
   "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "loneliness",
+            "modelName": "lonely",
+            "spoke": "sad",
+            "parent": "sad"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["solitude"],

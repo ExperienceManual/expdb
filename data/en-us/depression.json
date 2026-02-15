@@ -63,6 +63,14 @@
         "attribution": "John Green"
     }],
     "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "depression",
+            "modelName": "depressed",
+            "spoke": "sad",
+            "parent": "sad"
+        }]
+  },{
         "version": "em1",
         "variations": [{
             "names": ["depression"],

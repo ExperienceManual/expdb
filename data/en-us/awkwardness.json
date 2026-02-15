@@ -55,6 +55,14 @@
         "geeky": 5
     },
     "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "awkwardness",
+            "modelName": "foolish",
+            "spoke": "scared",
+            "parent": "insecure"
+        }]
+  },{
         "version": "em1",
         "variations": [{
             "names": ["awkwardness"],

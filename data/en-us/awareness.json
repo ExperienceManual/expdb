@@ -1,16 +1,15 @@
 {
     "lang": "en/us",
     "createDate": "20250810",
-    "updateDate": "20250810",
+    "updateDate": "20260213",
     "name": "awareness",
-    "alternateNames": ["back of your mind"],
     "valence": 0,
-    "quote": "",
-    "description": "A sensation, desire, or expectation that's in the background of your experience.",
-    "perceptions": ["There are sensations, desires, or expectations lurking on the edge of my experience.","I'm not paying close attention to them, but know they exist."],
+    "quote": "I have a nagging suspicion.",
+    "description": "A sensation, desire, or expectation that's part of the foreground or background of your experience.",
+    "perceptions": ["There are sensations, desires, or expectations lurking on the edge of my experience.","I may not be paying close attention to them, but know they exist."],
     "desires": ["many"],
     "sensations": ["many"],
-    "results": ["The background experience may stay in the background, become an object of attention, influence where attention is directed, or just disappear."],
+    "results": ["A background experience may stay in the background, become an object of attention, influence where attention is directed, or just disappear."],
     "related": ["attention"],
     "opposites": ["dreamless sleep"],
     "examples": ["Suddenly the cicadas stop making noise.","Sensing that something weird is going on while your friends are planning a surprise party."],
@@ -32,6 +31,21 @@
             "description": "If you'd like to have a better sense of why you react to things the way you do, these references may provide a starting point.",
             "references": ["https://www.ccl.org/articles/leading-effectively-articles/4-ways-boost-self-awareness/","https://www.health.harvard.edu/healthbeat/advance-your-self-awareness"]
         }]
+    },{
+        "name": "grounded awareness",
+        "alternateNames": ["mindfulness"],
+        "description": "Letting sensations from your body and environment hold your attention as much as goal-oriented thinking.",
+        "perceptions": ["I want to live in the present moment.","My goals can wait."],
+        "desires": ["many"],
+        "sensations": ["many"],
+        "examples": ["Spa day.","Truly listening to someone."],
+        "opposites": ["distraction"],
+        "related": ["mindfulness meditation"],
+        "guidance": [{
+            "description": "A grounded person lives in the present moment, fully engaged with the here and now. This presence keeps us from getting stuck in the past or worrying about the future. It allows us to experience life as it unfolds.",
+            "attribution": "Susan Czyzo",
+            "references": ["https://groundedphysiotherapy.ca/how-to-be-grounded/"]
+        }]
     }],
     "comparisons": [{
         "links": ["attention"],
@@ -51,13 +65,26 @@
         "attribution": "Troy Erstling"
     }],
     "models": [{
+	"version": "willcox82",
+	"entries": [{
+	    "experience": "grounded awareness",
+	    "modelName": "sensual",
+	    "spoke": "joy",
+	    "parent": "joy"
+        },{
+	    "experience": "awareness",
+	    "modelName": "aware",
+	    "spoke": "joy",
+	    "parent": "joy"
+	}]
+    },{
         "version": "em1",
         "variations": [{
             "names": ["*"],
             "predominantType": "capacity",
             "levels": {
               "4,3,2,1": {
-                "experiences": ["attention"]
+                "experiences": ["awareness"]
               }
             }
         }]

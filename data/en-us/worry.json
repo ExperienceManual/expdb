@@ -44,6 +44,14 @@
   }],
   "spectrum": {"optimism": 1, "hope": 3, "dream": 5, "wish": 7},
   "models": [{
+      "version": "plutchik",
+      "entries": [{
+          "experience": "worry",
+          "modelName": "apprehension",
+          "spokes": ["terror"],
+          "stronger": "fear"
+      }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["worry","apprehensive outlook"],

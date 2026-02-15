@@ -86,6 +86,14 @@
     "BFFs": 8
   },
   "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "well-rounded friendship",
+            "modelName": "intimate",
+            "spoke": "peaceful",
+            "parent": "peaceful"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["companionship","animal companion","well-rounded friendship"],

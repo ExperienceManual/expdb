@@ -84,6 +84,19 @@
   }],
   "spectrum": {"confusion": 3, "disorientation": 5, "future shock": 8},
   "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "social disorientation",
+            "modelName": "bewildered",
+            "spoke": "scared",
+            "parent": "rejected"
+        },{
+            "experience": "disorientation",
+            "modelName": "confused",
+            "spoke": "scared",
+            "parent": "scared"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["disorientation","unfamiliar activity","foreign place"],

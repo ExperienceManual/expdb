@@ -65,6 +65,14 @@
         "shame": 8
     },
     "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "shame",
+            "modelName": "ashamed",
+            "spoke": "sad",
+            "parent": "sad"
+        }]
+  },{
         "version": "em1",
         "variations": [{
             "names": ["shame"],

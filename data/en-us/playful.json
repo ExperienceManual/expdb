@@ -30,8 +30,15 @@
       "quote": "Those who play rarely become brittle in the face of stress or lose the healing capacity for humor.",
       "attribution": "Stuart Brown, MD"
   }],
-  "models": [
-    {
+  "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "playful",
+            "modelName": "playful",
+            "spoke": "joy",
+            "parent": "joy"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["*"],

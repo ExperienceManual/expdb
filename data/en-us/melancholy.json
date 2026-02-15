@@ -28,10 +28,19 @@
         "related": ["gloom"],
         "opposites": ["joy"],
         "examples": ["Wishing it was possible to visit with your grandmother again.","Missing your collection that was burnt in the fire."]
+    },{
+        "name": "pensive",
+        "description": "A feeling of light sadness brought about by quiet reflection.",
+        "perceptions": ["Something I'm thinking about is making me a little sad."],
+        "desires": ["desire for comfort"],
+        "sensations": ["sadness","losing","introspection"],
+        "related": ["gloom"],
+        "opposites": ["joy"],
+        "examples": ["Thinking quietly about your mixed performance in the big game.","Sitting in the waiting room at the hospital."]
     }],
     "comparisons": [{
-        "links": ["wistfulness","nostalgia"],
-        "description": "'Wistfulness' is a specific type of melancholy where the driver is a specific unattainable longing. 'Nostalgia' is a specific type of wistfulness that is driven by personal memories of better times"
+        "links": ["wistfulness","nostalgia","pensive"],
+        "description": "'Pensive' is a relatively light thoughtful melancholy. 'Wistfulness' is a specific type of melancholy where the driver is a specific unattainable longing. 'Nostalgia' is a specific type of wistfulness that is driven by personal memories of better times"
     }],
     "commentaries": [{
         "quote": "Melancholy is the happiness of being sad.",
@@ -53,6 +62,22 @@
         "attribution": "Deborah Tannen"
     }],
     "models": [{
+        "version": "plutchik",
+        "entries": [{
+            "experience": "pensive",
+            "modelName": "pensiveness",
+            "spokes": ["grief"],
+            "stronger": "sadness"
+        }]
+    },{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "pensive",
+            "modelName": "pensive",
+            "spoke": "peaceful",
+            "parent": "content"
+        }]
+  },{
         "version": "em1",
         "variations": [{
             "names": ["melancholy","wistfulness"],

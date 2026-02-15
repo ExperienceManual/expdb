@@ -48,6 +48,14 @@
     "ecstasy": 9
   },
   "models": [{
+      "version": "plutchik",
+      "entries": [{
+          "experience": "pleasure",
+          "modelName": "ecstacy",
+          "spokes": ["ecstacy"],
+          "weaker": "joy"
+      }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["pleasure"],

@@ -53,6 +53,14 @@
     "disgust": 8
   },
   "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "hate",
+            "modelName": "hateful",
+            "spoke": "mad",
+            "parent": "mad"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["hate"],

@@ -31,6 +31,13 @@
   }],
   "spectrum": {"calmness": 3, "tranquility": 5, "serenity": 5},
   "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "calmness",
+            "modelName": "peaceful",
+            "spoke": "peaceful"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["calmness"],

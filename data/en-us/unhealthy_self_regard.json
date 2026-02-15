@@ -100,6 +100,19 @@
         "self-loathing": 8
     },
     "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "self-doubt",
+            "modelName": "insignificant",
+            "spoke": "scared",
+            "parent": "helpless"
+        },{
+            "experience": "self-loathing",
+            "modelName": "miserable",
+            "spoke": "sad",
+            "parent": "depressed"
+        }]
+  },{
         "version": "em1",
         "variations": [{
             "names": ["unhealthy self-regard"],

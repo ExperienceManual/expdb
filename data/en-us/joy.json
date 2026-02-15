@@ -33,6 +33,22 @@
         "attribution": "Rabindranath Tagore"
     }],
     "models": [{
+        "version": "plutchik",
+        "entries": [{
+            "experience": "joy",
+            "modelName": "joy",
+            "spokes": ["ecstacy"],
+            "stronger": "ecstacy",
+            "weaker": "serenity"
+        }]
+    },{
+	"version": "willcox82",
+	"entries": [{
+	    "experience": "joy",
+	    "modelName": "joy",
+	    "spoke": "joy"
+	}]
+    },{
         "version": "em1",
         "variations": [{
             "names": ["joy"],

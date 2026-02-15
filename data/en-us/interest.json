@@ -50,6 +50,14 @@
         "mesmerized": 8
     },
     "models": [{
+        "version": "plutchik",
+        "entries": [{
+            "experience": "interest",
+            "modelName": "interest",
+            "spokes": ["vigilance"],
+            "stronger": "anticipation"
+        }]
+    },{
         "version": "em1",
         "variations": [{
             "names": ["interest"],

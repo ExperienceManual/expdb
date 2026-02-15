@@ -43,8 +43,15 @@
     "quote": "While overeating would be seen by some as an indulgence of self, it is in fact a profound rejection of self. It is a moment of self-betrayal and self-punishment, and anything but a commitment to one's own well-being.",
     "attribution": "Marianne Williamson"
   }],
-  "models": [
-    {
+  "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "indulgence",
+            "modelName": "extravagant",
+            "spoke": "joy",
+            "parent": "creative"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["indulgence"],

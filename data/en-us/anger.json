@@ -98,6 +98,42 @@
     "rage": 7
   },
   "models": [{
+      "version": "plutchik",
+      "entries": [{
+          "experience": "anger",
+          "modelName": "anger",
+          "spokes": ["rage"],
+          "stronger": "rage",
+          "weaker": "annoyance"
+      },{
+          "experience": "anger",
+          "modelName": "rage",
+          "spokes": ["rage"],
+          "weaker": "anger"
+      }]
+  },{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "anger",
+            "modelName": "mad",
+            "spoke": "mad"
+        },{
+            "experience": "anger",
+            "modelName": "angry",
+            "spoke": "mad",
+            "parent": "mad"
+        },{
+            "experience": "anger",
+            "modelName": "rage",
+            "spoke": "mad",
+            "parent": "mad"
+        },{
+            "experience": "anger",
+            "modelName": "furious",
+            "spoke": "mad",
+            "parent": "rage"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["anger"],

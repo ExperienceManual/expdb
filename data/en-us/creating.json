@@ -50,6 +50,14 @@
         "quote": "It's worth pointing out that creating isn't always good, and destroying isn't always bad. After all, we can create indiscriminately powerful weapons and we can destroy a wasp nest on the front door."
     }],
     "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "creating",
+            "modelName": "creative",
+            "spoke": "joy",
+            "parent": "joy"
+        }]
+    },{
         "version": "em1",
         "variations": [{
             "names": ["creating"],

@@ -61,6 +61,21 @@
       "slavery": 9
   },
   "models": [{
+      "version": "plutchik",
+      "entries": [{
+          "experience": "subservience",
+          "modelName": "submission",
+          "spokes": ["admiration","terror"]
+      }]
+  },{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "subservience",
+            "modelName": "submissive",
+            "spoke": "scared",
+            "parent": "scared"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["subservience","labor as punishment"],

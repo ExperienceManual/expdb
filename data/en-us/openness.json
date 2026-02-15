@@ -41,6 +41,14 @@
         "attribution": "Charles Kettering"
     }],
     "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "openness",
+            "modelName": "responsive",
+            "spoke": "peaceful",
+            "parent": "intimate"
+        }]
+  },{
         "version": "em1",
         "variations": [{
             "names": ["openness"],

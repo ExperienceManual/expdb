@@ -63,6 +63,14 @@
         "attribution": "adage"
     }],
     "models": [{
+        "version": "plutchik",
+        "entries": [{
+            "experience": "distraction",
+            "modelName": "distraction",
+            "spokes": ["amazement"],
+            "stronger": "surprise"
+        }]
+    },{
         "version": "em1",
         "variations": [{
             "names": ["diversion"],

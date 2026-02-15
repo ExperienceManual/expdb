@@ -71,8 +71,15 @@
     "beautiful": 7,
     "love": 9
   },
-  "models": [
-    {
+  "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "appreciation",
+            "modelName": "appreciated",
+            "spoke": "powerful",
+            "parent": "powerful"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["appreciation","physical appreciation","aesthetic appreciation"],

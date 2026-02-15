@@ -127,6 +127,14 @@
         "attribution": "The Bible"
     }],
     "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "resentment",
+            "modelName": "hurt",
+            "spoke": "mad",
+            "parent": "mad"
+        }]
+  },{
         "version": "em1",
         "variations": [{
             "names": ["unfairness","injustice","unfairness of nature","resentment"],

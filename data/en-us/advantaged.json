@@ -116,6 +116,19 @@
       "attribution": "Mel Brooks"
   }],
   "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "socially advantaged",
+            "modelName": "important",
+            "spoke": "powerful",
+            "parent": "powerful"
+        },{
+            "experience": "mentally advantaged",
+            "modelName": "intelligent",
+            "spoke": "powerful",
+            "parent": "important"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["advantaged","physically advantaged"],

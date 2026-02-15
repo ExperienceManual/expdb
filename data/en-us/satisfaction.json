@@ -47,6 +47,14 @@
       "attribution": "Tulsi Tanti"
   }],
   "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "satisfaction",
+            "modelName": "satisfied",
+            "spoke": "powerful",
+            "parent": "respected"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["satisfaction"],

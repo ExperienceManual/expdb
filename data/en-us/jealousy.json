@@ -36,6 +36,14 @@
         "attribution": "Carrie Potter"
     }],
     "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "jealousy",
+            "modelName": "jealous",
+            "spoke": "mad",
+            "parent": "hurt"
+        }]
+  },{
         "version": "em1",
         "variations": [{
             "names": ["jealousy"],

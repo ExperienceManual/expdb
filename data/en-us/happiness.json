@@ -40,6 +40,14 @@
   }],
   "spectrum": {"delight": 2, "happiness": 5, "elation": 6, "bliss": 8},
   "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "happiness",
+            "modelName": "cheerful",
+            "spoke": "powerful",
+            "parent": "pride"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["happiness","empathetic happiness"],

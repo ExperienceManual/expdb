@@ -50,6 +50,14 @@
         "attribution": "Elbert Hubbard"
     }],
     "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "criticism",
+            "modelName": "critical",
+            "spoke": "mad",
+            "parent": "mad"
+        }]
+  },{
         "version": "em1",
         "variations": [{
             "names": ["criticism"],

@@ -63,6 +63,22 @@
     "misery": 8
   },
   "models": [{
+      "version": "plutchik",
+      "entries": [{
+          "experience": "sadness",
+          "modelName": "sadness",
+          "spokes": ["grief"],
+          "stronger": "grief",
+          "weaker": "pensive"
+      }]
+  },{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "sadness",
+            "modelName": "sad",
+            "spoke": "sad"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["sadness","sympathetic sadness"],

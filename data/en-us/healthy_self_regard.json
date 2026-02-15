@@ -120,6 +120,23 @@
         "self-love": 5
     },
     "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "healthy self-regard",
+            "modelName": "powerful",
+            "spoke": "powerful"
+        },{
+            "experience": "self-worth",
+            "modelName": "valuable",
+            "spoke": "powerful",
+            "parent": "appreciated"
+        },{
+            "experience": "self-esteem",
+            "modelName": "confident",
+            "spoke": "powerful",
+            "parent": "faithful"
+        }]
+  },{
         "version": "em1",
         "variations": [{
             "names": ["healthy self-regard"],

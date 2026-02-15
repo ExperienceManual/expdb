@@ -31,6 +31,14 @@
   }],
   "spectrum": {"stimulation": 3, "excitement": 5, "frenzied": 8},
   "models": [{
+      "version": "willcox82",
+      "entries": [{
+          "experience": "excitement",
+          "modelName": "excited",
+          "spoke": "joy",
+          "parent": "joy"
+      }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["excitement"],

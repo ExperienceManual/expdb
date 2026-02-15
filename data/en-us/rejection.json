@@ -39,6 +39,14 @@
         "attribution": "Sylvia Plath"
     }],
     "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "rejection",
+            "modelName": "rejected",
+            "spoke": "scared",
+            "parent": "scared"
+        }]
+  },{
         "version": "em1",
         "variations": [{
             "names": ["rejection"],

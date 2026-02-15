@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250223",
-  "updateDate": "20250610",
+  "updateDate": "20260213",
   "name": "compassion",
   "valence": -1,
   "quote": "I'll call a vet who can help your dog!",
@@ -22,6 +22,20 @@
   }],
   "related": ["empathy", "sympathy", "pity"],
   "opposites": ["social disconnection", "disrespect"],
+  "variations": [{
+        "name": "nurturing",
+        "description": "Putting energy into helping someone or something become better and more independent.",
+        "perceptions": ["This person or thing needs help to get started or get better.","I am helping."],
+        "desires": ["desire to improve","desire to protect","desire to provide social value"],
+        "sensations": ["satisfaction","patience","frustration"],
+        "examples": ["Helping a teenager become more independent.","Nursing a sick houseplant.","Coaching a future olympics athlete."],
+        "opposites": ["attack"],
+        "related": ["love","new parenthood"],
+        "comparisons": [{
+            "links": ["compassion"],
+            "description": "'Nurturing' can be 'tough-love' and 'win-win'. 'Compassion' is more about the other."
+        }]
+  }],
   "commentaries": [{
       "quote": "Some see compassion as a virtue and others see it as misguided. If you believe everyone should help each other, then you'll see it as a virtue and likely hope it will be reciprocated should you ever need help. But if you believe people should be responsible for their own situation, you may see 'bleeding heart' compassion as creating weakness in others."
   },{
@@ -36,6 +50,14 @@
   }],
   "spectrum": {"pity": 2, "sympathy": 4, "commiseration": 6, "compassion": 8},
   "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "nurturing",
+            "modelName": "nurturing",
+            "spoke": "powerful",
+            "parent": "powerful"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["compassion"],
@@ -49,6 +71,20 @@
             },
             "2,1": {
               "experiences": ["dismay", "agency"]
+            }
+          }
+      },{
+          "names": ["nurturing"],
+          "predominantType": "impulse",
+          "levels": {
+            "4": {
+              "experiences": ["narration"]
+            },
+            "3": {
+              "experiences": ["nurturing"]
+            },
+            "2,1": {
+              "experiences": ["desire to improve", "agency"]
             }
           }
       }]

@@ -101,6 +101,14 @@
       "attribution": "Ann Kowal Smith in Forbes"
   }],
   "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "failure",
+            "modelName": "stupid",
+            "spoke": "sad",
+            "parent": "ashamed"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["failure"],

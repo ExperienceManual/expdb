@@ -62,6 +62,19 @@
         "attribution": "Letty Cottin Pogrebin"
     }],
     "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "languishing",
+            "modelName": "sleepy",
+            "spoke": "sad",
+            "parent": "sad"
+        },{
+            "experience": "apathy",
+            "modelName": "apathetic",
+            "spoke": "sad",
+            "parent": "sleepy"
+        }]
+  },{
         "version": "em1",
         "variations": [{
             "names": ["apathy","languishing"],

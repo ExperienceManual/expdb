@@ -1,14 +1,16 @@
 {
   "lang": "en/us",
   "createDate": "20241130",
-  "updateDate": "20260107",
+  "updateDate": "20260201",
   "name": "abstinence",
+  "alternateNames": ["refraining"],
   "valence": 0,
   "quote": "Thanks, I don't drink.",
-  "description": "Long term goal of avoiding something that may have brought pleasure or relief. Each instance of abstinence may be easy or a very difficult act of willpower.",
-  "perceptions": ["I should not experience something.","It's not healthy for my body or my spirit."],
+  "description": "The voluntary act of avoiding a behavior that may have brought pleasure or relief.",
+  "perceptions": ["There's something specific that I should not experience at this time.","It's not healthy for my body or my spirit."],
   "desires": [ "desire to improve", "desire for social status" ],
   "related": [ "temptation", "sacrifice", "self control", "willpower" ],
+  "results": ["Each instance of abstinence may be easy or a very difficult act of willpower."],
   "opposites": [ "indulgence", "consuming" ],
   "examples": ["No dessert.","No alcohol.","Vegetarian."],
   "guidance": [{
@@ -20,44 +22,51 @@
   }],
   "variations": [{
       "name": "hesitant abstinence",
-      "description": "A dissonant desire to avoid something while also partly wanting to indulge.",
-      "perceptions": [ "Someone or something is tempting me away from the goal of avoiding something.", "But avoiding the thing is very important to me.", "The downside of abstaining is significant." ],
+      "alternateNames": ["approach-avoidance conflict"],
+      "description": "The internal conflict of wanting to avoid something while also partly wanting to indulge in it.",
+      "perceptions": [ "Someone or something is tempting me away from a goal of avoiding something.", "Avoiding this thing is pretty important to me.", "But the downside of not doing it also feels significant." ],
       "desires": [ "desire for comfort", "desire for social status", "desire to improve" ],
       "sensations": [ "dissonance","satisfaction","regret" ]
     },{
       "name": "satisfied abstinence",
-      "description": "Successfully living up to an avoidance goal may bring satisfaction for living up to your own expectations.",
-      "perceptions": [ "Someone or something is tempting me away from the goal of avoiding something.", "But avoiding the thing is very important to me.", "There's no downside to abstaining." ],
-      "desires": [ "desire for comfort", "desire for social status", "desire to improve" ],
-      "sensations": ["resolve","satisfaction"]
+      "description": "A gentle sense of pride for successfully living up to the goal of avoiding something that may have brought pleasure or relief.",
+      "perceptions": [ "Someone or something tempted me away from the goal of avoiding something.", "But avoiding the thing is very important to me.", "I was successfully avoided it." ],
+      "desires": [ "desire for comfort", "desire for social status", "desire to improve", "desire for meaning" ],
+      "sensations": ["pride","satisfaction"],
+      "related": ["resolve","healthy self-regard"]
     },{
       "name": "frugality",
       "tags": ["pattern"],
-      "description": "Avoiding unnecessary material luxuries.",
-      "perceptions": ["I'm happy with the things I have.","I don't need a new thing."],
-      "sensations": ["satisfaction"],
-      "results": ["Saving money."],
+      "description": "The habitual practice of avoiding unnecessary material and experience-based luxuries, and being efficient with given resources.",
+      "perceptions": ["I'm happy with the things and experiences I have.","I don't need a new thing or experience.","It would be improper for me to indulge in unnecessary luxuries.","I should not get used to having nice things.","I prefer to manage my resources efficiently."],
+      "desires": ["desire for simplicity","desire for predictability","aversion to loss"],
+      "sensations": ["satisfaction","anxiety"],
+      "examples": ["Limiting how much you spend on entertainment.","Only buying old cars."],
       "guidance": [{
           "description": "Tips on being frugal.",
           "references": ["https://www.experian.com/blogs/ask-experian/frugal-habits-to-save-money","https://www.synchrony.com/blog/bank/12-frugal-living-tips"]
       }]
     },{
-      "name": "silence",
+      "name": "abstaining from small talk",
       "tags": ["pattern","virtue"],
-      "description": "Avoiding unnecessary small talk and bragging.",
-      "perceptions": ["I'm confident in myself.","I don't need to engage in meaningless social contact.","I'll reserve my communication for meaningful things."],
-      "sensations": ["satisfaction"],
-      "results": ["You may gain a reputation as a serious person or as distant."],
+      "description": "The habitual practice of avoiding unnecessary social communication.",
+      "perceptions": ["I'm confident in myself.","I don't need to engage in meaningless social contact.","I recognize there is sometimes social pressure to reaffirm relationships.","I'll reserve my communication for meaningful things.","People who engage in small talk are shallow."],
+      "desires": ["desire for personal identity"],
+      "sensations": ["satisfaction","disapproval"],
+      "results": ["You may gain a reputation as a serious person or as a distant/aloof person."],
       "guidance": [{
+          "description": "There are several reasons people refrain from social pleasantries. Maybe it feels boring. Maybe there's a self-image involved. Maybe there's anxiety about making a verbal mistake. Here are some references.",
+          "references": ["https://www.psychologytoday.com/us/blog/invisible-bruises/202411/why-do-so-many-dislike-small-talk","https://www.yourtango.com/self/people-cant-stand-small-talk-share-these-traits"]
+      },{
           "description": "Tips on focusing your conversations on things that matter.",
           "references": ["https://clarityonfire.com/avoid-small-talk","https://booherresearch.com/skip-small-talk-get-know-someone"]
       }] 
     },{
       "name": "chastity",
       "tags": ["pattern","virtue"],
-      "description": "Avoiding unnecessary sexual contact.",
-      "perceptions": ["I'm saving myself for the right person and right time."],
-      "sensations": ["satisfaction"],
+      "description": "The habitual practice of avoiding unnecessary sexual contact.",
+      "perceptions": ["I'm saving myself for the right person and right time.","Sexual contact has several potentially serious implications."],
+      "sensations": ["satisfaction","anxiety"],
       "results": ["You may gain a reputation as a wholesome person or a prude."],
       "guidance": [{
           "description": "Tips on maintaining chastity.",
@@ -67,19 +76,24 @@
       "name": "temperance",
       "alternateNames": ["moderation"],
       "tags": ["pattern","virtue"],
-      "description": "Avoiding unnecessary pleasures.",
+      "description": "The habitual practice of strictly controlling your engagement in unnecessary pleasures.",
       "perceptions": ["I believe that indulging in pleasures is unhealthy in the long run.","I prefer to moderate my participation in certain pleasurable activities."],
-      "sensations": ["satisfaction"],
+      "sensations": ["satisfaction","anxiety"],
       "results": ["You may gain a reputation as a wholesome person or a prude."],
       "related": ["chastity","frugality"],
       "guidance": [{
           "description": "Tips on cultivating temperance.",
           "references": ["https://www.thepositivepsychologypeople.com/developing-temperance","https://mindfulstoic.net/applying-temperance","https://www.fisheaters.com/becomingvirtuous-temperance.html"]
-      }]
+      }],
+      "comparisons": [{
+          "links": ["abstinence"],
+          "description": "'Abstinence' is a absolute. 'Temperance' is moderate abstinence, where an occasional indulgence is allowed."
+      }],
+      "examples": ["Drinking alcohol only on special occasions.","Allowing yourself dessert only once a week."]
   }],
   "comparisons": [{
-      "links": ["frugality","chastity","silence","temperance"],
-      "description": "'Frugality', 'chastity', 'silence', and 'temperance' are specific forms of abstinence."
+      "links": ["frugality","chastity"],
+      "description": "'Frugality' and 'chastity' are specific forms of abstinence."
   }],
   "commentaries": [{
       "quote": "Complete abstinence is easier than perfect moderation.",
@@ -100,8 +114,7 @@
       "quote": "Silence is a source of great strength.",
       "attribution": "Lao Tzu"
   }],
-  "models": [
-    {
+  "models": [{
       "version": "em1",
       "variations": [{
           "names": [ "hesitant abstinence" ],
@@ -115,7 +128,7 @@
             }
           }
       },{
-          "names": [ "abstinence", "satisfied abstinence", "frugality","chastity","silence","temperance" ],
+          "names": [ "abstinence", "satisfied abstinence", "frugality","chastity","abstaining from small talk","temperance" ],
           "predominantType": "impulse",
           "levels": {
             "4,3": {

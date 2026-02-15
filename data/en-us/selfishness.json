@@ -82,6 +82,14 @@
         "attribution": "Henry Ward Beecher"
     }],
     "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "selfishness",
+            "modelName": "selfish",
+            "spoke": "mad",
+            "parent": "hostile"
+        }]
+  },{
         "version": "em1",
         "variations": [{
             "names": ["*"],

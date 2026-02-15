@@ -46,6 +46,14 @@
       "quote": "Some thinkers have suggested that faith can be made stronger by subjecting inherited beliefs to skepticism. Other people think that skepticism leads one away from faith. Many of us will wind up wherever our social circle would approve of."
   }],
   "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "skepticism",
+            "modelName": "skeptical",
+            "spoke": "mad",
+            "parent": "critical"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["skepticism","skeptical mindset"],

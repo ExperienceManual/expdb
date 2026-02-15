@@ -3,17 +3,18 @@
   "createDate": "20250406",
   "updateDate": "20250705",
   "name": "wonder",
+  "alternateNames": ["amazement"],
   "valence": 1,
   "quote": "This cave glows!",
   "description": "A sense of delight after finding something interesting, beautiful, complex, or mysterious that challenges your inner model of the world.",
   "perceptions": ["This thing is surprisingly interesting, beautiful, complex, or mysterious.","My view of the world was apparently too small."],
   "desires": ["desire for knowledge","desire for stimulation","desire for meaning"],
-  "sensations": ["delight"],
+  "sensations": ["delight","surprise"],
   "results": ["Sometimes wonder wears off with familiarity. Mysterious things may generate wonder for a long time."],
   "guidance": [{
-      "description": "",
-      "attribution": "",
-      "references": [""]
+      "description": "The sense of wonder speaks of our hunger to be moved, to be engaged and impassioned with the world and take pleasure in it, attuned to it and fascinated by it. Grateful for it.",
+      "attribution": "Gregg Levoy",
+      "references": ["https://www.psychologytoday.com/us/blog/passion/201509/7-ways-spark-your-sense-wonder"]
   }],
   "related": ["awe", "delight", "excitement"],
   "opposites": ["boredom", "ennui"],
@@ -64,6 +65,22 @@
   }],
   "spectrum": {"wonder": 2, "awe": 5, "stupefying": 8},
   "models": [{
+      "version": "plutchik",
+      "entries": [{
+          "experience": "wonder",
+          "modelName": "amazement",
+          "spokes": ["amazement"],
+          "weaker": "surprise"
+      }]
+  },{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "wonder",
+            "modelName": "fascinating",
+            "spoke": "joy",
+            "parent": "sensual"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["wonder","wonder of nature","inspirational wonder"],

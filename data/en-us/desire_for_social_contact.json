@@ -29,7 +29,7 @@
       "examples": ["Meeting friends for dinner."]
   },{
       "name": "desire for pair bond",
-      "alternateName": ["desire for romantic love"],
+      "alternateNames": ["desire for romantic love"],
       "description": "A desire to find a person to share your life with.",
       "perceptions": ["I need to find my life partner."],
       "desires": ["desire for companionship","desire for validation","desire for stimulation","desire for comfort","desire for sex","desire for parenthood"],

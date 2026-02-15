@@ -27,8 +27,15 @@
       "quote": "An introspection process is: imagine a model, become the model, compare it against real-world experience, repeat. For example, if you're trying to figure out why you're a little sad, come up with a possible reason and embrace that reason. You'll resonate when you find the right one(s). Because it's raining? Nah. Because I miss my cat? Maybe. Because they forgot my birthday? Yeah, probably that's it."
     }
   ],
-  "models": [
-    {
+  "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "introspection",
+            "modelName": "thoughtful",
+            "spoke": "peaceful",
+            "parent": "peaceful"
+        }]
+  },{
       "version": "em1",
       "variations": [
         {

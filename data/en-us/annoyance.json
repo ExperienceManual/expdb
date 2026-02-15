@@ -49,6 +49,14 @@
     "rage": 7
   },
   "models": [{
+      "version": "plutchik",
+      "entries": [{
+          "experience": "annoyance",
+          "modelName": "annoyance",
+          "spokes": ["rage"],
+          "stronger": "anger"
+      }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["annoyance","pet peeve"],

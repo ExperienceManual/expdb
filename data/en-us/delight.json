@@ -27,6 +27,14 @@
     "glee": 6
   },
   "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "delight",
+            "modelName": "delightful",
+            "spoke": "joy",
+            "parent": "aware"
+        }]
+  },{
       "version": "em1",
       "variations": [
         {

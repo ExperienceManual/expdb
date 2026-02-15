@@ -76,6 +76,23 @@
       "attribution": "Stephen M. R. Covey"
   }],
   "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "trust",
+            "modelName": "trusting",
+            "spoke": "peaceful",
+            "parent": "peaceful"
+        }]
+  },{
+      "version": "plutchik",
+      "entries": [{
+          "experience": "trust",
+          "modelName": "trust",
+          "spokes": ["admiration"],
+          "stronger": "admiration",
+          "weaker": "acceptance"
+      }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["trust"],

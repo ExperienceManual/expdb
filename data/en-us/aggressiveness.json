@@ -51,6 +51,21 @@
       "attribution": "Sigmund Freud"
   }],
   "models": [{
+      "version": "plutchik",
+      "entries": [{
+          "experience": "aggressiveness",
+          "modelName": "aggressiveness",
+          "spokes": ["vigilance","rage"]
+      }]
+  },{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "aggressiveness",
+            "modelName": "hostile",
+            "spoke": "mad",
+            "parent": "mad"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["aggressiveness"],

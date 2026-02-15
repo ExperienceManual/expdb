@@ -3,6 +3,7 @@
   "createDate": "20250720",
   "updateDate": "20250720",
   "name": "validation",
+  "alternateNames": ["respected"],
   "valence": 1,
   "quote": "She agreed with me.",
   "description": "A perception that someone is confirming some aspect of your social value.",
@@ -46,6 +47,14 @@
       "attribution": "Jill Bolte Taylor"
   }],
   "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "validation",
+            "modelName": "respected",
+            "spoke": "powerful",
+            "parent": "powerful"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["validation","being seen"],

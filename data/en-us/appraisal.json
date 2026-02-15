@@ -70,6 +70,7 @@
         }]
     },{
         "name": "negative judgment",
+        "alternateNames": ["disapproval"],
         "description": "A negative appraisal about qualities or actions of something or someone.",
         "perceptions": ["That thing or person has an aspect or doing something that I find unappealing."],
         "desires": ["desire for comfort","desire for safety","desire for social status"],
@@ -82,6 +83,7 @@
         }]
     },{
         "name": "positive judgment",
+        "alternateNames": ["approval"],
         "description": "A positive appraisal about qualities or actions of something or someone.",
         "perceptions": ["That thing or person has an aspect or doing something that I find appealing."],
         "desires": ["desire for comfort","desire for social status"],
@@ -116,6 +118,13 @@
         "attribution": "Robert Herjavec in 'The Will To Win: Leading, Competing, Succeeding'"
     }],
     "models": [{
+        "version": "plutchik",
+        "entries": [{
+            "experience": "negative judgment",
+            "modelName": "disapproval",
+            "spokes": ["grief","amazement"]
+        }]
+    },{
         "version": "em1",
         "variations": [{
             "names": ["appraisal","evaluation","judging"],

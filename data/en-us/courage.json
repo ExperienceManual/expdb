@@ -87,6 +87,14 @@
         "recklessness": 9
     },
     "models": [{
+	"version": "willcox82",
+	"entries": [{
+	    "experience": "courage",
+	    "modelName": "daring",
+	    "spoke": "joy",
+	    "parent": "excited"
+	}]
+    },{
         "version": "em1",
         "variations": [{
             "names": ["courage"],

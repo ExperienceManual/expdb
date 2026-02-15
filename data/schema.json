@@ -448,11 +448,10 @@
       "default": [],
       "items": {
         "type": "object",
-        "additionalProperties": false,
+        "additionalProperties": true,
         "default": {},
         "required": [
-          "version",
-          "variations"
+          "version"
         ],
         "properties": {
           "version": {

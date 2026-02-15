@@ -35,6 +35,14 @@
   }],
   "spectrum": {"guilt": 5, "remorse": 7},
   "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "guilt",
+            "modelName": "guilty",
+            "spoke": "sad",
+            "parent": "sad"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["guilt"],

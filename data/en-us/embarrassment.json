@@ -39,6 +39,14 @@
         "shame": 8
     },
     "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "embarrassment",
+            "modelName": "embarrassed",
+            "spoke": "scared",
+            "parent": "anxious"
+        }]
+  },{
         "version": "em1",
         "variations": [{
             "names": ["embarrassment"],

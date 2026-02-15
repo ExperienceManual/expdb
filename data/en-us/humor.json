@@ -64,8 +64,15 @@
     "hilarious": 8,
     "ROFL": 10
   },
-  "models": [
-    {
+  "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "humor",
+            "modelName": "amused",
+            "spoke": "joy",
+            "parent": "playful"
+        }]
+  },{
       "version": "em1",
       "variations": [
         {

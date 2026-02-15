@@ -33,6 +33,15 @@
       "attribution": "adage"
   }],
   "models": [{
+      "version": "plutchik",
+      "entries": [{
+          "experience": "anticipation",
+          "modelName": "anticipation",
+          "spokes": ["vigilance"],
+          "stronger": "vigilance",
+          "weaker": "interest"
+      }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["anticipation"],

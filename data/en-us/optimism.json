@@ -47,6 +47,13 @@
   }],
   "spectrum": {"optimism": 1, "hope": 3, "dream": 5, "wish": 7},
   "models": [{
+      "version": "plutchik",
+      "entries": [{
+          "experience": "optimism",
+          "modelName": "optimism",
+          "spokes": ["ecstacy","vigilance"]
+      }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["optimism","optimistic mindset"],

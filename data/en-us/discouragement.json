@@ -37,8 +37,15 @@
       "quote": "Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times.",
       "attribution": "Napoleon Hill"
   }],
-  "models": [
-    {
+  "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "discouragement",
+            "modelName": "discouraged",
+            "spoke": "scared",
+            "parent": "confused"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["discouragement"],

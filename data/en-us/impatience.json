@@ -77,6 +77,14 @@
     "rage": 7
   },
   "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "impatience",
+            "modelName": "irritated",
+            "spoke": "mad",
+            "parent": "hateful"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["impatience","impatient endurance"],

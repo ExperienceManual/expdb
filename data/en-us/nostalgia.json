@@ -1,35 +1,57 @@
 {
   "lang": "en/us",
   "createDate": "20241201",
-  "updateDate": "20250917",
+  "updateDate": "20260213",
   "name": "nostalgia",
   "valence": 0,
   "quote": "Those were the days.",
-  "description": "Pleasant memories of the past along with a sense of sadness that you can no longer directly experience that world. Often the memories are centered on other people and how you felt better at that time in some way.",
+  "description": "Pleasant memories of the past along with a sense of sadness that you can no longer directly experience that world.",
   "perceptions": ["There was a time in the past when I felt better in some way than I do now."],
   "desires": ["desire for comfort"],
   "sensations": ["wistfulness","longing","losing"],
   "results": ["A desire to re-experience those times."],
   "related": ["sadness","bittersweet","losing"],
-  "variations": [
-    {
+  "variations": [{
+      "name": "sentimental",
+      "description": "Pleasant memories of a past person, thing, or experience along with gratitude that you were able to experience something.",
+      "perceptions": ["A person, thing, or experience in the past is perceived as positive.","Thinking about it brings a spark of positivity."],
+      "desires": ["desire for comfort"],
+      "sensations": ["satisfaction","gratitude","happiness"],
+      "examples": ["Memories of your wedding.","Keeping that grimy old stuffed animal."],
+      "comparisons": [{
+          "links": ["nostalgia"],
+          "description": "Being sentimental is being nostaligic with joy instead of sadness."
+      }]
+  },{
       "name": "cohort bonding",
       "description": "Nostalgia can be a generational group bond with others who share the memories.",
       "perceptions": ["There was a time in the past when you felt better in some way than you do now.","Other people of your age shared some of the same experiences.","Talking to those people might help partially re-experiencing the good times."],
       "desires": ["desire for comfort","desire for social contact"],
-      "sensations": ["wistfulness","social contact"]
-    }
-  ],
-  "commentaries": [
-    {
-      "quote": "Nostalgic memories are sometimes idealized, benefiting from having left behind the anxieties of that moment."
+      "sensations": ["wistfulness","social contact"],
+      "examples": ["Talking with people your age about TV shows from when you were kids."]
+  }],
+  "commentaries": [{
+      "quote": "Nostalgia is a file that removes the rough edges from the good old days.",
+      "attribution": "Doug Larson"
     },{
       "quote": "It is sadder to find the past again and find it inadequate to the present than it is to have it elude you and remain forever a harmonious conception of memory.",
       "attribution": "F. Scott Fitzgerald"
-    }
-  ],
-  "models": [
-    {
+  },{
+      "quote": "Nostalgia can be so painful at times; nothing is worse than wanting what you can't have.",
+      "attribution": "Jeffrey Calhoun"
+  },{
+      "quote": "It's a twinge in your heart far more powerful than memory alone. This device isn't a spaceship, it's a time machine. It goes backwards, and forwards…it takes us to a place where we ache to go again.",
+      "attribution": "Matthew Weiner via Don Draper in Mad Men"
+  }],
+  "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "sentimental",
+            "modelName": "sentimental",
+            "spoke": "peaceful",
+            "parent": "trust"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["nostalgia"],

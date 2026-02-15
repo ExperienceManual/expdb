@@ -14,7 +14,7 @@
       "description": "Surprise is a basic capacity of the mind that's a 'gateway' sensation to many other experiences and is important in directing our attention.",
       "references": ["https://www.psychologytoday.com/us/blog/surprise/202205/the-power-surprise","https://www.wnycstudios.org/podcasts/takeaway/segments/surprise-unexpected-why-it-feels-good-and-why-its-good-us"]
   }],
-  "related": ["excitement", "delight", "horror", "confusion"],
+  "related": ["excitement", "delight", "horror", "confusion","wonder"],
   "opposites": ["anticipation", "boredom"],
   "comparisons": [{
       "links": ["excitement"],
@@ -49,6 +49,15 @@
   }],
   "spectrum": {"kick": 3, "surprise": 5, "shock": 8},
   "models": [{
+      "version": "plutchik",
+      "entries": [{
+          "experience": "surprise",
+          "modelName": "surprise",
+          "spokes": ["amazement"],
+          "stronger": "amazement",
+          "weaker": "distraction"
+      }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["surprise","novelty"],

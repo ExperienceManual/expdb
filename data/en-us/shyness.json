@@ -57,6 +57,14 @@
         "attribution": "Joe Morgan"
     }],
     "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "shyness",
+            "modelName": "bashful",
+            "spoke": "sad",
+            "parent": "guilty"
+        }]
+  },{
         "version": "em1",
         "variations": [{
             "names": ["shyness"],

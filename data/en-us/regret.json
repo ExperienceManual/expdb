@@ -108,6 +108,13 @@
       "remorse": 6
   },
   "models": [{
+      "version": "plutchik",
+      "entries": [{
+          "experience": "regret",
+          "modelName": "remorse",
+          "spokes": ["loathing","grief"]
+      }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["regret","fear of missing out"],

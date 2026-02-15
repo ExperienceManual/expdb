@@ -74,6 +74,14 @@
         "attribution": "Werner Heisenberg"
     }],
     "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "competence",
+            "modelName": "worthwhile",
+            "spoke": "powerful",
+            "parent": "hope"
+        }]
+  },{
         "version": "em1",
         "variations": [{
             "names": ["competence","expertise"],

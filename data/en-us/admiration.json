@@ -53,8 +53,15 @@
     "star struck": 9,
     "hero worship": 10
   },
-  "models": [
-    {
+  "models": [{
+      "version": "plutchik",
+      "entries": [{
+          "experience": "admiration",
+          "modelName": "admiration",
+          "spokes": ["admiration"],
+          "weaker": "trust"
+      }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["*"],

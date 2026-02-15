@@ -46,6 +46,14 @@
          "quote": "Without a social goal, our only drives are physical. This can be good for a while but we are social creatures who depend on each other for survival. If too many of us were aimless all the time, things would be bad."
     }],
     "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "restful aimlessness",
+            "modelName": "relaxed",
+            "spoke": "peaceful",
+            "parent": "thoughtful"
+        }]
+  },{
         "version": "em1",
         "variations": [{
             "names": ["aimlessness"],

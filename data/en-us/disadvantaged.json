@@ -17,7 +17,7 @@
   "opposites": ["advantaged"],
   "variations": [{
       "name": "facing the impossible",
-      "alternateNames": ["powerless"],
+      "alternateNames": ["powerless","helpless"],
       "description": "The sense that a significant challenge or threat is not possible to overcome and that there will be negative consequences.",
       "perceptions": ["I do not have the ability to change the environment or solve a problem.","There will be negative consequences."],
       "sensations": ["hopelessness"],
@@ -51,7 +51,7 @@
   },{
       "name": "knowledge disadvantage",
       "description": "The sense that you are less able than most to be able to resolve problems in the world of ideas.",
-      "perceptions": ["I lack the ability to resolve problems in the idea environment.","Other people would have more success than me."],
+      "perceptions": ["I lack the ability to resolve problems in the idea environment.","Other people have more success than me in this area."],
       "desires": ["desire to improve","desire for social influence"],
       "guidance": [{
           "description": "See guidance for 'mentally advantaged'.",
@@ -95,6 +95,29 @@
       "attribution": "Henry Petroski"
   }],
   "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "socially disadvantaged",
+            "modelName": "weak",
+            "spoke": "scared",
+            "parent": "submissive"
+        },{
+            "experience": "facing the impossible",
+            "modelName": "helpless",
+            "spoke": "scared",
+            "parent": "scared"
+        },{
+            "experience": "inferiority",
+            "modelName": "inferior",
+            "spoke": "sad",
+            "parent": "bored"
+        },{
+            "experience": "disadvantaged",
+            "modelName": "inadequate",
+            "spoke": "sad",
+            "parent": "lonely"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["disadvantaged","physically disadvantaged"],

@@ -61,8 +61,15 @@
     "appreciativeness": 3,
     "gratitude": 5
   },
-  "models": [
-    {
+  "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "gratitude",
+            "modelName": "thankful",
+            "spoke": "powerful",
+            "parent": "powerful"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["gratitude"],

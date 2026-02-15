@@ -60,6 +60,14 @@
         "attribution": "Louise Berliawsky Nevelson"
     }],
     "models": [{
+        "version": "plutchik",
+        "entries": [{
+            "experience": "acceptance",
+            "modelName": "acceptance",
+            "spokes": ["admiration"],
+            "stronger": "trust"
+        }]
+    },{
         "version": "em1",
         "variations": [{
             "names": ["acceptance"],

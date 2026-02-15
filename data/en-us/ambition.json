@@ -64,6 +64,14 @@
       "attribution": "Bill Bradley"
   }],
   "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "motivation",
+            "modelName": "energetic",
+            "spoke": "joy",
+            "parent": "joy"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["*"],

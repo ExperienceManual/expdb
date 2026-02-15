@@ -81,6 +81,14 @@
     "rage": 7
   },
   "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "frustration",
+            "modelName": "frustrated",
+            "spoke": "mad",
+            "parent": "angry"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["frustration"],

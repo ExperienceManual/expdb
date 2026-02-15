@@ -92,6 +92,14 @@
   }],
   "spectrum": {"team spirit": 5, "group bond": 5, "tribalism": 8},
   "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "loyalty",
+            "modelName": "faithful",
+            "spoke": "powerful",
+            "parent": "powerful"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["group bond","team spirit","loyalty"],

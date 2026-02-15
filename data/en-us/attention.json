@@ -62,6 +62,7 @@
         }]
     },{
         "name": "sustained attention",
+        "alternateNames": ["vigilance"],
         "description": "The act of focusing your mind on a sensation, goal, or perception for an extended period.",
         "perceptions": ["I need to work on achieving a particular goal within a certain time period.","I will try to keep focus on the goal."],
         "desires": ["many"],
@@ -144,6 +145,14 @@
         "attribution": "Roy T. Bennett"
     }],
     "models": [{
+        "version": "plutchik",
+        "entries": [{
+            "experience": "sustained attention",
+            "modelName": "vigilance",
+            "spokes": ["vigilance"],
+            "weaker": "anticipation"
+        }]
+    },{
         "version": "em1",
         "variations": [{
             "names": ["*"],

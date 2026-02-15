@@ -83,6 +83,14 @@
   }],
   "spectrum": {"sorrow": 3, "mourning": 4, "grief": 5, "anguish": 8},
   "models": [{
+      "version": "plutchik",
+      "entries": [{
+          "experience": "grief",
+          "modelName": "grief",
+          "spokes": ["grief"],
+          "weaker": "sadness"
+      }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["grief","anticipatory grief"],

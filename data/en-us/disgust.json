@@ -84,6 +84,20 @@
     "loathing": 7
   },
   "models": [{
+      "version": "plutchik",
+      "entries": [{
+          "experience": "disgust",
+          "modelName": "loathing",
+          "spokes": ["loathing"],
+          "weaker": "disgust"
+      },{
+          "experience": "disgust",
+          "modelName": "disgust",
+          "spokes": ["loathing"],
+          "weaker": "boredom",
+          "stronger": "loathing"
+      }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["disgust"],

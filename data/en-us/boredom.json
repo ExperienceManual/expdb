@@ -65,6 +65,22 @@
     "bored to death": 7
   },
   "models": [{
+      "version": "plutchik",
+      "entries": [{
+          "experience": "boredom",
+          "modelName": "boredom",
+          "spokes": ["loathing"],
+          "stronger": "disgust"
+      }]
+  },{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "boredom",
+            "modelName": "bored",
+            "spoke": "sad",
+            "parent": "sad"
+        }]
+  },{
       "version": "em1",
       "variations": [{
 	  "names": ["boredom","bored with inactivity"],

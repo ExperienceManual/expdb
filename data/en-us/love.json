@@ -30,6 +30,21 @@
   }],
   "spectrum": {"like": 1, "fond": 2, "adore": 3, "love": 5, "treasure": 6},
   "models": [{
+      "version": "plutchik",
+      "entries": [{
+          "experience": "love",
+          "modelName": "love",
+          "spokes": ["admiration","ecstacy"]
+      }]
+  },{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "love",
+            "modelName": "loving",
+            "spoke": "peaceful",
+            "parent": "peaceful"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["love"],

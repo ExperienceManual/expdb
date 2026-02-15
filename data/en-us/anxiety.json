@@ -79,6 +79,19 @@
     "panic": 9
   },
   "models": [{
+        "version": "willcox82",
+        "entries": [{
+            "experience": "anxiety",
+            "modelName": "anxious",
+            "spoke": "scared",
+            "parent": "scared"
+        },{
+            "experience": "social anxiety",
+            "modelName": "insecure",
+            "spoke": "scared",
+            "parent": "scared"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["anxiety","performance anxiety"],
