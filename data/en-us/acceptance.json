@@ -30,7 +30,7 @@
         "related": ["winning","losing","agreeableness"]
     },{
         "name": "unhappy acceptance",
-        "alternateNames": ["being resigned"],
+        "alternateNames":["resignation","being resigned"],
         "description": "Reacting to the reality of an undesired outcome with a sense of loss, but not trying to change it.",
         "perceptions": ["I would have much preferred a different outcome.","But I can't change this outcome.","I will unfortunately need to get used to this one."],
         "desires": ["desire for comfort"],
@@ -66,6 +66,15 @@
             "modelName": "acceptance",
             "spokes": ["admiration"],
             "stronger": "trust"
+        }]
+    },{
+        "version": "ekmanatlas",
+        "entries": [{
+            "experience": "unhappy acceptance", 
+            "modelName": "resignation",
+            "continent": "sadness",
+            "stronger": "helplessness",
+            "weaker": "distraughtness"
         }]
     },{
         "version": "em1",

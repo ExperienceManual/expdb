@@ -38,6 +38,15 @@
         "attribution": "C Wilson Meloncelli"
     }],
     "models": [{
+        "version": "ekmanatlas",
+        "entries": [{
+            "experience": "flow", 
+            "modelName": "excitement",
+            "continent": "enjoyment",
+            "stronger": "ecstasy",
+            "weaker": "wonder"
+        }]
+    },{
         "version": "em1",
         "variations": [{
             "names": ["flow"],

@@ -66,8 +66,16 @@
     "terror": 7,
     "panic": 9
   },
-  "models": [
-    {
+  "models": [{
+        "version": "ekmanatlas",
+        "entries": [{
+            "experience": "horror",
+            "modelName": "horror",
+            "continent": "fear",
+            "weaker": "panic",
+            "stronger": "terror"
+         }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["horror","surprised horror"],

@@ -91,6 +91,26 @@
           "weaker": "sadness"
       }]
   },{
+        "version": "ekmanatlas",
+        "entries": [{
+            "experience": "grief", 
+            "modelName": "grief",
+            "continent": "sadness",
+            "stronger": "sorrow",
+            "weaker": "despair"
+        },{
+            "experience": "grief", 
+            "modelName": "sorrow",
+            "continent": "sadness",
+            "stronger": "anguish",
+            "weaker": "grief"
+        },{
+            "experience": "grief", 
+            "modelName": "anguish",
+            "continent": "sadness",
+            "weaker": "sorrow"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["grief","anticipatory grief"],

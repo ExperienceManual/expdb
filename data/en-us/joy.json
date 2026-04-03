@@ -33,6 +33,15 @@
         "attribution": "Rabindranath Tagore"
     }],
     "models": [{
+        "version": "ekmanatlas",
+        "entries": [{
+            "experience": "joy", 
+            "modelName": "compassion/joy",
+            "continent": "enjoyment",
+            "stronger": "amusement",
+            "weaker": "rejoicing"
+        }]
+    },{
         "version": "plutchik",
         "entries": [{
             "experience": "joy",

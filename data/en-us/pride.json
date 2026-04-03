@@ -27,6 +27,21 @@
             "parent": "powerful"
         }]
   },{
+        "version": "ekmanatlas",
+        "entries": [{
+            "experience": "pride", 
+            "modelName": "pride",
+            "continent": "enjoyment",
+            "stronger": "fiero",
+            "weaker": "relief"
+        },{
+            "experience": "pride", 
+            "modelName": "naches",
+            "continent": "enjoyment",
+            "stronger": "wonder",
+            "weaker": "fiero"
+        }]
+  },{
         "version": "em1",
         "variations": [{
             "names": ["pride"],

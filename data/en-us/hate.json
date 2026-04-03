@@ -49,8 +49,7 @@
     "scorn": 3,
     "hate": 5,
     "despise": 7,
-    "loathe": 8,
-    "disgust": 8
+    "loathe": 8
   },
   "models": [{
         "version": "willcox82",
@@ -59,6 +58,21 @@
             "modelName": "hateful",
             "spoke": "mad",
             "parent": "mad"
+        }]
+  },{
+        "version": "ekmanatlas",
+        "entries": [{
+            "experience": "hate", 
+            "modelName": "repugnance",
+            "continent": "disgust",
+            "stronger": "revulsion",
+            "weaker": "distaste"
+        },{
+            "experience": "hate", 
+            "modelName": "abhorrence",
+            "continent": "disgust",
+            "stronger": "loathing",
+            "weaker": "revulsion"
         }]
   },{
       "version": "em1",

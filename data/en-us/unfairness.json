@@ -63,7 +63,7 @@
         }]
     },{
         "name": "resentment",
-        "alternateNames": ["indignation"],
+        "alternateNames": ["indignation","bitterness"],
         "description": "A form of low-grade anger towards a person, group, or situation perceived as having treated you unfairly.",
         "perceptions": ["Someone chose an outcome that was not fair to me.","It doesn't break a major social rule, but it still irritates me."],
         "desires": ["desire for justice","desire for order","desire for validation"],
@@ -135,6 +135,15 @@
             "parent": "mad"
         }]
   },{
+        "version": "ekmanatlas", 
+        "entries": [{
+            "experience": "resentment",
+            "modelName": "bitterness",
+            "continent": "anger",
+            "stronger": "vengefulness",
+            "weaker": "argumentativeness"
+        }]
+  },{ 
         "version": "em1",
         "variations": [{
             "names": ["unfairness","injustice","unfairness of nature","resentment"],

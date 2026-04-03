@@ -73,6 +73,15 @@
             "parent": "playful"
         }]
   },{
+        "version": "ekmanatlas",
+        "entries": [{
+            "experience": "humor", 
+            "modelName": "amusement",
+            "continent": "enjoyment",
+            "stronger": "relief",
+            "weaker": "compassion/joy"
+        }]
+  },{
       "version": "em1",
       "variations": [
         {

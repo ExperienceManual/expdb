@@ -42,6 +42,15 @@
         "attribution": "Frank Sinatra"
     }],
     "models": [{
+        "version": "ekmanatlas", 
+        "entries": [{
+            "experience": "vengefulness",
+            "modelName": "vengefulness",
+            "continent": "anger",
+            "stronger": "fury",
+            "weaker": "bitterness"
+        }]
+  },{ 
         "version": "em1",
         "variations": [{
             "names": ["vengefulness"],

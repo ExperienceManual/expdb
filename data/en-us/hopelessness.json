@@ -37,6 +37,15 @@
   }],
   "spectrum": {"pessimism": 1, "hopelessness": 5, "depression": 7},
   "models": [{
+        "version": "ekmanatlas",
+        "entries": [{
+            "experience": "hopelessness", 
+            "modelName": "hopelessness",
+            "continent": "sadness",
+            "stronger": "misery",
+            "weaker": "helplessness"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["hopelessness"],

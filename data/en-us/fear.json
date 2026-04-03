@@ -1,15 +1,15 @@
 {
   "lang": "en/us",
   "createDate": "20250223",
-  "updateDate": "20250610",
+  "updateDate": "20260216",
   "name": "fear",
   "valence": -1,
   "quote": "Watch out for that car!",
-  "description": "Perception that a major negative impact is happening or about to happen to you or someone important to you. The impact may be physical or social.",
-  "perceptions": ["Something is happening or about to happen that is going to negatively affect me or someone/something I care about.","I need to do something about it."],
+  "description": "A perception that a major negative impact is happening or about to happen to you or someone important to you.",
+  "perceptions": ["Something is happening or about to happen that is going to negatively affect me or someone/something I care about.","I predict sigificant physical or social damage.","I need to do something about it."],
   "desires": ["desire for safety","desire for social status"],
   "sensations": ["anxiety"],
-  "results": ["may invoke the fight, flight, or freeze response"],
+  "results": ["Fear may invoke the fight, flight, or freeze response."],
   "guidance": [{
       "description": "Fear and panic are primal reactions, but they're not always triggered by things that will actually harm us. If fear or anxiety is clouding your life, these references may be helpful.",
       "references": ["https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/anxiety-fear-panic/","https://www.nhsinform.scot/healthy-living/mental-wellbeing/fears-and-phobias/10-ways-to-fight-your-fears/","https://www.youtube.com/@TherapyinaNutshell"]
@@ -32,7 +32,20 @@
       "related": ["paranoia"],
       "examples": ["He's afraid to travel by air.","claustrophobia"]
   },{
-      "name": "panic attack",
+      "name": "desperation",
+      "description": "A perception that a major negative impact is about to happen to you or someone important to you, along with a strong desire to control the outcome, but without any way of controlling it.",
+      "perceptions": ["Something is happening or about to happen that is going to negatively affect me or someone/something I care about.","I predict sigificant physical or social damage.","I need to do something about it.","But I have no idea what to do."],
+      "desires": ["desire for safety","desire for control"],
+      "sensations": ["fear","facing the impossible","helplessness"],
+      "related": ["overwhelmed"],
+      "examples": ["Trying an experimental cure for a terrible disease."],
+      "comparisons": [{
+          "links": ["fear","helplessness"],
+          "description": "'Desperation' is the intersection of 'fear' and 'helplessness'. You strongly want to avoid the oncoming danger, but cannot find a way."
+      }]
+  },{
+      "name": "panic",
+      "alternateNames": ["panic attack"],
       "description": "Perception that a major negative impact is happening or about to happen to you or someone important to you, with an intense physical reaction: racing heart, dizziness, shaking, and other symptoms.",
       "perceptions": ["Something is happening or about to happen that is going to negatively affect me or someone/something I care about.","It's overwhelmed my ability to handle it."],
       "desires": ["desire for safety","desire for social status"],
@@ -65,6 +78,7 @@
     "concern": 1,
     "worry": 1,
     "anxiety": 2,
+    "trepidation": 2,
     "fear": 4,
     "dread": 5,
     "horror": 6,
@@ -94,9 +108,46 @@
             "spoke": "scared"
         }]
   },{
+        "version": "ekmanatlas",
+        "entries": [{
+            "experience": "fear",
+            "modelName": "fear",
+            "continent": "fear",
+            "strongest": "terror",
+            "weakest": "trepidation"
+        },{
+            "experience": "fear",
+            "modelName": "trepidation",
+            "continent": "fear",
+            "stronger": "nervousness"
+        },{
+            "experience": "fear",
+            "modelName": "dread",
+            "continent": "fear",
+            "weaker": "anxiety",
+            "stronger": "desperation"
+        },{
+            "experience": "fear",
+            "modelName": "desperation",
+            "continent": "fear",
+            "weaker": "dread",
+            "stronger": "panic"
+        },{
+            "experience": "fear",
+            "modelName": "panic",
+            "continent": "fear",
+            "weaker": "desperation",
+            "stronger": "horror"
+        },{
+            "experience": "fear",
+            "modelName": "terror",
+            "continent": "fear",
+            "weaker": "horror"
+        }]
+  },{
       "version": "em1",
       "variations": [{
-          "names": ["fear","phobia","panic attack"],
+          "names": ["fear","phobia","panic"],
           "predominantType": "sensation",
           "levels": {
             "3,2,1": {

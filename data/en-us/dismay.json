@@ -30,6 +30,14 @@
     "misery": 8
   },
   "models": [{
+        "version": "ekmanatlas",
+        "entries": [{
+            "experience": "dismay",
+            "modelName": "disappointment",
+            "continent": "sadness",
+            "stronger": "discouragement"
+        }]
+  },{
       "version": "em1",
       "variations": [
         {

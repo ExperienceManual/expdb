@@ -37,6 +37,18 @@
           "references": ["https://www.psychotactics.com/avoid-overwhelm/"]
       }],
       "examples": ["big project you're not ready for","getting some bad news that requires your response"]
+  },{
+      "name": "distraughtness",
+      "description": "Feeling that you should respond to an outcome, but being so full of dismay that it's difficult to figure out what to do.",
+      "perceptions": ["Something happened that has created a deep sense of dismay and loss.","There doesn't seem to be more danger coming.","I'm so sad I can't process everything.","I probably should be doing something, but don't know what."],
+      "desires": ["desire for agency","desire for comfort"],
+      "sensations": ["overwhelmed","sadness","losing"],
+      "examples": ["Not knowing how to respond to being in a car crash."],
+      "related": ["grief"],
+      "comparisons": [{
+          "links": ["overwelmed","sadness"],
+          "description": "'Distraughtness' is being overwhelmed by sadness to the point where you're not sure what to do."
+      }]
   }],
   "commentaries": [{
       "quote": "Dealing with the complications of modern life can strain your ability to keep up with it: bills, appointments, home ownership, parenthood, spam, avoiding scams, traffic, making ends meet, relationships. It all adds up. Consider taking one thing at a time."
@@ -58,6 +70,15 @@
       "panic attack": 10
   },
   "models": [{
+        "version": "ekmanatlas",
+        "entries": [{
+            "experience": "distraughtness", 
+            "modelName": "distraughtness",
+            "continent": "sadness",
+            "stronger": "resignation",
+            "weaker": "discouragement"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["overwhelmed","too many things to do"],

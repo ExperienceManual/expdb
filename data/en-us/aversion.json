@@ -1,11 +1,11 @@
 {
   "lang": "en/us",
   "createDate": "20241211",
-  "updateDate": "20260114",
+  "updateDate": "20260320",
   "name": "aversion",
   "valence": -1,
   "quote": "That painting is ugly as sin.",
-  "description": "Unattractiveness to the senses or sensibilities in purely subjective arena.",
+  "description": "Unattractiveness to the senses or sensibilities.",
   "perceptions": ["Something brings dismay by being judged as a poorly-formed instance of its type of thing."],
   "results": ["preference to not experience this often"],
   "related": [ "dismay", "disgust","ill will","disrespect","contempt","hate" ],
@@ -20,11 +20,8 @@
       "opposites": ["desire for a particular outcome"]
   }],
   "comparisons": [{
-    "links": ["disgust"],
-    "description": "Disgust is the perception that the target could somehow contaminate you. Aversion is simply not liking the thing without perceiving that it could somehow taint you."
-  },{
-    "links": ["hate"],
-    "description": "You 'hate' things that you never want to experience again. Aversion is weaker - you find the thing 'poorly-formed' but can probably tolerate experiencing it again."
+    "links": ["disgust","hate"],
+    "description": "'Disgust' is the perception that the target could somehow contaminate you. Aversion is simply not liking the thing without perceiving that it could somehow taint you. At higher levels of intensity, 'aversion' starts mixing with 'disgust' to become 'hate'."
   },{
     "links": ["disrespect"],
     "description": "You can have an aversion to a specific trait or thing without necessarily disrespecting the person as whole. For instance, you may be averse to your mother smoking, but not that may not be enough to make you disrespect her."
@@ -73,13 +70,35 @@
     "dislike": 1,
     "aversion": 3,
     "scorn": 3,
+    "distaste": 3,
     "hate": 5,
+    "repugnance": 5,
+    "revulsion": 6,
+    "abhorrence": 7,
     "despise": 7,
-    "loathe": 8,
-    "disgust": 8
+    "loathing": 8
   },
-  "models": [
-    {
+  "models": [{
+        "version": "ekmanatlas",
+        "entries": [{
+            "experience": "aversion",
+            "modelName": "dislike",
+            "continent": "disgust", 
+            "stronger": "aversion"
+        },{
+            "experience": "aversion", 
+            "modelName": "aversion",
+            "continent": "aversion",
+            "stronger": "distaste",
+            "weaker": "dislike"
+        },{
+            "experience": "aversion", 
+            "modelName": "distaste",
+            "continent": "aversion",
+            "stronger": "repugnance",
+            "weaker": "aversion"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["*"],

@@ -27,6 +27,20 @@
       "desires": ["desire to solve a problem","desire for social status"],
       "sensations": ["frustration","doubt","sadness","anxiety"],
       "results": ["dissonance"]
+  },{
+      "name": "exasperation",
+      "description": "Doubt about being unable to achieve a desired outcome along with major frustration and a readiness to give up.",
+      "perceptions": ["You've been struggling with a task.","You've gotten very frustrated and doubt your ability to complete the task.","You're ready to give up, but not happy about it."],
+      "desires": ["desire to solve a problem"],
+      "sensations": ["frustration","doubt","anger","anxiety"],
+      "results": ["dissonance"],
+      "comparisons": [{
+          "links": ["discouragement"],
+          "description": "'Exasperation' is 'discouragement' with a side of 'anger'."
+      },{
+          "links": ["frustration"],
+          "description": "'Exasperation' is late-stage 'frustration' where you're still dissonant about letting go of something you feel is somewhat important."
+      }]
   }],
   "commentaries": [{
       "quote": "When you predict a failure, it can be difficult to attribute the appropriate of amount of self-blame."
@@ -46,6 +60,21 @@
             "parent": "confused"
         }]
   },{
+        "version": "ekmanatlas",
+        "entries": [{
+            "experience": "discouragement",
+            "modelName": "discouragement", 
+            "continent": "sadness",
+            "stronger": "distraughtness", 
+            "weaker": "disappointment"
+        },{
+            "experience": "exasperation",
+            "modelName": "exasperation", 
+            "continent": "anger",
+            "stronger": "argumentativeness", 
+            "weaker": "frustration"
+        }]
+  },{ 
       "version": "em1",
       "variations": [{
           "names": ["discouragement"],

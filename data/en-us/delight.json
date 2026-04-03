@@ -16,6 +16,17 @@
     "links": ["happiness","joy"],
     "description": "Delight is a short positive feeling about something minor. Happiness is a longer-lasting sensation about a positive outcome. Joy is the robust ability to stay positive even without a specific event or memory."
   }],
+  "variations": [{
+      "name": "ecstasy",
+      "description": "An intense delight caused by perceiving a positive connection with something existentially bigger than yourself.",
+      "perceptions": ["I'm communicating with my God or The Universe.","My everyday problems are not so important.","It feels really amazing."],
+      "desires": ["desire for meaning","desire for comfort"],
+      "sensations": ["delight","mystical spiritual experience","mystical religious experience"],
+      "comparisons": [{
+          "links": ["mystical spiritual experience","mystical religious experience"],
+          "description": "A spiritual experience may include a sense of ecstasy or perhaps not."
+      }]
+  }],
   "commentaries": [{
       "quote": "Delight is the basic deep-down positive experience. There are many more complex experiences that cast delight through your whole being. For example, finding wild raspberries may create positive excitement at the mental, social, and bodily levels."
   },{
@@ -27,6 +38,20 @@
     "glee": 6
   },
   "models": [{
+        "version": "ekmanatlas",
+        "entries": [{
+            "experience": "delight", 
+            "modelName": "rejoicing",
+            "continent": "enjoyment",
+            "stronger": "compassion/joy",
+            "weaker": "sensory pleasure"
+        },{
+            "experience": "ecstasy", 
+            "modelName": "ecstasy",
+            "continent": "enjoyment",
+            "weaker": "excitement"
+        }]
+  },{
         "version": "willcox82",
         "entries": [{
             "experience": "delight",
@@ -38,7 +63,7 @@
       "version": "em1",
       "variations": [
         {
-          "names": ["delight"],
+          "names": ["delight","ecstasy"],
           "predominantType": "sensation",
           "levels": {
             "4,3,2,1": {

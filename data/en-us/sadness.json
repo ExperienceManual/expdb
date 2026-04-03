@@ -1,15 +1,15 @@
 {
   "lang": "en/us",
   "createDate": "20250308",
-  "updateDate": "20250825",
+  "updateDate": "20260216",
   "name": "sadness",
   "valence": -1,
   "quote": "I'm not going to get that job I really wanted.",
-  "description": "An extended experience of loss and displeasure about your situation but without a sense of immediate threat. It may be triggered by an outcome that significantly degrades your life situation or just from recognizing that things are pretty bad as they are.",
-  "perceptions": ["An event or realization causes a sense that things are not as you they should be."],
+  "description": "An extended experience of loss and dismay about your situation but without a sense of immediate threat.",
+  "perceptions": ["An outcome or realization causes a sense that things are more negative than you want them to be."],
   "desires": ["many"],
-  "sensations": ["losing","desire"],
-  "results": ["Sadness ranges in strength from mild to tears."],
+  "sensations": ["losing","dismay"],
+  "results": ["Sadness ranges in strength from mild to inconsolable tears."],
   "guidance": [{
       "description": "Sadness is a normal part of life, but that doesn’t mean it isn’t difficult to cope with feelings of sorrow and unhappiness you may be experiencing. Whether you’re struggling with disappointment or you’re feeling deep anguish, know that you’re not alone. Most importantly, know that the pain you’re feeling right now most likely won’t last forever.",
       "attribution": "Elizabeth Keohan, LCSW-C",
@@ -38,6 +38,17 @@
           "references": ["https://www.stylist.co.uk/health/mental-health/psychology-sympathy-sadness/540467"]
       }],
       "examples": ["Your relative has a string of bad luck.","A baby bird fell out of its nest.","Watching a sad movie."]
+  },{
+      "name": "despair",
+      "description": "A powerful mixed sense of hopelessness and loss. You accept the inability to affect a strongly undesired outcome.",
+      "perceptions": ["There's a terrible outcome happening or about to happen.","I can't do anything about it.","I just have to let the negative thing wash over me."],
+      "desires": ["desire for comfort","many"],
+      "sensations": ["hopelessness","helplessness","sadness","losing","desire"],
+      "examples": ["The front line of the war steadily moves towards your home."],
+      "comparisons": [{
+          "links": ["sadness","hopelessness","helplessness"],
+          "description": "'Despair' is the intense intersection of 'sadness', 'hopelessness', and 'helplessness'."
+      }]
   }],
   "commentaries": [{
       "quote": "The walls we build around us to keep sadness out also keep out the joy.",
@@ -63,6 +74,27 @@
     "misery": 8
   },
   "models": [{
+        "version": "ekmanatlas",
+        "entries": [{
+            "experience": "sadness",
+            "modelName": "sadness",
+            "continent": "sadness", 
+            "strongest": "anguish",
+            "weakest": "disappointment"
+        },{
+            "experience": "sadness", 
+            "modelName": "misery",
+            "continent": "sadness",
+            "stronger": "despair",
+            "weaker": "hopelessness"
+        },{
+            "experience": "despair", 
+            "modelName": "despair",
+            "continent": "sadness",
+            "stronger": "grief",
+            "weaker": "misery"
+        }]
+  },{
       "version": "plutchik",
       "entries": [{
           "experience": "sadness",

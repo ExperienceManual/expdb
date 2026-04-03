@@ -78,6 +78,7 @@
     "impatience": 4,
     "vexation": 4,
     "anger": 5,
+    "exasperation": 5,
     "rage": 7
   },
   "models": [{
@@ -88,6 +89,15 @@
             "spoke": "mad",
             "parent": "angry"
         }]
+  },{
+	"version": "ekmanatlas",
+	"entries": [{
+	    "experience": "frustration",
+	    "modelName": "frustration",
+	    "continent": "anger",
+	    "stronger": "exasperation",
+	    "weaker": "annoyance"
+	}]
   },{
       "version": "em1",
       "variations": [{

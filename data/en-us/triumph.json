@@ -17,6 +17,15 @@
   "related": ["vindication","social status", "pride", "gaining"],
   "opposites": ["losing", "failure"],
   "models": [{
+        "version": "ekmanatlas",
+        "entries": [{
+            "experience": "triumph", 
+            "modelName": "fiero",
+            "continent": "enjoyment",
+            "stronger": "naches",
+            "weaker": "pride"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["triumph"],

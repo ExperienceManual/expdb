@@ -48,6 +48,15 @@
             "parent": "pride"
         }]
   },{
+        "version": "ekmanatlas",
+        "entries": [{
+            "experience": "happiness",
+            "modelName": "enjoyment",
+            "continent": "enjoyment", 
+            "strongest": "ecstasy",
+            "weakest": "sensory pleasure"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["happiness","empathetic happiness"],

@@ -57,6 +57,14 @@
           "stronger": "anger"
       }]
   },{
+	"version": "ekmanatlas",
+	"entries": [{
+	    "experience": "annoyance",
+	    "modelName": "annoyance",
+	    "continent": "anger",
+	    "stronger": "frustration"
+	}]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["annoyance","pet peeve"],

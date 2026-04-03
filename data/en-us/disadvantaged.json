@@ -16,8 +16,8 @@
   "related": ["agency"],
   "opposites": ["advantaged"],
   "variations": [{
-      "name": "facing the impossible",
-      "alternateNames": ["powerless","helpless"],
+      "name": "helplessness",
+      "alternateNames": ["powerlessness","facing the impossible"],
       "description": "The sense that a significant challenge or threat is not possible to overcome and that there will be negative consequences.",
       "perceptions": ["I do not have the ability to change the environment or solve a problem.","There will be negative consequences."],
       "sensations": ["hopelessness"],
@@ -26,7 +26,11 @@
           "attribution": "Brendan Reid",
           "references": ["https://brendanreid.com/blog/how-to-overcome-an-impossible-task/"]
       }],
-      "examples": ["saving everyone in a natural disaster","saving someone from an incurable disease"]
+      "examples": ["saving everyone in a natural disaster","saving someone from an incurable disease"],
+      "comparisons": [{
+          "links": ["hopelessness"],
+          "description": "These sensations often come together. 'Helplessness' is the focus on your inability to affect an outcome. 'Hopelessness' is the focus on the negativity of the outcome."
+      }]
   },{
       "name": "socially disadvantaged",
       "description": "A perception that you have relatively little influence on the social environment.",
@@ -95,6 +99,15 @@
       "attribution": "Henry Petroski"
   }],
   "models": [{
+        "version": "ekmanatlas",
+        "entries": [{
+            "experience": "helplessness", 
+            "modelName": "helplessness",
+            "continent": "sadness",
+            "stronger": "hopelessness",
+            "weaker": "resignation"
+        }]
+  },{
         "version": "willcox82",
         "entries": [{
             "experience": "socially disadvantaged",
@@ -102,7 +115,7 @@
             "spoke": "scared",
             "parent": "submissive"
         },{
-            "experience": "facing the impossible",
+            "experience": "helplessness",
             "modelName": "helpless",
             "spoke": "scared",
             "parent": "scared"
@@ -131,7 +144,7 @@
             }
           }
       },{
-          "names": ["socially disadvantaged","mentally disadvantaged","facing the impossible"],
+          "names": ["socially disadvantaged","mentally disadvantaged","helplessness"],
           "predominantType": "sensation",
           "levels": {
             "4": {

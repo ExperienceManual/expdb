@@ -65,6 +65,14 @@
         "attribution": "Troy Erstling"
     }],
     "models": [{
+        "version": "ekmanatlas",
+        "entries": [{
+            "experience": "grounded awareness", 
+            "modelName": "sensory pleasure",
+            "continent": "enjoyment",
+            "stronger": "rejoicing"
+        }]
+    },{
 	"version": "willcox82",
 	"entries": [{
 	    "experience": "grounded awareness",

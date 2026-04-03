@@ -45,7 +45,8 @@
       "examples": ["incest", "cheating", "public urination"]
   },{
       "name": "existential disgust",
-      "description": "A strong aversion to something that is perceived to taint the purity of your soul.",
+      "alternateNames": ["loathing"],
+      "description": "A strong aversion to something that is perceived to taint the purity of your core identity.",
       "perceptions": ["This thing could hurt my standing with God/Universe.","I need to distance myself to avoid being contaminated."],
       "desires": ["desire for existential status","desire for purity"],
       "sensations": ["aversion","contempt","anxiety"],
@@ -79,9 +80,11 @@
     "gross": 1,
     "aversion": 2,
     "disgust": 5,
-    "revulsion": 5,
-    "abhorrence": 6,
-    "loathing": 7
+    "repugnance": 5,
+    "revulsion": 6,
+    "abhorrence": 7,
+    "despise": 7,
+    "loathing": 8
   },
   "models": [{
       "version": "plutchik",
@@ -97,6 +100,26 @@
           "weaker": "boredom",
           "stronger": "loathing"
       }]
+  },{
+        "version": "ekmanatlas",
+        "entries": [{
+            "experience": "disgust",
+            "modelName": "disgust",
+            "continent": "disgust", 
+            "strongest": "dislike",
+            "weakest": "loathing"
+        },{
+            "experience": "disgust", 
+            "modelName": "revulsion",
+            "continent": "disgust",
+            "stronger": "abhorrence",
+            "weaker": "repugnance"
+        },{
+            "experience": "existential disgust", 
+            "modelName": "loathing",
+            "continent": "disgust",
+            "weaker": "abhorrence"
+        }]
   },{
       "version": "em1",
       "variations": [{

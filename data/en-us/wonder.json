@@ -81,6 +81,15 @@
             "parent": "sensual"
         }]
   },{
+        "version": "ekmanatlas",
+        "entries": [{
+            "experience": "wonder", 
+            "modelName": "wonder",
+            "continent": "enjoyment",
+            "stronger": "excitement",
+            "weaker": "naches"
+        }]
+  },{
       "version": "em1",
       "variations": [{
           "names": ["wonder","wonder of nature","inspirational wonder"],
