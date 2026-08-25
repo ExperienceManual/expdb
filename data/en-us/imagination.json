@@ -39,6 +39,7 @@
           "levels": {
             "4,3": {
               "description": "A desire to create a mental experience with certain constraints."
+              "experiences": ["imagination"]
             }
           }
         }

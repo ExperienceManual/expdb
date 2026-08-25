@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250223",
-  "updateDate": "20250701",
+  "updateDate": "20260824",
   "name": "surprise",
   "valence": 0,
   "quote": "I didn't expect you to be there!",
@@ -11,10 +11,10 @@
   "sensations": ["many"],
   "results": ["Surprise will quickly change into some other experience such as delight or anger. It may raise your energy level into excitement, or maybe not."],
   "guidance": [{
-      "description": "Surprise is a basic capacity of the mind that's a 'gateway' sensation to many other experiences and is important in directing our attention.",
+      "description": "Surprise is a basic ation of the mind that's a 'gateway' sensation to many other experiences and is important in directing our attention.",
       "references": ["https://www.psychologytoday.com/us/blog/surprise/202205/the-power-surprise","https://www.wnycstudios.org/podcasts/takeaway/segments/surprise-unexpected-why-it-feels-good-and-why-its-good-us"]
   }],
-  "related": ["excitement", "delight", "horror", "confusion","wonder"],
+  "related": ["excitement", "delight", "horror", "confusion","wonder","expectation error"],
   "opposites": ["anticipation", "boredom"],
   "comparisons": [{
       "links": ["excitement"],
@@ -61,7 +61,7 @@
       "version": "em1",
       "variations": [{
           "names": ["surprise","novelty"],
-          "predominantType": "capacity",
+          "predominantType": "action",
           "levels": {
             "1": {
               "experiences": ["surprise"]

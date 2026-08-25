@@ -75,7 +75,7 @@
         "version": "em1",
         "variations": [{
             "names": ["expectation confirmed","prediction confirmed","guess confirmed"],
-            "predominantType": "capacity",
+            "predominantType": "action",
             "levels": {
               "4,3,2,1": {
                 "experiences": ["expectation confirmed"]

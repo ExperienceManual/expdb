@@ -58,7 +58,7 @@
       "version": "em1",
       "variations": [{
           "names": ["validation","being seen"],
-          "predominantType": "capacity",
+          "predominantType": "action",
           "levels": {
             "4,3,2,1": {
                 "experiences": ["validation"]

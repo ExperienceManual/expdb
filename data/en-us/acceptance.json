@@ -1,7 +1,7 @@
 {
     "lang": "en/us",
     "createDate": "20250730",
-    "updateDate": "20250918",
+    "updateDate": "20260822",
     "name": "acceptance",
     "valence": 0,
     "quote": "The bad news didn't seem to bother her at all.",
@@ -38,7 +38,7 @@
         "results": ["Attempt to move on."],
         "opposites": ["resistance","winning"],
         "examples": ["Moving on after losing the championship."],
-        "related": ["grief"],
+        "related": ["loss","grief"],
         "guidance": [{
             "description": "See guidance for the various forms of loss.",
             "references": ["losing"]
@@ -84,6 +84,20 @@
             "levels": {
               "4,3,2,1": {
                 "experiences": ["acceptance"]
+              }
+            }
+        },{
+            "names": ["unhappy acceptance"],
+            "predominantType": "impulse",
+            "levels": {
+              "4,3": {
+                "experiences": ["unhappy acceptance"]
+              },
+              "2": {
+                "experiences": ["resentment","sadness"]
+              },
+              "1": {
+                "experiences": ["dissatisfaction","dissonance"]
               }
             }
         },{

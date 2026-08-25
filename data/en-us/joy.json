@@ -61,7 +61,7 @@
         "version": "em1",
         "variations": [{
             "names": ["joy"],
-            "predominantType": "trait",
+            "predominantType": "pattern",
             "levels": {
               "4,3,2,1": {
                 "experiences": ["joy"]

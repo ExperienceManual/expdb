@@ -146,7 +146,7 @@
           }
       },{
           "names": ["innocent ignorance"],
-          "predominantType": "sensation about another",
+          "predominantType": "sensation",
           "levels": {
             "4,3": {
                 "experiences": ["innocent ignorance","tolerance"]
@@ -157,7 +157,7 @@
           }
       },{
           "names": ["self-centered ignorance"],
-          "predominantType": "sensation about another",
+          "predominantType": "sensation",
           "levels": {
             "4,3": {
                 "experiences": ["self-centered ignorance","disrespect"]

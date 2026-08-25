@@ -1,7 +1,7 @@
 {
     "lang": "en/us",
     "createDate": "20250825",
-    "updateDate": "20251008",
+    "updateDate": "20260824",
     "name": "expectation error",
     "alternateNames": ["being incorrect"],
     "valence": -1,
@@ -12,7 +12,7 @@
     "desires": ["desire to be correct"],
     "sensations": ["dissatisfaction","many"],
     "results": ["An expectation failing is just the first spark of what may be an avalanche of sensations. If you were wrong about expecting something bad happened, you may not care much about being wrong. If you were wrong about something good happening, you may be doubly sad."],
-    "related": ["failure","deduction","generalization"],
+    "related": ["failure","deduction","generalization","surprise"],
     "opposites": ["expectation confirmed"],
     "examples": ["Being wrong about thinking they were going to throw you a surprise party.","The voting didn't go the way you'd predicted."],
     "guidance": [{
@@ -85,7 +85,7 @@
         "version": "em1",
         "variations": [{
             "names": ["expectation error","prediction error","core assumption error"],
-            "predominantType": "capacity",
+            "predominantType": "action",
             "levels": {
               "4,3,2,1": {
                 "experiences": ["expectation error"]

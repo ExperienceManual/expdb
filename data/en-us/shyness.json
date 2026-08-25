@@ -68,7 +68,7 @@
         "version": "em1",
         "variations": [{
             "names": ["shyness"],
-            "predominantType": "sensation",
+            "predominantType": "impulse",
             "levels": {
               "4": {
                 "experiences": ["narration"]

@@ -53,7 +53,7 @@
       "version": "em1",
       "variations": [{
           "names": ["empathy"],
-          "predominantType": "capacity",
+          "predominantType": "action",
           "levels": {
             "2,1": {
               "experiences": ["many"]

@@ -54,7 +54,7 @@
       "version": "em1",
       "variations": [{
           "names": ["distrust"],
-          "predominantType": "capacity",
+          "predominantType": "action",
           "levels": {
             "1": {
               "experiences": ["dissatisfaction"]

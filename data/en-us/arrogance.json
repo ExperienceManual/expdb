@@ -63,7 +63,7 @@
         "version": "em1",
         "variations": [{
             "names": ["arrogance"],
-            "predominantType": "sensation about another",
+            "predominantType": "sensation",
             "levels": {
               "4": {
                 "experiences": ["narration"]
@@ -77,7 +77,7 @@
             }
         },{
             "names": ["hubris"],
-            "predominantType": "sensation about another",
+            "predominantType": "sensation",
             "levels": {
               "4": {
                 "experiences": ["narration"]

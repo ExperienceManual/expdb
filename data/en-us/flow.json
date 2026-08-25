@@ -50,7 +50,7 @@
         "version": "em1",
         "variations": [{
             "names": ["flow"],
-            "predominantType": "capacity",
+            "predominantType": "action",
             "levels": {
               "4,3,2,1": {
                 "experiences": ["flow"]
