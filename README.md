@@ -143,3 +143,9 @@ Distinctions between experiences can be subtle, so these files try to shed light
 - Define and apply tags (e.g. 'trait', 'mood').
 - Build a tool to review the links for freshness and safety.
 - Build a website and search engine to explore the files.
+
+# Contributing
+
+Issues and pull requests are welcome.
+
+Contact: expdb.palm315@8shield.net
