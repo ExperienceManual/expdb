@@ -43,7 +43,7 @@
           "predominantType": "action",
           "levels": {
             "4,3": {
-                "description": "The process of trying to perceive your own mental processes."
+                "description": "The process of trying to perceive your own mental processes.",
                 "experiences": ["introspection"]
             }
           }

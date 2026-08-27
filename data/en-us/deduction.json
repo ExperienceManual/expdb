@@ -32,7 +32,7 @@
           "predominantType": "action",
           "levels": {
             "4,3,2,1": {
-              "description": "The brain makes a prediction based on combining multiple patterns that were created from one or more experiences."
+              "description": "The brain makes a prediction based on combining multiple patterns that were created from one or more experiences.",
               "experiences": [ "inductive reasoning" ]
             }
           }
@@ -41,7 +41,7 @@
           "predominantType": "action",
           "levels": {
             "4": {
-              "description": "A process of applying a disciplined set of known truths in a particular way to arrive at a statement that is likely to be true."
+              "description": "A process of applying a disciplined set of known truths in a particular way to arrive at a statement that is likely to be true.",
               "experiences": [ "logical deduction" ]
             }
           }
