@@ -1,0 +1,359 @@
+<style>
+  table, th, td {
+    border: 1px solid #000000;
+    border-collapse: collapse;
+    padding: 8px;
+  }
+  th {
+    background-color: #f2f2f2;
+  }
+</style>
+<h1>Descriptive Models of Experience</h1>
+<h2>Overview</h2>
+<p>This page documents the 'models' section of the Experience Manual JSON files. The purpose of that section is to collect various ways of viewing how experiences relate to each other.</p>
+<p>Since experience is a critical part of being human, there have been many great spiritual and philosophical thinkers that have created ways to understand and deal with powerful experiences and unwanted habits. In the past century or so, science has added more ways to understand them.</p>
+<p>A 'model of experience' is just a way of understanding what's happening inside. Some models just try to categorize experiences. Others try to explain where experiences come from and how they can be improved. Here's a way to think about what takes place when you have a notable sensation:</p>
+<p>Most of the time, we just use past experience and &quot;common sense&quot; to figure out what's happening to us and how to respond. We only think about using religious, philosophical, or scientific models when common sense doesn't seem to be working.</p>
+<img src="images/models_type_flow.png" width="50%" alt="Types of Models">
+<p>The Experience Manual itself is mainly a descriptive model - aiming to define a larger universe of what's &quot;in there&quot;. However, it's recognized that by attempting to define experiences with some level of detail, there's an implicit explanation of what it means to have that experience. And by curating links to external articles, readers are invited to make a choice in altering the experience if desired.</p>
+<h2>Ancient Descriptive Models</h2>
+<p>People have been grappling with the different human experiences for a long time and around the world. Here are some of the ways have described the inner world:</p>
+<ul>
+<li>Chrysippus, a Greek writer in the 3rd-century BCE, wrote <a href="https://en.wikipedia.org/wiki/On_Passions">On Passions</a> as a Stoic taxonomy of emotional states. It divides emotions into 4 primary headers and many sub-emotions.</li>
+<li>The Rasa and Bhava Taxonomy from around 200 CE was originally developed as a guide for theater. (Reference: Dancing with Nine Colours: The Nine Emotional States of Indian Rasa Theory; Dyutiman Mukhopadhyay; 2021)</li>
+<li>Buddhist writers compiled the '89 Cittas' within the Abhidhamma, which evolved between 300 BCE and 200 CE (reference: Comprehensive Manual of Abhidhamma translated by Bhikkhu Bodhi)</li>
+<li>Qi Qing - Traditional Chinese Medicine from the 1st century BCE defined a set of seven emotions: Joy, Anger, Anxiety, Grief, Fear, Fright, and Melancholy. (reference: &quot;The Foundations of Chinese Medicine: A Comprehensive Text&quot; by Giovanni Maciocia)</li>
+</ul>
+<h2>Modern Descriptive Models</h2>
+<p>Psychologists have created quite a few models of emotions in their efforts to rationalize modern therapies. Several of these systems are popular and have helped many people put their finger on what they're feeling.</p>
+<p>The Experience Manual files include a 'models' array to allow and encourage a more comprehensive view of how one system maps to another.</p>
+<h3>Plutchik's Wheel of Emotions</h3>
+<p>In 1980, Robert Plutchik developed the Wheel of Emotions with a goal of helping people to identify and deal with complex, blended feelings.</p>
+<p>Here's a video introduction to the system:</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=smlw-0av_a0">Plutchik's Wheel of Emotions</a></li>
+</ul>
+<p>This is an image of the wheel from <a href="https://people-shift.com/articles/plutchiks-wheel-of-emotions-a-simple-summary/">https://people-shift.com/articles/plutchiks-wheel-of-emotions-a-simple-summary/</a>:</p>
+<img src="images/models_plutchik.png" width="50%" alt="Plutchik Wheel">
+<h4>EM Analysis</h4>
+<p>Pros:</p>
+<ul>
+<li>The simple symmetric pattern is appealing and easy to talk about.</li>
+<li>Not just emotions: 'anticipation' and 'acceptance' are experiences.</li>
+<li>Been around a long time and helps people understand what they're experiencing.</li>
+</ul>
+<p>Cons:</p>
+<ul>
+<li>Does not allow for combinations of spokes that are not adjacent to each other.</li>
+<li>The simple symmetry is not always satisfying. e.g. Anger and Fear aren't really 'opposites' and neither are 'Disgust' and 'Trust'.</li>
+</ul>
+<h4>JSON Representation</h4>
+<p>There are 29 JSON files where the 'models' array contains reference to an experience being part of Plutchik's wheel. Here's how the array is structured for these entries:</p>
+<pre><code>  &quot;version&quot;: &quot;plutchik&quot;,
+  &quot;entries&quot;: [{                 // there can be more than one Plutchik entry per file
+      &quot;experience&quot;: &quot;remorse&quot;,  // EM name
+      &quot;modelName&quot;: &quot;remorse&quot;,   // plutchik name
+      &quot;spokes&quot;: [ &quot;grief&quot;, &quot;loathing&quot; ] // for blends
+    },{
+      &quot;experience&quot;: &quot;sadness&quot;, 
+      &quot;modelName&quot;: &quot;sadness&quot;,
+      &quot;spokes&quot;: [&quot;grief&quot;],
+      &quot;stronger&quot;: &quot;grief&quot;,
+      &quot;weaker&quot;: &quot;pensiveness&quot;
+    }]
+</code></pre>
+<h3>Willcox Feelings Wheel</h3>
+<p>Similar at first glance to the Plutchik Wheel, Gloria Willcox developed her model in the 1980's based on the &quot;Transactional Analysis&quot; psychodynamic school of psychology by Eric Berne from the 1950's. Unfortunately, the specific links to that theoretical basis remain in academic papers behind paywalls. The graphical form of the model remains popular and several versions of it have evolved from the original Willcox wheel.</p>
+<p>References</p>
+<ul>
+<li><a href="https://www.simplypsychology.org/transactional-analysis-eric-berne.html">https://www.simplypsychology.org/transactional-analysis-eric-berne.html</a></li>
+<li><a href="https://www.youtube.com/watch?v=_9W-qHTyZ4o">https://www.youtube.com/watch?v=_9W-qHTyZ4o</a></li>
+</ul>
+<p>Here's a version of the wheel from <a href="https://allthefeelz.app/feeling-wheel/">https://allthefeelz.app/feeling-wheel/</a>:</p>
+<img src="images/models_willcox.png" width="50%" alt="Willcox Wheel">
+<p>And here are some other versions of the wheel:</p>
+<ul>
+<li><a href="https://www.stardusttherapy.net/printables">https://www.stardusttherapy.net/printables</a></li>
+<li><a href="https://neurodivergentinsights.com/the-feelings-wheel">https://neurodivergentinsights.com/the-feelings-wheel</a></li>
+<li><a href="https://www.gnyha.org/wp-content/uploads/2020/05/The-Feeling-Wheel-Positive-Psycology-Program.pdf">https://www.gnyha.org/wp-content/uploads/2020/05/The-Feeling-Wheel-Positive-Psycology-Program.pdf</a></li>
+<li><a href="https://justallownow.com/blog_files/the-feelings-wheel.html">https://justallownow.com/blog_files/the-feelings-wheel.html</a></li>
+</ul>
+<h4>EM Analysis</h4>
+<p>Pros:</p>
+<ul>
+<li>A simple and appealing symmetric pattern is relatively easy to talk about.</li>
+<li>Not just emotions: 'confident' and 'skeptical' are experiences.</li>
+<li>Covers a fairly wide range of 78 emotions and experiences.</li>
+<li>It's been around a fairly long time and helps people understand what they're experiencing.</li>
+</ul>
+<p>Cons:</p>
+<ul>
+<li>The existence of several different versions of this model can be confusing.</li>
+<li>The simple symmetry is not always satisfying. e.g. 'Mad' and 'Powerful' aren't really 'opposites'. The members of the 'Powerful' category indicate this is really 'Healthy Self Regard', which should have the opposite 'Unhealthy Self-Regard'.</li>
+<li>Members of a category don't always make sense. e.g. 'Sleepy' is part of 'Sad'? 'Selfish' is under 'Sad'?</li>
+</ul>
+<h4>JSON Representation</h4>
+<p>64 files contain reference to the Willcox Feelings Wheel in the 'models' array.</p>
+<pre><code>&quot;version&quot;: &quot;willcox&quot;,
+&quot;entries&quot;: [{
+    &quot;experience&quot;: &quot;boredom&quot;, // EM name
+    &quot;modelName&quot;: &quot;bored&quot;,    // Willcox name
+    &quot;spoke&quot;: &quot;sad&quot;,
+    &quot;parent&quot;: &quot;sad&quot;
+}]
+
+</code></pre>
+<h3>Ekmans' Atlas of Emotions</h3>
+<p>Dr. Paul Ekman spent his career studying emotions, so the Dalai Lama asked him to coordinate a scientific consensus of human emotions. Dr. Ekman teamed with his daughter Dr. Eve Ekman and the Stamen Design firm to build a model based on a survey of 248 emotions researchers. The model was released in 2016.</p>
+<p>References:</p>
+<ul>
+<li><a href="https://atlasofemotions.org/">https://atlasofemotions.org/</a></li>
+<li><a href="https://www.youtube.com/watch?v=AaDzUFL9CLE">Youtube: The Atlas of Emotions with Dr. Paul Ekman and Dr. Eve Ekman</a></li>
+</ul>
+<p>The model is based around 5 collections of emotions envisioned as &quot;continents&quot;, with specific emotions portrayed as ever intensifying &quot;mountains&quot;. The 5 groups of emotions are Enjoyment, Sadness, Fear, Anger, and disgust. From <a href="https://atlasofemotions.org/">the Atlas of Emotions</a>, here's an example of how they drill into each one. This one is fear:</p>
+<img src="images/models_ekman_fear.png" width="50%" alt="Atlas of Emotions Fear Continent">
+<h4>EM Analysis</h4>
+<p>Pros:</p>
+<ul>
+<li>This model is the most recent and has the broadest scientific support.</li>
+<li>The analogy of 'continents' and 'mountains' is easy to think about.</li>
+<li>The website is attractive, with definitions and a range of responses to each emotion.</li>
+<li>There are links to videos, articles, and websites to help improve emotional awareness and cultivate emotional balance.</li>
+</ul>
+<p>Cons:</p>
+<ul>
+<li>The downside of insisting on scientific consensus is that the model is a least-common-denominator. There are fewer 'core' emotions in this model than in many others.</li>
+<li>The desire to collect semi-related experiences together in strict ranking by intensity causes some unsatisfying relationships. For example, does &quot;misery&quot; really make you sadder than &quot;despair&quot;?</li>
+</ul>
+<h4>JSON Representation</h4>
+<p>29 files contain reference to the Ekman Atlas in the 'models' array. Here's an example entry for the 'anger continent' that contains the &quot;strongest&quot; and &quot;weakest&quot; keywords:</p>
+<pre><code>&quot;version&quot;: &quot;ekmanatlas&quot;,
+&quot;entries&quot;: [{
+    &quot;experience&quot;: &quot;anger&quot;,  // EM name
+    &quot;modelName&quot;: &quot;anger&quot;,   // Ekman name
+    &quot;continent&quot;: &quot;anger&quot;,
+    &quot;strongest&quot;: &quot;fury&quot;,
+    &quot;weakest&quot;: &quot;annoyance&quot;
+}]
+</code></pre>
+<p>The rest of the entries create a linked list with the &quot;stronger&quot; and &quot;weaker&quot; keywords:</p>
+<pre><code>&quot;version&quot;: &quot;ekmanatlas&quot;,
+&quot;entries&quot;: [{
+    &quot;experience&quot;: &quot;frustration&quot;,
+    &quot;modelName&quot;: &quot;frustration&quot;,
+    &quot;continent&quot;: &quot;anger&quot;,
+    &quot;stronger&quot;: &quot;exasperation&quot;,
+    &quot;weaker&quot;: &quot;annoyance&quot;
+}]
+</code></pre>
+<h3>Circumplex Model</h3>
+<p>A model called &quot;Pleasure-Arousal-Dominance&quot; (PAD) was developed in 1974 by Albert Mehrabian and James A. Russell. They hypothesized that the underlying structure of the brain had 3 key components that drove emotions:</p>
+<ul>
+<li>&quot;Pleasure&quot;: the positivity or negativity of the experience. Also called &quot;valence&quot;.</li>
+<li>&quot;Arousal&quot;: how much energy/excitement was part of the experience.</li>
+<li>&quot;Dominance&quot;: how much agency you felt as part of the experience.</li>
+</ul>
+<p>But over the years, it was determined that the Dominance dimension was not independent. James A. Russell tweaked the model by dropping Dominance, creating the 'Circumplex' model.</p>
+<p>References</p>
+<ul>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2367156/">https://pmc.ncbi.nlm.nih.gov/articles/PMC2367156/</a></li>
+<li><a href="https://pdodds.w3.uvm.edu/research/papers/others/1980/russell1980a.pdf">https://pdodds.w3.uvm.edu/research/papers/others/1980/russell1980a.pdf</a></li>
+</ul>
+<p>Here's a diagram from the paper:</p>
+<img src="images/models_circumplex.png" width="50%" alt="Circumplex Model">
+<p>To give an example how this looks in practice, this is a plot of 49 EM experiences in 2D Valence-Arousal space based on values from <a href="https://pdodds.w3.uvm.edu/teaching/courses/2009-08UVM-300/docs/others/everything/bradley1999a.pdf">Bradley and Lang</a>:</p>
+<img src="images/models_valence.png" width="50%" alt="Valance-Arousal Chart">
+<p>Note: The EM data does not contain valence or arousal numbers.</p>
+<h4>EM Analysis</h4>
+<p>Pros:</p>
+<ul>
+<li>Gives a theoretical model that matches pretty well with neuroscience. Valence and Arousal are measurable qualities.</li>
+</ul>
+<p>Cons:</p>
+<ul>
+<li>A graph like this is not easy to use for putting names on your experiences and improving personal insight into your situation.</li>
+</ul>
+<h4>JSON Representation</h4>
+<p>The circumplex model is not in the EM data. It would make sense to include valence and arousal data in the data, but the 49 experiences that match the Bradley and Lang data are not complete enough to be very helpful.</p>
+<h3>Semantic Space Theory</h3>
+<p>Alan S. Cowen is a researcher who has helped pioneer the mapping of emotions in 'semantic space'. This is a data science technique where similar emotions are plotted closer together on a graph that's visualized in 2- or 3-dimensions.</p>
+<p>The goal of this kind of model is different - instead of helping people understand their own emotions, the aim is to help computers understand people.</p>
+<p>References:</p>
+<ul>
+<li><a href="https://www.alancowen.com">https://www.alancowen.com/</a></li>
+<li><a href="https://www.youtube.com/watch?v=4-EEhdqETJY">Youtube: Keynote by Alan Cowen | ICML 2022</a></li>
+<li><a href="https://www.hume.ai/explore/vocal-expression-description-model">Vocal Call model</a></li>
+</ul>
+<p>The output of the model is not constrained to simple symmetries - it's a cloud of related experiences. You can draw boundaries around clusters and label them, but for the most part, this approach lets the data speak for itself with the imposition of forced modeling.</p>
+<img src="images/models_semantic.png" width="50%" alt="2D Semantic Model">
+<p>For example, you could draw somewhat arbitrary lines around clusters to group similar emotions.</p>
+<img src="images/models_semantic_bucketed.png" width="50%" alt="2D Semantic Model, bucketed">
+<h4>EM Analysis</h4>
+<p>Pros:</p>
+<ul>
+<li>Not constrained by symmetries that may over-simplify the real world.</li>
+<li>More quantitative than most other models.</li>
+</ul>
+<p>Cons:</p>
+<ul>
+<li>That openness may make it difficult for the human brain to gain self insight.</li>
+</ul>
+<h4>JSON Representation</h4>
+<p>None.</p>
+<h3>4D Affective Semantic Space</h3>
+<p>The Component Process Model of Emotion developed by Klaus Scherer is predominantly and explanatory model, but it hypothesizes that emotions are differentiated by 4 dimensions. This builds on the PAD model by adding &quot;Novelty&quot; as dimension:</p>
+<ul>
+<li>Valence: the positiveness or negativeness of the experience.</li>
+<li>Control/Power: your confidence level in being able to control the experience.</li>
+<li>Arousal/Activation: the intensitity level.</li>
+<li>Novelty/Unpredictability: is this a new feeling or familiar?</li>
+</ul>
+<p>References:</p>
+<ul>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2781886/">Emotions are emergent processes: they require a dynamic computational architecture</a></li>
+<li><a href="https://www.researchgate.net/publication/304184175_Mapping_Emotion_Terms_into_Affective_Space_Further_Evidence_for_a_Four-Dimensional_Structure">Mapping Emotion Terms into Affective Space: Further Evidence for a Four-Dimensional Structure</a></li>
+</ul>
+<p>The latter paper has a pair of graphs that plot 80 emotions as points on two 2D axes.</p>
+<h4>EM Analysis</h4>
+<p>The descriptive piece of this model is a development of PAD and Circumplex, and has an interesting theoretic underpinning with the 5 emotion components of the Component Process Model.</p>
+<p>Pros:</p>
+<ul>
+<li>The descriptive portion of the model is well integrated with the explanatory aspect.</li>
+<li>Compared to other models, the operational and measurement aspects are more mature.</li>
+<li>The &quot;Geneva Feelings Wheel&quot; is a practical tool based on the underlying research.</li>
+</ul>
+<p>Cons:</p>
+<ul>
+<li>It's difficult to visualize 4 dimensions, so this system may struggle to get popular adoption.</li>
+</ul>
+<h4>JSON Representation</h4>
+<p>If the source data for the two graphs were found, it would make sense to add a section to the <code>models</code> array.</p>
+<h3>EM's Model</h3>
+<p>This is an experimental model that grew alongside the Experience Manual database. It's partly descriptive and partly explanatory.</p>
+<p>The core goal is to be able to encompass more scenarios than the more basic models described above. The core observation is that a human is a complex platform built on top of ages-old evolutionary technology. Despite our awesome technology, at the deepest levels, we still embody built-in behavioral instincts that are on display across the living world.</p>
+<p>The mind, heart, and gut are complex emotional instruments reacting to constant stimulation from the outside world and your own internal state. There are often multiple concurrent 'tones' experienced by these instruments.</p>
+<p>The EM model posits that human experiences take place at 4 levels concurrently:</p>
+<table>
+<thead>
+<tr>
+<th>Level</th>
+<th>Name</th>
+<th>Location</th>
+<th>Types of Experiences</th>
+<th>Example Experiences</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>4</td>
+<td>Rationalizing Person</td>
+<td>Consciousness</td>
+<td>Things that as far as we know, only a human can experience.</td>
+<td>modesty, nostalgia, irony</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Tribal Primate</td>
+<td>Subconcious</td>
+<td>Things a chimp can likely experience</td>
+<td>desire for social status, resentment</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Family Creature</td>
+<td>Heart</td>
+<td>Things a cat can likely experience.</td>
+<td>desire for parenthood, shame, familial love</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Surviving Animal</td>
+<td>Gut</td>
+<td>Things a fish can likely experience.</td>
+<td>anxiety, satisfaction, hunger</td>
+</tr>
+</tbody>
+</table>
+<p>For example, there's a variation of &quot;acceptance&quot; called &quot;unhappy acceptance&quot;. It's a form of partial acceptance where part of the self has stopped fighting, but another part is not at peace yet. Here is how the EM model tries to capture this nuance:</p>
+<ul>
+<li>Level 1 is still ultimately dissatisfied, feeling dissatisfaction or dissonance</li>
+<li>Level 2 feels resentment or sadness</li>
+<li>Levels 4 and 3 are trying to move on, but experience the underlying dissonance as  &quot;Unhappy Acceptance&quot;</li>
+</ul>
+<p>The EM model also proposes that there are different types of experiences:</p>
+<table>
+<thead>
+<tr>
+<th>Type</th>
+<th>Scenario</th>
+<th>Examples</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sensations</td>
+<td>Reactive experiences, where you perceive something happened to you.</td>
+<td>happiness, tiredness</td>
+</tr>
+<tr>
+<td>Impulses</td>
+<td>A desire to cling onto something or change the situation.</td>
+<td>helpfulness (I want to help), envy (I wish I had that)</td>
+</tr>
+<tr>
+<td>Agency/Action</td>
+<td>The experience of actually affecting the world somehow. These are things you can be aware of doing as you're doing them.</td>
+<td>sacrifice, prayer, problem solving</td>
+</tr>
+<tr>
+<td>Capacities</td>
+<td>Actions you are generally not aware that you're doing.</td>
+<td>attention, confirmation</td>
+</tr>
+<tr>
+<td>Nodes</td>
+<td>A few experience labels are so varied in common usage that it's hard to define it in a useful way. 'Nodes' point to more specific experiences.</td>
+<td>love, hate, pride</td>
+</tr>
+<tr>
+<td>Patterns</td>
+<td>Personality traits that lead one to have certain experiences over and over.</td>
+<td>gloom, joy</td>
+</tr>
+</tbody>
+</table>
+<p>In the real world, experiences are a mix of types. For instance, when you experience shame, there are sensations like &quot;anxiety&quot;,&quot;fear&quot;, and &quot;loss of status&quot;. But there are also impulses like &quot;desire to regain social status&quot;, &quot;desire to be left alone&quot;, etc.</p>
+<h4>EM Analysis</h4>
+<p>Pros:</p>
+<ul>
+<li>This model doesn't try to find hidden computational dimensions. Instead, it hypothesizes what may be happening at each level of the self when we label an experiance.</li>
+<li>Thinking about experiences as multi-leveled may be helpful in sorting through a complex reaction.</li>
+<li>The model 'homes' experiences to different places within the body. This may help describe emotions when we use phrases like &quot;gut feeling&quot; and &quot;from the heart&quot;.</li>
+</ul>
+<p>Cons:</p>
+<ul>
+<li>This model is not backed by professional emotions researchers.</li>
+<li>It is still under development.</li>
+</ul>
+<h4>JSON Representation</h4>
+<pre><code>&quot;version&quot;: &quot;em1&quot;,
+&quot;entries&quot;: [{
+       ...
+       },{
+            &quot;names&quot;: [&quot;unhappy acceptance&quot;],
+            &quot;predominantType&quot;: &quot;impulse&quot;,
+            &quot;levels&quot;: {
+              &quot;4,3&quot;: {
+                &quot;experiences&quot;: [&quot;unhappy acceptance&quot;]
+              },
+              &quot;2&quot;: {
+                &quot;experiences&quot;: [&quot;resentment&quot;,&quot;sadness&quot;]
+              },
+              &quot;1&quot;: {
+                &quot;experiences&quot;: [&quot;dissatisfaction&quot;,&quot;dissonance&quot;]
+              }
+            }
+</code></pre>
+<h2>Conclusion</h2>
+<p>The 'models' section of the EM JSON files is a way to provide broader context to each experience. Applications might use these fields as a way to organize and link entries to help people navigate and discover what's going on inside.</p>
+
