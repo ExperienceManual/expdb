@@ -133,13 +133,37 @@ Distinctions between experiences can be subtle, so these files try to shed light
 - **Unconscious** - internal experiences and desires that cannot be accessed directly. Their existence must be implied.
 - **Virtue** - a characteristic of a person viewed as positive. e.g. "courage", "wisdom", etc. Note that a virtue in one subculture (e.g. "compassion" or "tough love") might not be viewed the same in another.
 
+# AI Disclosure
+
+The scale of this project is quite large - there are 300+ experiences and 500+ variations.
+AI chatbots have
+been used to learn topics, validate statements, and scan for overlaps between files. No byte in any file was generated directly by a GenAI model. Every word has been entered by hand in vim, and then syntax
+checked against the schema with ajv.
+
+Full chatbot logs are available by request. Here's an example prompt:
+
+```
+    'Love' is hard to define because it's so overused. It can apply to everything
+    from your soulmate to your favorite french fries. I could use some help tuning
+    this definition:
+
+    "Love is the sense that having repeated experiences with a particular person,
+    animal, thing, idea, or sensation will likely be very positive, and is a part
+    of one of your identities."
+
+    Two parts I'm thinking are key: (a) wanting repeat experiences with it, and
+    (b) it forms a piece of an important identity.
+
+    Does this compare well to psychological definitions? 
+```
+
 # Next Steps
 
-- Build a website and search engine to explore the files.
-- Build a tool to review the links for freshness and safety.
 - Review and refine all entries for:
     - conformance with established science
     - overlap
+- Build a website and search engine to explore the files.
+- Build a tool to review the links for freshness and safety.
 - Define and apply tags (e.g. "trait", "mood").
 
 # Contributing
