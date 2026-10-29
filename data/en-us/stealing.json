@@ -1,7 +1,7 @@
 {
     "lang": "en/us",
     "createDate": "20250925",
-    "updateDate": "20250925",
+    "updateDate": "20261028",
     "name": "stealing",
     "valence": 0,
     "quote": "I needed the money.",
@@ -19,7 +19,7 @@
     "variations": [{
         "name": "theft",
         "alternateNames": ["larceny","shoplifting","robbery","burglary"],
-        "description": "Taking something valuable from someone else that is not yours without their permission with the intention of keeping it.",
+        "description": "Taking something valuable from someone else that is not yours without their permission and with the intention of keeping it.",
         "perceptions": ["I want or need something valuable that belongs to someone else.","They won't give it to me.","I'll just take it.","I think I can get away with it."],
         "desires": ["desire for a valued asset","desire for social status","desire for safety"],
         "sensations": ["excitement","guilt","anxiety","fear","committing a non-violent crime"],
@@ -31,7 +31,7 @@
             "description": "Most people considering a criminal act are desperate for money or adrenaline, but it may be worthwhile considering the likely perspective of the victim.",
             "references": ["committing a crime"]
         },{
-            "description": "If you're primarily into the adrenaline aspect, it may be worth considering that there are lots of other things to do.",
+            "description": "If you're primarily into the adrenaline aspect, it may be worth considering that there are lots of other things that generate adrenaline without harming another.",
             "references": ["https://www.wikihow.com/Get-an-Adrenaline-Rush","https://greenlight.com/learning-center/parenting-and-family/top-50-fun-activities-for-teens"]
         }]
     },{
@@ -44,7 +44,7 @@
         "examples": ["Credit scams.","Using stolen passwords."],
         "related": ["attacking","cheating"],
         "guidance": [{
-            "description": "Most people considering a criminal act are desperate, but it may be worthwhile considering the likely perspective of the victim.",
+            "description": "Most people considering a criminal act are desperate, but it may be worthwhile considering the likely perspective of the victim. Perpetrators may think they're only taking money from a big corporation, but they make the individual target feel unsafe.",
             "references": ["committing a crime"]
         }]
      },{

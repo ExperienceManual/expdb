@@ -1,7 +1,7 @@
 {
     "lang": "en/us",
     "createDate": "20250501",
-    "updateDate": "20250730",
+    "updateDate": "20251027",
     "name": "defiance",
     "alternateNames": ["resistance"],
     "valence": 0,
@@ -11,7 +11,7 @@
     "quote": "I don't care, I'm going anyway.",
     "description": "Openly taking an action (or inaction) despite knowing that it's against the desires of a particular person or group.",
     "perceptions": ["A person or group wants me to do or not do something.","I'm going to do it anyway.","I'm not going to hide that I'm doing it."],
-    "desires": ["desire for agency","many"],
+    "desires": ["desire for agency","agency","many"],
     "sensations": ["social tension"],
     "related": ["group hostility","dissonance"],
     "opposites": ["subordination"],
@@ -33,16 +33,15 @@
     },{
         "name": "insubordination",
         "description": "Action or inaction against the desires of a particular person of higher rank than you.",
-        "perceptions": ["A person or group with more authority wants me to do or not do something.","I'm going to do it anyway."],
+        "perceptions": ["A person or group with more authority wants me to do or not do something.","I'm going to act against their wishes."],
         "desires": ["desire for agency","many"],
         "sensations": ["social tension"],
         "related": ["group hostility","dissonance"],
         "opposites": ["subordination"],
-        "examples": ["The employee took a long lunch despite being told by the manager to work through lunch."],
+        "examples": ["The employee took a long lunch despite being told by the manager to work through lunch.","Refusing to perform a certain task."],
         "guidance": [{
-            "description": "5 Examples of Insubordination in the Workplace (With Tips)",
-            "attribution": "Indeed Editorial Team",
-            "references": ["https://www.indeed.com/career-advice/career-development/insubordination-in-workplace-examples"]
+            "description": "There are many reasons for acting against the wishes of your company, family, or social group. Sometimes it's a form of conscientious objection, other times it's an emotional reaction to protect the ego. Either way, it may be worthwhile to be aware of the consequences.",
+          "references": ["https://uswlocals.org/welcome-usw-local-4-380/shop-steward-basic-training/insubordination-what-questions-ask","https://www.shouselaw.com/ca/blog/how-to-fight-an-insubordination-claim/","https://www.indeed.com/career-advice/career-development/insubordination-in-workplace-examples"]
         }]
     },{
         "name": "unapologetic",

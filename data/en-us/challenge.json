@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250318",
-  "updateDate": "20251217",
+  "updateDate": "20261027",
   "name": "challenge",
   "valence": 0,
   "quote": "Ok, I can do this.",
@@ -77,21 +77,22 @@
       "examples": ["court of law", "defending a PhD thesis","debate team"]
   },{
       "name": "fair contest",
-      "description": "A situation with multiple outcomes where the rules of engagement are followed.",
-      "perceptions": ["This situation has several possible outcomes.","I prefer some of the outcomes or want to prevent some of them.","I have agency to influence the final outcome.","There are rules to this challenge.","The rules are being followed."],
+      "description": "A situation with multiple outcomes where the contestants are equally likely to win and the rules of engagement are followed.",
+      "perceptions": ["This situation has several possible outcomes.","I prefer some of the outcomes or want to prevent some of them.","I have agency to influence the final outcome.","As far as I can tell, all contestants have a roughly equal chance of winning.","The rules are being followed."],
       "desires": ["desire for a particular outcome","desire for stimulation","desire for agency","desire to win","desire for order"],
       "sensations": ["excitement","anxiety","optimism","pessimism"],
       "related": ["honesty"]
   },{
       "name": "unfair contest",
-      "description": "A situation with multiple outcomes where one or more contestants goes against the rules of engagement.",
-      "perceptions": ["This situation has several possible outcomes.","I prefer some of the outcomes or want to prevent some of them.","I have agency to influence the final outcome.","There are rules to this challenge.","I don't think the rules are being followed."],
+      "description": "A situation with multiple outcomes where one or more contestants are significantly more likely to win than others, or some contestants are not following the established rules.",
+      "perceptions": ["This situation has several possible outcomes.","I prefer some of the outcomes or want to prevent some of them.","I have agency to influence the final outcome.","Some of the contestants are much better suited to win this contest or some contesants are not following the rules."],
       "desires": ["desire for a particular outcome","desire for stimulation","desire for agency","desire to win","desire for order"],
       "sensations": ["anxiety","pessimism","cheating"],
       "guidance": [{
           "description": "See guidance for cheating.",
           "references": ["cheating"]
-      }]
+      }],
+      "examples": ["A pro tennis player against a new player.","An adult arm wrestling a child."]
   },{
       "name": "subjective challenge`",
       "description": "A situation with multiple outcomes where rules alone do not determine the results, but also the hidden preferences of a judge.",

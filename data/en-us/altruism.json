@@ -1,12 +1,12 @@
 {
     "lang": "en/us",
     "createDate": "20250902",
-    "updateDate": "20250902",
+    "updateDate": "20261027",
     "name": "altruism",
     "alternateNames": ["pure altruism"],
     "valence": 0,
     "quote": "He gave his ticket to some random kid who really wanted to go.",
-    "description": "The act of helping others when there's a significant cost to yourself with no personal benefit.",
+    "description": "The act of helping others when there's a significant cost to yourself with no direct personal benefit.",
     "perceptions": ["That person needs help.","I wouldn't gain anything tangible by helping them.","It will cost significant time, effort, risk, and/or money to help.","I'm going to do it anyway."],
     "desires": ["desire to impact positively","desire for order"],
     "sensations": ["satisfaction","dissonance","self-esteem"],
@@ -23,7 +23,7 @@
     }],
     "variations": [{
       "name": "genetic altruism",
-      "description": "The act of helping family members when there's a significant cost to yourself with no personal benefit.",
+      "description": "The act of helping family members when there's a significant cost to yourself with no direct personal benefit.",
       "perceptions": ["A family member needs help.","I won't personally gain anything tangible by helping them.","It will cost significant time, effort, risk, and/or money to help.","I'm going to do it anyway."],
       "desires": ["desire to impact positively","desire for meaning"],
       "sensations": ["familial love","satisfaction","dissonance","self-esteem"],
@@ -32,11 +32,11 @@
       "examples": ["Parenthood.","Giving your cousin money to start a business."],
       "comparisons": [{
           "links": ["altruism"],
-          "description": "'Genetic altruism' is an altruistic act that benefits someone who shares a family bond."
+          "description": "'Genetic altruism' is an altruistic act that benefits someone who shares a family bond. And often genetics."
       }]
     },{
       "name": "group altruism",
-      "description": "The act of helping a specific group when there's a significant cost to yourself with no personal benefit.",
+      "description": "The act of helping a non-family group rather than a specific individual when there's a significant cost to yourself and no direct personal benefit.",
       "perceptions": ["A group that's important to me needs help.","I won't personally gain anything tangible by helping them.","It will cost significant time, effort, risk, and/or money to help.","I'm going to do it anyway."],
       "desires": ["desire to impact positively","desire for meaning"],
       "sensations": ["group bond","satisfaction","dissonance","self-esteem"],
@@ -45,7 +45,10 @@
       "examples": ["Giving a large sum to your religious institution.","Leaving a big chunk of your estate to a specific group."],
       "comparisons": [{
           "links": ["altruism"],
-          "description": "'Group altruism' is an altruistic act that benefits a specific group that's important to you."
+          "description": "'Group altruism' is an altruistic act that benefits a non-family group that's important to you rather than targeting a specific individual."
+      },{
+          "links": ["genetic altruism"],
+          "description": "'Genetic altruism' is a special case of 'group altruism'."
       }]
     }],
     "commentaries": [{

@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250309",
-  "updateDate": "20260320",
+  "updateDate": "20261027",
   "name": "anger",
   "valence": -1,
   "quote": "I can't believe he said that to me!",
@@ -45,8 +45,8 @@
       }]
   },{
       "name": "fearful anger",
-      "description": "Strong negative feeling towards a person or thing caused by a perceived injury and a concern that it could repeat or get worse.",
-      "perceptions": ["This person or thing has done something I strongly dislike.","It has threatened or damaged the body or reputation of myself or someone close to me.","It's likely to keep happening or get worse if I don't do something.","A display of anger might prevent it from happening again.","A display of anger is an option that won't make the problem worse."],
+      "description": "Strong negative feeling towards a person or thing caused by a sense of imminent or future danger along with a sense that the situation is unfair and may be deterred by responding with anger.",
+      "perceptions": ["This person or thing has done something I strongly dislike.","It has threatened or damaged the body or reputation of myself or someone close to me.","The situation is unfair.","It's likely to keep happening or get worse if I don't do something.","A display of anger might prevent it from happening again.","A display of anger is an option that won't make the problem worse."],
       "desires": ["desire for safety","desire for social status"],
       "sensations": ["fear","resentment","injustice","losing"],
       "results": ["perhaps a display of anger","perhaps self-control"],

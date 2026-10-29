@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250209",
-  "updateDate": "20250530",
+  "updateDate": "20261028",
   "name": "sickness",
   "valence": -1,
   "quote": "I have a sore throat.",
@@ -46,7 +46,7 @@
   },{
       "name": "chronic sickness",
       "description": "Something that regularly causes the body or mind to not operate properly. It may be permanent or happen periodically.",
-      "perceptions": ["My mind is not operating normally.","I was not injured by an impact or cut.","This happens frequently."],
+      "perceptions": ["My mind is not operating normally.","I was not injured by an impact or cut.","This is permanent or happens frequently."],
       "desires": ["desire for comfort"],
       "sensations": ["anxiety","pain","annoyance","impatience","many negative"],
       "examples": ["allergies","arthritis","type 2 diabetes"],

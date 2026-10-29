@@ -1,15 +1,15 @@
 {
     "lang": "en/us",
     "createDate": "20251204",
-    "updateDate": "20251208",
+    "updateDate": "20261028",
     "name": "religious spirituality",
     "valence": 1,
     "timescale": ["unknown"],
     "rarity": ["unknown"],
     "frequency": ["unknown"],
     "quote": "Amen.",
-    "description": "A perspective that your answers to the Big Questions are rooted in both a personal relationship with existence and through the social institution of your religion.",
-    "perceptions": ["My religion provides satisfactory answers to the Big Questions.","I'm amongst like-minded people.","I'm involved in something bigger than myself.","I believe what I'm doing is good for my deepest self.","I know what's expected of me.","I have a relationship and perhaps influence with a supernatural agent."],
+    "description": "A perspective that answers to Life's Big Questions are rooted in the social institution of your religion and perhaps also a personal relationship with existence.",
+    "perceptions": ["My religion provides satisfactory answers to the Big Questions.","I'm amongst like-minded people.","I'm involved in something bigger than myself.","I believe what I'm doing is good for my deepest self.","I know what Life expects of me.","I have a relationship and perhaps influence with a supernatural agent."],
     "desires": ["desire for meaning","desire for social contact","desire for knowledge","desire for shared meaning"],
     "sensations": ["faith","social contact","meaning"],
     "examples": ["Regular religious attendance.","Daily prayer or meditation."],
@@ -22,17 +22,18 @@
     "variations": [{
         "name": "mystical religious experience",
         "description": "A short, profound sense of existential clarity and personal connectedness with one or more of your religion's supernatural agents.",
-        "perceptions": ["My sense as a separate being was weakened.","I felt at peace.","I knew what I needed to do.","It all made sense.","My religion is correct and awesome."],
+        "perceptions": ["I was connected to a supernatural agent.","My sense as a separate being was weakened.","I felt at peace.","I knew what I needed to do.","It all made sense.","My religion is correct and awesome."],
         "desires": ["desire for meaning","desire for knowledge"],
         "sensations": ["faith","meaning","happiness","joy"],
         "results": ["You may have a lowered anxiety and sense of purpose, or you may feel disoriented about having core perspectives challenged."],
         "examples": ["Religious visions."],
+        "related": ["prayer","meditation","mystical spiritual experience"],
         "guidance": [{
-            "description": "See guidance for 'mystical experience'.",
-            "references": ["mystical experience"]
+            "description": "See guidance for 'mystical spiritual experience'.",
+            "references": ["mystical spiritual experience"]
         }],
         "comparisons": [{
-            "links": ["mystical experience"],
+            "links": ["mystical spiritual experience"],
             "description": "An unusually profound experience may stand alone, or it may be experienced through the lens of your religion and serve as a source of faith and bond with that community."
         },{
             "links": ["religious spirituality"],

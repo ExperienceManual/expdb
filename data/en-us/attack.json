@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250205",
-  "updateDate": "20251124",
+  "updateDate": "20261027",
   "name": "attack",
   "valence": 0,
   "quote": "It's mine now.",
@@ -39,7 +39,14 @@
       "sensations": ["many"],
       "personOfInterestExperiences": ["defense","anger","anxiety","fear"],
       "related": ["desire for social status", "desire for social influence", "hate", "ill will", "disrespect", "fear", "anger","vengeance"],
-      "examples": ["War.","Torture.","Murder."]
+      "examples": ["War.","Torture.","Murder."],
+      "comparisons": [{
+          "links": ["attack"],
+          "description": "attacking life or health of a person is a targeted form of aggression aimed at harming someone's physical body."
+      },{
+          "links": ["attacking life or health of a non-person"],
+          "description": "We instinctively experience a significant difference in physically hurting a person as opposed to hurting most animals, plants, or objects. There's a social component with hurting a person that is not present with other entities."
+      }]
   },{
       "name": "committing a violent crime",
       "description": "Using socially unsanctioned physical force to harm, rape, or kill another person in order to take something from them.",

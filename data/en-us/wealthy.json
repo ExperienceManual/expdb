@@ -1,12 +1,12 @@
 {
   "lang": "en/us",
   "createDate": "20250305",
-  "updateDate": "20250624",
+  "updateDate": "20261028",
   "name": "wealthy",
   "valence": 1,
   "quote": "I got a new bike!",
-  "description": "Recognition that you have a valued asset that many others may not have.",
-  "perceptions": ["I have something that others would like to have."],
+  "description": "Recognition that you have an asset you value that others may not have.",
+  "perceptions": ["I have something that others would probably like to have."],
   "sensations": ["appreciation","gratitude","advantaged","healthy self-regard"],
   "guidance": [{
       "description": "People with 'enough' money often don't feel wealthy. If you have a solid net worth, this article is worth considering.",
@@ -19,10 +19,10 @@
   "opposites": ["poor"],
   "variations": [{
       "name": "wealthy in a scarce resource",
-      "description": "A sense that you have more of a valued physical asset than many others.",
+      "description": "A sense that you have more of a relatively rare and valued physical asset than many others.",
       "perceptions": ["I have something that others would like to have.","Not everyone can have this."],
       "desires": ["desire for territory"],
-      "sensations": ["appreciation","gratitude","advantaged"],
+      "sensations": ["appreciation","gratitude","advantaged","superiority","arrogance"],
       "examples": ["money", "rare collectibles"],
       "related": ["generosity","greed"],
       "commentaries": [{
@@ -31,15 +31,11 @@
       }]
   },{
       "name": "wealthy in a non-scarce resource",
-      "description": "A sense that you have more of a valued social or mental asset than many others.",
+      "description": "A sense that you have more of a social or mental asset than many others, but that your possession of the resource does not stop others from having it as well.",
       "perceptions": ["I have something that others would like to have.","Pretty much everyone could have this if they spent the time and effort."],
       "sensations": ["appreciation","gratitude","advantaged"],
-      "examples": ["knowledge", "health", "patience", "beauty"],
-      "related": ["desire for knowledge","desire for comfort"],
-      "commentaries": [{
-          "quote": "'Non-scarce' means that you having some doesn't keep it from others.",
-          "tags": ["definition footnote"]
-      }]
+      "examples": ["knowledge", "friends", "health", "patience", "beauty"],
+      "related": ["desire for knowledge","desire for comfort"]
   },{
       "name": "wealth anxiety",
       "description": "A sense that you have more of a valued social or mental asset than many others, along with anxiety about someone being jealous or trying to take it from you.",

@@ -1,7 +1,7 @@
 {
     "lang": "en/us",
     "createDate": "20250731",
-    "updateDate": "20250806",
+    "updateDate": "20261028",
     "name": "communication",
     "valence": 0,
     "otherVariations": ["criticism","complaining"],
@@ -21,7 +21,7 @@
     "variations": [{
         "name": "win-lose negotiation",
         "alternateNames": ["bargaining"],
-        "description": "Trying to reach a more positive outcome for yourself by engaging in a back-and-forth sharing of proposals with another.",
+        "description": "Trying to reach a more positive outcome for yourself or your group by engaging in a back-and-forth sharing of proposals with another. There is little consideration for the other side's negative outcome.",
         "perceptions": ["I need to come to an agreement with someone.","This is a win-lose situation where there's a limited resource.","I need to get as much of it as I can."],
         "desires": ["desire for excellence","desire for social status"],
         "sensations": ["many"],
@@ -35,13 +35,13 @@
         }]
     },{
         "name": "win-win negotiation",
-        "description": "Trying to reach a more positive outcome for all sides by engaging in a back-and-forth sharing of proposals with another.",
+        "description": "Trying to reach a more positive outcome for all sides by engaging in a back-and-forth sharing of proposals.",
         "perceptions": ["I need to come to an agreement with someone.","This may be a win-win situation where everyone can benefit."],
         "desires": ["desire for excellence","desire for social status"],
         "sensations": ["many"],
         "examples": ["Trade deal.","Services contract."],
         "opposites": ["attack"],
-        "related": ["defense"],
+        "related": ["defense","empathy"],
         "guidance": [{
             "description": "The success of a business deal typically depends on offering fair contractual terms to the negotiating parties. A win-win negotiating strategy involves considering every party's interests and drafting a business deal that meets their needs and yours.",
             "attribution": "Indeed Editorial Team",

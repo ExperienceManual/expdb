@@ -1,7 +1,7 @@
 {
     "lang": "en/us",
     "createDate": "20250718",
-    "updateDate": "20250718",
+    "updateDate": "20261027",
     "name": "awkwardness",
     "valence": -1,
     "quote": "Um, maybe we could, er, dance a little?",
@@ -23,7 +23,8 @@
     }],
     "variations": [{
         "name": "awkwardness in others",
-        "description": "Social tension from someone else making a minor social mistake or not knowing what to do or say next.",
+        "alternateNames": ["cringey"],
+        "description": "Social tension felt by witnessing someone else making a minor social mistake or not knowing what to do or say next.",
         "perceptions": ["Someone made a minor social mistake.","I'm uncertain how to respond."],
         "desires": ["desire for social contact","desire for social status"],
         "sensations": ["anxiety","uncertainty","social tension","inappropriate","humor"],

@@ -1,7 +1,7 @@
 {
     "lang": "en/us",
     "createDate": "20250916",
-    "updateDate": "20250919",
+    "updateDate": "20261027",
     "name": "criticism",
     "valence": -1,
     "quote": "I think she could be more focused.",
@@ -9,7 +9,7 @@
     "perceptions": ["That thing or person has an aspect or doing something that I find unappealing.","Letting someone else know about my view may help them, the situation, or my standing."],
     "desires": ["desire for comfort","desire for safety","desire for social status"],
     "sensations": ["negative judgment","dissatisfaction","appraisal","disrespect","shaming someone"],
-    "related": ["complaining"],
+    "related": ["complaining","communication"],
     "opposites": ["praise"],
     "personOfInterestExperiences": ["receiving criticism"],
     "examples": ["Movie gets a bad review by a film critic.","Giving your employee negative feedback on a project."],
@@ -20,7 +20,7 @@
     }],
     "variations": [{
         "name": "receiving criticism",
-        "description": "A perception that someone has judged one of your characteristics or actions in a negative way.",
+        "description": "A perception that someone has judged one of your important characteristics or actions in a negative way.",
         "perceptions": ["Someone has communicated something negative about me or someone close."],
         "desires": ["desire to be perceived a certain way"],
         "sensations": ["failure","unfairness","shame","anger","defensiveness"],

@@ -1,7 +1,7 @@
 {
     "lang": "en/us",
     "createDate": "20250924",
-    "updateDate": "20250924",
+    "updateDate": "20261028",
     "name": "narcissism",
     "valence": 0,
     "quote": "It's all about you, isn't it?",
@@ -20,7 +20,7 @@
     }],
     "variations": [{
         "name": "grandiose narcissism",
-        "description": "A sense that someone has an inflated sense of their own importance, status, or appearance and that they diminish the experience of others. They are consistently confident and aggressive in advocating for themselves and exploit others for their own gain.",
+        "description": "An aggressive form of narcissism where the person is perceived as thinking themselves significantly superior in an unwarranted way and demanding special treatment.",
         "tags": ["social label"],
         "perceptions": ["That person seems to think the world revolves around them.","They are always confident and aggressive.","I don't think anyone else is really important to them unless there's praise involved."],
         "desires": ["desire for order"],

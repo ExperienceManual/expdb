@@ -1,15 +1,15 @@
 {
     "lang": "en/us",
     "createDate": "20251207",
-    "updateDate": "20251208",
+    "updateDate": "20261028",
     "name": "nonreligious spirituality",
     "valence": 1,
     "quote": "My cathedral is a forest glade.",
-    "description": "A perspective that your answers to the Big Questions are rooted only in a personal relationship with existence and not through a human social institution.",
-    "perceptions": ["My spiritual practice provides satisfactory answers to the Big Questions.","I'm skeptical about the potential for groupthink in some religious organizations.","I believe what I'm doing is good for my deepest self.","I know what's expected of me."],
+    "description": "A perspective that answers to Life' Big Questions are rooted only in a personal relationship with existence and not through a human social institution.",
+    "perceptions": ["My spiritual practice provides satisfactory answers to the Big Questions.","I'm skeptical about the potential for groupthink in some religious organizations.","I believe what I'm doing is good for my deepest self.","I know what life expects of me."],
     "desires": ["desire for meaning","desire for knowledge"],
     "sensations": ["faith","meaning"],
-    "examples": ["Daily prayer or meditation.","'New Age' thinking.","Eclectic spiritual path."],
+    "examples": ["Daily meditation.","Religious Naturalism","'New Age' thinking.","Eclectic spiritual path."],
     "opposites": ["confusion"], 
     "related": ["prayer","meditation","social religiousness"],
     "guidance": [{
@@ -18,7 +18,7 @@
     }],
     "variations": [{
         "name": "mystical spiritual experience",
-        "description": "A short, profound sense of existential clarity and personal connectedness with a deeper order of existence.",
+        "description": "A short, profound sense of existential clarity and personal connectedness with a deeper order of existence not connected to a traditional religion.",
         "perceptions": ["My sense as a separate being was weakened.","I felt at peace.","I knew what I needed to do.","It all made sense."],
         "desires": ["desire for meaning","desire for knowledge"],
         "sensations": ["faith","meaning","happiness","joy"],
@@ -76,14 +76,14 @@
               }
             }
         },{
-            "names": ["mystical experience"],
+            "names": ["mystical spiritual experience"],
             "predominantType": "sensation",
             "levels": {
               "4": {
                 "experiences": ["narration"]
               },
               "3,2": { 
-                "experiences": ["mystical experience","awe"]
+                "experiences": ["mystical spiritual experience","awe"]
               },
               "1": {
                 "experiences": ["delight"]
