@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250407",
-  "updateDate": "20250729",
+  "updateDate": "20261028",
   "name": "weird",
   "valence": 0,
   "quote": "What was that crazy loud sound?",
@@ -9,6 +9,7 @@
   "perceptions": ["There's an aspect of that person, group, or thing that's unusual.","The aspect is neither admirable nor disgusting."],
   "desires": ["desire for order"],
   "sensations": ["curiosity","aversion","dissonance","doubt"],
+  "related": ["disgust"],
   "guidance": [{
       "description": "That's Weird! Being Curious Instead of Critical",
       "attribution": "Mr. Brown",
@@ -43,10 +44,10 @@
       }]
   },{
       "name": "bad weird",
-      "description": "Perception of something unusual that you would prefer to avoid experiencing again if possible",
+      "description": "Perception of something unusual and perhaps slightly digusting, that you would prefer to avoid experiencing again if possible",
       "perceptions": ["There's an aspect of that person, group, or thing that's unusual.","The aspect is pretty annoying.","It would be nice if they were just normal."],
       "desires": ["desire for order"],
-      "sensations": ["curiosity","contempt for the unusual"],
+      "sensations": ["curiosity","contempt for the unusual","disgust"],
       "examples": ["an unusual outfit on a movie star that you dislike","a bad hallucination"]
   }],
   "commentaries": [{

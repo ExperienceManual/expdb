@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20241211",
-  "updateDate": "20260320",
+  "updateDate": "202601027",
   "name": "aversion",
   "valence": -1,
   "quote": "That painting is ugly as sin.",
@@ -45,7 +45,7 @@
       "sensations": ["dismay"]
     },{
       "name": "aversion signaling",
-      "description": "Unattractiveness to the senses or sensibilities driven at least in part by a recognition that a social group expects us to find a certain thing unappealing.",
+      "description": "Unattractiveness to the senses or sensibilities driven in part by the recognition that an important social group expects us to find a certain thing unappealing.",
       "perceptions": ["A social group will want me to dislike this thing.","The thing disappoints because it is poorly-formed."],
       "desires": ["desire for social status"],
       "sensations": ["dismay"],

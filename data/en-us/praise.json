@@ -1,7 +1,7 @@
 {
     "lang": "en/us",
     "createDate": "20250916",
-    "updateDate": "20250916",
+    "updateDate": "20261028",
     "name": "praise",
     "alternateNames": ["compliment"],
     "valence": -1,
@@ -12,6 +12,7 @@
     "sensations": ["positive judgment","appraisal","admiration"],
     "results": ["Maybe you'll communicate your praise, or maybe you'll keep it to yourself."],
     "opposites": ["criticism"],
+    "related": ["communication"],
     "personOfInterestExperiences": ["receiving praise"],
     "examples": ["Movie gets a good review by a film critic.","Giving your employee positive feedback on a project.","Taking your kid out for ice cream after the doing well on the test."],
     "guidance": [{
@@ -23,7 +24,7 @@
         "description": "A perception that someone has judged one of your characteristics or actions in a positive way.",
         "perceptions": ["Someone has communicated something positive about me or someone close."],
         "desires": ["desire to be perceived a certain way"],
-        "sensations": ["satisfaction","delight","triumph","pride","guilt","anxiety"],
+        "sensations": ["satisfaction","delight","triumph","pride","guilt","anxiety","surprise"],
         "results": ["If you agree with the praise, you may feel a rush of positive reward chemicals.","If you disagree with the praise, you may feel guilty about receiving it.","You may be anxious that it just sets the bar higher for next time."],
         "examples": ["Your boss gives you positive feedback on the project.","Your teenage thanks you for being fair."],
         "opposites": ["receiving criticism"],

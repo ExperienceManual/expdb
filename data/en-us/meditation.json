@@ -1,11 +1,11 @@
 {
     "lang": "en/us",
     "createDate": "20250808",
-    "updateDate": "20250908",
+    "updateDate": "20261028",
     "name": "meditation",
     "valence": 0,
     "quote": "Concentrate on your breath.",
-    "description": "Focusing attention on a thought, action, or mental state to cultivating a calm and focused mind.",
+    "description": "Focusing attention on a thought, action, or mental state to cultivate a calm mind.",
     "alternateDefinitions": ["To 'meditate on something' can also mean 'to think deeply about it. The goal of most formal meditation is not problem solving, but to reduce anxiety and improve well-being."],
     "perceptions": ["My mind could use some calming.","Focusing my attention in a particular way can help."],
     "desires": ["desire for comfort","desire to improve"],
@@ -23,7 +23,7 @@
     }],
     "variations": [{
         "name": "mindfulness meditation",
-        "description": "Focusing attention on the present moment to observe thoughts and feelings without judgment.",
+        "description": "A type of meditation that focuses attention on the present moment to observe thoughts and feelings without judgment.",
         "perceptions": ["My mind could use some calming.","Focusing on the present moment can help."],
         "desires": ["desire for comfort","desire to improve"],
         "sensations": ["many"],
@@ -36,7 +36,7 @@
         }]
     },{
         "name": "mantra meditation",
-        "description": "Focusing attention on a sound or word to focus the mind.",
+        "description": "A type of meditation where attention is on a sound or word to focus the mind.",
         "perceptions": ["My mind could use some calming.","Focusing on a sound or word can help."],
         "desires": ["desire for comfort","desire to improve"],
         "sensations": ["many"],
@@ -49,7 +49,7 @@
         }]
     },{
         "name": "movement meditation",
-        "description": "Focusing attention on a movement to focus the mind.",
+        "description": "A type of meditation where attention is on a physical movement to focus the mind.",
         "perceptions": ["My mind could use some calming.","Focusing on a physical movement can help."],
         "desires": ["desire for comfort","desire to improve"],
         "sensations": ["many"],

@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250206",
-  "updateDate": "20250528",
+  "updateDate": "20261028",
   "name": "gaining",
   "valence": 1,
   "quote": "I got the job!",
@@ -14,26 +14,27 @@
   "examples": ["finding a lost thing", "gaining knowledge", "the world seems to have changed for the better"],
   "variations": [{
       "name": "winning a game or contest",
-      "related": ["challenge"],
+      "related": ["challenge","fair contest"],
       "description": "Delight caused by winning a game or contest.",
       "perceptions": ["I wanted to be on the winning side in that challenge.","That hope or prediction took place."],
       "desires": ["desire for social status"],
       "sensations": ["delight"],
+      "examples": ["Winning a card game."],
       "guidance": [{
           "description": "See the entry about sportsmanship in 'losing'.",
           "references": ["losing a game or contest"]
       }]
   },{
       "name": "winning an important contest you were predicted to lose",
-      "related": ["surprise", "gain of social status"],
-      "description": "Delight caused by winning a challenge where you or your side were the predicted losers.",
-      "perceptions": ["We should have lost this challenge.","We must have done something right, gotten lucky, or are more skillful than given credit."],
-      "sensations": ["surprise","pride","gratitude"],
+      "related": ["challenge","fair contest","surprise", "gain of social status"],
+      "description": "Surprise and delight caused by winning a challenge where you or your side were the predicted losers.",
+      "perceptions": ["We were the underdogs in this challenge.","We must have done something right, gotten lucky, or are more skillful than previously credited."],
+      "sensations": ["surprise","pride","gratitude","vindication"],
       "guidance": [{
           "description": "See the entry about sportsmanship in 'losing'.",
           "references": ["losing a game or contest"]
       }],
-      "examples": ["winning a championship sports game","being on the winning side of an election"]
+      "examples": ["Winning a championship sports game as the underdogs."]
   },{
       "name": "gaining a loved one",
       "description": "Delight caused by gaining an important new social connection.",

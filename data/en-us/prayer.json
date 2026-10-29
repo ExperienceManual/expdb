@@ -1,13 +1,13 @@
 {
     "lang": "en/us",
     "createDate": "20250808",
-    "updateDate": "20250908",
+    "updateDate": "20261028",
     "name": "prayer",
     "valence": 0,
     "quote": "Heavenly Father",
-    "description": "The act of communicating with a sacred entity.",
+    "description": "The act of communicating with a sacred supernatural entity.",
     "alternateDefinitions": ["'Prayer' can also be used to mean 'hope'."],
-    "perceptions": ["My mind could use some calming or I could use some advice.","Communicating with God or a saint may help."],
+    "perceptions": ["My mind could use some calming or I could use some advice.","Communicating with my God or a saint may help."],
     "desires": ["desire for comfort","desire to improve"],
     "sensations": ["many"],
     "results": ["Prayers are not always answered. Depends on what is said."],
@@ -34,7 +34,7 @@
     },{
         "name": "prayer of faith",
         "description": "The act of communicating with a sacred entity to confirm your relationship.",
-        "perceptions": ["Communicating with God or a saint will help further the relationship."],
+        "perceptions": ["Communicating with a God or a saint will help further the relationship."],
         "desires": ["desire for comfort","desire to improve"],
         "sensations": ["many"],
         "results": ["Prayers are not always answered. Depends on what is said."],
@@ -44,8 +44,8 @@
         }]
     },{
         "name": "prayer for others",
-        "description": "The act of communicating with a sacred entity to help another.",
-        "perceptions": ["Someone could use some help or guidance.","Communicating with God or a saint may help them."],
+        "description": "The act of communicating with a sacred entity to help another being.",
+        "perceptions": ["Someone could use some help or guidance.","Communicating with a God or a saint may help them."],
         "desires": ["desire for comfort","desire to improve"],
         "sensations": ["many"],
         "results": ["Prayers are not always answered. Depends on what is said."],
