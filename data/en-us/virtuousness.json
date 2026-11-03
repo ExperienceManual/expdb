@@ -1,7 +1,7 @@
 {
     "lang": "en/us",
     "createDate": "20250812",
-    "updateDate": "20250904",
+    "updateDate": "20261031",
     "name": "virtuousness",
     "alternateNames": ["honor"],
     "valence": 0,
@@ -55,7 +55,7 @@
         }],
         "guidance": [{
             "description": "Some resources to improve your integrity as seen by others.",
-            "references": ["https://www.susanalexanderyates.com/cultivating-integrity/","https://lifewithlaurel.com/how-to-develop-integrity"]
+            "references": ["https://www.susanalexanderyates.com/cultivating-integrity/"]
         }]
     }],
     "commentaries": [{

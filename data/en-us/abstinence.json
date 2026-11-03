@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20241130",
-  "updateDate": "20260201",
+  "updateDate": "20261101",
   "name": "abstinence",
   "alternateNames": ["refraining"],
   "valence": 0,
@@ -59,7 +59,7 @@
           "references": ["https://www.psychologytoday.com/us/blog/invisible-bruises/202411/why-do-so-many-dislike-small-talk","https://www.yourtango.com/self/people-cant-stand-small-talk-share-these-traits"]
       },{
           "description": "Tips on focusing your conversations on things that matter.",
-          "references": ["https://clarityonfire.com/avoid-small-talk","https://booherresearch.com/skip-small-talk-get-know-someone"]
+          "references": ["https://booherresearch.com/skip-small-talk-get-know-someone"]
       }] 
     },{
       "name": "chastity",
@@ -83,7 +83,7 @@
       "related": ["chastity","frugality"],
       "guidance": [{
           "description": "Tips on cultivating temperance.",
-          "references": ["https://www.thepositivepsychologypeople.com/developing-temperance","https://mindfulstoic.net/applying-temperance","https://www.fisheaters.com/becomingvirtuous-temperance.html"]
+          "references": ["https://mindfulstoic.net/applying-temperance","https://www.fisheaters.com/becomingvirtuous-temperance.html"]
       }],
       "comparisons": [{
           "links": ["abstinence"],

@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250228",
-  "updateDate": "20250614",
+  "updateDate": "20261101",
   "name": "companionship",
   "valence": 1,
   "quote": "I'm going to hang out with a friend tonight.",
@@ -12,7 +12,7 @@
   "personOfInterestExperiences": ["ideally the same"],
   "guidance": [{
       "description": "Online guides to making and maintaining friendships.",
-      "references": ["https://www.succeedsocially.com/sociallife","https://www.asociallifewithfriends.com/p/101-ways-to-make-and-maintain-friendships"]
+      "references": ["https://www.succeedsocially.com/sociallife","https://www.helpguide.org/relationships/social-connection/making-good-friends"]
   }],
   "related": ["comfort", "group bond", "trust", "love"],
   "opposites": ["disrespect","contempt","anxiety","enmity"],

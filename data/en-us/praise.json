@@ -1,7 +1,7 @@
 {
     "lang": "en/us",
     "createDate": "20250916",
-    "updateDate": "20261028",
+    "updateDate": "20261101",
     "name": "praise",
     "alternateNames": ["compliment"],
     "valence": -1,
@@ -30,7 +30,7 @@
         "opposites": ["receiving criticism"],
         "guidance": [{
             "description": "Here are some references that may help deal more gracefully with praise.",
-            "references": ["https://www.npr.org/2025/09/14/nx-s1-5530036/tips-for-how-best-to-give-and-receive-compliments","https://www.oldsouletiquette.com/blog/compliments-how-to-give-amp-how-to-receive"]
+            "references": ["https://www.npr.org/2025/09/14/nx-s1-5530036/tips-for-how-best-to-give-and-receive-compliments","https://www.jlc.consulting/post/accept-praise-more-gracefully"]
         }]
     },{
         "name": "flattering",

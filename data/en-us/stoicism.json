@@ -1,7 +1,7 @@
 {
     "lang": "en/us",
     "createDate": "20250831",
-    "updateDate": "20250831",
+    "updateDate": "20261031",
     "name": "stoicism",
     "valence": 0,
     "quote": "Let it rain.",
@@ -19,7 +19,7 @@
         "references": ["https://dailystoic.com/stoicism-modernity/"]
     },{
         "description": "Stoicism has become popular and is helpful to many, but there are some downsides you may want to consider before embracing it 100%.",
-        "references": ["https://bigthink.com/thinking/stoicism-popular-downsides/","https://www.psychologytoday.com/us/blog/anxiety-in-high-achievers/202411/the-shortcomings-of-stoicism"]
+        "references": ["https://www.psychologytoday.com/us/blog/anxiety-in-high-achievers/202411/the-shortcomings-of-stoicism"]
     }],
     "commentaries": [{
         "quote": "By embracing the Stoic philosophy of accepting what is beyond our control, we can redirect our energy towards what we can influence, fostering a resilient mindset that allows us to find solutions rather than being overwhelmed by emotions.",

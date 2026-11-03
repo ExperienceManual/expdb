@@ -1,7 +1,7 @@
 {
     "lang": "en/us",
     "createDate": "20250809",
-    "updateDate": "20251218",
+    "updateDate": "20261031",
     "name": "attention",
     "alternateNames": ["selective attention"],
     "valence": 0,
@@ -106,7 +106,7 @@
         "related": ["self control","empathy"],
         "guidance": [{
             "description": "There are a number of guides for how to be a better listener. Here are some.",
-            "references": ["https://www.wikihow.com/Be-a-Good-Listener","https://in.indeed.com/career-advice/career-development/how-to-be-a-good-listener"]
+            "references": ["https://www.wikihow.com/Be-a-Good-Listener","https://www.indeed.com/career-advice/career-development/how-to-be-a-good-listener"]
         }],
         "comparisons": [{
             "links": ["empathy"],

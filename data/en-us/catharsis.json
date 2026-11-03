@@ -1,7 +1,7 @@
 {
     "lang": "en/us",
     "createDate": "20250827",
-    "updateDate": "20250827",
+    "updateDate": "20261031",
     "name": "catharsis",
     "valence": 0,
     "quote": "Glad I got that off my chest.",
@@ -15,7 +15,7 @@
     "examples": ["Crying during an emotional movie.","Expressing anger on a punching bag.","Primal therapy."],
     "guidance": [{
         "description": "Despite being an ancient idea, there's debate amongst psychologists about if and how catharsis works for different situations, and whether it's a good approach to improving problems. The gist: (a) 'Letting out' anger doesn't work, and in fact just reinforces more anger. (b) Catharsis may work by letting you know that you're not alone, that others feel similarly and support you. (c) Or perhaps catharsis works by exposing repressed experiences. (d) Being pushed into reliving a traumatic state could trigger inner defenses.",
-        "references": ["https://www.verywellmind.com/what-is-catharsis-2794968","https://mattbphd.com/emotional-minutes-18-emotional-venting-and-the-myths-of-catharsis","https://confluence.gallatin.nyu.edu/sections/creative-nonfiction/the-incorrect-truth-of-catharsis","https://lifearchitect.com/blog/how-ifs-sees-catharsis"]
+        "references": ["https://www.verywellmind.com/what-is-catharsis-2794968","https://confluence.gallatin.nyu.edu/sections/creative-nonfiction/the-incorrect-truth-of-catharsis","https://lifearchitect.com/blog/how-ifs-sees-catharsis"]
     }],
     "variations": [{
         "name": "venting",
