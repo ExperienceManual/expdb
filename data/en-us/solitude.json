@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250215",
-  "updateDate": "20250611",
+  "updateDate": "20261101",
   "name": "solitude",
   "valence": 0,
   "quote": "There's no one around.",
@@ -33,7 +33,7 @@
       "sensations": ["happiness","relief"],
       "guidance": [{
           "description": "If you sometimes like to be alone, these articles may help find ways to carve out that space and enjoy it.",
-          "references": ["https://www.psychologytoday.com/us/blog/solitude-in-a-social-world/202202/8-ways-to-embrace-solitude","https://zenhabits.net/solitude/","https://www.success.com/how-to-find-solitude/"]
+          "references": ["https://www.psychologytoday.com/us/blog/solitude-in-a-social-world/202202/8-ways-to-embrace-solitude","https://zenhabits.net/solitude/"]
       }]
   }],
   "commentaries": [{

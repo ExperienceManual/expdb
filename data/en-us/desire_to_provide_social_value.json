@@ -1,7 +1,7 @@
 {
     "lang": "en/us",
     "createDate": "20260130",
-    "updateDate": "20260130",
+    "updateDate": "20261101",
     "name": "desire to provide social value",
     "alternateNames": ["desire to be useful","desire to impact positively"],
     "valence": 0,
@@ -19,7 +19,7 @@
     "otherVariations": ["desire to protect"],
     "guidance": [{
         "description": "There are many ways to volunteer in your community. If these references don't help, try doing a search.",
-        "references": ["https://www.volunteermatch.org/","https://www.indeed.com/career-advice/finding-a-job/how-to-find-a-volunteer-opportunity"]
+        "references": ["https://idealist.org/en","https://www.indeed.com/career-advice/finding-a-job/how-to-find-a-volunteer-opportunity"]
     }],
     "comparisons": [{
         "links": ["responsibility"],

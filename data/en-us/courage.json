@@ -1,7 +1,7 @@
 {
     "lang": "en/us",
     "createDate": "20250814",
-    "updateDate": "20250815",
+    "updateDate": "20261101",
     "name": "courage",
     "valence": 1,
     "quote": "He stood up to the bully.",
@@ -48,9 +48,9 @@
             "description": "'Recklessness' is a form of blind courage where you either don't know about the risks to yourself and others, or don't care."
         }],
         "guidance": [{
-            "description": "The Thin Line Between Courage and Stupidity",
-            "attribution": "Somtochukwu",
-            "references": ["https://twocentsjournal.com/the-thin-line-between-courage-and-stupidity"]
+            "description": "Ultimately, the line between courage and stupidity is defined by perspective and outcome. What seems like a brave move to one person might look like recklessness to another.",
+            "attribution": "Nishant Singhal",
+            "references": ["https://www.linkedin.com/posts/nishantkandoi_there-is-a-very-thin-line-between-courage-activity-7154894779082776576-E_nM"]
         },{
             "description": "If you feel that you're being over-cautious, a dash of recklessness may be ok. These references may be helpful.",
             "references": ["https://mindingourway.com/recklessness/","https://www.rbl.net/insights/articles/4-leadership-tips-on-managing-risk-without-being-reckless"]

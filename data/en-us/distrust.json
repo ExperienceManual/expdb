@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250426",
-  "updateDate": "20251008",
+  "updateDate": "20261031",
   "name": "distrust",
   "alternateNames": ["mistrust"],
   "valence": -1,
@@ -31,7 +31,7 @@
       "results": ["A suspicion may lead to anxiety about a negative outcome, or less often it may hint about something positive."],
       "guidance": [{
           "description": "Suspicion can indicate a problem of trust in a relationship.",
-          "references": ["https://lepageassociates.com/articles-and-podcasts/the-suspicion-is-killing-me/","https://shaunti.com/2023/11/always-suspicious-of-your-spouse-or-others-heres-what-to-do-nix-the-negativity-part-1/"]
+          "references": ["https://shaunti.com/2023/11/always-suspicious-of-your-spouse-or-others-heres-what-to-do-nix-the-negativity-part-1/"]
       },{
           "description": "This article has advice for recognizing suspicious individuals in the workplace.",
           "references": ["https://thereceptionist.com/blog/how-to-handle-suspicious-activity-in-your-lobby"] 

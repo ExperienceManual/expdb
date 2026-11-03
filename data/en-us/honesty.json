@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250404",
-  "updateDate": "20250730",
+  "updateDate": "20261101",
   "name": "honesty",
   "valence": 0,
   "quote": "That's not right.",
@@ -64,9 +64,9 @@
       "desires": ["desire for order","desire for social contact"],
       "sensations": ["many"],
       "guidance": [{
-          "description": "11 Times When Being Honest Might Not Be Worth It",
-          "attribution": "Carolyn Steber",
-          "references": ["https://www.bustle.com/p/11-times-when-being-honest-is-almost-never-worth-it-3259097"]
+          "description": "Usually, it’s easiest and most intuitive to just tell the truth. Lying creates complications, especially if it leads to more lying to cover up a truth. Yet, there are times when it is simplest to skim over the facts, to avoid worrying a loved one, to ease a friend’s mind – perhaps if they were worried about the cost of something or someone else’s opinions of them, it might cause less harm not to share the entire truth with them. In the context of jobs or classes, it may be in our personal interests not to put all of our opinions forward.",
+          "attribution": "Matthew Gibbons",
+          "references": ["https://theorbital.co.uk/the-risks-of-being-honest/"]
       }],
       "examples": ["Not telling a picky eater the food is from their least favorite restaurant until after the meal.","HR doesn't reveal the list of specific people laid off to protect their privacy."]
   },{

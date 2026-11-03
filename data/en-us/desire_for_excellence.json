@@ -1,7 +1,7 @@
 {
     "lang": "en/us",
     "createDate": "20260114",
-    "updateDate": "20260117",
+    "updateDate": "20261101",
     "name": "desire for excellence",
     "valence": 0,
     "quote": "Only the best.",
@@ -43,10 +43,6 @@
         "examples": ["Straight-A student is hard on himself for getting a B.","Cheerleader is distraught about acne."],
         "related": ["failure","judgment"],
         "guidance": [{
-            "description": "It is important to recognise the difference between perfectionism and motivation to achieve excellence.  A person who is striving for excellence may have more realistic goals and expectations for themselves. They are also able to be more accepting when things don’t go right, rather than blame themselves or feel like a failure.",
-            "attribution": "Nicole Hann",
-            "references": ["https://www.nicolehannpsychology.com.au/perfectionism"]
-        },{
             "description": "For me to overcome Perfectionism, it was crucial to distinguish between Perfectionism and Striving for Excellence. Below are what I learnt through years of disorientation over the blur line: Striving for Excellence focuses on the process, 'Striving for Excellent' people don’t measure their self-worth by the result, 'Striving for Excellence' people compare themselves today with themselves of yesterday, ...",
             "attribution": "Milena Nguyen",
             "references": ["https://milenanguyen.com/blog/2014/10/15/perfectionism-and-striving-for-excellence-a-thin-line"]

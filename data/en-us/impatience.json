@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250312",
-  "updateDate": "20250701",
+  "updateDate": "20261101",
   "name": "impatience",
   "valence": -1,
   "quote": "We've waited long enough.",
@@ -39,9 +39,13 @@
       "results": ["may be come irritable or even angry"],
       "related": ["unhealthy self-regard"],
       "guidance": [{
-          "description": "I have always held myself to a high standard and expected a lot from myself. And I’m willing to bet that you do something similar since you’re reading this post. Being patient with yourself can be a serious challenge in a world where success is the end goal.",
-          "attribution": "Skye Sauchelli",
-          "references": ["https://www.thrivingandinspiring.com/be-patient-with-yourself/"]
+          "description": "Resisting the Temptation to Curate Yourself and Finding the Courage to Embrace Imperfection"
+          "attribution": "Miroslav Volf and Ryan McAnnally-Linz",
+          "references": ["https://faith.yale.edu/media/patience-with-yourself"]
+      },{
+          "description: "We live in a time where everything can change at an accelerated pace. No protocol exists for a time like this, no wisdom upon which to rely or set a course to follow. If ever there was a time when we should show patience, it would be now, right? After all, we’ve never done this before, and we can’t expect to get it right the first time.",
+          "attribution": "Rochelle Perper, Ph.D.",
+          "references": ["https://therapychanges.com/blog/2020/07/how-to-be-patient-with-yourself-and-others-in-a-changing-world/"]
       }],
       "examples": ["I'm not getting any better at this task."]
   },{

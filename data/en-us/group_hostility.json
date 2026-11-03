@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250302",
-  "updateDate": "20250618",
+  "updateDate": "20261031",
   "name": "group hostility",
   "valence": -1,
   "quote": "People who wear that kind of clothing are sketchy.",
@@ -42,7 +42,7 @@
       "results": ["saying bad things about the group","stereotyping individuals with group characteristics"],
       "guidance": [{
           "description": "Distrust for strangers is wired by default into the brain as a safety mechanism. If you care to take the effort to loosen that wiring for yourself or others, there are many online references.",
-          "references": ["https://biasinsideus.si.edu/online-exhibition/the-science-of-bias","https://www.aafp.org/pubs/fpm/blogs/inpractice/entry/implicit_bias.html","https://www.skillcast.com/blog/reduce-workplace-unconscious-bias","https://blogs.hope.edu/getting-race-right/our-context-where-we-are/the-history-we-inhaled/how-do-we-rid-ourselves-of-stereotypes/"]
+          "references": ["https://www.aafp.org/pubs/fpm/blogs/inpractice/entry/implicit_bias.html","https://www.skillcast.com/blog/reduce-workplace-unconscious-bias","https://blogs.hope.edu/getting-race-right/our-context-where-we-are/the-history-we-inhaled/how-do-we-rid-ourselves-of-stereotypes/"]
       }],
       "related": ["stranger danger", "desire for social status"],
       "examples": [

@@ -15,7 +15,7 @@
     "examples": ["Formal prayer in a group setting.","Personal prayers."],
     "guidance": [{
         "description": "Different religions have similar types of prayers: asking for help, asking to help others, declaring your dedicated faith, and others.",
-        "references": ["https://carljosephministries.com/podcast/the-different-types-of-prayer/","https://www.hindujagruti.org/hinduism/types-of-prayers","https://daiyah.fandom.com/wiki/The_Different_Types_of_Voluntary_Prayers"]
+        "references": ["https://carljosephministries.com/podcast/the-different-types-of-prayer/","https://www.hindujagruti.org/hinduism/types-of-prayers","https://aboutislam.net/reading-islam/understanding-islam/2-types-of-prayer-in-islam-salah-and-dua/"]
     },{
         "description": "Before starting a prayer practice, you may want to be aware of potential downsides.",
         "references": ["https://www.psychologytoday.com/us/blog/the-secular-life/202005/can-prayer-be-harmful","https://psychcentral.com/blog/new-study-examines-the-effects-of-prayer-on-mental-health"]
@@ -29,7 +29,7 @@
         "results": ["Prayers are not always answered. Depends on what is said."],
         "guidance": [{
             "description": "Your religious community may have specific guidance for different types of prayer. Here are some examples.",
-            "references": ["https://www.kcm.org/real-help/prayer/learn/how-pray-prayer-petition","https://daiyah.fandom.com/wiki/The_Different_Types_of_Voluntary_Prayers#Salat_al-Istikhara_(Prayer_for_asking_for_Guidance/Advice)"]
+            "references": ["https://www.kcm.org/real-help/prayer/learn/how-pray-prayer-petition"]
         }]
     },{
         "name": "prayer of faith",
@@ -40,7 +40,7 @@
         "results": ["Prayers are not always answered. Depends on what is said."],
         "guidance": [{
             "description": "Your religious community may have specific guidance for different types of prayer. Here are some examples.",
-            "references": ["https://www.christianity.com/wiki/prayer/prayers-of-faith-pray-for-strength-in-trusting-god.html","https://daiyah.fandom.com/wiki/The_Different_Types_of_Voluntary_Prayers#Salat_at-Tasbih_(Prayer_of_Glorification)"]
+            "references": ["https://www.christianity.com/wiki/prayer/prayers-of-faith-pray-for-strength-in-trusting-god.html"]
         }]
     },{
         "name": "prayer for others",

@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250412",
-  "updateDate": "20250707",
+  "updateDate": "20261101",
   "name": "faith",
   "valence": 1,
   "quote": "My hearts says she's going to be ok.",
@@ -11,7 +11,7 @@
   "sensations": ["certainty","anticipation"],
   "guidance": [{
       "description": "There are many resources for cultivating faith. A key theme is trusting that it’s going to be okay in the long run regardless of what’s currently happening.",
-      "references": ["https://www.lettinghislightshine.com/5-simple-ways-to-strengthen-your-faith/","https://tinybuddha.com/blog/learning-to-have-faith-that-all-is-well/"]
+      "references": ["https://kingdomway.ca/100-bible-verses-on-how-to-grow-your-faith/","https://tinybuddha.com/blog/learning-to-have-faith-that-all-is-well/"]
   }],
   "opposites": ["skepticism","doubt"],
   "related": ["optimism","hope"],

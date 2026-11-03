@@ -1,7 +1,7 @@
 {
     "lang": "en/us",
     "createDate": "20260104",
-    "updateDate": "20260105",
+    "updateDate": "20261031",
     "name": "complacency",
     "valence": 0,
     "quote": "She seems kind of stuck at that level.",
@@ -36,7 +36,7 @@
         }],
         "guidance": [{
             "description": "Displaying appreciation to someone includes gratitude, but also just interacting with someone and noticing small things. Here are some references that may be of interest.",
-            "references": ["https://www.verywellmind.com/7-things-to-do-if-you-feel-unappreciated-5081881","https://firstthings.org/spouse-feels-unappreciated"]
+            "references": ["https://www.verywellmind.com/7-things-to-do-if-you-feel-unappreciated-5081881","https://www.firstthings.org/blog/spouse-feels-unappreciated"]
         }]
     }],
     "comparisons": [{

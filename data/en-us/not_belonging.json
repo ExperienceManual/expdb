@@ -1,7 +1,7 @@
 {
   "lang": "en/us",
   "createDate": "20250315",
-  "updateDate": "20260128",
+  "updateDate": "20261101",
   "name": "not belonging",
   "valence": -1,
   "quote": "I have nowhere to go.",
@@ -39,7 +39,7 @@
       "guidance": [{
           "description": "As Americans leave organized religion, alternatives on the rise",
           "attribution": "Marc Ramirez",
-          "references": ["https://www.pressreader.com/usa/usa-today-us-edition/20240904/281479281775315?srsltid=AfmBOoo41H_Pc_89XcFUPY5C8Bbb9wDd_poMCNRgxrDBfGJDyu04KbiT"]
+          "references": ["https://www.pressreader.com/usa/usa-today-us-edition/20240904/281479281775315"]
       }]
   },{
       "name": "culturally homeless",
